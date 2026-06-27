@@ -1,0 +1,906 @@
+place,competitionId,competition,country,startDate,endDate,partScore,participationScorePlace,resultScore,resultScorePlace,competitionScore,competitionUrl
+1,584127,"Monaco Herculis, Stade Louis II, Monaco",MON,19 JUL 2018,20 JUL 2018,8010,4,87855,1,95985,https://worldathletics.org/records/competition-performance-rankings/ranking/584127
+2,583175,"Eugene Prefontaine Classic, Hayward Field, Eugene, OR",USA,25 MAY 2018,26 MAY 2018,8470,2,86965,4,95435,https://worldathletics.org/records/competition-performance-rankings/ranking/583175
+3,584800,"Weltklasse Zürich, Letzigrund, Zürich",SUI,29 AUG 2018,30 AUG 2018,8490,1,86695,6,95185,https://worldathletics.org/records/competition-performance-rankings/ranking/584800
+4,584808,"Bruxelles Memorial van Damme, Boudewijnstadion, Bruxelles",BEL,30 AUG 2018,31 AUG 2018,8370,3,86804,5,95174,https://worldathletics.org/records/competition-performance-rankings/ranking/584808
+5,584142,"London Müller Anniversary Games, Olympic Stadium, London",GBR,21 JUL 2018,22 JUL 2018,7640,5,87494,2,95134,https://worldathletics.org/records/competition-performance-rankings/ranking/584142
+6,583836,"Meeting de Paris, Stade Charléty, Paris",FRA,30 JUN 2018,30 JUN 2018,7480,7,87288,3,94768,https://worldathletics.org/records/competition-performance-rankings/ranking/583836
+7,583914,"Athletissima Lausanne, Stade Olympique de la Pontaise, Lausanne",SUI,04 JUL 2018,05 JUL 2018,7570,6,86641,7,94211,https://worldathletics.org/records/competition-performance-rankings/ranking/583914
+8,584076,"Meeting International Mohammed VI d'Athletisme de Rabat, Complexe Sportif Prince Moulay Abdellah, Rabat",MAR,13 JUL 2018,13 JUL 2018,6925,9,86170,8,93095,https://worldathletics.org/records/competition-performance-rankings/ranking/584076
+9,583269,"Roma Golden Gala - Pietro Mennea, Stadio Olimpico, Roma",ITA,31 MAY 2018,31 MAY 2018,7120,8,85921,10,93041,https://worldathletics.org/records/competition-performance-rankings/ranking/583269
+10,582724,"Doha IAAF Diamond League, Suhaim bin Hamad Stadium, Doha",QAT,04 MAY 2018,04 MAY 2018,6880,11,86143,9,93023,https://worldathletics.org/records/competition-performance-rankings/ranking/582724
+11,582839,"Shanghai IAAF Diamond League, Shanghai Stadium, Shanghai",CHN,12 MAY 2018,12 MAY 2018,6920,10,85737,11,92657,https://worldathletics.org/records/competition-performance-rankings/ranking/582839
+12,583416,"Oslo Bislett Games, Bislett Stadion, Oslo",NOR,07 JUN 2018,07 JUN 2018,6675,13,85572,13,92247,https://worldathletics.org/records/competition-performance-rankings/ranking/583416
+13,583456,"Stockholm BAUHAUS-galan, Olympiastadion, Stockholm",SWE,10 JUN 2018,10 JUN 2018,6400,15,85712,12,92112,https://worldathletics.org/records/competition-performance-rankings/ranking/583456
+14,584636,"Birmingham Müller Grand Prix, Alexander Stadium, Birmingham",GBR,18 AUG 2018,18 AUG 2018,6790,12,85297,14,92087,https://worldathletics.org/records/competition-performance-rankings/ranking/584636
+15,583865,"Gyulai István Memorial - Hungarian Athletics Grand Prix, Bregyó Athletic Center, Székesfehérvár",HUN,01 JUL 2018,02 JUL 2018,6630,14,84505,16,91135,https://worldathletics.org/records/competition-performance-rankings/ranking/583865
+16,583547,"Golden Spike Ostrava 2018, Mestský Stadion, Ostrava",CZE,12 JUN 2018,13 JUN 2018,5765,16,84704,15,90469,https://worldathletics.org/records/competition-performance-rankings/ranking/583547
+17,584055,"London Athletics World Cup, London",GBR,14 JUL 2018,15 JUL 2018,4670,18,84294,17,88964,https://worldathletics.org/records/competition-performance-rankings/ranking/584055
+18,584839,"Zagreb IWC 2018, Sports Park Mladost, Zagreb",CRO,03 SEP 2018,04 SEP 2018,5050,17,83717,20,88767,https://worldathletics.org/records/competition-performance-rankings/ranking/584839
+19,584818,"Berlin ISTAF, Olympiastadion, Berlin",GER,02 SEP 2018,02 SEP 2018,4515,19,83836,18,88351,https://worldathletics.org/records/competition-performance-rankings/ranking/584818
+20,583427,"Janusz Kusociński Memorial, Stadion Śląski, Chorzów",POL,08 JUN 2018,08 JUN 2018,4170,21,82891,24,87061,https://worldathletics.org/records/competition-performance-rankings/ranking/583427
+21,583968,"Luzern Spitzen Leichtathletik, Luzern",SUI,09 JUL 2018,09 JUL 2018,3130,24,83797,19,86927,https://worldathletics.org/records/competition-performance-rankings/ranking/583968
+22,584703,"Kamila Skolimowska Memorial, Stadion Śląski, Chorzów",POL,22 AUG 2018,22 AUG 2018,4185,20,82610,27,86795,https://worldathletics.org/records/competition-performance-rankings/ranking/584703
+23,583744,"Madrid Meeting 2018, Moratalaz, Madrid",ESP,22 JUN 2018,22 JUN 2018,3115,25,83220,22,86335,https://worldathletics.org/records/competition-performance-rankings/ranking/583744
+24,589172,"Des Moines Drake Relays, Des Moines, IA",USA,25 APR 2018,28 APR 2018,3390,22,82648,26,86038,https://worldathletics.org/records/competition-performance-rankings/ranking/589172
+25,583672,"Montreuil Meeting Elite, Montreuil",FRA,19 JUN 2018,19 JUN 2018,2360,28,83088,23,85448,https://worldathletics.org/records/competition-performance-rankings/ranking/583672
+26,583453,"Kingston JN Racers Grand Prix, Kingston",JAM,09 JUN 2018,09 JUN 2018,2550,27,82490,30,85040,https://worldathletics.org/records/competition-performance-rankings/ranking/583453
+27,589178,"Austin Clyde Littlefield Texas Relays, Austin, TX",USA,28 MAR 2018,31 MAR 2018,1380,44,83420,21,84800,https://worldathletics.org/records/competition-performance-rankings/ranking/589178
+28,582926,"Kingston Jamaica International Invitational, National Stadium, Kingston",JAM,19 MAY 2018,19 MAY 2018,2725,26,82049,34,84774,https://worldathletics.org/records/competition-performance-rankings/ranking/582926
+29,589174,"Torrance Mt. SAC Relays, Torrance, CA",USA,19 APR 2018,21 APR 2018,1875,36,82876,25,84751,https://worldathletics.org/records/competition-performance-rankings/ranking/589174
+30,584093,"Osaka Golden Grand Prix 2018, Yanmar Stadium Nagai, Osaka",JPN,20 MAY 2018,20 MAY 2018,2330,29,82326,32,84656,https://worldathletics.org/records/competition-performance-rankings/ranking/584093
+31,584113,"Bellinzona Galà dei Castelli, Bellinzona",SUI,18 JUL 2018,18 JUL 2018,2255,30,82355,31,84610,https://worldathletics.org/records/competition-performance-rankings/ranking/584113
+32,583359,"Turku Paavo Nurmi Games, Paavo Nurmen Stadion, Turku",FIN,05 JUN 2018,05 JUN 2018,3310,23,81180,39,84490,https://worldathletics.org/records/competition-performance-rankings/ranking/583359
+33,583345,"Memoriál Josefa Odložila, Stadion Juliska, Praha",CZE,04 JUN 2018,04 JUN 2018,1965,35,82492,29,84457,https://worldathletics.org/records/competition-performance-rankings/ranking/583345
+34,584711,"Rovereto Palio Città della Quercia, Rovereto",ITA,23 AUG 2018,23 AUG 2018,2160,34,81439,36,83599,https://worldathletics.org/records/competition-performance-rankings/ranking/584711
+35,584144,"Heusden-Zolder KBC Night of Athletics, Heusden-Zolder",BEL,21 JUL 2018,21 JUL 2018,1275,48,82240,33,83515,https://worldathletics.org/records/competition-performance-rankings/ranking/584144
+36,589176,"Gainesville Florida Relays, Gainesville, FL",USA,29 MAR 2018,31 MAR 2018,930,62,82516,28,83446,https://worldathletics.org/records/competition-performance-rankings/ranking/589176
+37,582468,"Gainesville Tom Jones Memorial, Gainesville, FL",USA,13 APR 2018,13 APR 2018,1015,56,82041,35,83056,https://worldathletics.org/records/competition-performance-rankings/ranking/582468
+38,584819,"Padova Meeting Citta di Padova, Padova",ITA,02 SEP 2018,02 SEP 2018,2200,32,80824,44,83024,https://worldathletics.org/records/competition-performance-rankings/ranking/584819
+39,583585,"Marseille Meeting Pro Athlé, Marseille",FRA,16 JUN 2018,16 JUN 2018,1310,46,81115,40,82425,https://worldathletics.org/records/competition-performance-rankings/ranking/583585
+40,583440,"Genève AtletiCAGenève, Genève",SUI,09 JUN 2018,09 JUN 2018,955,61,81434,37,82389,https://worldathletics.org/records/competition-performance-rankings/ranking/583440
+41,585139,"Brisbane Queensland International Track Classic, Brisbane",AUS,28 MAR 2018,28 MAR 2018,2185,33,80198,54,82383,https://worldathletics.org/records/competition-performance-rankings/ranking/585139
+42,584060,"Meeting Stanislas Nancy, Stade Raymond Petit, Tomblaine",FRA,27 JUN 2018,27 JUN 2018,1395,42,80975,41,82370,https://worldathletics.org/records/competition-performance-rankings/ranking/584060
+43,582958,"Rehlingen Pfingstsportfest, Rehlingen",GER,20 MAY 2018,20 MAY 2018,1645,39,80705,46,82350,https://worldathletics.org/records/competition-performance-rankings/ranking/582958
+44,584101,"Sotteville-lès-Rouen Meeting International, Sotteville-lès-Rouen",FRA,17 JUL 2018,17 JUL 2018,1620,40,80545,49,82165,https://worldathletics.org/records/competition-performance-rankings/ranking/584101
+45,583818,"Šamorín P-T-S Meeting, x-bionic sphere, Šamorín",SVK,29 JUN 2018,29 JUN 2018,1505,41,80635,47,82140,https://worldathletics.org/records/competition-performance-rankings/ranking/583818
+46,583659,"Tübingen SoundTrack Meeting, SV 03 Stadion, Tübingen",GER,16 JUN 2018,17 JUN 2018,1315,45,80748,45,82063,https://worldathletics.org/records/competition-performance-rankings/ranking/583659
+47,583428,"Huelva Meeting Iberoamericano de Atletismo, Huelva",ESP,08 JUN 2018,08 JUN 2018,1120,53,80922,42,82042,https://worldathletics.org/records/competition-performance-rankings/ranking/583428
+48,583863,"La Chaux-de-Fonds Résisprint International, La Chaux-de-Fonds",SUI,01 JUL 2018,01 JUL 2018,465,104,81396,38,81861,https://worldathletics.org/records/competition-performance-rankings/ranking/583863
+49,583956,"Bragança Paulista Grande Premio Brasil de Atletismo, CNDA, Bragança Paulista",BRA,08 JUL 2018,08 JUL 2018,1795,38,80048,56,81843,https://worldathletics.org/records/competition-performance-rankings/ranking/583956
+50,583923,"Guadalajara Meeting Internacional, Guadalajara",ESP,06 JUL 2018,06 JUL 2018,1145,51,80566,48,81711,https://worldathletics.org/records/competition-performance-rankings/ranking/583923
+51,583179,"Oordegem IFAM Meeting, Oordegem",BEL,26 MAY 2018,26 MAY 2018,820,67,80834,43,81654,https://worldathletics.org/records/competition-performance-rankings/ranking/583179
+52,584112,"Liège Meeting Internationale de la Province de Liège, Liège",BEL,18 JUL 2018,18 JUL 2018,1145,51,80331,53,81476,https://worldathletics.org/records/competition-performance-rankings/ranking/584112
+53,584053,"Kortrijk Guldensporenmeeting, Kortrijk",BEL,14 JUL 2018,14 JUL 2018,750,75,80466,50,81216,https://worldathletics.org/records/competition-performance-rankings/ranking/584053
+54,582656,"Baton Rouge LSU Invitational, Baton Rouge, LA",USA,28 APR 2018,28 APR 2018,720,77,80452,51,81172,https://worldathletics.org/records/competition-performance-rankings/ranking/582656
+55,582385,"Tempe Sun Angel Classic, Tempe, AZ",USA,05 APR 2018,07 APR 2018,700,79,80412,52,81112,https://worldathletics.org/records/competition-performance-rankings/ranking/582385
+56,583433,"Dessau Anhalt 2018, Dessau",GER,08 JUN 2018,08 JUN 2018,1310,46,79743,59,81053,https://worldathletics.org/records/competition-performance-rankings/ranking/583433
+57,582590,"Baton Rouge LSU Alumni Gold, Baton Rouge, LA",USA,21 APR 2018,21 APR 2018,675,83,80181,55,80856,https://worldathletics.org/records/competition-performance-rankings/ranking/582590
+58,584001,"Barcelona Míting Internacional, Barcelona",ESP,11 JUL 2018,11 JUL 2018,845,66,79972,57,80817,https://worldathletics.org/records/competition-performance-rankings/ranking/584001
+59,585603,"Bydgoszcz European Athletics Festival, Bydgoszcz",POL,29 MAY 2018,29 MAY 2018,1395,42,79390,64,80785,https://worldathletics.org/records/competition-performance-rankings/ranking/585603
+60,586744,"Cork City Sports, Cork",IRL,16 JUL 2018,16 JUL 2018,815,68,79713,60,80528,https://worldathletics.org/records/competition-performance-rankings/ranking/586744
+61,582852,"Baie Mahault Meeting International Guadeloupe, Baie Mahault",FRA,12 MAY 2018,12 MAY 2018,2235,31,78292,80,80527,https://worldathletics.org/records/competition-performance-rankings/ranking/582852
+62,583868,"Zhukovskiy Znamenskiy Memorial, Zhukovskiy",RUS,30 JUN 2018,01 JUL 2018,970,59,79546,62,80516,https://worldathletics.org/records/competition-performance-rankings/ranking/583868
+63,583800,"Sollentuna Folksam GP, Sollentuna",SWE,28 JUN 2018,28 JUN 2018,1115,54,79359,65,80474,https://worldathletics.org/records/competition-performance-rankings/ranking/583800
+64,594599,"Knoxville Tennessee Relays, Knoxville, TN",USA,12 APR 2018,14 APR 2018,575,94,79747,58,80322,https://worldathletics.org/records/competition-performance-rankings/ranking/594599
+65,584638,"Göteborg Folksam GP, Göteborg",SWE,18 AUG 2018,18 AUG 2018,1860,37,78430,77,80290,https://worldathletics.org/records/competition-performance-rankings/ranking/584638
+66,582589,"Grenada Invitational, St. George's",GRN,21 APR 2018,21 APR 2018,1010,57,79129,66,80139,https://worldathletics.org/records/competition-performance-rankings/ranking/582589
+67,584197,"Karlstad Folksam GP, Karlstad",SWE,25 JUL 2018,25 JUL 2018,1150,50,78975,69,80125,https://worldathletics.org/records/competition-performance-rankings/ranking/584197
+68,583721,"Mannheim Bauhaus Juniorengala, Mannheim",GER,23 JUN 2018,24 JUN 2018,555,95,79565,61,80120,https://worldathletics.org/records/competition-performance-rankings/ranking/583721
+69,584226,"Ninove Memorial Geert Rasschaert, Ninove",BEL,28 JUL 2018,28 JUL 2018,680,82,79409,63,80089,https://worldathletics.org/records/competition-performance-rankings/ranking/584226
+70,583059,"Palo Alto Stanford Invitational, Palo Alto, CA",USA,30 MAR 2018,31 MAR 2018,800,70,79020,67,79820,https://worldathletics.org/records/competition-performance-rankings/ranking/583059
+71,583182,"Forbach Meeting Elite, Forbach",FRA,27 MAY 2018,27 MAY 2018,1255,49,78419,78,79674,https://worldathletics.org/records/competition-performance-rankings/ranking/583182
+72,581982,"Pretoria Athletix Grand Prix Series, Pretoria",RSA,08 MAR 2018,08 MAR 2018,930,62,78447,76,79377,https://worldathletics.org/records/competition-performance-rankings/ranking/581982
+73,589180,"Philadelphia Penn Relays, Philadelphia, PA",USA,24 APR 2018,28 APR 2018,360,121,78913,70,79273,https://worldathletics.org/records/competition-performance-rankings/ranking/589180
+74,582609,"Azusa Bryan Clay Invitational, Azusa, CA",USA,19 APR 2018,20 APR 2018,220,166,78994,68,79214,https://worldathletics.org/records/competition-performance-rankings/ranking/582609
+75,582856,"Clermont Pure Athletics/NTC Sprint Elite Meet, Clermont, FL",USA,12 MAY 2018,12 MAY 2018,400,112,78662,72,79062,https://worldathletics.org/records/competition-performance-rankings/ranking/582856
+76,582614,"Long Beach Invitational, Long Beach, CA",USA,20 APR 2018,21 APR 2018,965,60,78088,83,79053,https://worldathletics.org/records/competition-performance-rankings/ranking/582614
+77,582709,"Hiroshima Oda Memorial, Hiroshima",JPN,28 APR 2018,29 APR 2018,605,88,78411,79,79016,https://worldathletics.org/records/competition-performance-rankings/ranking/582709
+78,584813,"Tampere Finnkampen, Tampere",FIN,31 AUG 2018,01 SEP 2018,995,58,77929,86,78924,https://worldathletics.org/records/competition-performance-rankings/ranking/584813
+79,583544,"Regensburg Laufnacht und Sparkassen Gala, Regensburg",GER,02 JUN 2018,03 JUN 2018,185,182,78734,71,78919,https://worldathletics.org/records/competition-performance-rankings/ranking/583544
+80,583583,"CITIUS Meeting, Stadion Wankdorf, Bern",SUI,16 JUN 2018,16 JUN 2018,405,110,78476,75,78881,https://worldathletics.org/records/competition-performance-rankings/ranking/583583
+81,582592,"Waco Michael Johnson Classic, Waco, TX",USA,21 APR 2018,21 APR 2018,305,137,78516,74,78821,https://worldathletics.org/records/competition-performance-rankings/ranking/582592
+82,582655,"Tucson Desert Heat Classic, Tucson, AZ",USA,28 APR 2018,28 APR 2018,200,172,78583,73,78783,https://worldathletics.org/records/competition-performance-rankings/ranking/582655
+83,585085,"Copenhagen Athletics Games, Copenhagen",DEN,26 JUN 2018,26 JUN 2018,605,88,78157,81,78762,https://worldathletics.org/records/competition-performance-rankings/ranking/585085
+84,582002,"Kingston GC Foster Classis, Kingston",JAM,10 MAR 2018,10 MAR 2018,795,71,77738,89,78533,https://worldathletics.org/records/competition-performance-rankings/ranking/582002
+85,583717,"Minsk International Match, Minsk",BLR,22 JUN 2018,22 JUN 2018,1030,55,77482,96,78512,https://worldathletics.org/records/competition-performance-rankings/ranking/583717
+86,582599,"Auburn War Eagle Invitational, Auburn, AL",USA,20 APR 2018,21 APR 2018,485,99,78014,84,78499,https://worldathletics.org/records/competition-performance-rankings/ranking/582599
+87,584206,"Castres Meeting National, Castres",FRA,25 JUL 2018,25 JUL 2018,385,118,78109,82,78494,https://worldathletics.org/records/competition-performance-rankings/ranking/584206
+88,583220,"Riga Cup 2018, Riga",LAT,29 MAY 2018,29 MAY 2018,730,76,77640,91,78370,https://worldathletics.org/records/competition-performance-rankings/ranking/583220
+89,583491,"Portland Track Festival, Portland, OR",USA,09 JUN 2018,10 JUN 2018,395,113,77949,85,78344,https://worldathletics.org/records/competition-performance-rankings/ranking/583491
+90,584223,"Lapinlahti Motonet GP, Lapinlahti",FIN,28 JUL 2018,28 JUL 2018,585,92,77703,90,78288,https://worldathletics.org/records/competition-performance-rankings/ranking/584223
+91,583729,"Zhukovskiy Yevstratov Memorial, Zhukovskiy",RUS,23 JUN 2018,23 JUN 2018,615,87,77640,91,78255,https://worldathletics.org/records/competition-performance-rankings/ranking/583729
+92,583277,"Andújar Meeting Internacional, Andújar",ESP,01 JUN 2018,01 JUN 2018,705,78,77537,94,78242,https://worldathletics.org/records/competition-performance-rankings/ranking/583277
+93,583268,"Weinheim Kurpfalz Gala, Weinheim",GER,26 MAY 2018,26 MAY 2018,305,137,77840,87,78145,https://worldathletics.org/records/competition-performance-rankings/ranking/583268
+94,584000,"Lignano Sabbiadoro Meeting Int. Sport Solidarieta, Lignano Sabbiadoro",ITA,11 JUL 2018,11 JUL 2018,920,64,77210,101,78130,https://worldathletics.org/records/competition-performance-rankings/ranking/584000
+95,582860,"Montgeron Meeting Elite, Montgeron",FRA,13 MAY 2018,13 MAY 2018,500,97,77574,93,78074,https://worldathletics.org/records/competition-performance-rankings/ranking/582860
+96,582180,"Paarl Athletix Grand Prix Series, Paarl",RSA,22 MAR 2018,22 MAR 2018,755,74,77184,103,77939,https://worldathletics.org/records/competition-performance-rankings/ranking/582180
+97,583293,"Oordegem Memorial Léon Buyle, Oordegem",BEL,02 JUN 2018,02 JUN 2018,170,196,77741,88,77911,https://worldathletics.org/records/competition-performance-rankings/ranking/583293
+98,583039,"Loughborough International, Loughborough",GBR,20 MAY 2018,20 MAY 2018,310,134,77502,95,77812,https://worldathletics.org/records/competition-performance-rankings/ranking/583039
+99,584245,"Schifflange Meeting International, Schifflange",LUX,29 JUL 2018,29 JUL 2018,535,96,77273,100,77808,https://worldathletics.org/records/competition-performance-rankings/ranking/584245
+100,583060,"Austin Texas Invitational, Austin, TX",USA,13 APR 2018,14 APR 2018,395,113,77392,97,77787,https://worldathletics.org/records/competition-performance-rankings/ranking/583060
+101,582666,"Medellín Grand Prix Ximena Restrepo, Medellín",COL,28 APR 2018,28 APR 2018,415,108,77280,99,77695,https://worldathletics.org/records/competition-performance-rankings/ranking/582666
+102,585188,"Fukuroi Shizuoka International Meet, Fukuroi",JPN,03 MAY 2018,03 MAY 2018,310,134,77289,98,77599,https://worldathletics.org/records/competition-performance-rankings/ranking/585188
+103,584898,"Burnaby Harry Jerome Track Classic, Burnaby",CAN,26 JUN 2018,27 JUN 2018,340,128,77209,102,77549,https://worldathletics.org/records/competition-performance-rankings/ranking/584898
+104,583693,"Goleniow Bestseller, Goleniow",POL,20 JUN 2018,20 JUN 2018,485,99,76957,105,77442,https://worldathletics.org/records/competition-performance-rankings/ranking/583693
+105,582714,"Palo Alto Payton Jordan Invitational, Palo Alto, CA",USA,03 MAY 2018,03 MAY 2018,625,85,76789,109,77414,https://worldathletics.org/records/competition-performance-rankings/ranking/582714
+106,582087,"Sydney Athletics Grand Prix, Sydney",AUS,17 MAR 2018,17 MAR 2018,920,64,76354,121,77274,https://worldathletics.org/records/competition-performance-rankings/ranking/582087
+107,582473,"Auburn Tiger Track Classic, Auburn, AL",USA,13 APR 2018,14 APR 2018,265,150,76951,106,77216,https://worldathletics.org/records/competition-performance-rankings/ranking/582473
+108,583073,Savona,ITA,23 MAY 2018,23 MAY 2018,140,231,77053,104,77193,https://worldathletics.org/records/competition-performance-rankings/ranking/583073
+109,582461,"La Jolla Triton Invitational, La Jolla, CA",USA,13 APR 2018,14 APR 2018,765,73,76403,120,77168,https://worldathletics.org/records/competition-performance-rankings/ranking/582461
+110,582383,"Baton Rouge LSU Battle on the Bayou, Baton Rouge, LA",USA,07 APR 2018,07 APR 2018,155,215,76847,107,77002,https://worldathletics.org/records/competition-performance-rankings/ranking/582383
+111,583827,"Bruxelles Grand Prix, Bruxelles",BEL,30 JUN 2018,30 JUN 2018,185,182,76802,108,76987,https://worldathletics.org/records/competition-performance-rankings/ranking/583827
+112,583709,"Pontoise Meeting National, Cergy-Pontoise",FRA,22 JUN 2018,22 JUN 2018,185,182,76733,110,76918,https://worldathletics.org/records/competition-performance-rankings/ranking/583709
+113,584216,"Sopot Janusz Sidło Memorial, Sopot",POL,27 JUL 2018,27 JUL 2018,590,91,76277,123,76867,https://worldathletics.org/records/competition-performance-rankings/ranking/584216
+114,585430,"Gliwice Grand Prix Gliwic, Gliwice",POL,10 JUN 2018,10 JUN 2018,805,69,76038,130,76843,https://worldathletics.org/records/competition-performance-rankings/ranking/585430
+115,582596,"Charlottesville Virginia Challenge, Charlottesville, VA",USA,20 APR 2018,21 APR 2018,145,223,76680,111,76825,https://worldathletics.org/records/competition-performance-rankings/ranking/582596
+116,583652,"Zhukovskiy All Russian Competitions, Zhukovskiy",RUS,13 JUN 2018,13 JUN 2018,370,120,76423,119,76793,https://worldathletics.org/records/competition-performance-rankings/ranking/583652
+117,582646,"Lubbock Crofoot Shootout, Lubbock, TX",USA,27 APR 2018,27 APR 2018,140,231,76641,114,76781,https://worldathletics.org/records/competition-performance-rankings/ranking/582646
+118,582193,"San Antonio Roadrunner Invitational, San Antonio, TX",USA,22 MAR 2018,24 MAR 2018,135,239,76643,113,76778,https://worldathletics.org/records/competition-performance-rankings/ranking/582193
+119,581866,"Johannesburg Athletix Grand Prix Series, Johannesburg",RSA,01 MAR 2018,01 MAR 2018,500,97,76276,124,76776,https://worldathletics.org/records/competition-performance-rankings/ranking/581866
+120,582463,"Greensboro NCAT Aggie Invitational, Greensboro, NC",USA,13 APR 2018,14 APR 2018,140,231,76621,115,76761,https://worldathletics.org/records/competition-performance-rankings/ranking/582463
+121,582479,"Coral Gables Miami Hurricane Invitational, Coral Gables, FL",USA,14 APR 2018,14 APR 2018,65,341,76660,112,76725,https://worldathletics.org/records/competition-performance-rankings/ranking/582479
+122,582208,"Los Angeles USC Power 5 Challenge, Los Angeles, CA",USA,23 MAR 2018,24 MAR 2018,125,250,76557,116,76682,https://worldathletics.org/records/competition-performance-rankings/ranking/582208
+123,582381,"Coral Gables Hurricane Alumni invitational, Coral Gables, FL",USA,06 APR 2018,07 APR 2018,310,134,76340,122,76650,https://worldathletics.org/records/competition-performance-rankings/ranking/582381
+124,583905,"Joensuu Games, Joensuu",FIN,04 JUL 2018,04 JUL 2018,485,99,76151,128,76636,https://worldathletics.org/records/competition-performance-rankings/ranking/583905
+125,584981,"Hiratsuka All-Star Night, Hiratsuka",JPN,21 JUL 2018,21 JUL 2018,175,193,76458,117,76633,https://worldathletics.org/records/competition-performance-rankings/ranking/584981
+126,583208,"Sao Paulo Torneio Cesar Palermo Kassab, São Paulo",BRA,26 MAY 2018,26 MAY 2018,295,141,76237,125,76532,https://worldathletics.org/records/competition-performance-rankings/ranking/583208
+127,583342,"Albuquerque Great Southwest Classic, Albuquerque, NM",USA,01 JUN 2018,02 JUN 2018,15,509,76450,118,76465,https://worldathletics.org/records/competition-performance-rankings/ranking/583342
+128,584712,"Lappeenranta Motonet GP, Lappeenranta",FIN,23 AUG 2018,23 AUG 2018,700,79,75683,142,76383,https://worldathletics.org/records/competition-performance-rankings/ranking/584712
+129,582200,"Tallahassee FSU Relays, Tallahassee, FL",USA,23 MAR 2018,23 MAR 2018,90,291,76227,126,76317,https://worldathletics.org/records/competition-performance-rankings/ranking/582200
+130,582393,"Tucson Jim Click Shootout, Tucson, AZ",USA,07 APR 2018,07 APR 2018,50,367,76227,126,76277,https://worldathletics.org/records/competition-performance-rankings/ranking/582393
+130,582929,"Praha Czech Club Championships, Praha",CZE,19 MAY 2018,19 MAY 2018,410,109,75867,133,76277,https://worldathletics.org/records/competition-performance-rankings/ranking/582929
+132,582400,"Athens Spec Towns Invitational, Athens, GA",USA,06 APR 2018,07 APR 2018,295,141,75929,131,76224,https://worldathletics.org/records/competition-performance-rankings/ranking/582400
+133,582290,"Raleigh Relays, Raleigh, NC",USA,30 MAR 2018,31 MAR 2018,80,311,76108,129,76188,https://worldathletics.org/records/competition-performance-rankings/ranking/582290
+134,583862,"Ostrava Czech Club Championships, Ostrava",CZE,01 JUL 2018,01 JUL 2018,275,145,75785,136,76060,https://worldathletics.org/records/competition-performance-rankings/ranking/583862
+135,583917,"Aliann Pompey Invitational, Leonora Stadium, Leonora",GUY,30 JUN 2018,30 JUN 2018,470,102,75579,147,76049,https://worldathletics.org/records/competition-performance-rankings/ranking/583917
+136,583719,"Kuortane Motonet GP, Kuortane",FIN,23 JUN 2018,23 JUN 2018,780,72,75227,157,76007,https://worldathletics.org/records/competition-performance-rankings/ranking/583719
+137,582194,"Tempe Pac 12+ vs Big 10 Invitational, Tempe, AZ",USA,23 MAR 2018,24 MAR 2018,100,277,75906,132,76006,https://worldathletics.org/records/competition-performance-rankings/ranking/582194
+138,584114,"Tábor Memoriál Jana Pána, Tábor",CZE,18 JUL 2018,18 JUL 2018,250,154,75729,139,75979,https://worldathletics.org/records/competition-performance-rankings/ranking/584114
+139,586102,"Espoo Motonet GP, Espoo",FIN,13 JUN 2018,13 JUN 2018,330,129,75644,144,75974,https://worldathletics.org/records/competition-performance-rankings/ranking/586102
+140,586765,"Los Angeles Oxy Invitational, Los Angeles, CA",USA,12 MAY 2018,12 MAY 2018,230,160,75740,138,75970,https://worldathletics.org/records/competition-performance-rankings/ranking/586765
+141,582175,"Tempe Baldy Castillo Invitational, Tempe, AZ",USA,16 MAR 2018,17 MAR 2018,200,172,75752,137,75952,https://worldathletics.org/records/competition-performance-rankings/ranking/582175
+142,584531,"Sapporo JPN-CHN-KOR Match, Sapporo",JPN,08 JUL 2018,08 JUL 2018,305,137,75645,143,75950,https://worldathletics.org/records/competition-performance-rankings/ranking/584531
+143,582627,"Durham Duke Invitational, Durham, NC",USA,20 APR 2018,21 APR 2018,105,273,75844,134,75949,https://worldathletics.org/records/competition-performance-rankings/ranking/582627
+144,582605,"Atlanta Georgia Tech Invitational, Atlanta, GA",USA,20 APR 2018,21 APR 2018,100,277,75794,135,75894,https://worldathletics.org/records/competition-performance-rankings/ranking/582605
+145,582460,"Fayetteville John McDonnell Invitational, Fayetteville, AR",USA,12 APR 2018,14 APR 2018,155,215,75700,141,75855,https://worldathletics.org/records/competition-performance-rankings/ranking/582460
+146,582610,"Palo Alto Cardinal Classic, Palo Alto, CA",USA,20 APR 2018,21 APR 2018,45,381,75718,140,75763,https://worldathletics.org/records/competition-performance-rankings/ranking/582610
+147,584196,"Yokohama Twilight Games 2018, Yokohama",JPN,22 JUL 2018,22 JUL 2018,140,231,75607,146,75747,https://worldathletics.org/records/competition-performance-rankings/ranking/584196
+148,584044,Granollers,ESP,14 JUL 2018,14 JUL 2018,395,113,75285,155,75680,https://worldathletics.org/records/competition-performance-rankings/ranking/584044
+149,582169,"Fort Worth TCU Invitational, Fort Worth, TX",USA,16 MAR 2018,17 MAR 2018,30,427,75611,145,75641,https://worldathletics.org/records/competition-performance-rankings/ranking/582169
+150,583925,"Nembro Meeting Citta di Nembro, Nembro",ITA,05 JUL 2018,05 JUL 2018,165,204,75466,148,75631,https://worldathletics.org/records/competition-performance-rankings/ranking/583925
+151,582209,"San Diego Aztec Invitational, San Diego, CA",USA,24 MAR 2018,24 MAR 2018,180,188,75391,149,75571,https://worldathletics.org/records/competition-performance-rankings/ranking/582209
+152,584207,"Loughborough EAP Open Meeting, Loughborough",GBR,25 JUL 2018,25 JUL 2018,240,157,75323,153,75563,https://worldathletics.org/records/competition-performance-rankings/ranking/584207
+153,583587,"Spanish Club Championships, Soria",ESP,16 JUN 2018,16 JUN 2018,305,137,75226,158,75531,https://worldathletics.org/records/competition-performance-rankings/ranking/583587
+154,585084,"Westwood Rafer Johnson&Jackie Joyner-Kersee Invitational, Westwood, CA",USA,14 APR 2018,14 APR 2018,130,245,75386,150,75516,https://worldathletics.org/records/competition-performance-rankings/ranking/585084
+155,583858,"Göteborg Världsungdomsspelen, Göteborg",SWE,29 JUN 2018,01 JUL 2018,225,164,75267,156,75492,https://worldathletics.org/records/competition-performance-rankings/ranking/583858
+156,582164,"Orlando UCF Black and Gold Challenge, Orlando, FL",USA,16 MAR 2018,17 MAR 2018,85,298,75386,150,75471,https://worldathletics.org/records/competition-performance-rankings/ranking/582164
+157,583610,"Orvieto Memorial Luca Coscioni, Orvieto",ITA,17 JUN 2018,17 JUN 2018,70,330,75385,152,75455,https://worldathletics.org/records/competition-performance-rankings/ranking/583610
+158,583774,"Castellón Memorial Jose Antonio Cansino, Castellón",ESP,26 JUN 2018,26 JUN 2018,275,145,75086,159,75361,https://worldathletics.org/records/competition-performance-rankings/ranking/583774
+159,582406,"Tuscaloosa Crimson Tide Invitational, Tuscaloosa, AL",USA,06 APR 2018,07 APR 2018,50,367,75293,154,75343,https://worldathletics.org/records/competition-performance-rankings/ranking/582406
+160,584015,"Bottrop NRW-Gala, Bottrop",GER,08 JUL 2018,08 JUL 2018,345,124,74929,166,75274,https://worldathletics.org/records/competition-performance-rankings/ranking/584015
+161,582783,"Campinas Torneio FPA, Campinas",BRA,05 MAY 2018,05 MAY 2018,280,143,74988,161,75268,https://worldathletics.org/records/competition-performance-rankings/ranking/582783
+162,583506,"Leiden Gouden Spike, Leiden",NED,09 JUN 2018,09 JUN 2018,245,156,74954,165,75199,https://worldathletics.org/records/competition-performance-rankings/ranking/583506
+163,585420,"Manchester International Match, Manchester",GBR,15 AUG 2018,15 AUG 2018,165,204,75029,160,75194,https://worldathletics.org/records/competition-performance-rankings/ranking/585420
+164,582851,"Hamilton Bermuda Invitational, Hamilton",BER,11 MAY 2018,11 MAY 2018,440,105,74745,172,75185,https://worldathletics.org/records/competition-performance-rankings/ranking/582851
+165,584550,"Kessel-Lo Meeting voor Mon, Kessel-Lo",BEL,04 AUG 2018,04 AUG 2018,165,204,74964,163,75129,https://worldathletics.org/records/competition-performance-rankings/ranking/584550
+166,582664,"Irvine Adidas Steve Scott Invitational, Irvine, CA",USA,27 APR 2018,28 APR 2018,345,124,74757,171,75102,https://worldathletics.org/records/competition-performance-rankings/ranking/582664
+167,582682,"Charlottesville Virginia Grand Prix, Charlottesville, VA",USA,28 APR 2018,28 APR 2018,100,277,74969,162,75069,https://worldathletics.org/records/competition-performance-rankings/ranking/582682
+168,582092,"Coral Gables Hurricane Invitational, Coral Gables, FL",USA,16 MAR 2018,17 MAR 2018,70,330,74958,164,75028,https://worldathletics.org/records/competition-performance-rankings/ranking/582092
+169,585946,"Kingston Gibson McCook Relays, Kingston",JAM,24 FEB 2018,24 FEB 2018,145,223,74854,168,74999,https://worldathletics.org/records/competition-performance-rankings/ranking/585946
+170,582396,"Columbia Gamecock Invitational, Columbia, SC",USA,07 APR 2018,07 APR 2018,220,166,74775,170,74995,https://worldathletics.org/records/competition-performance-rankings/ranking/582396
+171,582608,"Princeton Larry Ellis Invitational, Princeton, NJ",USA,20 APR 2018,21 APR 2018,110,267,74865,167,74975,https://worldathletics.org/records/competition-performance-rankings/ranking/582608
+172,582339,"Sasolburg NWU Pukke Meeting, Sasolburg",RSA,27 MAR 2018,27 MAR 2018,315,132,74638,175,74953,https://worldathletics.org/records/competition-performance-rankings/ranking/582339
+173,582202,"Fayetteville Arkansas Spring Invitational, Fayetteville, AR",USA,23 MAR 2018,24 MAR 2018,105,273,74819,169,74924,https://worldathletics.org/records/competition-performance-rankings/ranking/582202
+174,594598,"Lawrence Kansas Relays, Lawrence, KS",USA,18 APR 2018,21 APR 2018,390,116,74442,179,74832,https://worldathletics.org/records/competition-performance-rankings/ranking/594598
+175,582158,"Atlanta Yellow JacketInvitational, Atlanta, GA",USA,16 MAR 2018,17 MAR 2018,100,277,74647,174,74747,https://worldathletics.org/records/competition-performance-rankings/ranking/582158
+176,583188,Radom,POL,27 MAY 2018,27 MAY 2018,585,92,74158,186,74743,https://worldathletics.org/records/competition-performance-rankings/ranking/583188
+177,582199,"Abilene Wes Kittley Invitational, Abilene, TX",USA,24 MAR 2018,24 MAR 2018,5,566,74707,173,74712,https://worldathletics.org/records/competition-performance-rankings/ranking/582199
+178,583921,"Almaty Kosanov Memorial, Almaty",KAZ,29 JUN 2018,30 JUN 2018,105,273,74582,176,74687,https://worldathletics.org/records/competition-performance-rankings/ranking/583921
+179,582662,"Clermont NTC Spring Invitational, Clermont, FL",USA,28 APR 2018,28 APR 2018,605,88,74025,191,74630,https://worldathletics.org/records/competition-performance-rankings/ranking/582662
+180,583775,"Nivelles Meeting International EAP, Nivelles",BEL,23 JUN 2018,23 JUN 2018,75,322,74523,178,74598,https://worldathletics.org/records/competition-performance-rankings/ranking/583775
+181,582641,"Columbus Jesse Owens Track Classic, Columbus, OH",USA,20 APR 2018,21 APR 2018,30,427,74561,177,74591,https://worldathletics.org/records/competition-performance-rankings/ranking/582641
+182,582669,"Provo BYU Robison Invitational, Provo, UT",USA,26 APR 2018,28 APR 2018,155,215,74417,180,74572,https://worldathletics.org/records/competition-performance-rankings/ranking/582669
+183,583228,"Turnov Ludvík Daňek Memorial, Turnov",CZE,29 MAY 2018,29 MAY 2018,470,102,74065,189,74535,https://worldathletics.org/records/competition-performance-rankings/ranking/583228
+184,583563,"Osterode Int. Sparkassen-Meeting, Osterode",GER,01 JUN 2018,02 JUN 2018,350,122,74181,185,74531,https://worldathletics.org/records/competition-performance-rankings/ranking/583563
+185,582751,"Lubbock Texas Tech Masked Rider Invite, Lubbock, TX",USA,05 MAY 2018,05 MAY 2018,45,381,74262,182,74307,https://worldathletics.org/records/competition-performance-rankings/ranking/582751
+186,582273,"Houston Victor Lopez Classic, Houston, TX",USA,22 MAR 2018,24 MAR 2018,15,509,74290,181,74305,https://worldathletics.org/records/competition-performance-rankings/ranking/582273
+187,582705,"Kobe Hyogo Relays, Kobe",JPN,21 APR 2018,22 APR 2018,145,223,74153,187,74298,https://worldathletics.org/records/competition-performance-rankings/ranking/582705
+188,582455,"Arcadia Invitational, Arcadia, CA",USA,06 APR 2018,07 APR 2018,5,566,74261,183,74266,https://worldathletics.org/records/competition-performance-rankings/ranking/582455
+189,586845,"Mount Olive Final Qualifier, Mount Olive, NC",USA,13 MAY 2018,13 MAY 2018,25,442,74209,184,74234,https://worldathletics.org/records/competition-performance-rankings/ranking/586845
+190,583924,"Oslo Boysen Memorial, Oslo",NOR,05 JUL 2018,05 JUL 2018,385,118,73802,198,74187,https://worldathletics.org/records/competition-performance-rankings/ranking/583924
+191,582942,"Aix-les-Bains French Club Championships, Aix-les-Bains",FRA,20 MAY 2018,20 MAY 2018,330,129,73852,195,74182,https://worldathletics.org/records/competition-performance-rankings/ranking/582942
+192,580885,"Perth Jandakot Airport Track Classic, Perth",AUS,13 JAN 2018,13 JAN 2018,390,116,73767,200,74157,https://worldathletics.org/records/competition-performance-rankings/ranking/580885
+193,582648,"Jacksonville North Florida Invitational, Jacksonville, FL",USA,27 APR 2018,27 APR 2018,30,427,74119,188,74149,https://worldathletics.org/records/competition-performance-rankings/ranking/582648
+194,584772,"Uherské Hradiště, Uherské Hradiste",CZE,25 AUG 2018,26 AUG 2018,345,124,73745,201,74090,https://worldathletics.org/records/competition-performance-rankings/ranking/584772
+195,583444,"Salamanca Memorial Carlos Gil Pérez, Salamanca",ESP,09 JUN 2018,09 JUN 2018,50,367,74032,190,74082,https://worldathletics.org/records/competition-performance-rankings/ranking/583444
+196,583316,"Kingston JAAA All Comers Meet, Kingston",JAM,02 JUN 2018,02 JUN 2018,135,239,73907,192,74042,https://worldathletics.org/records/competition-performance-rankings/ranking/583316
+197,582480,"Kingston UTech Classic, Kingston",JAM,14 APR 2018,14 APR 2018,120,257,73887,193,74007,https://worldathletics.org/records/competition-performance-rankings/ranking/582480
+198,583442,"Zeulenroda Meeting, Zeulenroda",GER,09 JUN 2018,09 JUN 2018,230,160,73741,202,73971,https://worldathletics.org/records/competition-performance-rankings/ranking/583442
+199,582732,"Houston Tom Tellez Invitational, Houston, TX",USA,04 MAY 2018,04 MAY 2018,195,178,73736,203,73931,https://worldathletics.org/records/competition-performance-rankings/ranking/582732
+200,582152,"Tucson Willie Williams Classic, Tucson, AZ",USA,16 MAR 2018,17 MAR 2018,95,285,73827,197,73922,https://worldathletics.org/records/competition-performance-rankings/ranking/582152
+201,582735,"Eugene Oregon Twilight, Eugene, OR",USA,04 MAY 2018,04 MAY 2018,170,196,73733,204,73903,https://worldathletics.org/records/competition-performance-rankings/ranking/582735
+202,582456,"Louisville Invitational, Louisville, KY",USA,13 APR 2018,13 APR 2018,40,394,73848,196,73888,https://worldathletics.org/records/competition-performance-rankings/ranking/582456
+203,586011,"Los Angeles USC Trojan Invitational, Los Angeles, CA",USA,16 MAR 2018,17 MAR 2018,25,442,73853,194,73878,https://worldathletics.org/records/competition-performance-rankings/ranking/586011
+204,594597,"San Angelo David Noble Relays, San Angelo, TX",USA,05 APR 2018,07 APR 2018,20,475,73797,199,73817,https://worldathletics.org/records/competition-performance-rankings/ranking/594597
+205,582727,"Fayetteville Arkansas Twilight, Fayetteville, AR",USA,04 MAY 2018,04 MAY 2018,80,311,73729,205,73809,https://worldathletics.org/records/competition-performance-rankings/ranking/582727
+206,583786,"Lokeren Grote Prijs, Lokeren",BEL,24 JUN 2018,24 JUN 2018,180,188,73615,208,73795,https://worldathletics.org/records/competition-performance-rankings/ranking/583786
+207,582304,"Los Angeles Bob Larsen Distance Carnival, Los Angeles, CA",USA,30 MAR 2018,30 MAR 2018,85,298,73702,206,73787,https://worldathletics.org/records/competition-performance-rankings/ranking/582304
+208,582603,"Columbia USC Open, Columbia, SC",USA,21 APR 2018,21 APR 2018,125,250,73640,207,73765,https://worldathletics.org/records/competition-performance-rankings/ranking/582603
+209,582195,"Tampa USF Bulls Invitational, Tampa, FL",USA,22 MAR 2018,23 MAR 2018,95,285,73587,209,73682,https://worldathletics.org/records/competition-performance-rankings/ranking/582195
+210,589190,"San Antonio UTSA Invitational, San Antonio, TX",USA,16 MAR 2018,17 MAR 2018,100,277,73508,211,73608,https://worldathletics.org/records/competition-performance-rankings/ranking/589190
+211,582337,"San Marcos Texas State Bobcat Invitational, San Marcos, TX",USA,29 MAR 2018,31 MAR 2018,20,475,73550,210,73570,https://worldathletics.org/records/competition-performance-rankings/ranking/582337
+212,583701,"Braga Meeting de São João, Braga",POR,20 JUN 2018,20 JUN 2018,170,196,73382,213,73552,https://worldathletics.org/records/competition-performance-rankings/ranking/583701
+213,583708,"Rhede Int. Leichtathletik-Meeting, Rhede",GER,16 JUN 2018,16 JUN 2018,190,180,73295,215,73485,https://worldathletics.org/records/competition-performance-rankings/ranking/583708
+214,583194,"Slovenska Bistrica Int. Meeting, Slovenska Bistrica",SLO,26 MAY 2018,26 MAY 2018,155,215,73311,214,73466,https://worldathletics.org/records/competition-performance-rankings/ranking/583194
+215,582748,"Knoxville Tennessee Challenge, Knoxville, TN",USA,05 MAY 2018,05 MAY 2018,25,442,73416,212,73441,https://worldathletics.org/records/competition-performance-rankings/ranking/582748
+216,582582,"Long Beach Pacific Coast Intercollegiate, Long Beach, CA",USA,19 APR 2018,19 APR 2018,165,204,73275,216,73440,https://worldathletics.org/records/competition-performance-rankings/ranking/582582
+217,585157,"Brisbane Summer of Athletics Grand Prix, Brisbane",AUS,22 MAR 2018,22 MAR 2018,695,81,72658,235,73353,https://worldathletics.org/records/competition-performance-rankings/ranking/585157
+218,583680,"Corvallis OSU High Performance Meet, Corvallis, OR",USA,27 APR 2018,28 APR 2018,45,381,73274,217,73319,https://worldathletics.org/records/competition-performance-rankings/ranking/583680
+219,582186,"Jacksonville UNF Spring Break, Jacksonville, FL",USA,23 MAR 2018,23 MAR 2018,65,341,73245,219,73310,https://worldathletics.org/records/competition-performance-rankings/ranking/582186
+220,583741,"Blois Meting Sélection CA/JU, Blois",FRA,23 JUN 2018,23 JUN 2018,25,442,73255,218,73280,https://worldathletics.org/records/competition-performance-rankings/ranking/583741
+221,584579,Mannheim,GER,15 JUL 2018,15 JUL 2018,140,231,73134,222,73274,https://worldathletics.org/records/competition-performance-rankings/ranking/584579
+222,582187,"Pretoria Varsity Athletics, Pretoria",RSA,23 MAR 2018,23 MAR 2018,65,341,73201,220,73266,https://worldathletics.org/records/competition-performance-rankings/ranking/582187
+223,582612,"Canyon West Texas A&M Invitational, Canyon, TX",USA,22 APR 2018,22 APR 2018,25,442,73171,221,73196,https://worldathletics.org/records/competition-performance-rankings/ranking/582612
+224,587077,"Swarthmore Final Qualifier Meet, Swarthmore, PA",USA,14 MAY 2018,14 MAY 2018,40,394,73126,223,73166,https://worldathletics.org/records/competition-performance-rankings/ranking/587077
+225,582405,"Eugene Pepsi Invitational, Eugene, OR",USA,07 APR 2018,07 APR 2018,5,566,73111,224,73116,https://worldathletics.org/records/competition-performance-rankings/ranking/582405
+226,584514,"Ho Chi-Minh Open Meet, Ho Chi-Minh",VIE,26 JUL 2018,27 JUL 2018,25,442,72983,225,73008,https://worldathletics.org/records/competition-performance-rankings/ranking/584514
+227,582945,"Chania Int. Athletics Meeting, Chania",GRE,19 MAY 2018,19 MAY 2018,200,172,72789,228,72989,https://worldathletics.org/records/competition-performance-rankings/ranking/582945
+228,583613,"Linz Leichtathletik Gala, Linz",AUT,17 JUN 2018,17 JUN 2018,140,231,72828,226,72968,https://worldathletics.org/records/competition-performance-rankings/ranking/583613
+229,584103,"Cali Grand Prix Internacional, Cali",COL,14 JUL 2018,15 JUL 2018,170,196,72779,230,72949,https://worldathletics.org/records/competition-performance-rankings/ranking/584103
+230,581250,"Kingston Queen's/Grace Jackson Track Meet, Kingston",JAM,27 JAN 2018,27 JAN 2018,165,204,72780,229,72945,https://worldathletics.org/records/competition-performance-rankings/ranking/581250
+231,581570,"Pretoria AGN League, Pretoria",RSA,10 FEB 2018,10 FEB 2018,205,171,72692,232,72897,https://worldathletics.org/records/competition-performance-rankings/ranking/581570
+232,583062,"Concepcion del Uruguay GP Antonio Silio, Concepción del Uruguay",ARG,23 MAR 2018,24 MAR 2018,315,132,72573,237,72888,https://worldathletics.org/records/competition-performance-rankings/ranking/583062
+233,582730,"Bloomington Billy Hayes Invitational, Bloomington, IN",USA,04 MAY 2018,04 MAY 2018,185,182,72691,233,72876,https://worldathletics.org/records/competition-performance-rankings/ranking/582730
+234,582085,"Charlotte 49er Classic, Charlotte, NC",USA,15 MAR 2018,17 MAR 2018,0,,72825,227,72825,https://worldathletics.org/records/competition-performance-rankings/ranking/582085
+235,589166,"Guelph Speed River Inferno, Guelph",CAN,13 JUN 2018,14 JUN 2018,40,394,72778,231,72818,https://worldathletics.org/records/competition-performance-rankings/ranking/589166
+236,582297,"Oxford Ole Miss Classic, Oxford, MS",USA,31 MAR 2018,31 MAR 2018,65,341,72653,236,72718,https://worldathletics.org/records/competition-performance-rankings/ranking/582297
+237,582482,"Hobbs NMJC Ross Black Open, Hobbs, NM",USA,14 APR 2018,14 APR 2018,10,535,72682,234,72692,https://worldathletics.org/records/competition-performance-rankings/ranking/582482
+238,583650,Raasepori,FIN,16 JUN 2018,17 JUN 2018,280,143,72398,241,72678,https://worldathletics.org/records/competition-performance-rankings/ranking/583650
+239,581561,"Montego Bay Milo Western Relays, Montego Bay",JAM,10 FEB 2018,10 FEB 2018,95,285,72407,240,72502,https://worldathletics.org/records/competition-performance-rankings/ranking/581561
+240,582374,"Durham Battle of the Blues, Durham, NC",USA,06 APR 2018,06 APR 2018,0,,72501,238,72501,https://worldathletics.org/records/competition-performance-rankings/ranking/582374
+241,582462,"Oxford Joe Walker Invite, Oxford, MS",USA,13 APR 2018,14 APR 2018,85,298,72385,243,72470,https://worldathletics.org/records/competition-performance-rankings/ranking/582462
+242,585182,"Zenica International Meeting, Zenica",BIH,06 JUN 2018,06 JUN 2018,250,154,72195,253,72445,https://worldathletics.org/records/competition-performance-rankings/ranking/585182
+243,583594,"Kingston JAAA All Comers Meet, Kingston",JAM,16 JUN 2018,16 JUN 2018,140,231,72304,246,72444,https://worldathletics.org/records/competition-performance-rankings/ranking/583594
+244,582446,"Iowa City Musco Twilight, Iowa City, IA",USA,12 APR 2018,12 APR 2018,80,311,72363,244,72443,https://worldathletics.org/records/competition-performance-rankings/ranking/582446
+245,583861,"Merksem Antwerp Athletics Gala, Merksem",BEL,01 JUL 2018,01 JUL 2018,185,182,72248,250,72433,https://worldathletics.org/records/competition-performance-rankings/ranking/583861
+246,594594,"Williamsburg Colonial Relays, Williamsburg, VA",USA,05 APR 2018,07 APR 2018,0,,72421,239,72421,https://worldathletics.org/records/competition-performance-rankings/ranking/594594
+247,582165,"Lafayette Louisiana Classics, Lafayette, LA",USA,16 MAR 2018,17 MAR 2018,25,442,72389,242,72414,https://worldathletics.org/records/competition-performance-rankings/ranking/582165
+248,583329,"Chania Venizelia 2018, Chania",GRE,02 JUN 2018,02 JUN 2018,135,239,72253,249,72388,https://worldathletics.org/records/competition-performance-rankings/ranking/583329
+249,589155,"AFN Grand Prix, Lagos",NGR,12 JUN 2018,14 JUN 2018,65,341,72297,247,72362,https://worldathletics.org/records/competition-performance-rankings/ranking/589155
+250,583745,"Praha Academica 2018, Praha",CZE,07 JUN 2018,07 JUN 2018,160,210,72183,254,72343,https://worldathletics.org/records/competition-performance-rankings/ranking/583745
+251,585218,"Torrance CIF Southern Section Division Finals, Torrance, CA",USA,19 MAY 2018,19 MAY 2018,0,,72319,245,72319,https://worldathletics.org/records/competition-performance-rankings/ranking/585218
+252,583294,"Nashville Music City Distance Carnival, Nashville, TN",USA,01 JUN 2018,02 JUN 2018,215,169,72103,259,72318,https://worldathletics.org/records/competition-performance-rankings/ranking/583294
+253,583070,"Abuja AFN Golden League, Abuja",NGR,16 MAR 2018,17 MAR 2018,60,351,72225,251,72285,https://worldathletics.org/records/competition-performance-rankings/ranking/583070
+254,582404,"Berkeley Big Meet, Berkeley, CA",USA,07 APR 2018,07 APR 2018,55,356,72210,252,72265,https://worldathletics.org/records/competition-performance-rankings/ranking/582404
+254,582843,"Basel Hürden- und Sprintmeeting, Basel",SUI,12 MAY 2018,12 MAY 2018,10,535,72255,248,72265,https://worldathletics.org/records/competition-performance-rankings/ranking/582843
+256,582935,"München Ludwig Jall Sportfest, München",GER,19 MAY 2018,19 MAY 2018,55,356,72129,255,72184,https://worldathletics.org/records/competition-performance-rankings/ranking/582935
+257,585973,"Mississippi State Bulldog Relays, Mississippi State, MS",USA,23 MAR 2018,24 MAR 2018,45,381,72119,256,72164,https://worldathletics.org/records/competition-performance-rankings/ranking/585973
+257,582578,"Starkville Al Schmidt Bulldog Relays, Starkville, MS",USA,23 MAR 2018,24 MAR 2018,45,381,72119,256,72164,https://worldathletics.org/records/competition-performance-rankings/ranking/582578
+259,583011,"Tilburg T-Meeting, Tilburg",NED,21 MAY 2018,21 MAY 2018,35,413,72108,258,72143,https://worldathletics.org/records/competition-performance-rankings/ranking/583011
+260,582747,"Athens Torrin Lawrence Memorial, Athens, GA",USA,05 MAY 2018,05 MAY 2018,145,223,71979,262,72124,https://worldathletics.org/records/competition-performance-rankings/ranking/582747
+261,587094,"Cullowhee Southern Conference Championship, Cullowhee, NC",USA,10 MAY 2018,11 MAY 2018,15,509,72021,260,72036,https://worldathletics.org/records/competition-performance-rankings/ranking/587094
+262,582564,"Lewisburg Bison Outdoor Classic, Lewisburg, PA",USA,14 APR 2018,15 APR 2018,15,509,71982,261,71997,https://worldathletics.org/records/competition-performance-rankings/ranking/582564
+263,582395,"Albuquerque Don Kirby Tailwind Open, Albuquerque, NM",USA,07 APR 2018,07 APR 2018,15,509,71968,264,71983,https://worldathletics.org/records/competition-performance-rankings/ranking/582395
+264,582341,"Sacramento MONDO Challenge, Sacramento, CA",USA,31 MAR 2018,31 MAR 2018,10,535,71969,263,71979,https://worldathletics.org/records/competition-performance-rankings/ranking/582341
+265,584043,Kladno,CZE,14 JUL 2018,14 JUL 2018,275,145,71701,278,71976,https://worldathletics.org/records/competition-performance-rankings/ranking/584043
+266,582207,"Arlington Bobby Lane Invitational, Arlington, TX",USA,23 MAR 2018,24 MAR 2018,20,475,71948,265,71968,https://worldathletics.org/records/competition-performance-rankings/ranking/582207
+267,582397,"Houston Alumni Invitational, Houston, TX",USA,06 APR 2018,07 APR 2018,110,267,71843,269,71953,https://worldathletics.org/records/competition-performance-rankings/ranking/582397
+268,582750,"Akron Campbell/Wright Open, Akron, OH",USA,04 MAY 2018,05 MAY 2018,90,291,71840,270,71930,https://worldathletics.org/records/competition-performance-rankings/ranking/582750
+269,584094,Bragança Paulista,BRA,14 JUL 2018,14 JUL 2018,150,219,71757,276,71907,https://worldathletics.org/records/competition-performance-rankings/ranking/584094
+270,584661,Pärnu,EST,19 AUG 2018,19 AUG 2018,620,86,71264,297,71884,https://worldathletics.org/records/competition-performance-rankings/ranking/584661
+271,582178,"Sacramento State Hornet Invitational, Sacramento, CA",USA,16 MAR 2018,17 MAR 2018,0,,71878,266,71878,https://worldathletics.org/records/competition-performance-rankings/ranking/582178
+272,582628,"Houston Fred Duckett Twilight Meet, Houston, TX",USA,21 APR 2018,21 APR 2018,15,509,71862,267,71877,https://worldathletics.org/records/competition-performance-rankings/ranking/582628
+273,581137,"Spanish Town Central Hurdles and Relays, Spanish Town",JAM,20 JAN 2018,20 JAN 2018,20,475,71848,268,71868,https://worldathletics.org/records/competition-performance-rankings/ranking/581137
+274,583283,"Cardiff British Athletics League, Cardiff",GBR,02 JUN 2018,02 JUN 2018,120,257,71724,277,71844,https://worldathletics.org/records/competition-performance-rankings/ranking/583283
+275,583344,"Eton UK Women's League, Eton",GBR,02 JUN 2018,02 JUN 2018,75,322,71760,275,71835,https://worldathletics.org/records/competition-performance-rankings/ranking/583344
+276,581365,"Kingston Grace Puma Youngster Goldsmith, Kingston",JAM,03 FEB 2018,03 FEB 2018,210,170,71618,280,71828,https://worldathletics.org/records/competition-performance-rankings/ranking/581365
+277,584704,"Bergen Trond Mohn Games, Bergen",NOR,22 AUG 2018,22 AUG 2018,640,84,71186,304,71826,https://worldathletics.org/records/competition-performance-rankings/ranking/584704
+278,582728,"Tallahassee Seminole Twilight, Tallahassee, FL",USA,04 MAY 2018,04 MAY 2018,150,219,71671,279,71821,https://worldathletics.org/records/competition-performance-rankings/ranking/582728
+279,582407,"Claremont Pomona-Pitzer T&F Invite, Claremont, CA",USA,07 APR 2018,07 APR 2018,40,394,71780,272,71820,https://worldathletics.org/records/competition-performance-rankings/ranking/582407
+280,583581,"Vyškov CZE-HUN-POL-SLO-SVK U20 Match, Vyškov",CZE,16 JUN 2018,16 JUN 2018,25,442,71770,274,71795,https://worldathletics.org/records/competition-performance-rankings/ranking/583581
+281,582488,"Storrs UCONN Northeast Challenge, Storrs, CT",USA,14 APR 2018,14 APR 2018,5,566,71784,271,71789,https://worldathletics.org/records/competition-performance-rankings/ranking/582488
+282,586013,"Charlotte Invitational, Charlotte, NC",USA,13 APR 2018,14 APR 2018,0,,71780,272,71780,https://worldathletics.org/records/competition-performance-rankings/ranking/586013
+283,584738,"Budapest Hungarian Super League Final, Budapest",HUN,25 AUG 2018,26 AUG 2018,425,107,71340,296,71765,https://worldathletics.org/records/competition-performance-rankings/ranking/584738
+284,584075,Avila,ESP,15 JUL 2018,15 JUL 2018,175,193,71535,284,71710,https://worldathletics.org/records/competition-performance-rankings/ranking/584075
+285,580994,"Glendale Hunter Track Classic, Glendale",AUS,20 JAN 2018,20 JAN 2018,120,257,71584,282,71704,https://worldathletics.org/records/competition-performance-rankings/ranking/580994
+286,582924,"Lisse Ter Specke Bokaal, Lisse",NED,19 MAY 2018,19 MAY 2018,110,267,71575,283,71685,https://worldathletics.org/records/competition-performance-rankings/ranking/582924
+287,583971,"Bedford British Athletics League, Bedford",GBR,07 JUL 2018,07 JUL 2018,75,322,71609,281,71684,https://worldathletics.org/records/competition-performance-rankings/ranking/583971
+288,585909,"Kitakyushu Track and Field Carneval, Kitakyushu",JPN,27 OCT 2018,28 OCT 2018,115,265,71447,287,71562,https://worldathletics.org/records/competition-performance-rankings/ranking/585909
+289,583840,Palencia,ESP,30 JUN 2018,30 JUN 2018,115,265,71442,288,71557,https://worldathletics.org/records/competition-performance-rankings/ranking/583840
+290,585552,"Gdańsk Józef Żylewicz Memorial, Gdansk",POL,16 JUN 2018,16 JUN 2018,125,250,71420,290,71545,https://worldathletics.org/records/competition-performance-rankings/ranking/585552
+291,582259,"Prairie View A&M Relays, Prairie View, TX",USA,24 MAR 2018,24 MAR 2018,120,257,71420,290,71540,https://worldathletics.org/records/competition-performance-rankings/ranking/582259
+292,600593,"Region 3-6A Meet, Humble, TX",USA,27 APR 2018,27 APR 2018,0,,71494,285,71494,https://worldathletics.org/records/competition-performance-rankings/ranking/600593
+293,583226,Deinze,BEL,19 MAY 2018,19 MAY 2018,110,267,71368,294,71478,https://worldathletics.org/records/competition-performance-rankings/ranking/583226
+294,582642,"Abilene ACU Oliver Jackson Twilight, Abilene, TX",USA,25 APR 2018,25 APR 2018,20,475,71456,286,71476,https://worldathletics.org/records/competition-performance-rankings/ranking/582642
+295,581645,"Kingston Seniors Link Up, Kingston",JAM,17 FEB 2018,17 FEB 2018,345,124,71130,307,71475,https://worldathletics.org/records/competition-performance-rankings/ranking/581645
+296,583338,"Granada Meeting Paco Sanchez Vargas, Granada",ESP,03 JUN 2018,03 JUN 2018,75,322,71374,293,71449,https://worldathletics.org/records/competition-performance-rankings/ranking/583338
+297,587048,"Sacramento State Open, Sacramento, CA",USA,05 MAY 2018,05 MAY 2018,10,535,71435,289,71445,https://worldathletics.org/records/competition-performance-rankings/ranking/587048
+298,582826,Benguerir,MAR,29 APR 2018,29 APR 2018,15,509,71380,292,71395,https://worldathletics.org/records/competition-performance-rankings/ranking/582826
+299,583481,"Columbus NJSIAA State Meet Of Champions, Columbus, NJ",USA,09 JUN 2018,09 JUN 2018,0,,71346,295,71346,https://worldathletics.org/records/competition-performance-rankings/ranking/583481
+300,584547,"São Bernardo do Campo, Sao Bernardo do Campo",BRA,04 AUG 2018,04 AUG 2018,75,322,71241,299,71316,https://worldathletics.org/records/competition-performance-rankings/ranking/584547
+301,586494,"Melbourne Zatopek:10, Melbourne",AUS,13 DEC 2018,13 DEC 2018,65,341,71243,298,71308,https://worldathletics.org/records/competition-performance-rankings/ranking/586494
+302,584542,"Hendon British Athletics League, Hendon",GBR,04 AUG 2018,04 AUG 2018,70,330,71217,301,71287,https://worldathletics.org/records/competition-performance-rankings/ranking/584542
+303,583061,"Concepción del Urugay Grand Prix Hugo Mario La Nasa, Concepción del Uruguay",ARG,25 MAR 2018,25 MAR 2018,170,196,71095,309,71265,https://worldathletics.org/records/competition-performance-rankings/ranking/583061
+304,587085,"Adrian Portland Twilight, Adrian, MI",USA,10 MAY 2018,12 MAY 2018,20,475,71231,300,71251,https://worldathletics.org/records/competition-performance-rankings/ranking/587085
+305,584174,"Mito Invitational, Mito",JPN,05 MAY 2018,05 MAY 2018,45,381,71203,302,71248,https://worldathletics.org/records/competition-performance-rankings/ranking/584174
+306,582647,"Joplin Bill Williams/Bob Laptad Invitational, Joplin, MO",USA,27 APR 2018,27 APR 2018,5,566,71203,302,71208,https://worldathletics.org/records/competition-performance-rankings/ranking/582647
+307,586003,"Tulsa Jimmy John's ORU Invitational, Tulsa, OK",USA,31 MAR 2018,31 MAR 2018,0,,71175,305,71175,https://worldathletics.org/records/competition-performance-rankings/ranking/586003
+308,585783,Yecheon,KOR,11 JUL 2018,13 JUL 2018,35,413,71128,308,71163,https://worldathletics.org/records/competition-performance-rankings/ranking/585783
+309,582418,"San Francisco State Distance Carnival, San Francisco, CA",USA,30 MAR 2018,31 MAR 2018,0,,71146,306,71146,https://worldathletics.org/records/competition-performance-rankings/ranking/582418
+310,584779,"Gent Feestenmeeting, Gent",BEL,22 JUL 2018,22 JUL 2018,255,152,70790,314,71045,https://worldathletics.org/records/competition-performance-rankings/ranking/584779
+311,582713,"Lynchburg Liberty Twilight Qualifier, Lynchburg, VA",USA,02 MAY 2018,02 MAY 2018,35,413,70988,310,71023,https://worldathletics.org/records/competition-performance-rankings/ranking/582713
+312,583180,"Tampere ECCC Group B, Tampere",FIN,26 MAY 2018,26 MAY 2018,120,257,70855,312,70975,https://worldathletics.org/records/competition-performance-rankings/ranking/583180
+313,582481,"Santiago de Chile Grand Prix Orlando Guaita, Santiago de Chile",CHI,14 APR 2018,14 APR 2018,230,160,70711,319,70941,https://worldathletics.org/records/competition-performance-rankings/ranking/582481
+314,584558,"Southampton UK Women's League, Southampton",GBR,04 AUG 2018,04 AUG 2018,30,427,70909,311,70939,https://worldathletics.org/records/competition-performance-rankings/ranking/584558
+315,582830,"Vught Harry Schulting Games, Vught",NED,10 MAY 2018,10 MAY 2018,80,311,70798,313,70878,https://worldathletics.org/records/competition-performance-rankings/ranking/582830
+316,582972,"Pontoise French Club Championships, Cergy-Pontoise",FRA,20 MAY 2018,20 MAY 2018,160,210,70698,320,70858,https://worldathletics.org/records/competition-performance-rankings/ranking/582972
+317,583942,Lahti,FIN,07 JUL 2018,07 JUL 2018,175,193,70664,322,70839,https://worldathletics.org/records/competition-performance-rankings/ranking/583942
+318,589303,Mersin,TUR,12 MAY 2018,13 MAY 2018,20,475,70790,314,70810,https://worldathletics.org/records/competition-performance-rankings/ranking/589303
+319,583421,"Bloomington IHSAA State Meet, Bloomington, IN",USA,01 JUN 2018,02 JUN 2018,0,,70789,316,70789,https://worldathletics.org/records/competition-performance-rankings/ranking/583421
+320,582098,"Myrtle Beach Alan Connie Shamrock Invitational, Myrtle Beach, SC",USA,15 MAR 2018,17 MAR 2018,30,427,70754,318,70784,https://worldathletics.org/records/competition-performance-rankings/ranking/582098
+321,582920,"Zofingen Pfingstmeeting, Zofingen",SUI,19 MAY 2018,19 MAY 2018,0,,70779,317,70779,https://worldathletics.org/records/competition-performance-rankings/ranking/582920
+322,582904,Cali,COL,14 APR 2018,15 APR 2018,60,351,70678,321,70738,https://worldathletics.org/records/competition-performance-rankings/ranking/582904
+323,582743,"Vénissieux French Club Championships, Vénissieux",FRA,06 MAY 2018,06 MAY 2018,120,257,70615,325,70735,https://worldathletics.org/records/competition-performance-rankings/ranking/582743
+324,583443,"Jyväskylä Games, Jyväskylä",FIN,09 JUN 2018,09 JUN 2018,85,298,70620,323,70705,https://worldathletics.org/records/competition-performance-rankings/ranking/583443
+325,583067,"Cuenca Grand Prix Richard Boroto, Cuenca",ECU,24 MAR 2018,25 MAR 2018,100,277,70604,326,70704,https://worldathletics.org/records/competition-performance-rankings/ranking/583067
+326,582842,"Amsterdam Dutch Club Championships, Amsterdam",NED,12 MAY 2018,12 MAY 2018,150,219,70513,331,70663,https://worldathletics.org/records/competition-performance-rankings/ranking/582842
+327,587027,"Madison Wisconsin Twilight, Madison, WI",USA,04 MAY 2018,04 MAY 2018,20,475,70618,324,70638,https://worldathletics.org/records/competition-performance-rankings/ranking/587027
+328,584078,"Győr Rába Cup, Győr",HUN,19 MAY 2018,20 MAY 2018,45,381,70567,328,70612,https://worldathletics.org/records/competition-performance-rankings/ranking/584078
+329,582392,"Daytona Beach Embry-Riddle Spike's Classic, Daytona Beach, FL",USA,06 APR 2018,07 APR 2018,5,566,70596,327,70601,https://worldathletics.org/records/competition-performance-rankings/ranking/582392
+330,587079,"Lake Charles McNeese State Last Chance, Lake Charles, LA",USA,12 MAY 2018,12 MAY 2018,30,427,70549,329,70579,https://worldathletics.org/records/competition-performance-rankings/ranking/587079
+331,583595,"Schweinfurt International U18-Gala, Schweinfurt",GER,16 JUN 2018,16 JUN 2018,0,,70527,330,70527,https://worldathletics.org/records/competition-performance-rankings/ranking/583595
+332,586958,"Conegliano Trofeo Toni Fallai, Conegliano",ITA,15 JUN 2018,15 JUN 2018,75,322,70441,332,70516,https://worldathletics.org/records/competition-performance-rankings/ranking/586958
+333,583922,"Helsingborg Interclub Final, Helsingborg",SWE,06 JUL 2018,06 JUL 2018,275,145,70227,342,70502,https://worldathletics.org/records/competition-performance-rankings/ranking/583922
+334,583928,"Hilversum Arena Games, Hilversum",NED,07 JUL 2018,07 JUL 2018,195,178,70305,338,70500,https://worldathletics.org/records/competition-performance-rankings/ranking/583928
+335,581885,"Kampala UAF Trials, Kampala",UGA,24 FEB 2018,24 FEB 2018,120,257,70330,337,70450,https://worldathletics.org/records/competition-performance-rankings/ranking/581885
+336,603053,"WUG Trials, Guangzhou",CHN,30 DEC 2018,30 DEC 2018,70,330,70377,335,70447,https://worldathletics.org/records/competition-performance-rankings/ranking/603053
+337,582350,"Fullerton Titan Team Challenge, Fullerton, CA",USA,31 MAR 2018,31 MAR 2018,0,,70437,333,70437,https://worldathletics.org/records/competition-performance-rankings/ranking/582350
+338,583757,"Bowling Green WKU Hilltopper Relays, Bowling Green, KY",USA,06 APR 2018,06 APR 2018,0,,70379,334,70379,https://worldathletics.org/records/competition-performance-rankings/ranking/583757
+339,585175,"Carquefou Meeting National, Carquefou",FRA,16 JUN 2018,16 JUN 2018,90,291,70269,340,70359,https://worldathletics.org/records/competition-performance-rankings/ranking/585175
+340,586038,"Pullman WSU-UW Dual, Pullman, WA",USA,28 APR 2018,28 APR 2018,0,,70334,336,70334,https://worldathletics.org/records/competition-performance-rankings/ranking/586038
+341,582943,"Windsor Johnny Loaring Classic, Windsor",CAN,19 MAY 2018,19 MAY 2018,25,442,70263,341,70288,https://worldathletics.org/records/competition-performance-rankings/ranking/582943
+342,584153,Nové Město nad Metují,CZE,21 JUL 2018,21 JUL 2018,200,172,70074,348,70274,https://worldathletics.org/records/competition-performance-rankings/ranking/584153
+343,589367,"Hattiesburg Southern Miss Open, Hattiesburg, MS",USA,27 APR 2018,28 APR 2018,0,,70271,339,70271,https://worldathletics.org/records/competition-performance-rankings/ranking/589367
+344,581863,"Monterrey Copa Nuevo León, Monterrey",MEX,17 FEB 2018,17 FEB 2018,70,330,70168,344,70238,https://worldathletics.org/records/competition-performance-rankings/ranking/581863
+345,582685,"Westwood UCLA vs. USC Dual, Westwood, CA",USA,29 APR 2018,29 APR 2018,170,196,70055,349,70225,https://worldathletics.org/records/competition-performance-rankings/ranking/582685
+346,583896,"Columbia Bojangles Classic, Columbia, SC",USA,13 APR 2018,14 APR 2018,0,,70202,343,70202,https://worldathletics.org/records/competition-performance-rankings/ranking/583896
+347,588508,"Seattle Ken Shannon Invitational, Seattle, WA",USA,04 MAY 2018,05 MAY 2018,40,394,70145,345,70185,https://worldathletics.org/records/competition-performance-rankings/ranking/588508
+348,582078,"Houston Cougar Spring Break Invitational, Houston, TX",USA,15 MAR 2018,15 MAR 2018,35,413,70121,346,70156,https://worldathletics.org/records/competition-performance-rankings/ranking/582078
+349,582409,"Boulder Colorado Invitational, Boulder, CO",USA,06 APR 2018,07 APR 2018,5,566,70115,347,70120,https://worldathletics.org/records/competition-performance-rankings/ranking/582409
+350,583543,"Kalamata Papaflessia, Kalamata",GRE,09 JUN 2018,09 JUN 2018,95,285,69995,351,70090,https://worldathletics.org/records/competition-performance-rankings/ranking/583543
+351,582990,"Basel Susanne Meier Memorial, Basel",SUI,21 MAY 2018,21 MAY 2018,25,442,70015,350,70040,https://worldathletics.org/records/competition-performance-rankings/ranking/582990
+352,583972,"Grangemouth UK Women's League, Grangemouth",GBR,07 JUL 2018,07 JUL 2018,40,394,69982,352,70022,https://worldathletics.org/records/competition-performance-rankings/ranking/583972
+353,582486,"Champaign Illinois Twilight, Champaign, IL",USA,14 APR 2018,14 APR 2018,50,367,69958,353,70008,https://worldathletics.org/records/competition-performance-rankings/ranking/582486
+354,583069,"Queretaro Copa Autonomia, Queretaro",MEX,28 APR 2018,29 APR 2018,55,356,69945,354,70000,https://worldathletics.org/records/competition-performance-rankings/ranking/583069
+355,582611,"Norman John Jacobs Invitational, Norman, OK",USA,20 APR 2018,21 APR 2018,70,330,69904,356,69974,https://worldathletics.org/records/competition-performance-rankings/ranking/582611
+356,582781,"Sioux Falls Howard Wood Dakota Relays, Sioux Falls, SD",USA,04 MAY 2018,05 MAY 2018,30,427,69929,355,69959,https://worldathletics.org/records/competition-performance-rankings/ranking/582781
+357,583451,"Huizingen Flanders Cup, Huizingen",BEL,09 JUN 2018,09 JUN 2018,15,509,69902,357,69917,https://worldathletics.org/records/competition-performance-rankings/ranking/583451
+358,584221,"Budapest Honvéd Cup, Budapest",HUN,27 JUL 2018,28 JUL 2018,40,394,69849,360,69889,https://worldathletics.org/records/competition-performance-rankings/ranking/584221
+359,582184,"Birmingham Samford Alabama Challenge, Birmingham, AL",USA,23 MAR 2018,23 MAR 2018,40,394,69841,361,69881,https://worldathletics.org/records/competition-performance-rankings/ranking/582184
+360,582378,"Princeton Sam Howell Invitational, Princeton, NJ",USA,06 APR 2018,06 APR 2018,15,509,69863,359,69878,https://worldathletics.org/records/competition-performance-rankings/ranking/582378
+361,582805,"Gulf Shores AHSAA State 1A-7A, Gulf Shores, AL",USA,04 MAY 2018,05 MAY 2018,0,,69872,358,69872,https://worldathletics.org/records/competition-performance-rankings/ranking/582805
+362,582966,"Compiégne French Club Championships, Compiégne",FRA,20 MAY 2018,20 MAY 2018,220,166,69651,373,69871,https://worldathletics.org/records/competition-performance-rankings/ranking/582966
+363,582884,"Gent Belgian Club Championships, Gent",BEL,13 MAY 2018,13 MAY 2018,140,231,69681,368,69821,https://worldathletics.org/records/competition-performance-rankings/ranking/582884
+364,583063,"Gurabo Spring Break Classic, Gurabo",PUR,16 MAR 2018,17 MAR 2018,90,291,69726,364,69816,https://worldathletics.org/records/competition-performance-rankings/ranking/583063
+365,594899,"Kingston Camperdown Classics, Kingston",JAM,10 FEB 2018,10 FEB 2018,125,250,69679,369,69804,https://worldathletics.org/records/competition-performance-rankings/ranking/594899
+366,583315,"Banská Bystrica, Banská Bystrica",SVK,02 JUN 2018,02 JUN 2018,130,245,69664,371,69794,https://worldathletics.org/records/competition-performance-rankings/ranking/583315
+367,584647,"Lier Memorial Jos Verstockt, Lier",BEL,18 AUG 2018,18 AUG 2018,55,356,69720,365,69775,https://worldathletics.org/records/competition-performance-rankings/ranking/584647
+368,582769,"Kingston JAAA All Comers Meet, Kingston",JAM,05 MAY 2018,05 MAY 2018,405,110,69358,388,69763,https://worldathletics.org/records/competition-performance-rankings/ranking/582769
+369,584109,"Waco Region 2-6A Meet, Waco, TX",USA,27 APR 2018,28 APR 2018,0,,69746,362,69746,https://worldathletics.org/records/competition-performance-rankings/ranking/584109
+370,587081,"Irvine Big West Challenge, Irvine, CA",USA,06 APR 2018,06 APR 2018,0,,69739,363,69739,https://worldathletics.org/records/competition-performance-rankings/ranking/587081
+371,587902,"Akron Northeast Ohio Quad, Akron, OH",USA,06 APR 2018,07 APR 2018,35,413,69697,366,69732,https://worldathletics.org/records/competition-performance-rankings/ranking/587902
+372,587093,"Cullowhee Catamount Classic, Cullowhee, NC",USA,13 APR 2018,14 APR 2018,0,,69692,367,69692,https://worldathletics.org/records/competition-performance-rankings/ranking/587093
+373,584538,"Tsukuba University Compettion, University Stadium, Tsukuba",JPN,21 APR 2018,22 APR 2018,25,442,69665,370,69690,https://worldathletics.org/records/competition-performance-rankings/ranking/584538
+374,582861,"Cochabamba Torneo Julia Iriarte, Cochabamba",BOL,13 MAY 2018,13 MAY 2018,80,311,69601,374,69681,https://worldathletics.org/records/competition-performance-rankings/ranking/582861
+375,583687,"Thun Abendmeeting, Thun",SUI,20 JUN 2018,20 JUN 2018,10,535,69661,372,69671,https://worldathletics.org/records/competition-performance-rankings/ranking/583687
+376,585796,Obernai,FRA,13 OCT 2018,14 OCT 2018,180,188,69464,383,69644,https://worldathletics.org/records/competition-performance-rankings/ranking/585796
+377,582491,"Santiago de Chile Grand Prix CDUC, Santiago de Chile",CHI,16 APR 2018,16 APR 2018,200,172,69423,385,69623,https://worldathletics.org/records/competition-performance-rankings/ranking/582491
+378,582154,"Mobile South Alabama Jaguar Classic, Mobile, AL",USA,16 MAR 2018,17 MAR 2018,25,442,69579,376,69604,https://worldathletics.org/records/competition-performance-rankings/ranking/582154
+379,582177,"Houston TSU Relays, Houston, TX",USA,16 MAR 2018,17 MAR 2018,0,,69596,375,69596,https://worldathletics.org/records/competition-performance-rankings/ranking/582177
+380,585080,"Naperville Dr. Keeler Meet, Naperville, IL",USA,10 MAY 2018,11 MAY 2018,5,566,69568,378,69573,https://worldathletics.org/records/competition-performance-rankings/ranking/585080
+381,584063,"Arlington Region 1-6A Meet, Arlington, TX",USA,27 APR 2018,28 APR 2018,0,,69569,377,69569,https://worldathletics.org/records/competition-performance-rankings/ranking/584063
+382,582174,"Irvine Spring Break Classic, Irvine, CA",USA,16 MAR 2018,17 MAR 2018,5,566,69549,379,69554,https://worldathletics.org/records/competition-performance-rankings/ranking/582174
+383,583999,"Columbia Tom Botts Invitational, Columbia, MO",USA,20 APR 2018,21 APR 2018,10,535,69543,380,69553,https://worldathletics.org/records/competition-performance-rankings/ranking/583999
+384,582496,"Providence Ocean State Invitational, Providence, RI",USA,13 APR 2018,14 APR 2018,5,566,69512,381,69517,https://worldathletics.org/records/competition-performance-rankings/ranking/582496
+385,583718,"Dallas Jesuit Sheaner Relays, Dallas, TX",USA,23 MAR 2018,24 MAR 2018,0,,69489,382,69489,https://worldathletics.org/records/competition-performance-rankings/ranking/583718
+386,582379,"High Point VertKlasse, High Point, NC",USA,06 APR 2018,06 APR 2018,40,394,69433,384,69473,https://worldathletics.org/records/competition-performance-rankings/ranking/582379
+387,583562,"Wrocław Memoriał Edward Listos, Wrocław",POL,13 JUN 2018,13 JUN 2018,40,394,69410,386,69450,https://worldathletics.org/records/competition-performance-rankings/ranking/583562
+388,583183,"Jena Sparkassen-Meeting, Jena",GER,26 MAY 2018,26 MAY 2018,85,298,69315,392,69400,https://worldathletics.org/records/competition-performance-rankings/ranking/583183
+389,583586,"Elche Spanish Club Championships, Elche",ESP,16 JUN 2018,16 JUN 2018,40,394,69358,388,69398,https://worldathletics.org/records/competition-performance-rankings/ranking/583586
+390,582417,"Salt Lake City Spring Classic, Salt Lake City, UT",USA,06 APR 2018,07 APR 2018,0,,69375,387,69375,https://worldathletics.org/records/competition-performance-rankings/ranking/582417
+391,583804,"Belfast International, Belfast",GBR,26 JUN 2018,26 JUN 2018,65,341,69303,394,69368,https://worldathletics.org/records/competition-performance-rankings/ranking/583804
+392,583064,"Mayagüez Justa Clasificatoria, Mayagüez",PUR,06 APR 2018,07 APR 2018,50,367,69307,393,69357,https://worldathletics.org/records/competition-performance-rankings/ranking/583064
+393,582711,"Loughborough BUCS Trials & Open, Loughborough",GBR,28 APR 2018,28 APR 2018,25,442,69320,391,69345,https://worldathletics.org/records/competition-performance-rankings/ranking/582711
+394,582284,"Chandler Rotary Invitational, Chandler, AZ",USA,23 MAR 2018,24 MAR 2018,0,,69326,390,69326,https://worldathletics.org/records/competition-performance-rankings/ranking/582284
+395,582182,"Jacksonville Bob Hayes Invitational, Jacksonville, FL",USA,16 MAR 2018,17 MAR 2018,0,,69294,395,69294,https://worldathletics.org/records/competition-performance-rankings/ranking/582182
+396,582343,"Hattiesburg Southern Miss Invitational, Hattiesburg, MS",USA,30 MAR 2018,31 MAR 2018,0,,69253,396,69253,https://worldathletics.org/records/competition-performance-rankings/ranking/582343
+397,583877,"Celle Ligure Meeting Arcobaleno, Celle Ligure",ITA,03 JUL 2018,03 JUL 2018,60,351,69192,398,69252,https://worldathletics.org/records/competition-performance-rankings/ranking/583877
+398,581306,"Port Harcourt AFN Golden League Meeting, Port Harcourt",NGR,27 JAN 2018,28 JAN 2018,50,367,69189,399,69239,https://worldathletics.org/records/competition-performance-rankings/ranking/581306
+399,583357,"Kentwood MHSAA State Ch. LP-1, Grand Rapids, MI",USA,02 JUN 2018,02 JUN 2018,0,,69236,397,69236,https://worldathletics.org/records/competition-performance-rankings/ranking/583357
+400,583174,"Palafrugell Meeting Internacional, Palafrugell",ESP,26 MAY 2018,26 MAY 2018,80,311,69150,401,69230,https://worldathletics.org/records/competition-performance-rankings/ranking/583174
+401,582932,"Spanish Club Championships, San Sebastián",ESP,19 MAY 2018,19 MAY 2018,110,267,69072,406,69182,https://worldathletics.org/records/competition-performance-rankings/ranking/582932
+402,583414,"Somerset NJSIAA Groups 1, 4, Somerset, NJ",USA,01 JUN 2018,02 JUN 2018,0,,69177,400,69177,https://worldathletics.org/records/competition-performance-rankings/ranking/583414
+403,585418,Kraków,POL,10 JUN 2018,10 JUN 2018,25,442,69100,403,69125,https://worldathletics.org/records/competition-performance-rankings/ranking/585418
+404,582267,"Golden Mines Nature's Bakery Invite, Golden, CO",USA,23 MAR 2018,24 MAR 2018,5,566,69099,404,69104,https://worldathletics.org/records/competition-performance-rankings/ranking/582267
+405,583826,"Nottwil Bonus-Track Meeting, Nottwil",SUI,30 JUN 2018,30 JUN 2018,0,,69101,402,69101,https://worldathletics.org/records/competition-performance-rankings/ranking/583826
+406,582975,"Gladbeck BORSIG-Meeting, Gladbeck",GER,19 MAY 2018,19 MAY 2018,0,,69073,405,69073,https://worldathletics.org/records/competition-performance-rankings/ranking/582975
+407,582847,"Saint-Mard Belgian Club Championships, Saint-Mard",BEL,12 MAY 2018,12 MAY 2018,135,239,68930,409,69065,https://worldathletics.org/records/competition-performance-rankings/ranking/582847
+408,582651,"Berkeley Brutus Hamilton Invitational, Berkeley, CA",USA,27 APR 2018,27 APR 2018,145,223,68899,412,69044,https://worldathletics.org/records/competition-performance-rankings/ranking/582651
+409,582044,"Lake Charles Cowboy Relays, Lake Charles, LA",USA,10 MAR 2018,10 MAR 2018,5,566,69018,407,69023,https://worldathletics.org/records/competition-performance-rankings/ranking/582044
+410,584519,"Naju National Club Team Meet, Naju",KOR,11 APR 2018,13 APR 2018,50,367,68953,408,69003,https://worldathletics.org/records/competition-performance-rankings/ranking/584519
+411,582832,"Langenthal Auffahrts-Meeting, Langenthal",SUI,10 MAY 2018,10 MAY 2018,15,509,68927,411,68942,https://worldathletics.org/records/competition-performance-rankings/ranking/582832
+412,582567,"Fort Collins NoCo Challenge, Fort Collins, CO",USA,14 APR 2018,14 APR 2018,0,,68928,410,68928,https://worldathletics.org/records/competition-performance-rankings/ranking/582567
+413,582358,"Greeley Tom Benich Invitational, Greeley, CO",USA,31 MAR 2018,31 MAR 2018,0,,68890,413,68890,https://worldathletics.org/records/competition-performance-rankings/ranking/582358
+414,582458,"Hammond Southeastern Strawberry Relays, Hammond, LA",USA,13 APR 2018,13 APR 2018,85,298,68790,419,68875,https://worldathletics.org/records/competition-performance-rankings/ranking/582458
+415,585016,"Milano Meeting Athletic Elite, Milano",ITA,15 SEP 2018,15 SEP 2018,0,,68830,414,68830,https://worldathletics.org/records/competition-performance-rankings/ranking/585016
+416,583065,"Zeven Pfingstsportfest, Zeven",GER,19 MAY 2018,20 MAY 2018,0,,68827,415,68827,https://worldathletics.org/records/competition-performance-rankings/ranking/583065
+417,586015,"Normal Illinois State Redbird Invitational, Normal, IL",USA,14 APR 2018,14 APR 2018,10,535,68814,417,68824,https://worldathletics.org/records/competition-performance-rankings/ranking/586015
+418,582580,"Towson Invitational, Towson, MD",USA,14 APR 2018,14 APR 2018,0,,68815,416,68815,https://worldathletics.org/records/competition-performance-rankings/ranking/582580
+419,594588,"Calgary CALTAF Classic, Calgary",CAN,15 JUN 2018,17 JUN 2018,5,566,68797,418,68802,https://worldathletics.org/records/competition-performance-rankings/ranking/594588
+420,583900,"Novo Mesto Int. Meeting, Novo Mesto",SLO,04 JUL 2018,04 JUL 2018,165,204,68630,423,68795,https://worldathletics.org/records/competition-performance-rankings/ranking/583900
+421,594592,"Lincoln Nebraska Invitational, Lincoln, NE",USA,05 MAY 2018,05 MAY 2018,40,394,68739,422,68779,https://worldathletics.org/records/competition-performance-rankings/ranking/594592
+422,589782,"Davis Woody Wilson Classic College, Davis, CA",USA,14 APR 2018,14 APR 2018,5,566,68770,420,68775,https://worldathletics.org/records/competition-performance-rankings/ranking/589782
+423,584822,"Dubnica nad Váhom Slovak Club Championships, Dubnica nad Váhom",SVK,02 SEP 2018,02 SEP 2018,185,182,68572,428,68757,https://worldathletics.org/records/competition-performance-rankings/ranking/584822
+424,582082,"Emporia State Spring Invite, Emporia, KS",USA,16 MAR 2018,16 MAR 2018,0,,68749,421,68749,https://worldathletics.org/records/competition-performance-rankings/ranking/582082
+425,584720,Tampere,FIN,24 AUG 2018,24 AUG 2018,55,356,68616,425,68671,https://worldathletics.org/records/competition-performance-rankings/ranking/584720
+426,582587,"Warrensburg UCM Mule Relays, Warrensburg, MO",USA,20 APR 2018,20 APR 2018,15,509,68621,424,68636,https://worldathletics.org/records/competition-performance-rankings/ranking/582587
+427,584736,Rapperswil-Jona,SUI,25 AUG 2018,25 AUG 2018,35,413,68570,429,68605,https://worldathletics.org/records/competition-performance-rankings/ranking/584736
+428,582370,"Richmond Fred Hardy Invitational, Richmond, VA",USA,30 MAR 2018,31 MAR 2018,0,,68604,426,68604,https://worldathletics.org/records/competition-performance-rankings/ranking/582370
+429,583776,"Nacogdoches Carl Kight Invitational, Nacogdoches, TX",USA,05 APR 2018,07 APR 2018,0,,68597,427,68597,https://worldathletics.org/records/competition-performance-rankings/ranking/583776
+430,594590,"Lexington Kentucky Relays, Lexington, KY",USA,05 MAY 2018,05 MAY 2018,75,322,68521,432,68596,https://worldathletics.org/records/competition-performance-rankings/ranking/594590
+431,587104,"Allendale Al Owens Classic, Allendale, MI",USA,20 APR 2018,21 APR 2018,100,277,68469,434,68569,https://worldathletics.org/records/competition-performance-rankings/ranking/587104
+432,582838,"Hillsdale ""Last-Chance"" Classic w/Multi, Hillsdale, MI",USA,09 MAY 2018,10 MAY 2018,0,,68542,430,68542,https://worldathletics.org/records/competition-performance-rankings/ranking/582838
+433,582921,"Naperville NCC Gregory Final Qualifier, Naperville, IL",USA,16 MAY 2018,17 MAY 2018,5,566,68530,431,68535,https://worldathletics.org/records/competition-performance-rankings/ranking/582921
+434,582761,"Charlottesville Dogwood Track Classic, Charlottesville, VA",USA,04 MAY 2018,05 MAY 2018,70,330,68461,436,68531,https://worldathletics.org/records/competition-performance-rankings/ranking/582761
+435,582403,"Mobile South Alabama Invitational, Mobile, AL",USA,06 APR 2018,07 APR 2018,10,535,68484,433,68494,https://worldathletics.org/records/competition-performance-rankings/ranking/582403
+436,582597,"Jonesboro ASU Red Wolf Open, Jonesboro, AR",USA,20 APR 2018,21 APR 2018,40,394,68446,439,68486,https://worldathletics.org/records/competition-performance-rankings/ranking/582597
+437,582402,"Terre Haute Gibson Invitational, Terre Haute, IN",USA,06 APR 2018,07 APR 2018,0,,68469,434,68469,https://worldathletics.org/records/competition-performance-rankings/ranking/582402
+438,581942,"Long Beach Opener, Long Beach, CA",USA,03 MAR 2018,03 MAR 2018,0,,68461,436,68461,https://worldathletics.org/records/competition-performance-rankings/ranking/581942
+439,582650,"Laramie 7220 Invite, Laramie, WY",USA,27 APR 2018,27 APR 2018,0,,68459,438,68459,https://worldathletics.org/records/competition-performance-rankings/ranking/582650
+440,582281,"San Luis Obispo Cal Poly Invitational, San Luis Obispo, CA",USA,24 MAR 2018,24 MAR 2018,5,566,68402,440,68407,https://worldathletics.org/records/competition-performance-rankings/ranking/582281
+441,588136,"Army vs Navy Outdoor Star Meet, West Point, NY",USA,07 APR 2018,07 APR 2018,0,,68377,441,68377,https://worldathletics.org/records/competition-performance-rankings/ranking/588136
+442,582408,"Waco Baylor Invitational, Waco, TX",USA,07 APR 2018,07 APR 2018,10,535,68365,442,68375,https://worldathletics.org/records/competition-performance-rankings/ranking/582408
+443,587091,"Azusa Pacific Twilight & Multi, Azusa, CA",USA,10 MAY 2018,11 MAY 2018,5,566,68363,443,68368,https://worldathletics.org/records/competition-performance-rankings/ranking/587091
+444,582631,"Modena Trofeo Liberazione, Modena",ITA,25 APR 2018,25 APR 2018,20,475,68328,444,68348,https://worldathletics.org/records/competition-performance-rankings/ranking/582631
+445,582475,"Philadelphia Temple Owls Invitational, Philadelphia, PA",USA,13 APR 2018,13 APR 2018,240,157,68078,457,68318,https://worldathletics.org/records/competition-performance-rankings/ranking/582475
+445,582928,"Spanish Club Championships, Soria",ESP,19 MAY 2018,19 MAY 2018,70,330,68248,447,68318,https://worldathletics.org/records/competition-performance-rankings/ranking/582928
+447,583415,"Bayville NJSIAA Groups - 2, 3, Bayville, NJ",USA,01 JUN 2018,02 JUN 2018,0,,68280,445,68280,https://worldathletics.org/records/competition-performance-rankings/ranking/583415
+448,582457,"North Canton Walsh Cavaliers Inv., North Canton, OH",USA,13 APR 2018,13 APR 2018,0,,68268,446,68268,https://worldathletics.org/records/competition-performance-rankings/ranking/582457
+449,583013,"Bressanone BRIXIA Meeting, Bressanone, Trentino-Alto Adige",ITA,20 MAY 2018,20 MAY 2018,0,,68239,448,68239,https://worldathletics.org/records/competition-performance-rankings/ranking/583013
+450,582949,"Spanish Club Championships, Zaragoza",ESP,19 MAY 2018,19 MAY 2018,10,535,68198,449,68208,https://worldathletics.org/records/competition-performance-rankings/ranking/582949
+451,582375,"Charlottesville Quad Meet, Charlottesville, VA",USA,06 APR 2018,06 APR 2018,20,475,68178,451,68198,https://worldathletics.org/records/competition-performance-rankings/ranking/582375
+452,582347,"San Diego California Collegiate Open, San Diego, CA",USA,31 MAR 2018,31 MAR 2018,5,566,68185,450,68190,https://worldathletics.org/records/competition-performance-rankings/ranking/582347
+453,582272,"Sao Paulo Torneio José Valdir Barbanti, São Paulo",BRA,24 MAR 2018,24 MAR 2018,170,196,68017,465,68187,https://worldathletics.org/records/competition-performance-rankings/ranking/582272
+454,594900,"Pretoria AGN League, Pretoria",RSA,03 FEB 2018,03 FEB 2018,130,245,68037,461,68167,https://worldathletics.org/records/competition-performance-rankings/ranking/594900
+455,581155,"Hastings Potts Classic, Hastings",NZL,27 JAN 2018,27 JAN 2018,225,164,67935,473,68160,https://worldathletics.org/records/competition-performance-rankings/ranking/581155
+456,583970,"Bedford British Athletics League Div. 1, Bedford",GBR,07 JUL 2018,07 JUL 2018,20,475,68125,453,68145,https://worldathletics.org/records/competition-performance-rankings/ranking/583970
+457,585034,"Castellón ECCC U20 Group A, Castellón",ESP,15 SEP 2018,15 SEP 2018,5,566,68134,452,68139,https://worldathletics.org/records/competition-performance-rankings/ranking/585034
+458,583932,"Tallinn Estonian Cup, Tallinn",EST,07 JUL 2018,07 JUL 2018,95,285,68035,462,68130,https://worldathletics.org/records/competition-performance-rankings/ranking/583932
+459,582447,"Vermillion USD Invite, Vermillion, SD",USA,11 APR 2018,11 APR 2018,5,566,68122,454,68127,https://worldathletics.org/records/competition-performance-rankings/ranking/582447
+460,582260,"Carbondale SIU Bill Cornell Spring Classic, Carbondale, IL",USA,23 MAR 2018,24 MAR 2018,45,381,68073,458,68118,https://worldathletics.org/records/competition-performance-rankings/ranking/582260
+461,583676,"Tulsa Duels, Tulsa, OK",USA,16 MAR 2018,17 MAR 2018,0,,68111,455,68111,https://worldathletics.org/records/competition-performance-rankings/ranking/583676
+462,582042,"Fullerton Ben Brown Invitational, Fullerton, CA",USA,09 MAR 2018,10 MAR 2018,65,341,68041,460,68106,https://worldathletics.org/records/competition-performance-rankings/ranking/582042
+463,586957,"Modena Trofeo Goldoni - Benetti, Modena",ITA,20 MAY 2018,20 MAY 2018,20,475,68085,456,68105,https://worldathletics.org/records/competition-performance-rankings/ranking/586957
+464,584069,"Erzurum Sprint/Relay Challenge Cup, Erzurum",TUR,14 JUL 2018,15 JUL 2018,85,298,68009,466,68094,https://worldathletics.org/records/competition-performance-rankings/ranking/584069
+465,583288,"Cardiff UK Women's League, Cardiff",GBR,02 JUN 2018,02 JUN 2018,15,509,68072,459,68087,https://worldathletics.org/records/competition-performance-rankings/ranking/583288
+466,583446,"Poitiers Meeting National, Poitiers",FRA,09 JUN 2018,09 JUN 2018,20,475,68027,463,68047,https://worldathletics.org/records/competition-performance-rankings/ranking/583446
+467,594586,"Sherwood Park Track Classic, Sherwood Park",CAN,27 JUL 2018,29 JUL 2018,5,566,68021,464,68026,https://worldathletics.org/records/competition-performance-rankings/ranking/594586
+468,585342,Praha,CZE,28 SEP 2018,28 SEP 2018,25,442,67979,467,68004,https://worldathletics.org/records/competition-performance-rankings/ranking/585342
+469,583317,"Tartu Gustav Sule Memorial, Tartu",EST,03 JUN 2018,03 JUN 2018,350,122,67652,481,68002,https://worldathletics.org/records/competition-performance-rankings/ranking/583317
+470,582204,"El Paso UTEP Springtime, El Paso, TX",USA,24 MAR 2018,24 MAR 2018,50,367,67947,470,67997,https://worldathletics.org/records/competition-performance-rankings/ranking/582204
+471,585190,"Dresden DSC Jugendmeeting, Dresden",GER,19 MAY 2018,19 MAY 2018,45,381,67947,470,67992,https://worldathletics.org/records/competition-performance-rankings/ranking/585190
+472,582654,"Fresno Bulldog Invitational, Fresno, CA",USA,28 APR 2018,28 APR 2018,20,475,67966,468,67986,https://worldathletics.org/records/competition-performance-rankings/ranking/582654
+473,586611,"Greenfield South Dakota Invite, Vermillion, SD",USA,11 APR 2018,11 APR 2018,5,566,67965,469,67970,https://worldathletics.org/records/competition-performance-rankings/ranking/586611
+474,582283,"Philadelphia Penn Challenge, Philadelphia, PA",USA,24 MAR 2018,24 MAR 2018,0,,67939,472,67939,https://worldathletics.org/records/competition-performance-rankings/ranking/582283
+475,582377,"San Diego Mountain West Challenge, San Diego, CA",USA,06 APR 2018,06 APR 2018,15,509,67909,474,67924,https://worldathletics.org/records/competition-performance-rankings/ranking/582377
+476,584123,"Sacramento Meet of Champions, Sacramento, CA",USA,28 APR 2018,28 APR 2018,5,566,67842,475,67847,https://worldathletics.org/records/competition-performance-rankings/ranking/584123
+477,582097,"San Diego Ross and Sharon Irwin Invite, San Diego, CA",USA,17 MAR 2018,17 MAR 2018,0,,67823,476,67823,https://worldathletics.org/records/competition-performance-rankings/ranking/582097
+478,583790,"Bishkek Kolpakova Memorial, Bishkek",KGZ,16 JUN 2018,17 JUN 2018,35,413,67739,477,67774,https://worldathletics.org/records/competition-performance-rankings/ranking/583790
+479,582340,"Emporia State Relays, Emporia, KS",USA,31 MAR 2018,31 MAR 2018,55,356,67676,479,67731,https://worldathletics.org/records/competition-performance-rankings/ranking/582340
+480,587807,"Bethlehem Coach Pollard Invitational, Bethlehem, PA",USA,13 APR 2018,14 APR 2018,10,535,67687,478,67697,https://worldathletics.org/records/competition-performance-rankings/ranking/587807
+481,583439,"Ponzano Veneto Memorial Giovanni Maria Idda, Ponzano Veneto",ITA,08 JUN 2018,08 JUN 2018,25,442,67633,482,67658,https://worldathletics.org/records/competition-performance-rankings/ranking/583439
+482,583663,Nogent-sur-Marne,FRA,17 JUN 2018,17 JUN 2018,0,,67657,480,67657,https://worldathletics.org/records/competition-performance-rankings/ranking/583663
+483,584110,"Arlington UIL 5A Region II, Arlington, TX",USA,27 APR 2018,28 APR 2018,0,,67626,483,67626,https://worldathletics.org/records/competition-performance-rankings/ranking/584110
+484,583612,"Halmstad Laxaspelen, Halmstad",SWE,16 JUN 2018,17 JUN 2018,15,509,67575,484,67590,https://worldathletics.org/records/competition-performance-rankings/ranking/583612
+485,582891,"Colombo Asian Games Trials, Colombo",SRI,12 MAY 2018,12 MAY 2018,85,298,67481,488,67566,https://worldathletics.org/records/competition-performance-rankings/ranking/582891
+485,582987,"La Crosse UW Final Qualifier, La Crosse, WI",USA,17 MAY 2018,17 MAY 2018,0,,67566,485,67566,https://worldathletics.org/records/competition-performance-rankings/ranking/582987
+487,583806,"Halluin Meeting National, Halluin",FRA,27 JUN 2018,27 JUN 2018,20,475,67525,487,67545,https://worldathletics.org/records/competition-performance-rankings/ranking/583806
+488,582649,"Sacramento Causeway Classic Dual Meet, Sacramento, CA",USA,27 APR 2018,27 APR 2018,0,,67535,486,67535,https://worldathletics.org/records/competition-performance-rankings/ranking/582649
+489,583437,La Habana,CUB,08 JUN 2018,08 JUN 2018,200,172,67334,490,67534,https://worldathletics.org/records/competition-performance-rankings/ranking/583437
+490,582733,"Zagreb Goran Subotic Memorial, Zagreb",CRO,05 MAY 2018,05 MAY 2018,60,351,67428,489,67488,https://worldathletics.org/records/competition-performance-rankings/ranking/582733
+491,583364,Łomża,POL,05 JUN 2018,05 JUN 2018,270,149,67090,507,67360,https://worldathletics.org/records/competition-performance-rankings/ranking/583364
+492,583855,Málaga,ESP,30 JUN 2018,30 JUN 2018,20,475,67278,491,67298,https://worldathletics.org/records/competition-performance-rankings/ranking/583855
+493,583811,"Plasenica, Plasencia",ESP,27 JUN 2018,27 JUN 2018,80,311,67209,494,67289,https://worldathletics.org/records/competition-performance-rankings/ranking/583811
+494,585145,"Hamilton Porritt Classic, Hamilton",NZL,10 FEB 2018,10 FEB 2018,170,196,67114,503,67284,https://worldathletics.org/records/competition-performance-rankings/ranking/585145
+495,594589,"Ashland Alumni Open, Ashland, OH",USA,27 APR 2018,28 APR 2018,30,427,67225,492,67255,https://worldathletics.org/records/competition-performance-rankings/ranking/594589
+496,584488,"Jelgava U20/U16 Match, Jelgava",LAT,21 JUL 2018,21 JUL 2018,10,535,67211,493,67221,https://worldathletics.org/records/competition-performance-rankings/ranking/584488
+497,582946,"Nantes French Club Championships, Nantes",FRA,20 MAY 2018,20 MAY 2018,5,566,67206,495,67211,https://worldathletics.org/records/competition-performance-rankings/ranking/582946
+498,584034,"Fort Lauderdale FHSAA 2A Region 4, Fort Lauderdale, FL",USA,25 APR 2018,25 APR 2018,10,535,67197,496,67207,https://worldathletics.org/records/competition-performance-rankings/ranking/584034
+499,582449,"Kearney UNK Loper Inv., Kearney, NE",USA,11 APR 2018,12 APR 2018,0,,67186,497,67186,https://worldathletics.org/records/competition-performance-rankings/ranking/582449
+500,583278,"Angouleme Meeting National, Angoulême",FRA,01 JUN 2018,01 JUN 2018,50,367,67127,501,67177,https://worldathletics.org/records/competition-performance-rankings/ranking/583278
+501,583284,"Zagreb Croatian Club Championships, Zagreb",CRO,02 JUN 2018,02 JUN 2018,55,356,67114,503,67169,https://worldathletics.org/records/competition-performance-rankings/ranking/583284
+502,582613,"Rock Island Meet of Champions, Rock Island, IL",USA,20 APR 2018,21 APR 2018,40,394,67116,502,67156,https://worldathletics.org/records/competition-performance-rankings/ranking/582613
+503,580886,"Brisbane Alana Boyd Shield, Brisbane",AUS,13 JAN 2018,13 JAN 2018,10,535,67140,498,67150,https://worldathletics.org/records/competition-performance-rankings/ranking/580886
+504,584212,"Swansea Welsh Athletics, Swansea",GBR,25 JUL 2018,25 JUL 2018,0,,67137,499,67137,https://worldathletics.org/records/competition-performance-rankings/ranking/584212
+505,582057,"Los Angeles Oxy Distance Carnival Spring Break, Los Angeles, CA",USA,10 MAR 2018,10 MAR 2018,0,,67128,500,67128,https://worldathletics.org/records/competition-performance-rankings/ranking/582057
+506,582338,"Cincinnati Oliver Nikoloff Invitational, Cincinnati, OH",USA,30 MAR 2018,31 MAR 2018,5,566,67097,505,67102,https://worldathletics.org/records/competition-performance-rankings/ranking/582338
+507,585147,"Sydney Bankstown Invitational, Sydney",AUS,24 FEB 2018,24 FEB 2018,5,566,67093,506,67098,https://worldathletics.org/records/competition-performance-rankings/ranking/585147
+508,581909,"Berkeley Cal Opener, Berkeley, CA",USA,03 MAR 2018,03 MAR 2018,0,,67084,508,67084,https://worldathletics.org/records/competition-performance-rankings/ranking/581909
+509,583452,"Ptuj SLO-CZE-HUN-SVK U18 Match, Ptuj",SLO,09 JUN 2018,09 JUN 2018,0,,67059,509,67059,https://worldathletics.org/records/competition-performance-rankings/ranking/583452
+510,585053,"Buenos Aires Argentinian Club Championships, Buenos Aires",ARG,15 SEP 2018,16 SEP 2018,125,250,66933,517,67058,https://worldathletics.org/records/competition-performance-rankings/ranking/585053
+511,582369,"Atlanta Emory Classic, Atlanta, GA",USA,30 MAR 2018,31 MAR 2018,20,475,67014,511,67034,https://worldathletics.org/records/competition-performance-rankings/ranking/582369
+512,584616,"Fullerton Titan Twilight, Fullerton, CA",USA,05 MAY 2018,05 MAY 2018,0,,67025,510,67025,https://worldathletics.org/records/competition-performance-rankings/ranking/584616
+513,581701,"Potchefstroom ACNW Track League, Potchefstroom",RSA,13 FEB 2018,13 FEB 2018,25,442,66992,512,67017,https://worldathletics.org/records/competition-performance-rankings/ranking/581701
+514,582643,"Potchefstroom ACNW Track League, Potchefstroom",RSA,19 APR 2018,19 APR 2018,145,223,66849,520,66994,https://worldathletics.org/records/competition-performance-rankings/ranking/582643
+514,583076,"Zagreb Dinamo Zrinjevac 2018, Zagreb",CRO,23 MAY 2018,23 MAY 2018,180,188,66814,521,66994,https://worldathletics.org/records/competition-performance-rankings/ranking/583076
+516,582917,"Redlands Last Chance Qualifier, Redlands, CA",USA,16 MAY 2018,17 MAY 2018,25,442,66960,514,66985,https://worldathletics.org/records/competition-performance-rankings/ranking/582917
+517,594587,"Monroe ULM Warhawk Classic, Monroe, LA",USA,13 APR 2018,14 APR 2018,0,,66969,513,66969,https://worldathletics.org/records/competition-performance-rankings/ranking/594587
+518,600140,"Rock Hill Winthrop ADIDAS Invitational, Rock Hill, SC",USA,22 MAR 2018,24 MAR 2018,40,394,66926,518,66966,https://worldathletics.org/records/competition-performance-rankings/ranking/600140
+519,583224,"Kingston JAAA All Comers Meet, Kingston",JAM,26 MAY 2018,26 MAY 2018,150,219,66810,522,66960,https://worldathletics.org/records/competition-performance-rankings/ranking/583224
+520,582740,"Fargo NDSU Tune Up, Fargo, ND",USA,04 MAY 2018,04 MAY 2018,5,566,66952,515,66957,https://worldathletics.org/records/competition-performance-rankings/ranking/582740
+521,582280,"Williamsburg Dan Stimson Memorial Quad, Williamsburg, VA",USA,24 MAR 2018,24 MAR 2018,0,,66950,516,66950,https://worldathletics.org/records/competition-performance-rankings/ranking/582280
+522,586116,Warszawa,POL,14 JUL 2018,14 JUL 2018,130,245,66790,524,66920,https://worldathletics.org/records/competition-performance-rankings/ranking/586116
+523,584225,"Andorf Int. Josko Laufmeeting, Andorf",AUT,28 JUL 2018,28 JUL 2018,255,152,66628,530,66883,https://worldathletics.org/records/competition-performance-rankings/ranking/584225
+524,582351,"Pittsburgh Wendy's/PSU Invitational, Pittsburgh, PA",USA,31 MAR 2018,31 MAR 2018,0,,66854,519,66854,https://worldathletics.org/records/competition-performance-rankings/ranking/582351
+525,580760,"Sydney Treloar Shield, Sydney",AUS,06 JAN 2018,06 JAN 2018,70,330,66761,526,66831,https://worldathletics.org/records/competition-performance-rankings/ranking/580760
+526,605545,"Inter-Provincial Track & Field Championships, White City Stadium, Bulawayo",ZIM,12 MAY 2018,12 MAY 2018,0,,66799,523,66799,https://worldathletics.org/records/competition-performance-rankings/ranking/605545
+527,594584,"Toledo Invitational, Toledo, OH",USA,03 MAY 2018,04 MAY 2018,5,566,66771,525,66776,https://worldathletics.org/records/competition-performance-rankings/ranking/594584
+528,581845,"Indian Grand Prix 1, Patiala",IND,27 FEB 2018,27 FEB 2018,180,188,66556,534,66736,https://worldathletics.org/records/competition-performance-rankings/ranking/581845
+529,582684,"Shippensburg Paul Kaiser Classic, Shippensburg, PA",USA,28 APR 2018,28 APR 2018,0,,66735,527,66735,https://worldathletics.org/records/competition-performance-rankings/ranking/582684
+530,584970,"Zoetermeer Dutch Club Championships, Zoetermeer",NED,09 SEP 2018,09 SEP 2018,75,322,66593,531,66668,https://worldathletics.org/records/competition-performance-rankings/ranking/584970
+531,583850,Jämsä,FIN,30 JUN 2018,30 JUN 2018,0,,66663,528,66663,https://worldathletics.org/records/competition-performance-rankings/ranking/583850
+531,586817,"Grootebroek Westfries Atletiek Gala, Grootebroek",NED,14 JUL 2018,14 JUL 2018,145,223,66518,538,66663,https://worldathletics.org/records/competition-performance-rankings/ranking/586817
+533,582081,"Winfield Southwestern College Invitational, Winfield, KS",USA,15 MAR 2018,15 MAR 2018,0,,66630,529,66630,https://worldathletics.org/records/competition-performance-rankings/ranking/582081
+534,584741,"Veszprém Balaton Championships, Veszprém",HUN,21 JUL 2018,21 JUL 2018,260,151,66365,548,66625,https://worldathletics.org/records/competition-performance-rankings/ranking/584741
+535,584817,Brugnera,ITA,01 SEP 2018,01 SEP 2018,70,330,66533,536,66603,https://worldathletics.org/records/competition-performance-rankings/ranking/584817
+536,585785,Heongseong,KOR,24 JUL 2018,26 JUL 2018,45,381,66556,534,66601,https://worldathletics.org/records/competition-performance-rankings/ranking/585785
+537,582913,"Cambridge MIT Division III Final Qualifying Meet, Cambridge, MA",USA,17 MAY 2018,17 MAY 2018,0,,66591,532,66591,https://worldathletics.org/records/competition-performance-rankings/ranking/582913
+538,588095,"North Newton Bethel College Invite, North Newton, KS",USA,12 APR 2018,12 APR 2018,0,,66568,533,66568,https://worldathletics.org/records/competition-performance-rankings/ranking/588095
+539,583960,Pietarsaari,FIN,07 JUL 2018,08 JUL 2018,20,475,66522,537,66542,https://worldathletics.org/records/competition-performance-rankings/ranking/583960
+540,582270,"Atlanta Emory Invitational, Atlanta, GA",USA,23 MAR 2018,24 MAR 2018,0,,66518,538,66518,https://worldathletics.org/records/competition-performance-rankings/ranking/582270
+541,583904,"Potomac Bullis Bulldog Invitational, Potomac, MD",USA,14 APR 2018,14 APR 2018,0,,66510,540,66510,https://worldathletics.org/records/competition-performance-rankings/ranking/583904
+542,582634,"Terre Haute Pacesetter Sports Invitational, Terre Haute, IN",USA,20 APR 2018,21 APR 2018,0,,66481,541,66481,https://worldathletics.org/records/competition-performance-rankings/ranking/582634
+543,584038,"Guelph Speed River Twilight Meet, Guelph",CAN,13 JUL 2018,13 JUL 2018,0,,66465,542,66465,https://worldathletics.org/records/competition-performance-rankings/ranking/584038
+544,582741,"Willisau Eröffnungsmeeting, Willisau",SUI,05 MAY 2018,05 MAY 2018,0,,66464,543,66464,https://worldathletics.org/records/competition-performance-rankings/ranking/582741
+545,594583,"Seward Concordia Twilight, Seward, NE",USA,11 MAY 2018,11 MAY 2018,5,566,66429,544,66434,https://worldathletics.org/records/competition-performance-rankings/ranking/594583
+545,585526,"Bregenz ARGE-ALP, Bregenz",AUT,15 SEP 2018,16 SEP 2018,10,535,66424,545,66434,https://worldathletics.org/records/competition-performance-rankings/ranking/585526
+547,582083,"Redlands Invitational, Redlands, CA",USA,16 MAR 2018,16 MAR 2018,10,535,66415,546,66425,https://worldathletics.org/records/competition-performance-rankings/ranking/582083
+548,582934,"Castellón Spanish Club Championships, Castellón",ESP,19 MAY 2018,19 MAY 2018,30,427,66370,547,66400,https://worldathletics.org/records/competition-performance-rankings/ranking/582934
+549,582623,"Lewisburg Bucknell Team Challenge, Lewisburg, PA",USA,21 APR 2018,21 APR 2018,0,,66348,549,66348,https://worldathletics.org/records/competition-performance-rankings/ranking/582623
+550,582729,"Colorado Springs Air Force Twilight Open, Colorado Springs, CO",USA,04 MAY 2018,04 MAY 2018,15,509,66293,551,66308,https://worldathletics.org/records/competition-performance-rankings/ranking/582729
+551,586603,"Chico State Distance Carnival, Chico, CA",USA,07 APR 2018,07 APR 2018,0,,66307,550,66307,https://worldathletics.org/records/competition-performance-rankings/ranking/586603
+552,584543,"Liverpool British Athletics League, Liverpool",GBR,04 AUG 2018,04 AUG 2018,5,566,66277,552,66282,https://worldathletics.org/records/competition-performance-rankings/ranking/584543
+553,583781,"Mobile Challenge of Champions, Mobile, AL",USA,06 APR 2018,07 APR 2018,0,,66268,553,66268,https://worldathletics.org/records/competition-performance-rankings/ranking/583781
+554,584161,"Grangemouth SIAB International, Grangemouth",GBR,21 JUL 2018,21 JUL 2018,0,,66262,554,66262,https://worldathletics.org/records/competition-performance-rankings/ranking/584161
+555,586322,"La Crosse Phil Esten Challenge, La Crosse, WI",USA,21 APR 2018,22 APR 2018,0,,66235,555,66235,https://worldathletics.org/records/competition-performance-rankings/ranking/586322
+556,583696,"Maribor Memorial Iztok Ciglaric, Maribor",SLO,20 JUN 2018,20 JUN 2018,30,427,66203,556,66233,https://worldathletics.org/records/competition-performance-rankings/ranking/583696
+557,583895,Campinas,BRA,30 JUN 2018,30 JUN 2018,30,427,66164,557,66194,https://worldathletics.org/records/competition-performance-rankings/ranking/583895
+558,586027,Helsinki,FIN,28 MAY 2018,29 MAY 2018,10,535,66128,558,66138,https://worldathletics.org/records/competition-performance-rankings/ranking/586027
+559,585770,"Easton Stonehill Skyhawk Invite, Easton, MA",USA,28 APR 2018,28 APR 2018,0,,66119,559,66119,https://worldathletics.org/records/competition-performance-rankings/ranking/585770
+560,586037,"New Wilmington Westminster Invitational, New Wilmington, PA",USA,14 APR 2018,14 APR 2018,0,,66112,560,66112,https://worldathletics.org/records/competition-performance-rankings/ranking/586037
+561,586880,"Berea BW Harrison Dillard Twilight, Berea, OH",USA,11 MAY 2018,11 MAY 2018,0,,66089,561,66089,https://worldathletics.org/records/competition-performance-rankings/ranking/586880
+562,587096,"EIU Big Blue Classic, Charleston, IL",USA,30 MAR 2018,31 MAR 2018,0,,66008,562,66008,https://worldathletics.org/records/competition-performance-rankings/ranking/587096
+563,582845,"Barcelona Spanish U20 Club Championships, Barcelona",ESP,12 MAY 2018,12 MAY 2018,0,,65999,563,65999,https://worldathletics.org/records/competition-performance-rankings/ranking/582845
+564,583986,"Crawley UK Women's League, Crawley",GBR,08 JUL 2018,08 JUL 2018,35,413,65932,564,65967,https://worldathletics.org/records/competition-performance-rankings/ranking/583986
+565,581031,"Brisbane Sally Pearson Shield, Brisbane",AUS,20 JAN 2018,20 JAN 2018,25,442,65893,566,65918,https://worldathletics.org/records/competition-performance-rankings/ranking/581031
+566,585702,"Coquitlam Jesse Bent Memorial, Coquitlam",CAN,09 JUN 2018,10 JUN 2018,0,,65916,565,65916,https://worldathletics.org/records/competition-performance-rankings/ranking/585702
+567,582914,"Rock Island Augustana Twilight, Rock Island, IL",USA,17 MAY 2018,17 MAY 2018,5,566,65863,567,65868,https://worldathletics.org/records/competition-performance-rankings/ranking/582914
+568,586024,"Sydney Treloar Shield, Sydney",AUS,10 NOV 2018,10 NOV 2018,0,,65855,568,65855,https://worldathletics.org/records/competition-performance-rankings/ranking/586024
+569,584617,"Jamaica Tom Farrell Classic, Jamaica, NY",USA,05 MAY 2018,05 MAY 2018,35,413,65818,569,65853,https://worldathletics.org/records/competition-performance-rankings/ranking/584617
+570,582868,Castiglione della Pescaia,ITA,13 MAY 2018,13 MAY 2018,160,210,65682,576,65842,https://worldathletics.org/records/competition-performance-rankings/ranking/582868
+571,582401,"Amarillo WT Classic & Multi, Amarillo, TX",USA,06 APR 2018,07 APR 2018,25,442,65771,570,65796,https://worldathletics.org/records/competition-performance-rankings/ranking/582401
+572,583910,Rotterdam,NED,01 JUL 2018,01 JUL 2018,15,509,65753,571,65768,https://worldathletics.org/records/competition-performance-rankings/ranking/583910
+573,582373,"Maryville MIAA v NSIC Showdown, Maryville, MO",USA,05 APR 2018,05 APR 2018,0,,65750,572,65750,https://worldathletics.org/records/competition-performance-rankings/ranking/582373
+574,582915,"Delaware Great Lakes NCAA Final Qualifying Meet, Delaware, OH",USA,17 MAY 2018,17 MAY 2018,0,,65749,573,65749,https://worldathletics.org/records/competition-performance-rankings/ranking/582915
+575,582342,"Cape Girardeau Joey Haines Invite, Cape Girardeau, MO",USA,30 MAR 2018,31 MAR 2018,5,566,65685,575,65690,https://worldathletics.org/records/competition-performance-rankings/ranking/582342
+576,583225,"Port-of-Spain Hampton Games, Port-of-Spain",TTO,26 MAY 2018,27 MAY 2018,0,,65686,574,65686,https://worldathletics.org/records/competition-performance-rankings/ranking/583225
+577,585040,Ústí nad Labem,CZE,16 SEP 2018,16 SEP 2018,45,381,65638,580,65683,https://worldathletics.org/records/competition-performance-rankings/ranking/585040
+578,582931,"Kladno Czech Club Championships, Kladno",CZE,19 MAY 2018,19 MAY 2018,0,,65678,577,65678,https://worldathletics.org/records/competition-performance-rankings/ranking/582931
+579,583500,"Hvidovre Copenhagen Open, Hvidovre",DEN,09 JUN 2018,10 JUN 2018,0,,65672,578,65672,https://worldathletics.org/records/competition-performance-rankings/ranking/583500
+580,582957,"Belfort French Club Championships, Belfort",FRA,20 MAY 2018,20 MAY 2018,5,566,65664,579,65669,https://worldathletics.org/records/competition-performance-rankings/ranking/582957
+581,584996,"Kearney Loper Last Chance Twilight, Kearney, NE",USA,13 MAY 2018,13 MAY 2018,5,566,65634,581,65639,https://worldathletics.org/records/competition-performance-rankings/ranking/584996
+582,588396,"Hays Alex Francis Classic College, Hays, KS",USA,30 MAR 2018,30 MAR 2018,5,566,65632,582,65637,https://worldathletics.org/records/competition-performance-rankings/ranking/588396
+583,589153,"AFN Golden League, Ozoro",NGR,22 JUN 2018,23 JUN 2018,5,566,65606,583,65611,https://worldathletics.org/records/competition-performance-rankings/ranking/589153
+584,584532,"Tsukuba 1st University Competition, Tsukuba",JPN,07 APR 2018,08 APR 2018,5,566,65599,584,65604,https://worldathletics.org/records/competition-performance-rankings/ranking/584532
+585,582570,"Elon Phoenix Invitational, Elon, NC",USA,14 APR 2018,14 APR 2018,10,535,65586,585,65596,https://worldathletics.org/records/competition-performance-rankings/ranking/582570
+586,585969,"Platteville UW Invitational, Platteville, WI",USA,12 APR 2018,12 APR 2018,0,,65575,586,65575,https://worldathletics.org/records/competition-performance-rankings/ranking/585969
+586,585217,"Clovis CIF Central Section Finals, Clovis, CA",USA,19 MAY 2018,19 MAY 2018,0,,65575,586,65575,https://worldathletics.org/records/competition-performance-rankings/ranking/585217
+588,584983,"Copenhagen Danish Club Championships, Copenhagen",DEN,08 SEP 2018,08 SEP 2018,20,475,65554,588,65574,https://worldathletics.org/records/competition-performance-rankings/ranking/584983
+589,583553,"Miami Louie Bing Classic, Miami, FL",USA,16 FEB 2018,17 FEB 2018,10,535,65462,590,65472,https://worldathletics.org/records/competition-performance-rankings/ranking/583553
+590,583362,"Göteborg Sävedalsspelen, Göteborg",SWE,02 JUN 2018,03 JUN 2018,0,,65470,589,65470,https://worldathletics.org/records/competition-performance-rankings/ranking/583362
+591,583202,Veenendaal,NED,27 MAY 2018,27 MAY 2018,5,566,65451,591,65456,https://worldathletics.org/records/competition-performance-rankings/ranking/583202
+592,583203,"Elk Grove CIF Sac-Joaquin Meet, Elk Grove, CA",USA,24 MAY 2018,25 MAY 2018,5,566,65436,592,65441,https://worldathletics.org/records/competition-performance-rankings/ranking/583203
+593,589154,"National U20 Trials, Ozoro",NGR,07 JUN 2018,08 JUN 2018,0,,65436,592,65436,https://worldathletics.org/records/competition-performance-rankings/ranking/589154
+594,584832,"Hanover Dartmouth Invitational, Hanover, NH",USA,13 APR 2018,13 APR 2018,0,,65431,594,65431,https://worldathletics.org/records/competition-performance-rankings/ranking/584832
+595,586067,Saarijärvi,FIN,24 JUN 2018,24 JUN 2018,55,356,65346,595,65401,https://worldathletics.org/records/competition-performance-rankings/ranking/586067
+596,583913,"Eugene Oregon Relays, Eugene, OR",USA,13 APR 2018,14 APR 2018,0,,65345,596,65345,https://worldathletics.org/records/competition-performance-rankings/ranking/583913
+597,582444,"Mount Berry Field Day Inv., Mount Berry, GA",USA,06 APR 2018,07 APR 2018,0,,65318,597,65318,https://worldathletics.org/records/competition-performance-rankings/ranking/582444
+598,582620,"Worcester Holy Cross Invitational, Worcester, MA",USA,21 APR 2018,21 APR 2018,0,,65314,598,65314,https://worldathletics.org/records/competition-performance-rankings/ranking/582620
+599,586333,"Chester Widener Invitational, Chester, PA",USA,20 APR 2018,21 APR 2018,0,,65287,599,65287,https://worldathletics.org/records/competition-performance-rankings/ranking/586333
+600,584012,"Riihimäki Häme Games, Riihimäki",FIN,10 JUL 2018,10 JUL 2018,20,475,65233,601,65253,https://worldathletics.org/records/competition-performance-rankings/ranking/584012
+601,582006,"Davis Aggie Open, Davis, CA",USA,10 MAR 2018,10 MAR 2018,0,,65250,600,65250,https://worldathletics.org/records/competition-performance-rankings/ranking/582006
+602,581963,"Pretoria AGN League, Pretoria",RSA,27 JAN 2018,27 JAN 2018,40,394,65200,602,65240,https://worldathletics.org/records/competition-performance-rankings/ranking/581963
+602,585015,"Regensdorf Swiss Club Championships, Regensdorf",SUI,15 SEP 2018,15 SEP 2018,40,394,65200,602,65240,https://worldathletics.org/records/competition-performance-rankings/ranking/585015
+604,594585,"Crete Jim Dutcher Memorial, Crete, NE",USA,22 APR 2018,23 APR 2018,5,566,65151,604,65156,https://worldathletics.org/records/competition-performance-rankings/ranking/594585
+605,582637,"Romeoville Lewis Twilight, Romeoville, IL",USA,24 APR 2018,24 APR 2018,0,,65131,605,65131,https://worldathletics.org/records/competition-performance-rankings/ranking/582637
+606,581728,"Daytona Beach Embry-Riddle, Daytona Beach, FL",USA,17 FEB 2018,17 FEB 2018,0,,65107,606,65107,https://worldathletics.org/records/competition-performance-rankings/ranking/581728
+607,585423,"Bielsko-Biała Mityng Beskidianathletic, Bielsko-Biala",POL,16 JUN 2018,16 JUN 2018,0,,65089,607,65089,https://worldathletics.org/records/competition-performance-rankings/ranking/585423
+608,582076,"Wilmington UNCW Seahawk Invitational, Wilmington, NC",USA,09 MAR 2018,10 MAR 2018,0,,65067,608,65067,https://worldathletics.org/records/competition-performance-rankings/ranking/582076
+609,582704,"Santa Barbara vs. Cal Poly, Santa Barbara, CA",USA,28 APR 2018,28 APR 2018,0,,65065,609,65065,https://worldathletics.org/records/competition-performance-rankings/ranking/582704
+610,586114,"Stony Brook Wolfie Invitational, Stony Brook, NY",USA,21 APR 2018,21 APR 2018,0,,65042,610,65042,https://worldathletics.org/records/competition-performance-rankings/ranking/586114
+611,600598,"Division 1 Region 3, Pickerington, OH",USA,23 MAY 2018,25 MAY 2018,0,,65019,611,65019,https://worldathletics.org/records/competition-performance-rankings/ranking/600598
+612,583682,"Missoula Tom Gage Classic, Missoula, MT",USA,04 MAY 2018,04 MAY 2018,0,,65017,612,65017,https://worldathletics.org/records/competition-performance-rankings/ranking/583682
+613,582466,"Norwalk Cerritos Invitational, Norwalk, CA",USA,13 APR 2018,14 APR 2018,80,311,64923,615,65003,https://worldathletics.org/records/competition-performance-rankings/ranking/582466
+614,585766,Polonnaruwa,SRI,12 OCT 2018,14 OCT 2018,85,298,64898,617,64983,https://worldathletics.org/records/competition-performance-rankings/ranking/585766
+615,588137,"Annapolis Navy Spring Invitational, Annapolis, MD",USA,31 MAR 2018,31 MAR 2018,0,,64973,613,64973,https://worldathletics.org/records/competition-performance-rankings/ranking/588137
+616,582059,"Santa Barbara Westmont Quad, Santa Barbara, CA",USA,10 MAR 2018,10 MAR 2018,0,,64945,614,64945,https://worldathletics.org/records/competition-performance-rankings/ranking/582059
+617,581957,"Miami Sam Burley Hall of Fame Invitational, Miami, FL",USA,02 MAR 2018,03 MAR 2018,25,442,64906,616,64931,https://worldathletics.org/records/competition-performance-rankings/ranking/581957
+618,583880,"Golden Mines Kit Mayer Invite, Golden, CO",USA,14 APR 2018,14 APR 2018,0,,64885,618,64885,https://worldathletics.org/records/competition-performance-rankings/ranking/583880
+619,586012,"Petersburg VSU Trojan Invite, Petersburg, VA",USA,21 APR 2018,21 APR 2018,0,,64882,619,64882,https://worldathletics.org/records/competition-performance-rankings/ranking/586012
+620,583876,"Pittsburg Gorilla Classic, Pittsburg, KS",USA,14 APR 2018,14 APR 2018,20,475,64849,620,64869,https://worldathletics.org/records/competition-performance-rankings/ranking/583876
+621,583196,Bern,SUI,26 MAY 2018,26 MAY 2018,0,,64780,621,64780,https://worldathletics.org/records/competition-performance-rankings/ranking/583196
+622,582583,"Oxford Miami Duals, Oxford, OH",USA,14 APR 2018,14 APR 2018,5,566,64749,622,64754,https://worldathletics.org/records/competition-performance-rankings/ranking/582583
+623,584157,Orvieto,ITA,20 JUL 2018,20 JUL 2018,15,509,64735,624,64750,https://worldathletics.org/records/competition-performance-rankings/ranking/584157
+624,586636,"Des Moines Jim Duncan Invitational, Des Moines, IA",USA,13 APR 2018,14 APR 2018,0,,64742,623,64742,https://worldathletics.org/records/competition-performance-rankings/ranking/586636
+625,583366,"Aarhus Nordic Challenge, Århus",DEN,05 JUN 2018,05 JUN 2018,60,351,64654,627,64714,https://worldathletics.org/records/competition-performance-rankings/ranking/583366
+626,585800,"Spokane WAR XI, Spokane, WA",USA,06 APR 2018,07 APR 2018,0,,64712,625,64712,https://worldathletics.org/records/competition-performance-rankings/ranking/585800
+627,581888,"Brisbane Garry Brown Shield, Brisbane",AUS,03 MAR 2018,03 MAR 2018,40,394,64639,628,64679,https://worldathletics.org/records/competition-performance-rankings/ranking/581888
+628,583884,Mulhouse,FRA,01 JUL 2018,01 JUL 2018,0,,64671,626,64671,https://worldathletics.org/records/competition-performance-rankings/ranking/583884
+629,582063,"San Diego Collegiate Challenge, San Diego, CA",USA,10 MAR 2018,10 MAR 2018,0,,64609,629,64609,https://worldathletics.org/records/competition-performance-rankings/ranking/582063
+629,586830,"Meadville Gator Invite, Meadville, PA",USA,11 MAY 2018,11 MAY 2018,0,,64609,629,64609,https://worldathletics.org/records/competition-performance-rankings/ranking/586830
+631,582703,"Whitewater Drake Alternative, Whitewater, WI",USA,28 APR 2018,28 APR 2018,0,,64597,631,64597,https://worldathletics.org/records/competition-performance-rankings/ranking/582703
+632,582258,"Northridge Invitational, Northridge, CA",USA,24 MAR 2018,24 MAR 2018,50,367,64539,636,64589,https://worldathletics.org/records/competition-performance-rankings/ranking/582258
+633,586497,Cuneo,ITA,15 JUL 2018,15 JUL 2018,0,,64567,632,64567,https://worldathletics.org/records/competition-performance-rankings/ranking/586497
+634,581918,"Clinton Mississippi College Season Opener, Clinton, MS",USA,03 MAR 2018,03 MAR 2018,0,,64562,633,64562,https://worldathletics.org/records/competition-performance-rankings/ranking/581918
+635,583557,"Třinec Czech Club Championships, Třinec",CZE,09 JUN 2018,09 JUN 2018,0,,64555,634,64555,https://worldathletics.org/records/competition-performance-rankings/ranking/583557
+636,581993,"Sekondi-Takoradi GAA Circuit, Sekondi-Takoradi",GHA,27 JAN 2018,27 JAN 2018,0,,64541,635,64541,https://worldathletics.org/records/competition-performance-rankings/ranking/581993
+637,585679,"Hartford UMASS Pre-Conference, Hartford, CT",USA,28 APR 2018,28 APR 2018,0,,64538,637,64538,https://worldathletics.org/records/competition-performance-rankings/ranking/585679
+638,583589,Bratislava,SVK,16 JUN 2018,16 JUN 2018,20,475,64506,638,64526,https://worldathletics.org/records/competition-performance-rankings/ranking/583589
+639,583703,"Paderborn Pader-Meeting, Paderborn",GER,16 JUN 2018,16 JUN 2018,90,291,64415,642,64505,https://worldathletics.org/records/competition-performance-rankings/ranking/583703
+640,586858,"La Crosse Eagle Open, La Crosse, WI",USA,13 MAY 2018,13 MAY 2018,0,,64488,639,64488,https://worldathletics.org/records/competition-performance-rankings/ranking/586858
+641,583177,"Valladolid Trofeo Ana Perez, Valladolid",ESP,26 MAY 2018,26 MAY 2018,45,381,64431,641,64476,https://worldathletics.org/records/competition-performance-rankings/ranking/583177
+642,582366,"Pueblo Spank Blasing Invite, Pueblo, CO",USA,30 MAR 2018,31 MAR 2018,0,,64442,640,64442,https://worldathletics.org/records/competition-performance-rankings/ranking/582366
+643,584040,"Miami FHSAA 4A Region 4, Miami, OH",USA,26 APR 2018,26 APR 2018,10,535,64401,643,64411,https://worldathletics.org/records/competition-performance-rankings/ranking/584040
+643,584052,"Bethlehem Lehigh Games, Bethlehem, PA",USA,28 APR 2018,28 APR 2018,10,535,64401,643,64411,https://worldathletics.org/records/competition-performance-rankings/ranking/584052
+645,582368,"San Antonio Trinity Tiger Invite, San Antonio, TX",USA,31 MAR 2018,31 MAR 2018,0,,64395,645,64395,https://worldathletics.org/records/competition-performance-rankings/ranking/582368
+646,586088,"East Stroudsburg All-American Inv., East Stroudsburg, PA",USA,21 APR 2018,21 APR 2018,0,,64375,646,64375,https://worldathletics.org/records/competition-performance-rankings/ranking/586088
+647,584664,Trnava,SVK,18 AUG 2018,18 AUG 2018,55,356,64310,648,64365,https://worldathletics.org/records/competition-performance-rankings/ranking/584664
+648,582043,"Birmingham Southern Invitational, Birmingham, AL",USA,09 MAR 2018,10 MAR 2018,0,,64316,647,64316,https://worldathletics.org/records/competition-performance-rankings/ranking/582043
+649,582467,"Sioux City Relays, Sioux",USA,12 APR 2018,13 APR 2018,30,427,64279,649,64309,https://worldathletics.org/records/competition-performance-rankings/ranking/582467
+650,587070,"Tucson All-Comers Meet, Tucson, AZ",USA,08 DEC 2018,08 DEC 2018,25,442,64229,650,64254,https://worldathletics.org/records/competition-performance-rankings/ranking/587070
+651,587080,"Lake Charles McNeese Springtime Classic, Lake Charles, LA",USA,07 APR 2018,07 APR 2018,5,566,64190,651,64195,https://worldathletics.org/records/competition-performance-rankings/ranking/587080
+652,585595,"College Park Maryland Invitational, College Park, MD",USA,17 MAR 2018,17 MAR 2018,5,566,64173,653,64178,https://worldathletics.org/records/competition-performance-rankings/ranking/585595
+653,582989,"Chula Vista HP Meet, Chula Vista, CA",USA,19 MAY 2018,19 MAY 2018,435,106,63741,679,64176,https://worldathletics.org/records/competition-performance-rankings/ranking/582989
+654,583548,Getafe,ESP,13 JUN 2018,13 JUN 2018,0,,64175,652,64175,https://worldathletics.org/records/competition-performance-rankings/ranking/583548
+655,584154,Dubnica nad Váhom,SVK,21 JUL 2018,21 JUL 2018,105,273,64029,657,64134,https://worldathletics.org/records/competition-performance-rankings/ranking/584154
+656,582064,"Chico Wildcat Invitational, Chico, CA",USA,10 MAR 2018,10 MAR 2018,0,,64124,654,64124,https://worldathletics.org/records/competition-performance-rankings/ranking/582064
+657,585771,"Springfield NEWMAC Ch., Springfield, MA",USA,28 APR 2018,28 APR 2018,0,,64077,655,64077,https://worldathletics.org/records/competition-performance-rankings/ranking/585771
+658,585193,"Canberra Summer Down Under, Canberra",AUS,20 JAN 2018,21 JAN 2018,145,223,63929,663,64074,https://worldathletics.org/records/competition-performance-rankings/ranking/585193
+659,582930,"Pamplona Spanish Club Championships, Pamplona",ESP,28 APR 2018,28 APR 2018,5,566,64032,656,64037,https://worldathletics.org/records/competition-performance-rankings/ranking/582930
+660,581532,Perth,AUS,09 FEB 2018,09 FEB 2018,35,413,63994,659,64029,https://worldathletics.org/records/competition-performance-rankings/ranking/581532
+661,583071,"Vancouver UBC Open, Vancouver",CAN,30 MAR 2018,31 MAR 2018,0,,64011,658,64011,https://worldathletics.org/records/competition-performance-rankings/ranking/583071
+662,586634,"Cheney Pelluer Invitational, Cheney, WA",USA,13 APR 2018,14 APR 2018,0,,63977,660,63977,https://worldathletics.org/records/competition-performance-rankings/ranking/586634
+663,584489,Helsinki,FIN,29 JUL 2018,29 JUL 2018,65,341,63895,667,63960,https://worldathletics.org/records/competition-performance-rankings/ranking/584489
+664,582588,"Adrian Don Kleinow Invitational, Adrian, MI",USA,20 APR 2018,20 APR 2018,0,,63954,661,63954,https://worldathletics.org/records/competition-performance-rankings/ranking/582588
+665,586014,"Charlotte Johnson C. Smith University Inv., Charlotte, NC",USA,06 APR 2018,07 APR 2018,0,,63934,662,63934,https://worldathletics.org/records/competition-performance-rankings/ranking/586014
+666,586585,Gurabo,PUR,08 DEC 2018,08 DEC 2018,10,535,63919,666,63929,https://worldathletics.org/records/competition-performance-rankings/ranking/586585
+667,583794,"New London Silfen Invitational, New London, CT",USA,13 APR 2018,14 APR 2018,0,,63927,664,63927,https://worldathletics.org/records/competition-performance-rankings/ranking/583794
+668,582367,"Shawnee Oklahoma Baptist Invite, Shawnee, OK",USA,30 MAR 2018,31 MAR 2018,0,,63921,665,63921,https://worldathletics.org/records/competition-performance-rankings/ranking/582367
+669,583285,"Tel Aviv International U20 Match, Tel Aviv",ISR,13 MAY 2018,13 MAY 2018,5,566,63887,668,63892,https://worldathletics.org/records/competition-performance-rankings/ranking/583285
+670,584533,"Langenthal Sommer-Meeting, Langenthal",SUI,02 AUG 2018,02 AUG 2018,0,,63887,668,63887,https://worldathletics.org/records/competition-performance-rankings/ranking/584533
+671,583191,"Ndola All Comers Meet, Ndola",ZAM,03 MAR 2018,04 MAR 2018,0,,63884,670,63884,https://worldathletics.org/records/competition-performance-rankings/ranking/583191
+672,586960,"Roma Trofeo Liberazione, Roma",ITA,25 APR 2018,25 APR 2018,0,,63842,671,63842,https://worldathletics.org/records/competition-performance-rankings/ranking/586960
+673,585929,"Louisville Bellarmine Invitational, Louisville, KY",USA,06 APR 2018,06 APR 2018,0,,63830,672,63830,https://worldathletics.org/records/competition-performance-rankings/ranking/585929
+674,583198,Fuenlabrada,ESP,26 MAY 2018,26 MAY 2018,5,566,63822,674,63827,https://worldathletics.org/records/competition-performance-rankings/ranking/583198
+675,587072,"Pueblo Early Bird, Pueblo, CO",USA,16 MAR 2018,17 MAR 2018,0,,63826,673,63826,https://worldathletics.org/records/competition-performance-rankings/ranking/587072
+676,582263,"Kampala UAF Trials, Kampala",UGA,20 JAN 2018,20 JAN 2018,40,394,63781,677,63821,https://worldathletics.org/records/competition-performance-rankings/ranking/582263
+677,594225,"Christi-Himmelfahrtssportfest, Köln",GER,10 MAY 2018,10 MAY 2018,5,566,63806,675,63811,https://worldathletics.org/records/competition-performance-rankings/ranking/594225
+678,584560,"Leigh UK Women's League, Leigh",GBR,05 AUG 2018,05 AUG 2018,5,566,63805,676,63810,https://worldathletics.org/records/competition-performance-rankings/ranking/584560
+679,582376,"Monmouth John Knight Twilight, Monmouth, OR",USA,06 APR 2018,06 APR 2018,35,413,63758,678,63793,https://worldathletics.org/records/competition-performance-rankings/ranking/582376
+680,583008,"Karlstad Swedish Club Championships, Karlstad",SWE,19 MAY 2018,19 MAY 2018,135,239,63591,686,63726,https://worldathletics.org/records/competition-performance-rankings/ranking/583008
+681,587866,"Wichita State KT Woodman Classic, Wichita, KS",USA,10 APR 2018,14 APR 2018,0,,63693,680,63693,https://worldathletics.org/records/competition-performance-rankings/ranking/587866
+682,582981,"Coulaines French Club Championships, Coulaines",FRA,20 MAY 2018,20 MAY 2018,50,367,63627,683,63677,https://worldathletics.org/records/competition-performance-rankings/ranking/582981
+683,585623,Pacov,CZE,30 JUN 2018,30 JUN 2018,10,535,63656,681,63666,https://worldathletics.org/records/competition-performance-rankings/ranking/585623
+684,587086,"Portland L&C Spring Break Open, Portland, OR",USA,16 MAR 2018,17 MAR 2018,0,,63641,682,63641,https://worldathletics.org/records/competition-performance-rankings/ranking/587086
+685,585624,Hochdorf,SUI,02 JUN 2018,02 JUN 2018,0,,63617,684,63617,https://worldathletics.org/records/competition-performance-rankings/ranking/585624
+686,585756,"Winfield Southwestern College Relays, Winfield, KS",USA,28 APR 2018,28 APR 2018,0,,63603,685,63603,https://worldathletics.org/records/competition-performance-rankings/ranking/585756
+687,580996,"Capital Classic, Whanganui",NZL,20 JAN 2018,20 JAN 2018,10,535,63585,687,63595,https://worldathletics.org/records/competition-performance-rankings/ranking/580996
+688,582093,"San Antonio UIW Cardinal Spring Break Classic, San Antonio, TX",USA,15 MAR 2018,16 MAR 2018,70,330,63452,689,63522,https://worldathletics.org/records/competition-performance-rankings/ranking/582093
+689,584051,"Moorhead The Ron Masanz Classic, Moorhead, MN",USA,28 APR 2018,28 APR 2018,0,,63505,688,63505,https://worldathletics.org/records/competition-performance-rankings/ranking/584051
+690,586762,"Calgary Spring Challenge, Calgary",CAN,12 MAY 2018,13 MAY 2018,5,566,63434,690,63439,https://worldathletics.org/records/competition-performance-rankings/ranking/586762
+691,586330,"Westerville Otterbein Twilight Invitational, Westerville, OH",USA,20 APR 2018,20 APR 2018,0,,63316,691,63316,https://worldathletics.org/records/competition-performance-rankings/ranking/586330
+692,585794,"Winona Saint Mary's Open, Winona, MN",USA,28 APR 2018,28 APR 2018,0,,63313,692,63313,https://worldathletics.org/records/competition-performance-rankings/ranking/585794
+693,583508,"Bridgetown Olympians' Classic, Bridgetown",BAR,09 JUN 2018,10 JUN 2018,0,,63290,693,63290,https://worldathletics.org/records/competition-performance-rankings/ranking/583508
+694,586819,"Greenville Select, Greenville, IL",USA,14 APR 2018,14 APR 2018,0,,63280,694,63280,https://worldathletics.org/records/competition-performance-rankings/ranking/586819
+695,581172,"Brisbane Denise Boyd Shield, Brisbane",AUS,26 JAN 2018,26 JAN 2018,0,,63144,695,63144,https://worldathletics.org/records/competition-performance-rankings/ranking/581172
+696,583498,"Praha Czech Club Championships, Praha",CZE,09 JUN 2018,09 JUN 2018,10,535,63115,696,63125,https://worldathletics.org/records/competition-performance-rankings/ranking/583498
+697,585106,Yeosu,KOR,25 AUG 2018,26 AUG 2018,5,566,63113,697,63118,https://worldathletics.org/records/competition-performance-rankings/ranking/585106
+698,582885,"Heusden-Zolder Belgian Club Championships, Heusden-Zolder",BEL,12 MAY 2018,12 MAY 2018,0,,63100,698,63100,https://worldathletics.org/records/competition-performance-rankings/ranking/582885
+699,584891,"Wroclaw, Wrocław",POL,12 MAY 2018,13 MAY 2018,0,,63084,699,63084,https://worldathletics.org/records/competition-performance-rankings/ranking/584891
+700,584971,"Amersfoort Dutch Club Championships, Amersfoort",NED,09 SEP 2018,09 SEP 2018,10,535,63073,701,63083,https://worldathletics.org/records/competition-performance-rankings/ranking/584971
+701,582731,"Wichita State Shocker Open, Wichita, KS",USA,04 MAY 2018,04 MAY 2018,0,,63076,700,63076,https://worldathletics.org/records/competition-performance-rankings/ranking/582731
+702,583074,"La Norville French Club Championships, La Norville",FRA,19 MAY 2018,19 MAY 2018,125,250,62932,707,63057,https://worldathletics.org/records/competition-performance-rankings/ranking/583074
+703,582489,"Mesa T-Bird Invitational, Mesa, AZ",USA,13 APR 2018,13 APR 2018,160,210,62895,710,63055,https://worldathletics.org/records/competition-performance-rankings/ranking/582489
+704,586891,"Lisle Benedictine Relays and Invitational, Lisle, IL",USA,13 APR 2018,13 APR 2018,0,,63050,702,63050,https://worldathletics.org/records/competition-performance-rankings/ranking/586891
+705,581734,"Pretoria AGN League, Pretoria",RSA,17 FEB 2018,17 FEB 2018,0,,63030,703,63030,https://worldathletics.org/records/competition-performance-rankings/ranking/581734
+706,583210,"Douglasville Atlanta Georgia Relays, Douglasville, GA",USA,26 MAY 2018,27 MAY 2018,125,250,62899,709,63024,https://worldathletics.org/records/competition-performance-rankings/ranking/583210
+707,585728,"Columbia Lindsey Wilson Classic, Columbia, KY",USA,05 APR 2018,05 APR 2018,25,442,62980,705,63005,https://worldathletics.org/records/competition-performance-rankings/ranking/585728
+708,584099,"Sao Paulo, São Paulo",BRA,15 APR 2018,15 APR 2018,130,245,62871,712,63001,https://worldathletics.org/records/competition-performance-rankings/ranking/584099
+709,586340,"Newport News New Captains Classic, Newport News, VA",USA,20 APR 2018,21 APR 2018,0,,62988,704,62988,https://worldathletics.org/records/competition-performance-rankings/ranking/586340
+710,582693,"Gaborone International Meet, Gaborone",BOT,29 APR 2018,29 APR 2018,160,210,62815,715,62975,https://worldathletics.org/records/competition-performance-rankings/ranking/582693
+711,582061,"Fort Worth Jet Relays, Fort Worth, TX",USA,10 MAR 2018,10 MAR 2018,0,,62961,706,62961,https://worldathletics.org/records/competition-performance-rankings/ranking/582061
+712,586593,"Amherst UMass Minuteman Invitational, Amherst, MA",USA,07 APR 2018,07 APR 2018,0,,62901,708,62901,https://worldathletics.org/records/competition-performance-rankings/ranking/586593
+713,582984,"Velenje Slovenian U20 Club Championships, Velenje",SLO,19 MAY 2018,19 MAY 2018,0,,62887,711,62887,https://worldathletics.org/records/competition-performance-rankings/ranking/582984
+714,583351,"Łódź Ludwik Szumlewski Memorial, Łódź",POL,03 JUN 2018,03 JUN 2018,100,277,62769,716,62869,https://worldathletics.org/records/competition-performance-rankings/ranking/583351
+715,582372,"Seward Concordia Invite, Seward, NE",USA,05 APR 2018,05 APR 2018,0,,62838,713,62838,https://worldathletics.org/records/competition-performance-rankings/ranking/582372
+716,585822,"Baltimore Johns Hopkins Invitational, Baltimore, MD",USA,06 APR 2018,06 APR 2018,0,,62837,714,62837,https://worldathletics.org/records/competition-performance-rankings/ranking/585822
+717,581989,"Sydney NSW All-Comers, Sydney",AUS,10 MAR 2018,10 MAR 2018,55,356,62652,718,62707,https://worldathletics.org/records/competition-performance-rankings/ranking/581989
+718,586959,"Cles Meeting Melinda, Cles",ITA,25 AUG 2018,25 AUG 2018,80,311,62605,719,62685,https://worldathletics.org/records/competition-performance-rankings/ranking/586959
+719,584039,"Québec Serie Montreal-Quebec Meet, Québec",CAN,13 JUL 2018,13 JUL 2018,25,442,62659,717,62684,https://worldathletics.org/records/competition-performance-rankings/ranking/584039
+720,586695,"Hamilton North Island Ch, Hamilton",NZL,15 DEC 2018,15 DEC 2018,5,566,62602,720,62607,https://worldathletics.org/records/competition-performance-rankings/ranking/586695
+721,585010,Kraków,POL,03 JUN 2018,03 JUN 2018,0,,62601,721,62601,https://worldathletics.org/records/competition-performance-rankings/ranking/585010
+722,585991,"Easton Lafayette 8-Way Invitational, Easton, PA",USA,31 MAR 2018,31 MAR 2018,0,,62536,722,62536,https://worldathletics.org/records/competition-performance-rankings/ranking/585991
+723,582836,"West Point Twilight, West Point, NY",USA,10 MAY 2018,10 MAY 2018,20,475,62496,723,62516,https://worldathletics.org/records/competition-performance-rankings/ranking/582836
+724,586602,"New Haven Mark Young Invitational, New Haven, CT",USA,07 APR 2018,07 APR 2018,0,,62468,724,62468,https://worldathletics.org/records/competition-performance-rankings/ranking/586602
+725,582698,"Bar International Meeting, Bar",MNE,01 MAY 2018,01 MAY 2018,235,159,62232,733,62467,https://worldathletics.org/records/competition-performance-rankings/ranking/582698
+726,585563,"Sao Paulo, São Paulo",BRA,25 MAR 2018,25 MAR 2018,85,298,62349,728,62434,https://worldathletics.org/records/competition-performance-rankings/ranking/585563
+727,584893,"Torun, Toruń",POL,12 MAY 2018,12 MAY 2018,0,,62419,725,62419,https://worldathletics.org/records/competition-performance-rankings/ranking/584893
+728,583945,"Meeting Jose Antonio Peña, Altamira estadioa, Ordizia",ESP,07 JUL 2018,07 JUL 2018,5,566,62399,726,62404,https://worldathletics.org/records/competition-performance-rankings/ranking/583945
+729,584189,"Manhattan Kansas State Ward Haylett Invite, Manhattan, KS",USA,05 MAY 2018,05 MAY 2018,50,367,62318,729,62368,https://worldathletics.org/records/competition-performance-rankings/ranking/584189
+730,583996,"Houston IL 6A District 19-20 Area Meet, Houston, TX",USA,19 APR 2018,19 APR 2018,0,,62361,727,62361,https://worldathletics.org/records/competition-performance-rankings/ranking/583996
+731,583094,"Regensburg Rolf Watter Sportfest, Regensburg",GER,13 MAY 2018,13 MAY 2018,0,,62312,730,62312,https://worldathletics.org/records/competition-performance-rankings/ranking/583094
+732,583599,"Claremont Rossi Relays, Claremont, CA",USA,24 FEB 2018,24 FEB 2018,5,566,62276,731,62281,https://worldathletics.org/records/competition-performance-rankings/ranking/583599
+733,586320,"Oregon City Cougar Open, Oregon City, OR",USA,21 APR 2018,21 APR 2018,0,,62267,732,62267,https://worldathletics.org/records/competition-performance-rankings/ranking/586320
+734,584211,Eindhoven,NED,14 JUL 2018,15 JUL 2018,0,,62151,734,62151,https://worldathletics.org/records/competition-performance-rankings/ranking/584211
+735,584007,Argos Orestiko,GRE,04 JUL 2018,04 JUL 2018,20,475,62087,736,62107,https://worldathletics.org/records/competition-performance-rankings/ranking/584007
+736,582933,"Opava Czech Club Championships, Opava",CZE,19 MAY 2018,19 MAY 2018,0,,62104,735,62104,https://worldathletics.org/records/competition-performance-rankings/ranking/582933
+737,583881,"Missoula Montana Open, Missoula, MT",USA,12 APR 2018,14 APR 2018,0,,62013,737,62013,https://worldathletics.org/records/competition-performance-rankings/ranking/583881
+738,589106,"Inter County Match, Chelmsford",GBR,24 JUN 2018,24 JUN 2018,25,442,61979,740,62004,https://worldathletics.org/records/competition-performance-rankings/ranking/589106
+739,583499,"Nové Město nad Metují Czech Club Championships, Nové Město nad Metují",CZE,09 JUN 2018,09 JUN 2018,0,,62003,738,62003,https://worldathletics.org/records/competition-performance-rankings/ranking/583499
+740,589457,"Al Manuel Northwest Dual, Missoula, MT",USA,30 MAR 2018,31 MAR 2018,5,566,61992,739,61997,https://worldathletics.org/records/competition-performance-rankings/ranking/589457
+741,586731,"Terre Haute Rose-Hulman Twilight Invitational, Terre Haute, IN",USA,20 APR 2018,20 APR 2018,0,,61977,741,61977,https://worldathletics.org/records/competition-performance-rankings/ranking/586731
+742,581140,"Daytona Beach ERAU Outdoor Challenge, Daytona Beach, FL",USA,20 JAN 2018,20 JAN 2018,0,,61888,742,61888,https://worldathletics.org/records/competition-performance-rankings/ranking/581140
+743,582715,"St. Paul Tommie Twilight, St. Paul",USA,02 MAY 2018,02 MAY 2018,0,,61843,743,61843,https://worldathletics.org/records/competition-performance-rankings/ranking/582715
+744,584820,Livorno,ITA,01 SEP 2018,02 SEP 2018,25,442,61783,745,61808,https://worldathletics.org/records/competition-performance-rankings/ranking/584820
+745,585083,"Leiria ECCC U20 Group B, Leiria",POR,15 SEP 2018,15 SEP 2018,0,,61806,744,61806,https://worldathletics.org/records/competition-performance-rankings/ranking/585083
+746,581955,"Los Angeles Cal State LA Invitational, Los Angeles, CA",USA,02 MAR 2018,03 MAR 2018,15,509,61762,746,61777,https://worldathletics.org/records/competition-performance-rankings/ranking/581955
+747,585619,"Győr HUN-CRO-CZE-SLO-SVK U16 Match, Győr",HUN,29 SEP 2018,29 SEP 2018,0,,61760,747,61760,https://worldathletics.org/records/competition-performance-rankings/ranking/585619
+748,587494,"Calgary New Balance Athletic Series, Calgary",CAN,03 JUN 2018,03 JUN 2018,0,,61735,748,61735,https://worldathletics.org/records/competition-performance-rankings/ranking/587494
+749,584998,"Abilene ACU Last Chance Meet, Abilene, TX",USA,13 MAY 2018,13 MAY 2018,5,566,61716,749,61721,https://worldathletics.org/records/competition-performance-rankings/ranking/584998
+750,582671,"Humble UIL 5A Region III, Humble, TX",USA,27 APR 2018,28 APR 2018,0,,61712,750,61712,https://worldathletics.org/records/competition-performance-rankings/ranking/582671
+751,586604,"Glendale Vaquero Classic, Glendale, CA",USA,07 APR 2018,07 APR 2018,0,,61684,751,61684,https://worldathletics.org/records/competition-performance-rankings/ranking/586604
+752,583492,"Istanbul Cezmi Or Memorial, Istanbul",TUR,10 JUN 2018,10 JUN 2018,230,160,61453,762,61683,https://worldathletics.org/records/competition-performance-rankings/ranking/583492
+752,584947,"Budapest Hungarian U18 League Final, Budapest",HUN,01 SEP 2018,02 SEP 2018,0,,61683,752,61683,https://worldathletics.org/records/competition-performance-rankings/ranking/584947
+754,583791,"Ljubljana Memorial Matica Šušteršiča in Patrika Cvetana, Ljubljana",SLO,27 JUN 2018,27 JUN 2018,35,413,61622,754,61657,https://worldathletics.org/records/competition-performance-rankings/ranking/583791
+755,584554,"Samsun Turkish U20 Club Championships, Samsun",TUR,01 AUG 2018,01 AUG 2018,5,566,61641,753,61646,https://worldathletics.org/records/competition-performance-rankings/ranking/584554
+756,586444,Perth,AUS,16 NOV 2018,16 NOV 2018,10,535,61605,755,61615,https://worldathletics.org/records/competition-performance-rankings/ranking/586444
+757,584913,"Nova Gorica Slovenian U20 Club Championships, Nova Gorica",SLO,08 SEP 2018,09 SEP 2018,5,566,61599,756,61604,https://worldathletics.org/records/competition-performance-rankings/ranking/584913
+758,583075,"Versailles French Club Championships, Versailles",FRA,19 MAY 2018,19 MAY 2018,15,509,61561,758,61576,https://worldathletics.org/records/competition-performance-rankings/ranking/583075
+759,586031,"Wheaton Don Church Twilight, Wheaton, IL",USA,21 APR 2018,21 APR 2018,0,,61570,757,61570,https://worldathletics.org/records/competition-performance-rankings/ranking/586031
+760,585580,"Sydney Blacktown Treloar Shield, Sydney",AUS,13 OCT 2018,13 OCT 2018,20,475,61497,759,61517,https://worldathletics.org/records/competition-performance-rankings/ranking/585580
+761,584743,"Toruń Memorial Grzegorz Dunecki, Toruń",POL,25 AUG 2018,25 AUG 2018,190,180,61318,770,61508,https://worldathletics.org/records/competition-performance-rankings/ranking/584743
+762,586586,"Alliance Mount Union Homon Open, Alliance, OH",USA,07 APR 2018,07 APR 2018,0,,61493,760,61493,https://worldathletics.org/records/competition-performance-rankings/ranking/586586
+763,583014,"Ellwangen Sparkassen-Meeting, Ellwangen",GER,19 MAY 2018,19 MAY 2018,10,535,61455,761,61465,https://worldathletics.org/records/competition-performance-rankings/ranking/583014
+764,583262,"London Bob Vigars Classic, London",CAN,27 MAY 2018,27 MAY 2018,20,475,61420,763,61440,https://worldathletics.org/records/competition-performance-rankings/ranking/583262
+765,582565,"Chester Quarry Classic, Chester, PA",USA,14 APR 2018,14 APR 2018,0,,61409,764,61409,https://worldathletics.org/records/competition-performance-rankings/ranking/582565
+766,586462,"Sydney Treloar Shield, Sydney",AUS,01 DEC 2018,01 DEC 2018,20,475,61368,765,61388,https://worldathletics.org/records/competition-performance-rankings/ranking/586462
+767,583835,Zagreb,CRO,30 JUN 2018,30 JUN 2018,65,341,61306,771,61371,https://worldathletics.org/records/competition-performance-rankings/ranking/583835
+768,581302,Perth,AUS,01 FEB 2018,01 FEB 2018,25,442,61335,768,61360,https://worldathletics.org/records/competition-performance-rankings/ranking/581302
+769,586589,"Bolivar SBU Invite, Bolivar, MO",USA,07 APR 2018,07 APR 2018,0,,61344,766,61344,https://worldathletics.org/records/competition-performance-rankings/ranking/586589
+770,582262,"Kampala UAF Trials, Kampala",UGA,03 FEB 2018,03 FEB 2018,15,509,61328,769,61343,https://worldathletics.org/records/competition-performance-rankings/ranking/582262
+771,585755,"Baldwin City Zach Kindler Wildcat Open, Baldwin City, KS",USA,28 APR 2018,28 APR 2018,0,,61337,767,61337,https://worldathletics.org/records/competition-performance-rankings/ranking/585755
+772,582694,"Herentals de Stessens Meeting, Herentals",BEL,01 MAY 2018,01 MAY 2018,90,291,61245,775,61335,https://worldathletics.org/records/competition-performance-rankings/ranking/582694
+773,586723,"Calgary New Balance Athletic Series, Calgary",CAN,27 MAY 2018,27 MAY 2018,5,566,61298,772,61303,https://worldathletics.org/records/competition-performance-rankings/ranking/586723
+774,583916,"Kingston International U18 Meet, Kingston",JAM,30 JUN 2018,01 JUL 2018,15,509,61281,773,61296,https://worldathletics.org/records/competition-performance-rankings/ranking/583916
+775,586078,"Lowell George Davis Invitational, Lowell, MA",USA,21 APR 2018,21 APR 2018,0,,61253,774,61253,https://worldathletics.org/records/competition-performance-rankings/ranking/586078
+776,583334,"Rechberghausen Int. Lauf- u. Sprungmeeting, Rechberghausen",GER,03 JUN 2018,03 JUN 2018,85,298,61162,779,61247,https://worldathletics.org/records/competition-performance-rankings/ranking/583334
+777,586439,"Espoo Youth Athletics Games, Espoo",FIN,14 JUN 2018,16 JUN 2018,0,,61211,776,61211,https://worldathletics.org/records/competition-performance-rankings/ranking/586439
+778,586753,"Medford Tufts Snowflake Classic, Medford, MA",USA,31 MAR 2018,31 MAR 2018,0,,61186,777,61186,https://worldathletics.org/records/competition-performance-rankings/ranking/586753
+779,583828,"La Roche-sur-Yon Meeting National, La Roche-sur-Yon",FRA,29 JUN 2018,29 JUN 2018,25,442,61158,780,61183,https://worldathletics.org/records/competition-performance-rankings/ranking/583828
+780,585417,Kraków,POL,10 JUN 2018,10 JUN 2018,0,,61176,778,61176,https://worldathletics.org/records/competition-performance-rankings/ranking/585417
+781,583072,"Heidelberg Qualifikationstage, Heidelberg",GER,20 MAY 2018,21 MAY 2018,0,,61124,781,61124,https://worldathletics.org/records/competition-performance-rankings/ranking/583072
+782,584652,Kotka,FIN,19 AUG 2018,19 AUG 2018,80,311,60878,782,60958,https://worldathletics.org/records/competition-performance-rankings/ranking/584652
+783,585941,"Yankton Mount Marty Twilight, Yankton, SD",USA,25 APR 2018,25 APR 2018,0,,60849,783,60849,https://worldathletics.org/records/competition-performance-rankings/ranking/585941
+784,583575,Tartu,EST,10 JUN 2018,10 JUN 2018,0,,60795,784,60795,https://worldathletics.org/records/competition-performance-rankings/ranking/583575
+785,583271,"Turku Tilastopajacup, Turku",FIN,31 MAY 2018,31 MAY 2018,20,475,60763,785,60783,https://worldathletics.org/records/competition-performance-rankings/ranking/583271
+786,583909,Maia,POR,04 JUL 2018,04 JUL 2018,25,442,60632,788,60657,https://worldathletics.org/records/competition-performance-rankings/ranking/583909
+787,582584,"Lawrenceville Rider Invitational, Lawrence Township, NJ",USA,14 APR 2018,14 APR 2018,0,,60643,786,60643,https://worldathletics.org/records/competition-performance-rankings/ranking/582584
+788,586941,"Winona Spring Sprung Sprang Invite, Winona, MN",USA,12 APR 2018,12 APR 2018,0,,60635,787,60635,https://worldathletics.org/records/competition-performance-rankings/ranking/586941
+789,583209,Lillestrøm,NOR,26 MAY 2018,27 MAY 2018,30,427,60597,791,60627,https://worldathletics.org/records/competition-performance-rankings/ranking/583209
+790,586335,"Bethlehem Greyhound Invitational, Bethlehem, PA",USA,20 APR 2018,21 APR 2018,0,,60606,789,60606,https://worldathletics.org/records/competition-performance-rankings/ranking/586335
+791,586346,"Shippensburg University Mid-Week College Invite, Shippensburg, PA",USA,18 APR 2018,18 APR 2018,0,,60599,790,60599,https://worldathletics.org/records/competition-performance-rankings/ranking/586346
+792,582833,"Kreuzlingen Auffahrtsmeeting, Kreuzlingen",SUI,10 MAY 2018,10 MAY 2018,0,,60574,792,60574,https://worldathletics.org/records/competition-performance-rankings/ranking/582833
+793,585059,"Langley Pacific Invitational, Langley",CAN,15 JUN 2018,17 JUN 2018,0,,60532,793,60532,https://worldathletics.org/records/competition-performance-rankings/ranking/585059
+794,582882,Colombier,SUI,12 MAY 2018,12 MAY 2018,0,,60519,794,60519,https://worldathletics.org/records/competition-performance-rankings/ranking/582882
+795,587022,"Geneseo Early Season Invitational, Geneseo, NY",USA,31 MAR 2018,31 MAR 2018,0,,60490,795,60490,https://worldathletics.org/records/competition-performance-rankings/ranking/587022
+796,581903,"Turlock Kim Duyst Invitational, Turlock, CA",USA,02 MAR 2018,03 MAR 2018,0,,60462,796,60462,https://worldathletics.org/records/competition-performance-rankings/ranking/581903
+797,583410,"Beograd Cup, Beograd",SRB,19 MAY 2018,20 MAY 2018,0,,60459,797,60459,https://worldathletics.org/records/competition-performance-rankings/ranking/583410
+798,582371,"Montreat College Invitational, Montreat, NC",USA,30 MAR 2018,31 MAR 2018,0,,60454,798,60454,https://worldathletics.org/records/competition-performance-rankings/ranking/582371
+799,586595,"Medford Tufts Quad Meet, Medford, MA",USA,07 APR 2018,07 APR 2018,0,,60427,799,60427,https://worldathletics.org/records/competition-performance-rankings/ranking/586595
+800,582837,"Bönnigheim Sportfest, Bönnigheim",GER,10 MAY 2018,10 MAY 2018,25,442,60378,801,60403,https://worldathletics.org/records/competition-performance-rankings/ranking/582837
+801,587078,"Williamsburg Cumberlands Invitational, Williamsburg, KY",USA,13 APR 2018,14 APR 2018,0,,60401,800,60401,https://worldathletics.org/records/competition-performance-rankings/ranking/587078
+802,587130,"Mahwah Ramapo College Invitational, Mahwah, NJ",USA,30 MAR 2018,31 MAR 2018,0,,60378,801,60378,https://worldathletics.org/records/competition-performance-rankings/ranking/587130
+803,583611,"Huddinge Huddingespelen, Huddinge",SWE,15 JUN 2018,17 JUN 2018,0,,60374,803,60374,https://worldathletics.org/records/competition-performance-rankings/ranking/583611
+804,584892,Warszawa,POL,03 JUN 2018,03 JUN 2018,20,475,60322,804,60342,https://worldathletics.org/records/competition-performance-rankings/ranking/584892
+805,585112,"Richmond Southern Track Classic, Richmond, VA",USA,11 MAY 2018,11 MAY 2018,0,,60264,805,60264,https://worldathletics.org/records/competition-performance-rankings/ranking/585112
+806,587458,"Winston Salem Wake Forest Outdoor Opener, Winston Salem, NC",USA,24 MAR 2018,24 MAR 2018,0,,60261,806,60261,https://worldathletics.org/records/competition-performance-rankings/ranking/587458
+807,582005,"Conway UCA Spring Opener, Conway, AR",USA,10 MAR 2018,10 MAR 2018,0,,60177,807,60177,https://worldathletics.org/records/competition-performance-rankings/ranking/582005
+808,584946,"Budapest Hungarian U20 League Final, Budapest",HUN,01 SEP 2018,02 SEP 2018,5,566,60114,808,60119,https://worldathletics.org/records/competition-performance-rankings/ranking/584946
+809,584648,Seinäjoki,FIN,15 AUG 2018,15 AUG 2018,45,381,60009,809,60054,https://worldathletics.org/records/competition-performance-rankings/ranking/584648
+810,582387,"Burnaby SFU Emilie Mondor Invite, Burnaby",CAN,07 APR 2018,07 APR 2018,10,535,59950,810,59960,https://worldathletics.org/records/competition-performance-rankings/ranking/582387
+811,581700,"Potchefstroom ACNW Track League, Potchefstroom",RSA,06 FEB 2018,06 FEB 2018,20,475,59916,812,59936,https://worldathletics.org/records/competition-performance-rankings/ranking/581700
+812,585219,Białystok,POL,16 SEP 2018,16 SEP 2018,0,,59934,811,59934,https://worldathletics.org/records/competition-performance-rankings/ranking/585219
+813,582691,"Ithaca Big Red Outdoor Invitational, Ithaca, NY",USA,29 APR 2018,29 APR 2018,5,566,59902,813,59907,https://worldathletics.org/records/competition-performance-rankings/ranking/582691
+814,582686,"Bruxelles Grand Prix Mingels, Bruxelles",BEL,29 APR 2018,29 APR 2018,15,509,59862,815,59877,https://worldathletics.org/records/competition-performance-rankings/ranking/582686
+815,585189,"Willich Sprint- und Sprungmeeting, Willich",GER,31 MAY 2018,31 MAY 2018,0,,59863,814,59863,https://worldathletics.org/records/competition-performance-rankings/ranking/585189
+816,584966,"Denizli Turkish U20 League, Denizli",TUR,01 SEP 2018,01 SEP 2018,0,,59841,816,59841,https://worldathletics.org/records/competition-performance-rankings/ranking/584966
+817,582419,"Central Susan Rouse Inv., Central, SC",USA,06 APR 2018,07 APR 2018,0,,59816,817,59816,https://worldathletics.org/records/competition-performance-rankings/ranking/582419
+818,598324,"Botswana Championships, Lobatse",BOT,26 MAY 2018,27 MAY 2018,90,291,59721,821,59811,https://worldathletics.org/records/competition-performance-rankings/ranking/598324
+819,583808,Warszawa,POL,24 JUN 2018,24 JUN 2018,20,475,59755,819,59775,https://worldathletics.org/records/competition-performance-rankings/ranking/583808
+820,582282,"Honolulu Rainbow Relays, Honolulu, HI",USA,23 MAR 2018,24 MAR 2018,0,,59756,818,59756,https://worldathletics.org/records/competition-performance-rankings/ranking/582282
+821,584521,"Jeongseon Spring Schools Meeting, Jeongseon",KOR,20 APR 2018,24 APR 2018,0,,59741,820,59741,https://worldathletics.org/records/competition-performance-rankings/ranking/584521
+822,586467,"Brisbane Joanna Stone Shield, Brisbane",AUS,01 DEC 2018,01 DEC 2018,5,566,59718,822,59723,https://worldathletics.org/records/competition-performance-rankings/ranking/586467
+823,582453,"Los Angeles Cal State LA Twilight Open, Los Angeles, CA",USA,12 APR 2018,13 APR 2018,25,442,59695,824,59720,https://worldathletics.org/records/competition-performance-rankings/ranking/582453
+824,587560,"Riverside Orange Empire Conference Finals, Riverside, CA",USA,27 APR 2018,27 APR 2018,0,,59713,823,59713,https://worldathletics.org/records/competition-performance-rankings/ranking/587560
+825,583540,Murcia,ESP,06 JUN 2018,06 JUN 2018,35,413,59651,827,59686,https://worldathletics.org/records/competition-performance-rankings/ranking/583540
+826,583802,"Lancaster UIL 5A - District 10, Lancaster, TX",USA,11 APR 2018,13 APR 2018,0,,59672,825,59672,https://worldathletics.org/records/competition-performance-rankings/ranking/583802
+827,581635,"Kingston Isaac Henry Invitational, Kingston",JAM,17 FEB 2018,17 FEB 2018,320,131,59347,840,59667,https://worldathletics.org/records/competition-performance-rankings/ranking/581635
+828,584994,"Amarillo West Texas A&M Last Chance, Amarillo, TX",USA,13 MAY 2018,13 MAY 2018,0,,59665,826,59665,https://worldathletics.org/records/competition-performance-rankings/ranking/584994
+829,582863,"Santa Cruz GP Mario Paz, Santa Cruz",BOL,11 MAY 2018,11 MAY 2018,85,298,59561,834,59646,https://worldathletics.org/records/competition-performance-rankings/ranking/582863
+830,583348,"Bedford UK Women's League, Bedford",GBR,03 JUN 2018,03 JUN 2018,0,,59641,828,59641,https://worldathletics.org/records/competition-performance-rankings/ranking/583348
+831,585797,Blois,FRA,21 OCT 2018,21 OCT 2018,5,566,59635,829,59640,https://worldathletics.org/records/competition-performance-rankings/ranking/585797
+832,582897,"Kessel-Lo Belgian Club Championships, Kessel-Lo",BEL,13 MAY 2018,13 MAY 2018,5,566,59614,830,59619,https://worldathletics.org/records/competition-performance-rankings/ranking/582897
+833,583677,"Valladolid Spanish Club Championships, Valladolid",ESP,17 JUN 2018,17 JUN 2018,0,,59600,831,59600,https://worldathletics.org/records/competition-performance-rankings/ranking/583677
+834,582632,"Udine Memorial Todaro, Udine",ITA,25 APR 2018,25 APR 2018,15,509,59582,833,59597,https://worldathletics.org/records/competition-performance-rankings/ranking/582632
+835,585795,"Seward Concordia Blizzard Buster, Seward, NE",USA,28 APR 2018,28 APR 2018,0,,59593,832,59593,https://worldathletics.org/records/competition-performance-rankings/ranking/585795
+836,583874,"Thun Swiss U20 Club Championships, Thun",SUI,30 JUN 2018,30 JUN 2018,0,,59558,835,59558,https://worldathletics.org/records/competition-performance-rankings/ranking/583874
+837,584220,"Bern Abendmeeting, Bern",SUI,27 JUL 2018,27 JUL 2018,30,427,59407,836,59437,https://worldathletics.org/records/competition-performance-rankings/ranking/584220
+838,586600,"Lisle Benedictine Invitational, Lisle, IL",USA,07 APR 2018,07 APR 2018,5,566,59399,838,59404,https://worldathletics.org/records/competition-performance-rankings/ranking/586600
+839,581917,"Riverside Quad-Meet, Riverside, CA",USA,03 MAR 2018,03 MAR 2018,0,,59400,837,59400,https://worldathletics.org/records/competition-performance-rankings/ranking/581917
+840,582710,"Ogden Weber State Twilight Meet, Ogden, UT",USA,02 MAY 2018,02 MAY 2018,0,,59374,839,59374,https://worldathletics.org/records/competition-performance-rankings/ranking/582710
+841,584612,"Lima GP Pedro Galvez Velarde, Lima",PER,10 AUG 2018,10 AUG 2018,85,298,59271,845,59356,https://worldathletics.org/records/competition-performance-rankings/ranking/584612
+842,582285,"Rock Island Augustana Viking Olympics, Rock Island, IL",USA,29 MAR 2018,29 MAR 2018,15,509,59330,842,59345,https://worldathletics.org/records/competition-performance-rankings/ranking/582285
+843,582485,"Conway UCA Open, Conway, AR",USA,13 APR 2018,14 APR 2018,0,,59341,841,59341,https://worldathletics.org/records/competition-performance-rankings/ranking/582485
+844,586669,Perth,AUS,14 DEC 2018,14 DEC 2018,15,509,59321,843,59336,https://worldathletics.org/records/competition-performance-rankings/ranking/586669
+845,587021,"Geneseo Beautiful Valley Open, Geneseo, NY",USA,10 MAY 2018,10 MAY 2018,0,,59318,844,59318,https://worldathletics.org/records/competition-performance-rankings/ranking/587021
+846,583681,"Kiev, Kyiv",UKR,17 JUN 2018,17 JUN 2018,5,566,59262,846,59267,https://worldathletics.org/records/competition-performance-rankings/ranking/583681
+847,581988,Perth,AUS,10 MAR 2018,10 MAR 2018,50,367,59169,848,59219,https://worldathletics.org/records/competition-performance-rankings/ranking/581988
+848,586605,"Wichita Friends University Spring Open, Wichita, KS",USA,08 APR 2018,08 APR 2018,0,,59182,847,59182,https://worldathletics.org/records/competition-performance-rankings/ranking/586605
+849,582939,"Marietta Georgia HS Meet of Champions, Marietta, GA",USA,19 MAY 2018,19 MAY 2018,135,239,59032,856,59167,https://worldathletics.org/records/competition-performance-rankings/ranking/582939
+850,583739,"San Diego Mt. Carmel Invitational, San Diego, CA",USA,24 MAR 2018,24 MAR 2018,0,,59143,849,59143,https://worldathletics.org/records/competition-performance-rankings/ranking/583739
+851,583704,"Rabat 2ème Challenge Performance, Rabat",MAR,06 JUN 2018,06 JUN 2018,0,,59134,850,59134,https://worldathletics.org/records/competition-performance-rankings/ranking/583704
+852,586032,"Chicago DePaul Invitational, Chicago, IL",USA,21 APR 2018,21 APR 2018,0,,59130,851,59130,https://worldathletics.org/records/competition-performance-rankings/ranking/586032
+853,586334,"Ashland SOU Raider Invitational, Ashland, OH",USA,20 APR 2018,21 APR 2018,0,,59126,852,59126,https://worldathletics.org/records/competition-performance-rankings/ranking/586334
+854,584121,"Kavala Davitzoglia 2018, Kavala",GRE,18 JUL 2018,18 JUL 2018,55,356,59056,855,59111,https://worldathletics.org/records/competition-performance-rankings/ranking/584121
+855,582692,"Germering Leichtathletik-Meeting, Germering",GER,01 MAY 2018,01 MAY 2018,0,,59090,853,59090,https://worldathletics.org/records/competition-performance-rankings/ranking/582692
+856,586446,"Brisbane Benita Willis Shield, Brisbane",AUS,17 NOV 2018,17 NOV 2018,5,566,59073,854,59078,https://worldathletics.org/records/competition-performance-rankings/ranking/586446
+857,584120,Oslo,NOR,18 JUL 2018,18 JUL 2018,35,413,58954,857,58989,https://worldathletics.org/records/competition-performance-rankings/ranking/584120
+858,581837,Perth,AUS,22 FEB 2018,22 FEB 2018,0,,58923,858,58923,https://worldathletics.org/records/competition-performance-rankings/ranking/581837
+859,586018,"Dubuque Invitational, Dubuque, IA",USA,21 APR 2018,21 APR 2018,0,,58882,859,58882,https://worldathletics.org/records/competition-performance-rankings/ranking/586018
+860,585541,"Waltham Battle Road Twilight Meet 3, Waltham, MA",USA,03 JUN 2018,03 JUN 2018,0,,58874,860,58874,https://worldathletics.org/records/competition-performance-rankings/ranking/585541
+861,583706,"Rabat 4ème Meeting à Thème, Rabat",MAR,12 JUN 2018,12 JUN 2018,0,,58853,861,58853,https://worldathletics.org/records/competition-performance-rankings/ranking/583706
+862,600542,"Otterbein April Fools Invitational, Westerville, OH",USA,30 MAR 2018,30 MAR 2018,5,566,58823,862,58828,https://worldathletics.org/records/competition-performance-rankings/ranking/600542
+863,586456,"Sydney NSW State Relay Championships, Sydney",AUS,24 NOV 2018,25 NOV 2018,15,509,58786,863,58801,https://worldathletics.org/records/competition-performance-rankings/ranking/586456
+864,584155,Trieste,ITA,21 JUL 2018,21 JUL 2018,25,442,58767,864,58792,https://worldathletics.org/records/competition-performance-rankings/ranking/584155
+865,586614,"Des Moines NAIA - Midwest Quad, Des Moines, IA",USA,12 APR 2018,12 APR 2018,0,,58747,865,58747,https://worldathletics.org/records/competition-performance-rankings/ranking/586614
+866,587071,"Augustana Paine Lion Invitational, Augustana",USA,10 MAR 2018,10 MAR 2018,0,,58733,866,58733,https://worldathletics.org/records/competition-performance-rankings/ranking/587071
+867,582291,"Pella Central College Dutch Invitational, Pella, IA",USA,29 MAR 2018,30 MAR 2018,0,,58729,867,58729,https://worldathletics.org/records/competition-performance-rankings/ranking/582291
+868,584722,"Stará Boleslav Czech Club Championships, Stará Boleslav",CZE,25 AUG 2018,25 AUG 2018,25,442,58694,868,58719,https://worldathletics.org/records/competition-performance-rankings/ranking/584722
+869,583445,"Colmar Meeting National, Colmar",FRA,09 JUN 2018,09 JUN 2018,50,367,58638,872,58688,https://worldathletics.org/records/competition-performance-rankings/ranking/583445
+870,584604,"Mol Nacht van de Vriendschap, Mol",BEL,11 AUG 2018,11 AUG 2018,20,475,58654,869,58674,https://worldathletics.org/records/competition-performance-rankings/ranking/584604
+871,585801,"Ewing TCNJ Invitational, Trenton, NJ",USA,06 APR 2018,08 APR 2018,0,,58650,870,58650,https://worldathletics.org/records/competition-performance-rankings/ranking/585801
+872,584026,"Humble UIL 6A Area 15/16, Humble, TX",USA,21 APR 2018,21 APR 2018,0,,58639,871,58639,https://worldathletics.org/records/competition-performance-rankings/ranking/584026
+873,598322,"Northridge CSUN All Comers, Northridge, CA",USA,10 MAR 2018,10 MAR 2018,110,267,58506,877,58616,https://worldathletics.org/records/competition-performance-rankings/ranking/598322
+874,584730,Budapest,HUN,18 AUG 2018,18 AUG 2018,0,,58596,873,58596,https://worldathletics.org/records/competition-performance-rankings/ranking/584730
+875,593801,"Stadionfest, Mörfelden",GER,10 MAY 2018,10 MAY 2018,0,,58541,874,58541,https://worldathletics.org/records/competition-performance-rankings/ranking/593801
+876,582911,"Konstanz IBL-Länderkampf, Konstanz",GER,12 MAY 2018,12 MAY 2018,5,566,58525,875,58530,https://worldathletics.org/records/competition-performance-rankings/ranking/582911
+877,585696,"Mount Vernon Cornell Invitational, Mount Vernon, IA",USA,05 APR 2018,05 APR 2018,0,,58522,876,58522,https://worldathletics.org/records/competition-performance-rankings/ranking/585696
+878,584667,"Copenhagen Games, Copenhagen",DEN,18 AUG 2018,19 AUG 2018,0,,58470,878,58470,https://worldathletics.org/records/competition-performance-rankings/ranking/584667
+879,587067,"Monmouth Fighting Scots Outdoor Invitational, Monmouth, IL",USA,05 MAY 2018,05 MAY 2018,0,,58458,879,58458,https://worldathletics.org/records/competition-performance-rankings/ranking/587067
+880,611067,"St. Charles Lindenwood Dual, St. Charles",USA,24 APR 2018,24 APR 2018,0,,58455,880,58455,https://worldathletics.org/records/competition-performance-rankings/ranking/611067
+881,584663,Yverdon-les-Bains,SUI,18 AUG 2018,18 AUG 2018,0,,58416,881,58416,https://worldathletics.org/records/competition-performance-rankings/ranking/584663
+882,583044,Piaseczno,POL,20 MAY 2018,20 MAY 2018,80,311,58334,883,58414,https://worldathletics.org/records/competition-performance-rankings/ranking/583044
+883,585945,"Indianapolis Knight Open, Indianapolis, IN",USA,06 APR 2018,06 APR 2018,0,,58374,882,58374,https://worldathletics.org/records/competition-performance-rankings/ranking/585945
+884,587052,"Lowell Umass Invitational, Lowell, MA",USA,31 MAR 2018,31 MAR 2018,0,,58264,884,58264,https://worldathletics.org/records/competition-performance-rankings/ranking/587052
+885,584723,"Jablonec nad Nisou Czech Club Championships, Jablonec nad Nisou",CZE,25 AUG 2018,25 AUG 2018,0,,58250,885,58250,https://worldathletics.org/records/competition-performance-rankings/ranking/584723
+886,586594,"Springfield Yellow Jacket Invitational, Springfield, MA",USA,07 APR 2018,07 APR 2018,0,,58161,886,58161,https://worldathletics.org/records/competition-performance-rankings/ranking/586594
+887,586889,"Alton UNH Wildcat Invitational, Alton, IL",USA,14 APR 2018,14 APR 2018,0,,58130,887,58130,https://worldathletics.org/records/competition-performance-rankings/ranking/586889
+888,583501,Dijon,FRA,10 JUN 2018,10 JUN 2018,0,,58078,888,58078,https://worldathletics.org/records/competition-performance-rankings/ranking/583501
+889,583266,"Oslo Clean Air Games, Oslo",NOR,30 MAY 2018,30 MAY 2018,120,257,57928,892,58048,https://worldathletics.org/records/competition-performance-rankings/ranking/583266
+890,584990,"Ouagadougou CAA Meet, Ouagadougou",BUR,18 AUG 2018,18 AUG 2018,30,427,58010,889,58040,https://worldathletics.org/records/competition-performance-rankings/ranking/584990
+891,581075,"Cooks Classic, Whanganui",NZL,23 JAN 2018,23 JAN 2018,20,475,57973,890,57993,https://worldathletics.org/records/competition-performance-rankings/ranking/581075
+892,582844,"Amstetten Austrian Club Championships, Amstetten",AUT,12 MAY 2018,12 MAY 2018,0,,57941,891,57941,https://worldathletics.org/records/competition-performance-rankings/ranking/582844
+893,585976,"Sarnen Sommermeeting, Sarnen",SUI,17 AUG 2018,18 AUG 2018,10,535,57856,893,57866,https://worldathletics.org/records/competition-performance-rankings/ranking/585976
+894,582982,"Vinnitsa Cup ""Golden Hurdles"", Vinnitsa",UKR,19 MAY 2018,19 MAY 2018,0,,57854,894,57854,https://worldathletics.org/records/competition-performance-rankings/ranking/582982
+895,585993,"Allentown Muhlenberg Invitational, Allentown, PA",USA,07 APR 2018,07 APR 2018,0,,57820,895,57820,https://worldathletics.org/records/competition-performance-rankings/ranking/585993
+896,585699,"Sydney Treloar Shield, Sydney",AUS,20 OCT 2018,20 OCT 2018,0,,57805,896,57805,https://worldathletics.org/records/competition-performance-rankings/ranking/585699
+897,583829,Bron,FRA,28 JUN 2018,28 JUN 2018,10,535,57778,897,57788,https://worldathletics.org/records/competition-performance-rankings/ranking/583829
+898,585997,"Millersville Metrics, Millersville, PA",USA,07 APR 2018,07 APR 2018,0,,57723,898,57723,https://worldathletics.org/records/competition-performance-rankings/ranking/585997
+899,586937,"Lincoln NWU Doane Dual, Lincoln, NE",USA,13 APR 2018,13 APR 2018,0,,57711,899,57711,https://worldathletics.org/records/competition-performance-rankings/ranking/586937
+900,584993,"Leverkusen Bahneröffnung mit Hammerwurf-Cup, Leverkusen",GER,28 APR 2018,28 APR 2018,0,,57694,900,57694,https://worldathletics.org/records/competition-performance-rankings/ranking/584993
+901,582422,"Wheaton Invitational, Wheaton, IL",USA,07 APR 2018,07 APR 2018,0,,57687,901,57687,https://worldathletics.org/records/competition-performance-rankings/ranking/582422
+902,585036,"Ruda Śląska, Ruda Slaska",POL,05 MAY 2018,05 MAY 2018,0,,57662,902,57662,https://worldathletics.org/records/competition-performance-rankings/ranking/585036
+903,581292,"Potchefstroom ACNW Track League, Potchefstroom",RSA,30 JAN 2018,30 JAN 2018,20,475,57634,904,57654,https://worldathletics.org/records/competition-performance-rankings/ranking/581292
+904,582954,"Bourg-en Bresse French Club Championships, Bourg-en-Bresse",FRA,20 MAY 2018,20 MAY 2018,95,285,57552,905,57647,https://worldathletics.org/records/competition-performance-rankings/ranking/582954
+905,596834,"British Athletics League Division 2, Bedford",GBR,07 JUL 2018,07 JUL 2018,5,566,57636,903,57641,https://worldathletics.org/records/competition-performance-rankings/ranking/596834

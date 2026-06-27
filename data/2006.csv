@@ -1,0 +1,215 @@
+place,competitionId,competition,country,startDate,endDate,partScore,participationScorePlace,resultScore,resultScorePlace,competitionScore,competitionUrl
+1,537200,"Weltklasse Zürich, Zürich",SUI,18 AUG 2006,18 AUG 2006,8110,1,86721,3,94891,https://worldathletics.org/records/competition-performance-rankings/ranking/537200
+2,388415,"Roma Golden Gala, Stadio Olimpico, Roma",ITA,14 JUL 2006,14 JUL 2006,7515,2,87088,1,94603,https://worldathletics.org/records/competition-performance-rankings/ranking/388415
+3,444861,"Athletissima Lausanne, Stade Olympique de la Pontaise, Lausanne",SUI,11 JUL 2006,11 JUL 2006,7080,6,86785,2,93985,https://worldathletics.org/records/competition-performance-rankings/ranking/444861
+4,518732,"Bruxelles Memorial Van Damme, Boudewijnstadion, Bruxelles",BEL,25 AUG 2006,25 AUG 2006,7410,3,86335,5,93865,https://worldathletics.org/records/competition-performance-rankings/ranking/518732
+5,415176,"Paris-St-Denis Meeting Gaz de France, Stade de France, Paris-St-Denis",FRA,08 JUL 2006,08 JUL 2006,7330,4,86476,4,93806,https://worldathletics.org/records/competition-performance-rankings/ranking/415176
+6,396472,"Athens Super Grand Prix Tsiklitiria, Olympic Stadium, Athina",GRE,03 JUL 2006,03 JUL 2006,7050,7,86002,7,93052,https://worldathletics.org/records/competition-performance-rankings/ranking/396472
+7,388664,"Rieti 2006, Rieti",ITA,27 AUG 2006,27 AUG 2006,6560,10,86037,6,92597,https://worldathletics.org/records/competition-performance-rankings/ranking/388664
+8,537149,"Berlin ISTAF, Olympiastadion, Berlin",GER,03 SEP 2006,03 SEP 2006,7260,5,85119,10,92379,https://worldathletics.org/records/competition-performance-rankings/ranking/537149
+9,380915,"Monaco Herculis, Stade Louis II, Monaco",MON,20 AUG 2006,20 AUG 2006,6845,8,85377,9,92222,https://worldathletics.org/records/competition-performance-rankings/ranking/380915
+10,447786,"Stockholm DN Galan, Stockholm",SWE,25 JUL 2006,25 JUL 2006,6120,12,85787,8,91907,https://worldathletics.org/records/competition-performance-rankings/ranking/447786
+11,378101,"Oslo ExxonMobil Bislett Games, Oslo",NOR,02 JUN 2006,02 JUN 2006,6360,11,85078,11,91438,https://worldathletics.org/records/competition-performance-rankings/ranking/378101
+12,537090,"Eugene Prefontaine Classic, Eugene, OR",USA,27 MAY 2006,28 MAY 2006,6760,9,84525,13,91285,https://worldathletics.org/records/competition-performance-rankings/ranking/537090
+13,408484,"Crystal Palace Norwich Union London Grand Prix, Crystal Palace, London",GBR,28 JUL 2006,28 JUL 2006,5255,14,84827,12,90082,https://worldathletics.org/records/competition-performance-rankings/ranking/408484
+14,537170,"Shanghai Golden Grand Prix, Shanghai",CHN,23 SEP 2006,23 SEP 2006,5765,13,83653,18,89418,https://worldathletics.org/records/competition-performance-rankings/ranking/537170
+15,426968,"Madrid Meeting de Atletismo, Madrid",ESP,17 JUL 2006,17 JUL 2006,4910,16,83885,16,88795,https://worldathletics.org/records/competition-performance-rankings/ranking/426968
+16,410130,"Gateshead Norwich Union British Grand Prix, International Stadium, Gateshead",GBR,11 JUN 2006,11 JUN 2006,4295,18,83886,15,88241,https://worldathletics.org/records/competition-performance-rankings/ranking/410130
+17,430496,"Golden Spike IAAF Super Grand Prix, Ostrava",CZE,29 MAY 2006,30 MAY 2006,5000,15,83159,21,88159,https://worldathletics.org/records/competition-performance-rankings/ranking/430496
+18,373362,"Doha Qatar IAAF Super Tour, Doha",QAT,12 MAY 2006,12 MAY 2006,4900,17,83245,20,88145,https://worldathletics.org/records/competition-performance-rankings/ranking/373362
+19,423517,"Helsinki GE Money GP, Helsinki",FIN,26 JUL 2006,26 JUL 2006,3475,22,83727,17,87202,https://worldathletics.org/records/competition-performance-rankings/ranking/423517
+20,437540,"Heusden-Zolder KBC Night of Athletics, Heusden-Zolder",BEL,22 JUL 2006,22 JUL 2006,3085,25,84054,14,87139,https://worldathletics.org/records/competition-performance-rankings/ranking/437540
+21,461129,"New York Reebok Grand Prix, New York, NY",USA,03 JUN 2006,03 JUN 2006,3235,23,83120,22,86475,https://worldathletics.org/records/competition-performance-rankings/ranking/461129
+22,537083,"Zagreb Meeting 2006, Zagreb",CRO,31 AUG 2006,31 AUG 2006,4270,19,82033,29,86303,https://worldathletics.org/records/competition-performance-rankings/ranking/537083
+23,452711,"Carson adidas Track Classic, Carson, CA",USA,21 MAY 2006,21 MAY 2006,2860,29,83256,19,86116,https://worldathletics.org/records/competition-performance-rankings/ranking/452711
+24,413094,"Villeneuve d'Ascq Meeting Lille Métropole, Villeneuve d'Ascq",FRA,09 JUN 2006,09 JUN 2006,3500,21,82332,26,85832,https://worldathletics.org/records/competition-performance-rankings/ranking/413094
+25,427563,"Huelva Meeting Iberoamericano de Atletismo, Estadio Iberoamericano, Huelva",ESP,20 JUN 2006,20 JUN 2006,2945,26,82816,23,85761,https://worldathletics.org/records/competition-performance-rankings/ranking/427563
+26,537171,"Linz Intersport Gugl-Meeting, Linz",AUT,22 AUG 2006,22 AUG 2006,3515,20,82099,28,85614,https://worldathletics.org/records/competition-performance-rankings/ranking/537171
+27,379781,"Hengelo THALES FBK-Games, FBK Stadium, Hengelo",NED,28 MAY 2006,28 MAY 2006,3130,24,82423,25,85553,https://worldathletics.org/records/competition-performance-rankings/ranking/379781
+28,586175,"Zhukovskiy Znamenskiy Memorial, Meteor, Zhukovskiy",RUS,24 JUN 2006,24 JUN 2006,2450,42,82444,24,85014,https://worldathletics.org/records/competition-performance-rankings/ranking/586175
+29,386850,"Kingston Jamaica Invitational, National Stadium, Kingston",JAM,06 MAY 2006,06 MAY 2006,2935,27,82033,29,84968,https://worldathletics.org/records/competition-performance-rankings/ranking/386850
+30,437375,"Naimette-Xhovémont Meeting Int. de la Province de Liége, Naimette-Xhovémont",BEL,19 JUL 2006,19 JUL 2006,1905,51,82304,27,84209,https://worldathletics.org/records/competition-performance-rankings/ranking/437375
+31,424611,"Zaragoza Meeting Gobierno de Aragón, Zaragoza",ESP,03 JUN 2006,03 JUN 2006,2770,32,81313,33,84083,https://worldathletics.org/records/competition-performance-rankings/ranking/424611
+32,537095,"Eugene NIKE Road To Eugene, Eugene, OR",USA,08 AUG 2006,08 AUG 2006,2805,31,81183,34,83988,https://worldathletics.org/records/competition-performance-rankings/ranking/537095
+33,444934,"Luzern Spitzen Leichtathletik, Luzern",SUI,06 JUL 2006,06 JUL 2006,2110,48,81766,31,83876,https://worldathletics.org/records/competition-performance-rankings/ranking/444934
+34,399540,"Nürnberg DLV-Leichtathletik Gala, Nürnberg",GER,30 JUL 2006,30 JUL 2006,2460,41,81399,32,83859,https://worldathletics.org/records/competition-performance-rankings/ranking/399540
+35,429881,"Memoriál Josefa Odložila, Stadion Juliska, Praha",CZE,05 JUN 2006,05 JUN 2006,2570,37,80852,37,83422,https://worldathletics.org/records/competition-performance-rankings/ranking/429881
+36,388291,"Rovereto Palio Città della Quercia, Stadio Quercia, Rovereto",ITA,30 AUG 2006,30 AUG 2006,2730,34,80666,38,83396,https://worldathletics.org/records/competition-performance-rankings/ranking/388291
+37,389555,"Padova International Meeting, Padova",ITA,01 SEP 2006,01 SEP 2006,2645,35,80608,39,83253,https://worldathletics.org/records/competition-performance-rankings/ranking/389555
+38,384631,"Osaka 2006 IAAF World Athletics Tour, Osaka",JPN,06 MAY 2006,06 MAY 2006,2060,49,81121,35,83181,https://worldathletics.org/records/competition-performance-rankings/ranking/384631
+39,375101,"Janusz Kusociński Memorial, Warszawa",POL,18 JUN 2006,18 JUN 2006,2515,40,80574,40,83089,https://worldathletics.org/records/competition-performance-rankings/ranking/375101
+40,436585,"Belém GP Brasil CAIXA de Atletismo, Mangueirão, Belém",BRA,21 MAY 2006,21 MAY 2006,2565,38,80456,43,83021,https://worldathletics.org/records/competition-performance-rankings/ranking/436585
+41,537092,"Paris DécaNation, Paris",FRA,26 AUG 2006,26 AUG 2006,2865,28,80084,50,82949,https://worldathletics.org/records/competition-performance-rankings/ranking/537092
+42,395959,"Thessaloniki Olympic Meeting, Thessaloniki",GRE,24 JUL 2006,24 JUL 2006,1990,50,80866,36,82856,https://worldathletics.org/records/competition-performance-rankings/ranking/395959
+43,387525,"Torino Memorial Primo Nebiolo, Torino",ITA,06 JUN 2006,06 JUN 2006,2445,43,80237,47,82682,https://worldathletics.org/records/competition-performance-rankings/ranking/387525
+44,445686,"Dubnica nad Váhom The Athletic Bridge, Dubnica nad Váhom",SVK,29 AUG 2006,29 AUG 2006,2830,30,79673,55,82503,https://worldathletics.org/records/competition-performance-rankings/ranking/445686
+45,440880,"Melbourne Telstra Track Classic, Melbourne",AUS,09 MAR 2006,09 MAR 2006,1895,52,80569,41,82464,https://worldathletics.org/records/competition-performance-rankings/ranking/440880
+46,401438,"Kassel Askina 2006, Kassel",GER,08 JUN 2006,08 JUN 2006,1875,54,80562,42,82437,https://worldathletics.org/records/competition-performance-rankings/ranking/401438
+47,460065,"Modesto Relays Invitational, Modesto, CA",USA,06 MAY 2006,06 MAY 2006,2155,47,80252,46,82407,https://worldathletics.org/records/competition-performance-rankings/ranking/460065
+48,436308,"Fortaleza GP Sul-Americano CAIXA de Atletismo, Fortaleza",BRA,17 MAY 2006,17 MAY 2006,2270,45,80127,48,82397,https://worldathletics.org/records/competition-performance-rankings/ranking/436308
+49,383572,"Yokohama SEIKO Super Meet, Yokohama",JPN,24 SEP 2006,24 SEP 2006,2565,38,79747,53,82312,https://worldathletics.org/records/competition-performance-rankings/ranking/383572
+50,537031,"Fort de France Meeting du Conseil Général, Fort-de-France",FRA,29 APR 2006,29 APR 2006,1880,53,80364,45,82244,https://worldathletics.org/records/competition-performance-rankings/ranking/537031
+51,376658,"Bydgoszcz European Athletic Festival, Zdzisław Krzyszkowiak Stadium, Bydgoszcz",POL,01 JUN 2006,01 JUN 2006,2355,44,79862,51,82217,https://worldathletics.org/records/competition-performance-rankings/ranking/376658
+52,396416,"Chania Venizelia, Chania",GRE,17 JUL 2006,17 JUL 2006,1605,60,80411,44,82016,https://worldathletics.org/records/competition-performance-rankings/ranking/396416
+53,404288,"Cuxhaven EWE Athletics - Weltklasse hinterm Deich, Cuxhaven",GER,07 JUL 2006,07 JUL 2006,1645,58,79758,52,81403,https://worldathletics.org/records/competition-performance-rankings/ranking/404288
+54,445465,"Banská Bystrica The Athletic Bridge, Banská Bystrica",SVK,27 AUG 2006,27 AUG 2006,2255,46,79135,60,81390,https://worldathletics.org/records/competition-performance-rankings/ranking/445465
+55,393837,"Cork City Sports, Cork",IRL,01 JUL 2006,01 JUL 2006,1435,62,79740,54,81175,https://worldathletics.org/records/competition-performance-rankings/ranking/393837
+56,400696,"Leverkusen Bayer Meeting, Leverkusen",GER,28 JUL 2006,28 JUL 2006,1760,57,79335,57,81095,https://worldathletics.org/records/competition-performance-rankings/ranking/400696
+57,375094,"Warszawa Pedro’s Cup, Warszawa",POL,30 AUG 2006,30 AUG 2006,2760,33,77912,70,80672,https://worldathletics.org/records/competition-performance-rankings/ranking/375094
+58,424265,"Tallinn 2006, Tallinn",EST,15 AUG 2006,15 AUG 2006,380,126,80110,49,80610,https://worldathletics.org/records/competition-performance-rankings/ranking/424265
+59,398719,"Rehlingen Int. Pfingstsportfest, Rehlingen",GER,05 JUN 2006,05 JUN 2006,1400,66,79137,59,80537,https://worldathletics.org/records/competition-performance-rankings/ranking/398719
+60,537161,"Xalapa Gala Banamex Veracruz 2006, Xalapa",MEX,13 MAY 2006,13 MAY 2006,1430,64,79058,61,80488,https://worldathletics.org/records/competition-performance-rankings/ranking/537161
+61,398800,"Regensburg Domspitzmilch Gala, Regensburg",GER,17 JUN 2006,17 JUN 2006,820,82,79489,56,80309,https://worldathletics.org/records/competition-performance-rankings/ranking/398800
+62,404226,"Dessau Anhalt 2006, Dessau",GER,26 MAY 2006,26 MAY 2006,1860,55,77967,68,79827,https://worldathletics.org/records/competition-performance-rankings/ranking/404226
+63,426071,"Salamanca Gran Premio de Atletismo, Salamanca",ESP,05 JUL 2006,05 JUL 2006,1435,62,78385,64,79820,https://worldathletics.org/records/competition-performance-rankings/ranking/426071
+64,442058,"Canberra Telstra A-series, Canberra",AUS,26 JAN 2006,26 JAN 2006,515,107,79181,58,79696,https://worldathletics.org/records/competition-performance-rankings/ranking/442058
+65,390743,"Lignano Meeting Sport Solidarietá, Lignano",ITA,16 JUL 2006,16 JUL 2006,1065,75,78561,62,79626,https://worldathletics.org/records/competition-performance-rankings/ranking/390743
+66,391331,"Firenze ITA-CHN-RUS Int. Match, Firenze",ITA,04 JUN 2006,04 JUN 2006,1255,68,78101,67,79356,https://worldathletics.org/records/competition-performance-rankings/ranking/391331
+67,369195,"Dakar Grand Prix, Dakar",SEN,29 APR 2006,29 APR 2006,1385,67,77929,69,79314,https://worldathletics.org/records/competition-performance-rankings/ranking/369195
+68,368495,"Beograd Artur Takač Memorial, Beograd",SRB,07 JUN 2006,07 JUN 2006,1640,59,77669,76,79309,https://worldathletics.org/records/competition-performance-rankings/ranking/368495
+69,396350,"Kalamata Papaflessia, Kalamata",GRE,03 JUN 2006,03 JUN 2006,1080,74,78202,66,79282,https://worldathletics.org/records/competition-performance-rankings/ranking/396350
+70,435777,"Rio de Janeiro GP Rio de Atletismo, Rio de Janeiro",BRA,14 MAY 2006,14 MAY 2006,1810,56,77464,81,79274,https://worldathletics.org/records/competition-performance-rankings/ranking/435777
+71,537180,"Daegu Colorful Athletics Meeting, Daegu",KOR,28 SEP 2006,28 SEP 2006,2615,36,76447,96,79062,https://worldathletics.org/records/competition-performance-rankings/ranking/537180
+72,404319,"Cottbus Internationales Lausitzer Meeting, Cottbus",GER,02 JUN 2006,02 JUN 2006,1130,72,77907,71,79037,https://worldathletics.org/records/competition-performance-rankings/ranking/404319
+73,444588,"Genève AtletiCAGenève, Genève",SUI,11 JUN 2006,11 JUN 2006,530,106,78468,63,78998,https://worldathletics.org/records/competition-performance-rankings/ranking/444588
+74,427422,"La Laguna Meeting Isla de Tenerife, La Laguna",ESP,08 JUL 2006,08 JUL 2006,1140,71,77825,74,78965,https://worldathletics.org/records/competition-performance-rankings/ranking/427422
+75,429306,"Santo Domingo Felix Sánchez Invitational, Santo Domingo",DOM,13 MAY 2006,13 MAY 2006,1425,65,77504,80,78929,https://worldathletics.org/records/competition-performance-rankings/ranking/429306
+76,381678,"Rabat International Meeting, Rabat",MAR,17 JUN 2006,17 JUN 2006,440,117,78316,65,78756,https://worldathletics.org/records/competition-performance-rankings/ranking/381678
+76,447180,"Malmö MAI Galan, Malmö",SWE,22 AUG 2006,22 AUG 2006,1490,61,77266,83,78756,https://worldathletics.org/records/competition-performance-rankings/ranking/447180
+78,454533,"Des Moines Drake Relays Invitational, Des Moines, IA",USA,29 APR 2006,29 APR 2006,1120,73,77542,79,78662,https://worldathletics.org/records/competition-performance-rankings/ranking/454533
+79,422336,"Lappeenranta Karelia Games, Lappeenranta",FIN,13 JUL 2006,13 JUL 2006,820,82,77841,72,78661,https://worldathletics.org/records/competition-performance-rankings/ranking/422336
+80,422394,"Lapinlahti Savo Games, Lapinlahti",FIN,16 JUL 2006,16 JUL 2006,765,86,77841,72,78606,https://worldathletics.org/records/competition-performance-rankings/ranking/422394
+81,396227,"Patra Tofalia, Patra",GRE,10 JUL 2006,10 JUL 2006,840,81,77635,77,78475,https://worldathletics.org/records/competition-performance-rankings/ranking/396227
+82,442442,"Brisbane Telstra A-Series, Brisbane",AUS,03 MAR 2006,03 MAR 2006,1205,70,77090,89,78295,https://worldathletics.org/records/competition-performance-rankings/ranking/442442
+83,408314,"Loughborough LEAP 2006, Loughborough",GBR,26 JUL 2006,26 JUL 2006,515,107,77766,75,78281,https://worldathletics.org/records/competition-performance-rankings/ranking/408314
+84,428293,"Reunión Internacional de Atletismo Villa De Bilbao, Bilbao",ESP,01 JUL 2006,01 JUL 2006,1025,76,77185,85,78210,https://worldathletics.org/records/competition-performance-rankings/ranking/428293
+85,382142,"Kaunas EAA Permit Meeting, Kaunas",LTU,01 JUL 2006,01 JUL 2006,915,78,77133,87,78048,https://worldathletics.org/records/competition-performance-rankings/ranking/382142
+86,454033,"Coral Gables Miami Elite Invitational, Coral Gables, FL",USA,15 APR 2006,15 APR 2006,380,126,77615,78,77995,https://worldathletics.org/records/competition-performance-rankings/ranking/454033
+87,370814,"Pretoria ASA Champions Challenge, Pretoria",RSA,27 JAN 2006,27 JAN 2006,670,93,77221,84,77891,https://worldathletics.org/records/competition-performance-rankings/ranking/370814
+88,429546,"Aarhus Games, Århus",DEN,06 JUL 2006,06 JUL 2006,1000,77,76675,93,77675,https://worldathletics.org/records/competition-performance-rankings/ranking/429546
+89,414287,"Sotteville-les-Rouen Meeting National, Sotteville-lès-Rouen",FRA,02 JUL 2006,02 JUL 2006,575,99,77056,90,77631,https://worldathletics.org/records/competition-performance-rankings/ranking/414287
+90,451364,"Baton Rouge LSU Alumni Gold, Baton Rouge, LA",USA,22 APR 2006,22 APR 2006,250,150,77367,82,77617,https://worldathletics.org/records/competition-performance-rankings/ranking/451364
+91,413812,"Strasbourg Meeting National, Strasbourg",FRA,19 JUN 2006,19 JUN 2006,565,100,77009,91,77574,https://worldathletics.org/records/competition-performance-rankings/ranking/413812
+92,464569,"Stanford Payton Jordan Cardinal Invitational, Palo Alto, CA",USA,30 APR 2006,30 APR 2006,380,126,77139,86,77519,https://worldathletics.org/records/competition-performance-rankings/ranking/464569
+93,437264,"Oordegem Memorial Léon Buyle, Oordegem",BEL,01 JUL 2006,01 JUL 2006,330,141,77103,88,77433,https://worldathletics.org/records/competition-performance-rankings/ranking/437264
+94,437637,"Gent Gentse Feesten Meeting, Gent",BEL,16 JUL 2006,16 JUL 2006,425,121,76931,92,77356,https://worldathletics.org/records/competition-performance-rankings/ranking/437637
+95,401119,"Königs Wusterhausen Stadionfest, Königs Wusterhausen",GER,01 SEP 2006,01 SEP 2006,1210,69,76110,102,77320,https://worldathletics.org/records/competition-performance-rankings/ranking/401119
+96,444955,"Lugano International Meeting, Lugano",SUI,09 JUN 2006,09 JUN 2006,780,85,76477,95,77257,https://worldathletics.org/records/competition-performance-rankings/ranking/444955
+97,455921,"Gainesville Diet Pepsi Invitational, Gainesville, FL",USA,01 APR 2006,01 APR 2006,450,116,76665,94,77115,https://worldathletics.org/records/competition-performance-rankings/ranking/455921
+98,447256,"Norrtälje Galan, Norrtälje",SWE,03 JUL 2006,03 JUL 2006,740,88,76341,98,77081,https://worldathletics.org/records/competition-performance-rankings/ranking/447256
+99,416193,"Montgeron Meeting National, Montgeron",FRA,14 MAY 2006,14 MAY 2006,610,96,76374,97,76984,https://worldathletics.org/records/competition-performance-rankings/ranking/416193
+100,376933,"Biała Podlaska Polish Club Championships, Biala Podlaska",POL,27 MAY 2006,27 MAY 2006,605,97,76313,99,76918,https://worldathletics.org/records/competition-performance-rankings/ranking/376933
+101,448946,"Istanbul Cezmi Or Memorial, Istanbul",TUR,03 JUN 2006,03 JUN 2006,585,98,76236,100,76821,https://worldathletics.org/records/competition-performance-rankings/ranking/448946
+102,446768,"Karlskrona Telenor-Galan - Folksam Grand Prix, Karlskrona",SWE,12 JUN 2006,12 JUN 2006,690,91,76126,101,76816,https://worldathletics.org/records/competition-performance-rankings/ranking/446768
+103,384316,"Shizuoka International Meeting, Shizuoka",JPN,03 MAY 2006,03 MAY 2006,365,131,76101,103,76466,https://worldathletics.org/records/competition-performance-rankings/ranking/384316
+104,430810,"Kladno Czech Club Championships, Kladno",CZE,10 JUN 2006,10 JUN 2006,465,114,75948,105,76413,https://worldathletics.org/records/competition-performance-rankings/ranking/430810
+105,430405,"Pardubice Czech Club Championships, Pardubice",CZE,08 JUL 2006,08 JUL 2006,640,94,75675,111,76315,https://worldathletics.org/records/competition-performance-rankings/ranking/430405
+106,436931,"Brest Belarus Cup, Brest",BLR,27 MAY 2006,27 MAY 2006,460,115,75838,108,76298,https://worldathletics.org/records/competition-performance-rankings/ranking/436931
+107,386154,"Hiroshima Oda Mikio Memorial, Hiroshima",JPN,29 APR 2006,29 APR 2006,340,137,75937,106,76277,https://worldathletics.org/records/competition-performance-rankings/ranking/386154
+108,368653,"Velenje Slovenian Grand Prix, Velenje",SLO,23 JUN 2006,23 JUN 2006,365,131,75824,109,76189,https://worldathletics.org/records/competition-performance-rankings/ranking/368653
+109,455679,"Fort Worth TCU Invitational, Fort Worth, TX",USA,22 APR 2006,22 APR 2006,125,172,76058,104,76183,https://worldathletics.org/records/competition-performance-rankings/ranking/455679
+110,450796,"Atlanta Yellow Yacket Invitational, Atlanta, GA",USA,01 APR 2006,01 APR 2006,270,148,75853,107,76123,https://worldathletics.org/records/competition-performance-rankings/ranking/450796
+111,390861,"Isili Meeting Terra Sarda, Isili",ITA,02 SEP 2006,02 SEP 2006,760,87,75338,117,76098,https://worldathletics.org/records/competition-performance-rankings/ranking/390861
+112,437456,"Kortrijk Guldensporenmeeting, Kortrijk",BEL,14 JUL 2006,14 JUL 2006,435,119,75641,112,76076,https://worldathletics.org/records/competition-performance-rankings/ranking/437456
+113,394295,"Bangalore Asian Grand Prix, Bengaluru",IND,22 MAY 2006,22 MAY 2006,515,107,75515,114,76030,https://worldathletics.org/records/competition-performance-rankings/ranking/394295
+114,437341,"Ninove Memorial Geert Rasschaert, Ninove",BEL,29 JUL 2006,29 JUL 2006,260,149,75691,110,75951,https://worldathletics.org/records/competition-performance-rankings/ranking/437341
+115,379639,"Leiden Gouden Spike, Leiden",NED,10 JUN 2006,10 JUN 2006,480,112,75386,115,75866,https://worldathletics.org/records/competition-performance-rankings/ranking/379639
+116,446435,"Karlstad Götagalan, Göteborg",SWE,20 JUL 2006,20 JUL 2006,740,88,75125,126,75865,https://worldathletics.org/records/competition-performance-rankings/ranking/446435
+117,418049,"Forbach Lagard re Athlé Tour, Forbach",FRA,04 JUN 2006,04 JUN 2006,540,103,75228,120,75768,https://worldathletics.org/records/competition-performance-rankings/ranking/418049
+118,417548,"La Roche-sur-Yon Meeting National, La Roche-sur-Yon",FRA,27 JUL 2006,27 JUL 2006,195,156,75567,113,75762,https://worldathletics.org/records/competition-performance-rankings/ranking/417548
+119,414795,"Reims Meeting National, Reims",FRA,25 JUL 2006,25 JUL 2006,370,129,75374,116,75744,https://worldathletics.org/records/competition-performance-rankings/ranking/414795
+120,422548,"Kuortane Games, Kuortane",FIN,24 JUN 2006,24 JUN 2006,895,79,74793,132,75688,https://worldathletics.org/records/competition-performance-rankings/ranking/422548
+121,430498,"Ostrava Czech Club Championships, Ostrava",CZE,20 MAY 2006,20 MAY 2006,540,103,75144,124,75684,https://worldathletics.org/records/competition-performance-rankings/ranking/430498
+122,379711,"Keien Meeting, Keien",NED,03 JUN 2006,03 JUN 2006,340,137,75298,118,75638,https://worldathletics.org/records/competition-performance-rankings/ranking/379711
+123,408317,"Loughborough International, Loughborough",GBR,21 MAY 2006,21 MAY 2006,340,137,75217,121,75557,https://worldathletics.org/records/competition-performance-rankings/ranking/408317
+124,458969,"Los Angeles Oxy Invite, Los Angeles, CA",USA,13 MAY 2006,13 MAY 2006,245,151,75285,119,75530,https://worldathletics.org/records/competition-performance-rankings/ranking/458969
+125,419303,"Bron Meeting National, Bron",FRA,04 JUL 2006,04 JUL 2006,320,142,75131,125,75451,https://worldathletics.org/records/competition-performance-rankings/ranking/419303
+126,429871,"Praha Czech Club Championships, Praha",CZE,02 SEP 2006,02 SEP 2006,790,84,74657,135,75447,https://worldathletics.org/records/competition-performance-rankings/ranking/429871
+127,393978,"Pune Asian Grand Prix, Pune",IND,26 MAY 2006,26 MAY 2006,615,95,74826,131,75441,https://worldathletics.org/records/competition-performance-rankings/ranking/393978
+128,395128,"Budapest Iharos Memorial, Budapest",HUN,30 JUN 2006,30 JUN 2006,280,146,75154,123,75434,https://worldathletics.org/records/competition-performance-rankings/ranking/395128
+129,445647,"Bratislava Slovak Gold, Bratislava",SVK,13 JUN 2006,13 JUN 2006,340,137,75055,127,75395,https://worldathletics.org/records/competition-performance-rankings/ranking/445647
+130,382427,"Riga Cup 2006, Riga",LAT,27 MAY 2006,27 MAY 2006,440,117,74944,129,75384,https://worldathletics.org/records/competition-performance-rankings/ranking/382427
+131,450860,"Auburn Invitational, Auburn, AL",USA,22 APR 2006,22 APR 2006,140,167,75210,122,75350,https://worldathletics.org/records/competition-performance-rankings/ranking/450860
+132,391981,"Celle Ligure Meeting Arcobaleno AtleticaEuropa, Celle Ligure",ITA,08 JUN 2006,08 JUN 2006,320,142,75024,128,75344,https://worldathletics.org/records/competition-performance-rankings/ranking/391981
+133,415644,"Noisy-le-Grand Meeting National, Noisy-le-Grand",FRA,15 JUN 2006,15 JUN 2006,550,102,74779,133,75329,https://worldathletics.org/records/competition-performance-rankings/ranking/415644
+134,419101,"Castres National Meeting, Castres",FRA,01 AUG 2006,01 AUG 2006,350,134,74918,130,75268,https://worldathletics.org/records/competition-performance-rankings/ranking/419101
+135,396765,"Zeulenroda Meeting, Zeulenroda",GER,28 MAY 2006,28 MAY 2006,430,120,74775,134,75205,https://worldathletics.org/records/competition-performance-rankings/ranking/396765
+136,376814,"Bielsko Białą Beskidianathletic, Bielsko-Biala",POL,29 JUL 2006,29 JUL 2006,535,105,74553,138,75088,https://worldathletics.org/records/competition-performance-rankings/ranking/376814
+137,375366,"Szczecin POL-GER U23 Match, Szczecin",POL,24 JUN 2006,24 JUN 2006,385,124,74554,137,74939,https://worldathletics.org/records/competition-performance-rankings/ranking/375366
+138,389299,"Pergine Valsugana Meeting Internazionale, Pergine Valsugana",ITA,15 JUL 2006,15 JUL 2006,305,145,74602,136,74907,https://worldathletics.org/records/competition-performance-rankings/ranking/389299
+139,437394,"Merksem Internationaal Antwerps Atletiek GALA, Merksem",BEL,26 AUG 2006,26 AUG 2006,365,131,74524,139,74889,https://worldathletics.org/records/competition-performance-rankings/ranking/437394
+140,430368,"Plzen CZE-FRA-HUN-ESP U23 Match, Plzeň",CZE,29 JUL 2006,29 JUL 2006,185,159,74507,140,74692,https://worldathletics.org/records/competition-performance-rankings/ranking/430368
+141,394594,"Szombathely MASZ International Meeting, Szombathely",HUN,02 JUL 2006,02 JUL 2006,480,112,74200,141,74680,https://worldathletics.org/records/competition-performance-rankings/ranking/394594
+142,420932,"Turku Paavo Nurmi Games, Turku",FIN,02 JUL 2006,02 JUL 2006,565,100,73960,144,74525,https://worldathletics.org/records/competition-performance-rankings/ranking/420932
+143,408118,"Manchester UK Challenge Final, Manchester",GBR,27 AUG 2006,27 AUG 2006,315,144,74105,142,74420,https://worldathletics.org/records/competition-performance-rankings/ranking/408118
+144,374938,"Wrocław Polish Club Championships, Wrocław",POL,02 SEP 2006,02 SEP 2006,680,92,73737,148,74417,https://worldathletics.org/records/competition-performance-rankings/ranking/374938
+145,444402,"Bern Swiss-Meeting, Bern",SUI,22 JUL 2006,22 JUL 2006,195,156,74072,143,74267,https://worldathletics.org/records/competition-performance-rankings/ranking/444402
+146,436776,"Minsk M. Ovsyanik Memorial, Minsk",BLR,22 JUL 2006,22 JUL 2006,735,90,73516,151,74251,https://worldathletics.org/records/competition-performance-rankings/ranking/436776
+147,421225,"Tampere Elittikisat, Tampere",FIN,07 JUN 2006,07 JUN 2006,495,110,73641,149,74136,https://worldathletics.org/records/competition-performance-rankings/ranking/421225
+148,454906,"El Paso UTEP Invitational, El Paso, TX",USA,15 APR 2006,15 APR 2006,190,158,73859,145,74049,https://worldathletics.org/records/competition-performance-rankings/ranking/454906
+149,375565,"Sopot Janusz Sidło Memorial, Sopot",POL,19 AUG 2006,19 AUG 2006,370,129,73604,150,73974,https://worldathletics.org/records/competition-performance-rankings/ranking/375565
+150,451083,"Austin Texas Twilight, Austin, TX",USA,22 APR 2006,22 APR 2006,160,163,73807,146,73967,https://worldathletics.org/records/competition-performance-rankings/ranking/451083
+151,412360,"Bedford International Games, Bedford",GBR,11 JUN 2006,11 JUN 2006,105,174,73794,147,73899,https://worldathletics.org/records/competition-performance-rankings/ranking/412360
+152,448347,"Bangkok Asian Grand Prix, Bangkok",THA,18 MAY 2006,18 MAY 2006,415,122,73315,153,73730,https://worldathletics.org/records/competition-performance-rankings/ranking/448347
+153,473670,"Gdańsk Józef Żylewicz Memorial, Gdansk",POL,15 JUL 2006,15 JUL 2006,345,135,73197,154,73542,https://worldathletics.org/records/competition-performance-rankings/ranking/473670
+154,427895,"Elche Copa de Clubes, Elche",ESP,08 JUL 2006,08 JUL 2006,385,124,73008,157,73393,https://worldathletics.org/records/competition-performance-rankings/ranking/427895
+155,422436,"Lahti Eliittikisat, Lahti",FIN,17 AUG 2006,17 AUG 2006,70,183,73321,152,73391,https://worldathletics.org/records/competition-performance-rankings/ranking/422436
+156,428073,"Castellón International Meeting, Castellón",ESP,11 JUL 2006,11 JUL 2006,405,123,72908,159,73313,https://worldathletics.org/records/competition-performance-rankings/ranking/428073
+157,425544,"Soria Reunión Internacional de Atletismo, Soria",ESP,26 JUL 2006,26 JUL 2006,235,152,73024,156,73259,https://worldathletics.org/records/competition-performance-rankings/ranking/425544
+158,429502,"Köbenhavn Athletics Games, Copenhagen",DEN,24 AUG 2006,24 AUG 2006,880,80,72372,164,73252,https://worldathletics.org/records/competition-performance-rankings/ranking/429502
+159,454031,"Coral Gables Huricane Invitational, Coral Gables, FL",USA,18 MAR 2006,18 MAR 2006,70,183,73049,155,73119,https://worldathletics.org/records/competition-performance-rankings/ranking/454031
+160,427790,"Gavá Meeting Internacional, Gavá",ESP,04 JUN 2006,04 JUN 2006,135,168,72936,158,73071,https://worldathletics.org/records/competition-performance-rankings/ranking/427790
+161,439615,"Sydney Track Classic, Sydney",AUS,19 JAN 2006,19 JAN 2006,130,171,72892,160,73022,https://worldathletics.org/records/competition-performance-rankings/ranking/439615
+162,417947,"Franconville French Club Championships, Franconville",FRA,21 MAY 2006,21 MAY 2006,495,110,72403,162,72898,https://worldathletics.org/records/competition-performance-rankings/ranking/417947
+163,451820,"Bloomington Billy Hayes Invitational, Bloomington, IN",USA,05 MAY 2006,05 MAY 2006,15,204,72682,161,72697,https://worldathletics.org/records/competition-performance-rankings/ranking/451820
+164,368789,"Novo Mesto Atletski Miting Krka, Novo Mesto",SLO,12 JUL 2006,12 JUL 2006,280,146,72219,168,72499,https://worldathletics.org/records/competition-performance-rankings/ranking/368789
+165,451363,"Baton Rouge LSU Tiger Classic, Baton Rouge, LA",USA,01 APR 2006,01 APR 2006,75,182,72398,163,72473,https://worldathletics.org/records/competition-performance-rankings/ranking/451363
+166,410293,"Eton British Athletics League, Eton",GBR,05 AUG 2006,05 AUG 2006,210,154,72240,166,72450,https://worldathletics.org/records/competition-performance-rankings/ranking/410293
+167,434844,"Abbotsford Lafarge International Track Classic, Abbotsford",CAN,04 JUN 2006,04 JUN 2006,120,173,72224,167,72344,https://worldathletics.org/records/competition-performance-rankings/ranking/434844
+168,426210,"Puertollano Campeonato Federaciones Autonomicas, Puertollano",ESP,15 JUL 2006,15 JUL 2006,345,135,71996,171,72341,https://worldathletics.org/records/competition-performance-rankings/ranking/426210
+169,466475,"Ypsilanti EMU Twilight, Ypsilanti, MI",USA,22 APR 2006,22 APR 2006,10,206,72317,165,72327,https://worldathletics.org/records/competition-performance-rankings/ranking/466475
+170,461425,"Norman John Jacobs Invitational, Norman, OK",USA,15 APR 2006,15 APR 2006,85,179,72163,169,72248,https://worldathletics.org/records/competition-performance-rankings/ranking/461425
+171,428078,"Castellón Spanish Club Championships, Castellón",ESP,17 JUN 2006,17 JUN 2006,155,164,72063,170,72218,https://worldathletics.org/records/competition-performance-rankings/ranking/428078
+172,419535,"Bordeaux Meeting National, Bordeaux",FRA,17 JUN 2006,17 JUN 2006,135,168,71976,172,72111,https://worldathletics.org/records/competition-performance-rankings/ranking/419535
+173,458633,"Lincoln Nebraska Invitational, Lincoln, NE",USA,15 APR 2006,15 APR 2006,175,160,71904,173,72079,https://worldathletics.org/records/competition-performance-rankings/ranking/458633
+174,454410,"Denton North Texas Spring Classic, Denton, TX",USA,15 APR 2006,15 APR 2006,225,153,71662,175,71887,https://worldathletics.org/records/competition-performance-rankings/ranking/454410
+175,451532,"Berkeley Brutus Hamilton Invitational, Berkeley, CA",USA,15 APR 2006,15 APR 2006,45,193,71781,174,71826,https://worldathletics.org/records/competition-performance-rankings/ranking/451532
+176,385403,"Maebashi Gunma Relays, Maebashi",JPN,17 SEP 2006,17 SEP 2006,70,183,71535,177,71605,https://worldathletics.org/records/competition-performance-rankings/ranking/385403
+177,453666,"College Park Terrapin Invitational, College Park, MD",USA,01 APR 2006,01 APR 2006,10,206,71586,176,71596,https://worldathletics.org/records/competition-performance-rankings/ranking/453666
+178,411907,"Birmingham Senior Inter-Area Match, Birmingham",GBR,24 JUN 2006,24 JUN 2006,90,178,71395,178,71485,https://worldathletics.org/records/competition-performance-rankings/ranking/411907
+179,453080,"Charlotte Invitational, Charlotte, NC",USA,01 APR 2006,01 APR 2006,35,197,71312,180,71347,https://worldathletics.org/records/competition-performance-rankings/ranking/453080
+180,454999,"Emporia ESU Twilight Qualifier, Emporia, KS",USA,13 MAY 2006,13 MAY 2006,5,212,71313,179,71318,https://worldathletics.org/records/competition-performance-rankings/ranking/454999
+181,438583,"Schwechat Olympic Meeting, Schwechat",AUT,04 JUN 2006,04 JUN 2006,45,193,71267,181,71312,https://worldathletics.org/records/competition-performance-rankings/ranking/438583
+182,453534,"Clemson Orange & Purple Track Meet, Clemson, SC",USA,06 MAY 2006,06 MAY 2006,105,174,71179,182,71284,https://worldathletics.org/records/competition-performance-rankings/ranking/453534
+183,411902,"Birmingham British Athletics League, Birmingham",GBR,01 JUL 2006,01 JUL 2006,60,188,71079,183,71139,https://worldathletics.org/records/competition-performance-rankings/ranking/411902
+184,461895,"Oxford Ole Miss Invitational, Oxford",GBR,08 APR 2006,08 APR 2006,85,179,70935,184,71020,https://worldathletics.org/records/competition-performance-rankings/ranking/461895
+185,453391,"Claremont Classic, Claremont, CA",USA,06 MAY 2006,06 MAY 2006,200,155,70772,186,70972,https://worldathletics.org/records/competition-performance-rankings/ranking/453391
+186,461527,"Northridge Invitational, Northridge, CA",USA,18 MAR 2006,18 MAR 2006,70,183,70880,185,70950,https://worldathletics.org/records/competition-performance-rankings/ranking/461527
+187,411903,"Birmingham UK Women's League, Birmingham",GBR,01 JUL 2006,01 JUL 2006,175,160,70768,187,70943,https://worldathletics.org/records/competition-performance-rankings/ranking/411903
+188,458964,"Los Angeles Cardinal & Gold Invite, Los Angeles, CA",USA,01 APR 2006,01 APR 2006,50,192,70601,188,70651,https://worldathletics.org/records/competition-performance-rankings/ranking/458964
+189,453390,"Claremont Pomona Pitzer Invitational, Claremont, CA",USA,14 APR 2006,14 APR 2006,150,166,70465,189,70615,https://worldathletics.org/records/competition-performance-rankings/ranking/453390
+190,460554,"Nashville Vanderbilt Invitational, Nashville, TN",USA,21 APR 2006,22 APR 2006,40,195,70285,190,70325,https://worldathletics.org/records/competition-performance-rankings/ranking/460554
+191,429872,"Praha Academica 2006, Praha",CZE,29 JUN 2006,29 JUN 2006,165,162,70006,191,70171,https://worldathletics.org/records/competition-performance-rankings/ranking/429872
+192,456836,"Houston RunSport/Rice Twilight, Houston, TX",USA,29 APR 2006,29 APR 2006,20,201,69548,192,69568,https://worldathletics.org/records/competition-performance-rankings/ranking/456836
+193,455107,"Eugene Pepsi Team Invitational, Eugene, OR",USA,08 APR 2006,08 APR 2006,55,189,69505,193,69560,https://worldathletics.org/records/competition-performance-rankings/ranking/455107
+194,449864,"Abilene ACU Open, Abilene, TX",USA,11 MAY 2006,11 MAY 2006,105,174,69377,194,69482,https://worldathletics.org/records/competition-performance-rankings/ranking/449864
+195,459397,"Manhattan Ward Haylett Invitational, Manhattan, KS",USA,06 MAY 2006,06 MAY 2006,155,164,69190,197,69345,https://worldathletics.org/records/competition-performance-rankings/ranking/459397
+196,454409,"Denton Mean Green Twilight Invitational, Denton, TX",USA,27 APR 2006,27 APR 2006,135,168,69203,196,69338,https://worldathletics.org/records/competition-performance-rankings/ranking/454409
+197,452867,"Champaign Illinois Invitational, Champaign, IL",USA,22 APR 2006,22 APR 2006,25,198,69312,195,69337,https://worldathletics.org/records/competition-performance-rankings/ranking/452867
+198,459068,"Louisville Cardinal Invitational, Louisville, KY",USA,22 APR 2006,22 APR 2006,10,206,68895,198,68905,https://worldathletics.org/records/competition-performance-rankings/ranking/459068
+199,428350,"Benidorm Meeting Internacional, Benidorm",ESP,19 APR 2006,19 APR 2006,100,177,68183,199,68283,https://worldathletics.org/records/competition-performance-rankings/ranking/428350
+200,437492,"Kessel Lo Meeting Voor Mon, Kessel-Lo",BEL,10 JUN 2006,10 JUN 2006,80,181,67733,200,67813,https://worldathletics.org/records/competition-performance-rankings/ranking/437492
+201,454076,"Cullowhee Western Carolina Invitational, Cullowhee, NC",USA,01 APR 2006,01 APR 2006,10,206,67672,201,67682,https://worldathletics.org/records/competition-performance-rankings/ranking/454076
+202,455213,"Fairfax George Mason Spring Open Invitational, Fairfax, VA",USA,01 APR 2006,01 APR 2006,10,206,67522,202,67532,https://worldathletics.org/records/competition-performance-rankings/ranking/455213
+203,455633,"Fort Collins Jack Christiansen Invitational, Fort Collins, CO",USA,22 APR 2006,22 APR 2006,25,198,67151,203,67176,https://worldathletics.org/records/competition-performance-rankings/ranking/455633
+204,465217,"Tucson Jim Click Shootout, Tucson, AZ",USA,25 MAR 2006,25 MAR 2006,55,189,66929,204,66984,https://worldathletics.org/records/competition-performance-rankings/ranking/465217
+205,624649,"Baltijos šalių jaunių mačas, Kaunas",LTU,28 JUL 2006,29 JUL 2006,20,201,65891,205,65911,https://worldathletics.org/records/competition-performance-rankings/ranking/624649
+206,463405,"Sacramento State Open, Sacramento, CA",USA,05 MAY 2006,05 MAY 2006,55,189,65811,206,65866,https://worldathletics.org/records/competition-performance-rankings/ranking/463405
+207,454994,"Emporia ESU Relays, Emporia, KS",USA,08 APR 2006,08 APR 2006,40,195,65436,207,65476,https://worldathletics.org/records/competition-performance-rankings/ranking/454994
+208,458293,"Las Vegas UNLV Invite Meet, Las Vegas, NV",USA,01 APR 2006,01 APR 2006,65,187,65361,208,65426,https://worldathletics.org/records/competition-performance-rankings/ranking/458293
+209,462825,"Pullman Cougar Invitational, Pullman, WA",USA,22 APR 2006,22 APR 2006,20,201,65136,210,65156,https://worldathletics.org/records/competition-performance-rankings/ranking/462825
+210,466108,"West Point Dick Shea Open, West Point, NY",USA,25 MAR 2006,25 MAR 2006,0,,65151,209,65151,https://worldathletics.org/records/competition-performance-rankings/ranking/466108
+211,454250,"Davis Woody Wilson Classic, Davis, CA",USA,22 APR 2006,22 APR 2006,25,198,64967,211,64992,https://worldathletics.org/records/competition-performance-rankings/ranking/454250
+212,463400,"Sacramento Hornet Invitational, Sacramento, CA",USA,25 MAR 2006,25 MAR 2006,10,206,64299,212,64309,https://worldathletics.org/records/competition-performance-rankings/ranking/463400
+213,452236,"Boulder Potts Invitational, Boulder, CO",USA,18 MAR 2006,18 MAR 2006,15,204,63123,213,63138,https://worldathletics.org/records/competition-performance-rankings/ranking/452236
+214,430409,"Pardubice Czech Club Championships, Pardubice",CZE,20 MAY 2006,20 MAY 2006,0,,62767,214,62767,https://worldathletics.org/records/competition-performance-rankings/ranking/430409

@@ -1,0 +1,854 @@
+place,competitionId,competition,country,startDate,endDate,partScore,participationScorePlace,resultScore,resultScorePlace,competitionScore,competitionUrl
+1,574731,"Eugene Prefontaine Classic, Hayward Field, Eugene, OR",USA,26 MAY 2017,27 MAY 2017,8320,2,87203,1,95523,https://worldathletics.org/records/competition-performance-rankings/ranking/574731
+2,578569,"Weltklasse Zürich, Letzigrund, Zürich",SUI,23 AUG 2017,24 AUG 2017,8450,1,86628,4,95078,https://worldathletics.org/records/competition-performance-rankings/ranking/578569
+3,583098,"Bruxelles Memorial Van Damme, Boudewijnstadion, Bruxelles",BEL,31 AUG 2017,01 SEP 2017,8270,3,86425,5,94695,https://worldathletics.org/records/competition-performance-rankings/ranking/583098
+4,578056,"Athletissima Lausanne, Stade Olympique de la Pontaise, Lausanne",SUI,06 JUL 2017,06 JUL 2017,6970,8,86644,3,93614,https://worldathletics.org/records/competition-performance-rankings/ranking/578056
+5,578264,"Monaco Herculis, Stade Louis II, Monaco",MON,21 JUL 2017,21 JUL 2017,6590,10,86770,2,93360,https://worldathletics.org/records/competition-performance-rankings/ranking/578264
+6,578085,"London Müller Anniversary Games, Olympic Stadium, London",GBR,09 JUL 2017,09 JUL 2017,6945,9,86231,6,93176,https://worldathletics.org/records/competition-performance-rankings/ranking/578085
+7,574975,"Roma Golden Gala - Pietro Mennea, Stadio Olimpico, Roma",ITA,08 JUN 2017,08 JUN 2017,7130,6,85782,8,92912,https://worldathletics.org/records/competition-performance-rankings/ranking/574975
+8,574308,"Doha IAAF Diamond League, Suhaim bin Hamad Stadium, Doha",QAT,05 MAY 2017,05 MAY 2017,7050,7,85642,9,92692,https://worldathletics.org/records/competition-performance-rankings/ranking/574308
+9,574487,"Shanghai IAAF Diamond League, Shanghai Stadium, Shanghai",CHN,13 MAY 2017,13 MAY 2017,7410,5,85276,11,92686,https://worldathletics.org/records/competition-performance-rankings/ranking/574487
+10,578503,"Birmingham Müller Grand Prix, Alexander Stadium, Birmingham",GBR,20 AUG 2017,20 AUG 2017,7570,4,85004,12,92574,https://worldathletics.org/records/competition-performance-rankings/ranking/578503
+11,577953,"Meeting de Paris, Stade Charléty, Paris",FRA,01 JUL 2017,01 JUL 2017,6390,11,86062,7,92452,https://worldathletics.org/records/competition-performance-rankings/ranking/577953
+12,578189,"Meeting International Mohammed VI d'Athletisme de Rabat, Complexe Sportif Prince Moulay Abdellah, Rabat",MAR,16 JUL 2017,16 JUL 2017,6110,12,85413,10,91523,https://worldathletics.org/records/competition-performance-rankings/ranking/578189
+13,575138,"Stockholm BAUHAUS Galan, Olympiastadion, Stockholm",SWE,18 JUN 2017,18 JUN 2017,5360,15,84744,15,90104,https://worldathletics.org/records/competition-performance-rankings/ranking/575138
+14,578002,"Gyulai István Memorial - Hungarian Athletics Grand Prix, Bregyó Athletic Center, Székesfehérvár",HUN,03 JUL 2017,04 JUL 2017,5540,14,84535,16,90075,https://worldathletics.org/records/competition-performance-rankings/ranking/578002
+15,575089,"Oslo Bislett Games, Bislett Stadion, Oslo",NOR,15 JUN 2017,15 JUN 2017,5855,13,84162,18,90017,https://worldathletics.org/records/competition-performance-rankings/ranking/575089
+16,578582,"Berlin ISTAF, Olympiastadion, Berlin",GER,27 AUG 2017,27 AUG 2017,5000,16,84989,13,89989,https://worldathletics.org/records/competition-performance-rankings/ranking/578582
+17,575064,"Hengelo FBK Games, FBK Stadium, Hengelo",NED,10 JUN 2017,11 JUN 2017,3950,19,84969,14,88919,https://worldathletics.org/records/competition-performance-rankings/ranking/575064
+18,575306,"Golden Spike Ostrava 2017, Mestský Stadion, Ostrava",CZE,27 JUN 2017,28 JUN 2017,4050,18,84477,17,88527,https://worldathletics.org/records/competition-performance-rankings/ranking/575306
+19,578614,"Zagreb IAAF World Challenge, Sports Park Mladost, Zagreb",CRO,28 AUG 2017,29 AUG 2017,4080,17,83317,22,87397,https://worldathletics.org/records/competition-performance-rankings/ranking/578614
+20,574999,"Kingston Racers Grand Prix, Kingston",JAM,10 JUN 2017,10 JUN 2017,3190,23,83951,19,87141,https://worldathletics.org/records/competition-performance-rankings/ranking/574999
+21,578167,"Madrid Meeting 2017, Moratalaz, Madrid",ESP,14 JUL 2017,14 JUL 2017,2715,28,83741,20,86456,https://worldathletics.org/records/competition-performance-rankings/ranking/578167
+22,574625,"Kingston Jamaica International Invitational IWC, National Stadium, Kingston",JAM,20 MAY 2017,20 MAY 2017,2845,25,83186,23,86031,https://worldathletics.org/records/competition-performance-rankings/ranking/574625
+23,575047,"Turku Paavo Nurmi Games, Paavo Nurmen Stadion, Turku",FIN,13 JUN 2017,13 JUN 2017,3330,21,82253,28,85583,https://worldathletics.org/records/competition-performance-rankings/ranking/575047
+24,589171,"Des Moines Drake Relays, Des Moines, IA",USA,26 APR 2017,29 APR 2017,3605,20,81741,35,85346,https://worldathletics.org/records/competition-performance-rankings/ranking/589171
+25,574980,"Somerville adidas Boost Boston Games, Somerville, MA",USA,02 JUN 2017,04 JUN 2017,2730,27,82150,29,84880,https://worldathletics.org/records/competition-performance-rankings/ranking/574980
+26,574598,"Baie Mahault Meeting International Guadeloupe, Baie Mahault",FRA,17 MAY 2017,17 MAY 2017,2865,24,81981,31,84846,https://worldathletics.org/records/competition-performance-rankings/ranking/574598
+27,578147,"Luzern Spitzen Leichtathletik, Luzern",SUI,11 JUL 2017,11 JUL 2017,2340,30,82376,27,84716,https://worldathletics.org/records/competition-performance-rankings/ranking/578147
+28,589175,"Gainesville Florida Relays, Gainesville, FL",USA,30 MAR 2017,01 APR 2017,1080,52,83615,21,84695,https://worldathletics.org/records/competition-performance-rankings/ranking/589175
+29,574931,"Memoriál Josefa Odložila, Stadion Juliska, Praha",CZE,05 JUN 2017,05 JUN 2017,2090,33,82556,26,84646,https://worldathletics.org/records/competition-performance-rankings/ranking/574931
+30,574617,"Kawasaki Seiko Golden Grand Prix, Todoroki Stadium, Kawasaki",JPN,21 MAY 2017,21 MAY 2017,2715,28,81907,32,84622,https://worldathletics.org/records/competition-performance-rankings/ranking/574617
+31,589173,"Torrance Mt. SAC Relays, Torrance, CA",USA,13 APR 2017,15 APR 2017,1680,42,82853,25,84533,https://worldathletics.org/records/competition-performance-rankings/ranking/589173
+32,578232,"Bellinzona Galà dei Castelli, Bellinzona",SUI,18 JUL 2017,18 JUL 2017,2245,31,82086,30,84331,https://worldathletics.org/records/competition-performance-rankings/ranking/578232
+33,578193,"Padova Meeting Citta di Padova, Padova",ITA,16 JUL 2017,16 JUL 2017,2195,32,81858,34,84053,https://worldathletics.org/records/competition-performance-rankings/ranking/578193
+34,589177,"Austin Clyde Littlefield Texas Relays, Austin, TX",USA,29 MAR 2017,01 APR 2017,1105,51,82881,24,83986,https://worldathletics.org/records/competition-performance-rankings/ranking/589177
+35,575007,"Janusz Kusociński Memorial, Wieslaw Maniak Municipal Athletic Stadium, Szczecin",POL,10 JUN 2017,10 JUN 2017,2820,26,80816,44,83636,https://worldathletics.org/records/competition-performance-rankings/ranking/575007
+36,578279,"Heusden-Zolder KBC Night of Athletics, Heusden-Zolder",BEL,22 JUL 2017,22 JUL 2017,1625,43,81898,33,83523,https://worldathletics.org/records/competition-performance-rankings/ranking/578279
+37,574877,"Marseille Meeting International, Marseille",FRA,03 JUN 2017,03 JUN 2017,2030,35,81452,37,83482,https://worldathletics.org/records/competition-performance-rankings/ranking/574877
+38,574861,"Montreuil-sous-Bois Meeting International, Montreuil-sous-Bois",FRA,01 JUN 2017,01 JUN 2017,1865,36,81353,40,83218,https://worldathletics.org/records/competition-performance-rankings/ranking/574861
+39,578059,"New York TrackTown USA Summer Series, New York, NY",USA,06 JUL 2017,06 JUL 2017,1705,41,81275,41,82980,https://worldathletics.org/records/competition-performance-rankings/ranking/578059
+40,574172,"Gainesville Tom Jones Memorial, Gainesville, FL",USA,28 APR 2017,28 APR 2017,945,61,81709,36,82654,https://worldathletics.org/records/competition-performance-rankings/ranking/574172
+41,575073,"Huelva Meeting Iberoamericano de Atletismo, Huelva",ESP,14 JUN 2017,14 JUN 2017,1190,48,81449,38,82639,https://worldathletics.org/records/competition-performance-rankings/ranking/575073
+42,578612,"Rovereto Palio Città della Quercia, Rovereto",ITA,29 AUG 2017,29 AUG 2017,1825,38,80702,45,82527,https://worldathletics.org/records/competition-performance-rankings/ranking/578612
+43,574755,"Oordegem IFAM Meeting, Oordegem",BEL,27 MAY 2017,27 MAY 2017,1010,56,81403,39,82413,https://worldathletics.org/records/competition-performance-rankings/ranking/574755
+44,578072,"Sotteville-lès-Rouen Meeting International, Sotteville-lès-Rouen",FRA,07 JUL 2017,07 JUL 2017,1765,39,80361,50,82126,https://worldathletics.org/records/competition-performance-rankings/ranking/578072
+45,574289,"St. George's Grenada Invitational, St. George's",GRN,08 APR 2017,08 APR 2017,1735,40,80107,52,81842,https://worldathletics.org/records/competition-performance-rankings/ranking/574289
+46,594725,"Baton Rouge SEC Relays, Baton Rouge, LA",USA,28 APR 2017,29 APR 2017,525,97,81170,42,81695,https://worldathletics.org/records/competition-performance-rankings/ranking/594725
+47,578255,"Liège Meeting international de la province de Liège, Liège",BEL,19 JUL 2017,19 JUL 2017,970,59,80577,47,81547,https://worldathletics.org/records/competition-performance-rankings/ranking/578255
+48,589179,"Philadelphia Penn Relays, Philadelphia, PA",USA,25 APR 2017,29 APR 2017,430,110,81029,43,81459,https://worldathletics.org/records/competition-performance-rankings/ranking/589179
+49,574997,"Genève AtletiCAGenève, Genève",SUI,10 JUN 2017,10 JUN 2017,685,79,80688,46,81373,https://worldathletics.org/records/competition-performance-rankings/ranking/574997
+50,578312,"Zhukovskiy Znamenskiy Memorial, Zhukovskiy",RUS,01 JUL 2017,02 JUL 2017,755,71,80551,48,81306,https://worldathletics.org/records/competition-performance-rankings/ranking/578312
+51,578155,"Lignano Sabbiadoro Meeting Int. Sport Solidarieta, Lignano Sabbiadoro",ITA,12 JUL 2017,12 JUL 2017,1005,57,80168,51,81173,https://worldathletics.org/records/competition-performance-rankings/ranking/578155
+52,574911,"Rehlingen Pfingstsportfest, Rehlingen",GER,05 JUN 2017,05 JUN 2017,1455,44,79607,56,81062,https://worldathletics.org/records/competition-performance-rankings/ranking/574911
+53,574034,"Baton Rouge LSU Alumni Gold, Baton Rouge, LA",USA,22 APR 2017,22 APR 2017,435,109,80531,49,80966,https://worldathletics.org/records/competition-performance-rankings/ranking/574034
+54,573938,"Clermont NTC/Pure Athletics Spring Invitational, Clermont, FL",USA,15 APR 2017,15 APR 2017,870,64,80071,53,80941,https://worldathletics.org/records/competition-performance-rankings/ranking/573938
+55,574862,"Bydgoszcz European Athletics Festival, Bydgoszcz",POL,01 JUN 2017,02 JUN 2017,925,62,79940,54,80865,https://worldathletics.org/records/competition-performance-rankings/ranking/574862
+56,575311,"Meeting Stanislas Nancy, Stade Raymond Petit, Tomblaine",FRA,28 JUN 2017,28 JUN 2017,1415,45,79438,57,80853,https://worldathletics.org/records/competition-performance-rankings/ranking/575311
+57,575127,"Šamorín P-T-S Meeting, x-bionic sphere, Šamorín",SVK,17 JUN 2017,17 JUN 2017,1855,37,78835,65,80690,https://worldathletics.org/records/competition-performance-rankings/ranking/575127
+58,594724,"Tempe Sun Angel Classic, Tempe, AZ",USA,06 APR 2017,08 APR 2017,910,63,79740,55,80650,https://worldathletics.org/records/competition-performance-rankings/ranking/594724
+59,574865,"Andújar Meeting Internacional, Andújar",ESP,02 JUN 2017,02 JUN 2017,1040,55,79248,61,80288,https://worldathletics.org/records/competition-performance-rankings/ranking/574865
+60,575055,"Mesa ALTIS Invitational, Mesa, AZ",USA,10 JUN 2017,10 JUN 2017,575,89,79427,58,80002,https://worldathletics.org/records/competition-performance-rankings/ranking/575055
+61,574641,"Loughborough International, Loughborough",GBR,21 MAY 2017,21 MAY 2017,615,85,79261,60,79876,https://worldathletics.org/records/competition-performance-rankings/ranking/574641
+62,574874,"São Bernardo do Campo Grande Prêmio Brasil CAIXA de Atletismo, Arena Caixa, Sao Bernardo do Campo",BRA,03 JUN 2017,03 JUN 2017,1230,47,78575,73,79805,https://worldathletics.org/records/competition-performance-rankings/ranking/574874
+63,575119,"Dessau Anhalt 2017, Dessau",GER,16 JUN 2017,16 JUN 2017,1305,46,78467,75,79772,https://worldathletics.org/records/competition-performance-rankings/ranking/575119
+64,578146,"Göteborg Folksam GP, Göteborg",SWE,11 JUL 2017,11 JUL 2017,1065,54,78691,68,79756,https://worldathletics.org/records/competition-performance-rankings/ranking/578146
+65,585178,"Angers DécaNation, Angers",FRA,09 SEP 2017,09 SEP 2017,2045,34,77662,84,79707,https://worldathletics.org/records/competition-performance-rankings/ranking/585178
+66,589167,"Austin Texas Invitational, Austin, TX",USA,14 APR 2017,15 APR 2017,740,73,78944,63,79684,https://worldathletics.org/records/competition-performance-rankings/ranking/589167
+67,594723,"Azusa Bryan Clay Invitational, Azusa, CA",USA,13 APR 2017,14 APR 2017,790,69,78847,64,79637,https://worldathletics.org/records/competition-performance-rankings/ranking/594723
+67,574733,"Weinheim Kurpfalz Gala, Weinheim",GER,27 MAY 2017,27 MAY 2017,375,118,79262,59,79637,https://worldathletics.org/records/competition-performance-rankings/ranking/574733
+69,585177,"Cork City Sports, Cork",IRL,18 JUL 2017,18 JUL 2017,790,69,78601,72,79391,https://worldathletics.org/records/competition-performance-rankings/ranking/585177
+70,578300,"Loughborough EAP Open Meeting, Loughborough",GBR,22 JUL 2017,22 JUL 2017,585,88,78746,67,79331,https://worldathletics.org/records/competition-performance-rankings/ranking/578300
+71,578177,"Ninove Memorial Geert Rasschaert, Ninove",BEL,15 JUL 2017,15 JUL 2017,445,107,78817,66,79262,https://worldathletics.org/records/competition-performance-rankings/ranking/578177
+72,574753,"Forbach Meeting National, Forbach",FRA,28 MAY 2017,28 MAY 2017,975,58,78228,79,79203,https://worldathletics.org/records/competition-performance-rankings/ranking/574753
+73,589170,"Auburn War Eagle Invitational, Auburn, AL",USA,21 APR 2017,22 APR 2017,200,172,78984,62,79184,https://worldathletics.org/records/competition-performance-rankings/ranking/589170
+74,573524,"Canberra Summer of aths Grand Prix, Canberra",AUS,11 MAR 2017,12 MAR 2017,565,92,78603,71,79168,https://worldathletics.org/records/competition-performance-rankings/ranking/573524
+75,578097,"Bruxelles Grand Prix, Bruxelles",BEL,09 JUL 2017,09 JUL 2017,400,112,78616,70,79016,https://worldathletics.org/records/competition-performance-rankings/ranking/578097
+76,574294,"Austin Longhorn Invitational, Austin, TX",USA,28 APR 2017,29 APR 2017,380,117,78626,69,79006,https://worldathletics.org/records/competition-performance-rankings/ranking/574294
+77,575051,"Portland Track Festival, Portland, OR",USA,10 JUN 2017,11 JUN 2017,575,89,78390,76,78965,https://worldathletics.org/records/competition-performance-rankings/ranking/575051
+77,575174,"Velenje EA Classic Permit Meeting, Velenje",SLO,20 JUN 2017,20 JUN 2017,1070,53,77895,82,78965,https://worldathletics.org/records/competition-performance-rankings/ranking/575174
+79,574219,"Hiroshima Oda Memorial, Hiroshima",JPN,29 APR 2017,29 APR 2017,540,94,78358,77,78898,https://worldathletics.org/records/competition-performance-rankings/ranking/574219
+80,594722,"Long Beach Invitational, Long Beach, CA",USA,14 APR 2017,15 APR 2017,720,75,78167,80,78887,https://worldathletics.org/records/competition-performance-rankings/ranking/594722
+81,578080,"Kortrijk Guldensporenmeeting, Kortrijk",BEL,08 JUL 2017,08 JUL 2017,315,133,78499,74,78814,https://worldathletics.org/records/competition-performance-rankings/ranking/578080
+82,594720,"Regensburg Laufnacht und Sparkassen Gala, Regensburg",GER,10 JUN 2017,11 JUN 2017,160,198,78290,78,78450,https://worldathletics.org/records/competition-performance-rankings/ranking/594720
+83,594721,"Charlottesville Virginia Challenge, Charlottesville, VA",USA,21 APR 2017,22 APR 2017,235,156,78022,81,78257,https://worldathletics.org/records/competition-performance-rankings/ranking/594721
+84,578004,"Mannheim Bauhaus Juniorengala, Mannheim",GER,01 JUL 2017,02 JUL 2017,240,155,77880,83,78120,https://worldathletics.org/records/competition-performance-rankings/ranking/578004
+85,574185,"Taipei City Asian Grand Prix, Taipei City",TPE,30 APR 2017,30 APR 2017,545,93,77458,87,78003,https://worldathletics.org/records/competition-performance-rankings/ranking/574185
+86,578000,"La Chaux-de-Fonds Résisprint International, La Chaux-de-Fonds",SUI,02 JUL 2017,02 JUL 2017,350,127,77641,85,77991,https://worldathletics.org/records/competition-performance-rankings/ranking/578000
+87,573926,"Kingston UTech Classic, Kingston",JAM,15 APR 2017,15 APR 2017,650,81,77261,92,77911,https://worldathletics.org/records/competition-performance-rankings/ranking/573926
+88,574320,"Palo Alto Payton Jordan Invitational, Palo Alto, CA",USA,05 MAY 2017,05 MAY 2017,750,72,77144,97,77894,https://worldathletics.org/records/competition-performance-rankings/ranking/574320
+89,585174,"Stockholm Finnkampen, Stockholm",SWE,02 SEP 2017,03 SEP 2017,1145,49,76703,107,77848,https://worldathletics.org/records/competition-performance-rankings/ranking/585174
+90,574033,"Waco Michael Johnson Invitational, Waco, TX",USA,22 APR 2017,22 APR 2017,310,136,77494,86,77804,https://worldathletics.org/records/competition-performance-rankings/ranking/574033
+91,575320,"Sollentuna Folksam GP, Sollentuna",SWE,29 JUN 2017,29 JUN 2017,735,74,76973,101,77708,https://worldathletics.org/records/competition-performance-rankings/ranking/575320
+92,575016,"Yerino All-Russian Competition, Yerino",RUS,10 JUN 2017,10 JUN 2017,410,111,77292,90,77702,https://worldathletics.org/records/competition-performance-rankings/ranking/575016
+93,573974,"Columbia Gamecock Invitational, Columbia, SC",USA,15 APR 2017,15 APR 2017,185,182,77450,88,77635,https://worldathletics.org/records/competition-performance-rankings/ranking/573974
+94,578303,"Karlstad Folksam GP, Karlstad",SWE,25 JUL 2017,25 JUL 2017,830,66,76773,105,77603,https://worldathletics.org/records/competition-performance-rankings/ranking/578303
+95,575134,"Leiden Gouden Spike, Leiden",NED,17 JUN 2017,17 JUN 2017,315,133,77248,95,77563,https://worldathletics.org/records/competition-performance-rankings/ranking/575134
+96,578186,"Lapinlahti Savo Games, Lapinlahti",FIN,16 JUL 2017,16 JUL 2017,615,85,76874,103,77489,https://worldathletics.org/records/competition-performance-rankings/ranking/578186
+97,594714,"Athens Spec Towns Invitational, Athens, GA",USA,07 APR 2017,09 APR 2017,220,164,77260,93,77480,https://worldathletics.org/records/competition-performance-rankings/ranking/594714
+98,574876,"Oordegem Memorial Léon Buyle, Oordegem",BEL,03 JUN 2017,03 JUN 2017,125,224,77349,89,77474,https://worldathletics.org/records/competition-performance-rankings/ranking/574876
+99,594671,"Greensboro Aggie Invitational, Greensboro, NC",USA,14 APR 2017,15 APR 2017,290,145,77166,96,77456,https://worldathletics.org/records/competition-performance-rankings/ranking/594671
+99,573979,"Fort Worth Horned Frog Invitational, Fort Worth, TX",USA,15 APR 2017,15 APR 2017,200,172,77256,94,77456,https://worldathletics.org/records/competition-performance-rankings/ranking/573979
+101,594716,"Lawrence Kansas Relays, Lawrence, KS",USA,19 APR 2017,22 APR 2017,535,95,76912,102,77447,https://worldathletics.org/records/competition-performance-rankings/ranking/594716
+102,575128,"Kuortane Elittikisat, Kuortane",FIN,17 JUN 2017,17 JUN 2017,1120,50,76303,117,77423,https://worldathletics.org/records/competition-performance-rankings/ranking/575128
+103,594718,"Tempe Baldy Castillo Invitational, Tempe, AZ",USA,17 MAR 2017,18 MAR 2017,50,335,77275,91,77325,https://worldathletics.org/records/competition-performance-rankings/ranking/594718
+104,578459,"Kamila Skolimowska Memorial, Stadion PGE Narodowy, Warszawa",POL,15 AUG 2017,15 AUG 2017,3280,22,74007,180,77287,https://worldathletics.org/records/competition-performance-rankings/ranking/578459
+105,573813,"Baton Rouge Battle on the Bayou, Baton Rouge, LA",USA,08 APR 2017,08 APR 2017,170,190,77108,99,77278,https://worldathletics.org/records/competition-performance-rankings/ranking/573813
+106,573831,"Waco Baylor Invitational, Waco, TX",USA,08 APR 2017,08 APR 2017,140,216,77128,98,77268,https://worldathletics.org/records/competition-performance-rankings/ranking/573831
+107,574173,"Lubbock Texas Tech Red Raider Shoot-Out, Lubbock, TX",USA,28 APR 2017,28 APR 2017,145,213,76976,100,77121,https://worldathletics.org/records/competition-performance-rankings/ranking/574173
+108,574203,"Medellín Grand Prix Ximena Restrepo, Medellín",COL,29 APR 2017,29 APR 2017,285,146,76812,104,77097,https://worldathletics.org/records/competition-performance-rankings/ranking/574203
+108,585176,"Reunión Internacional de Atletismo Villa De Bilbao, Bilbao",ESP,24 JUN 2017,24 JUN 2017,615,85,76482,111,77097,https://worldathletics.org/records/competition-performance-rankings/ranking/585176
+110,578152,"Joensuu Eliittikisat, Joensuu",FIN,12 JUL 2017,12 JUL 2017,715,76,76375,114,77090,https://worldathletics.org/records/competition-performance-rankings/ranking/578152
+111,574704,"Montgeron Meeting Elite, Montgeron",FRA,14 MAY 2017,14 MAY 2017,635,83,76454,112,77089,https://worldathletics.org/records/competition-performance-rankings/ranking/574704
+112,575175,"Copenhagen Athletics Games, København",DEN,20 JUN 2017,20 JUN 2017,325,132,76647,109,76972,https://worldathletics.org/records/competition-performance-rankings/ranking/575175
+113,574113,"Jinhua Asian Grand Prix, Jinhua",CHN,24 APR 2017,24 APR 2017,475,100,76444,113,76919,https://worldathletics.org/records/competition-performance-rankings/ranking/574113
+114,594713,"Irvine adidas/Steve Scott Invitational, Irvine, CA",USA,28 APR 2017,29 APR 2017,230,159,76619,110,76849,https://worldathletics.org/records/competition-performance-rankings/ranking/594713
+115,594717,"Palo Alto Stanford Cardinal Classic, Palo Alto, CA",USA,21 APR 2017,22 APR 2017,125,224,76690,108,76815,https://worldathletics.org/records/competition-performance-rankings/ranking/594717
+116,594711,"San Antonio Roadrunner Invitational, San Antonio, TX",USA,23 MAR 2017,25 MAR 2017,85,264,76727,106,76812,https://worldathletics.org/records/competition-performance-rankings/ranking/594711
+117,574717,"Riga Cup, Riga",LAT,25 MAY 2017,25 MAY 2017,665,80,76000,125,76665,https://worldathletics.org/records/competition-performance-rankings/ranking/574717
+118,594707,"Coral Gables Hurricane Alumni invitational, Coral Gables, FL",USA,07 APR 2017,08 APR 2017,365,121,76278,118,76643,https://worldathletics.org/records/competition-performance-rankings/ranking/594707
+119,574906,"Kingston JAAA All Comers Meet, Kingston",JAM,03 JUN 2017,03 JUN 2017,385,115,76257,120,76642,https://worldathletics.org/records/competition-performance-rankings/ranking/574906
+120,594719,"Knoxville Tennessee Relays, Knoxville, TN",USA,06 APR 2017,08 APR 2017,295,142,76345,116,76640,https://worldathletics.org/records/competition-performance-rankings/ranking/594719
+121,594712,"Columbia Weems Baskin Invitational, Columbia, SC",USA,24 MAR 2017,25 MAR 2017,195,175,76355,115,76550,https://worldathletics.org/records/competition-performance-rankings/ranking/594712
+122,575130,"Ciudad Real Campeonato de Federaciones Autonómicas, Ciudad Real",ESP,17 JUN 2017,17 JUN 2017,350,127,76179,122,76529,https://worldathletics.org/records/competition-performance-rankings/ranking/575130
+123,573532,"Kingston GC Foster Classis, Kingston",JAM,11 MAR 2017,11 MAR 2017,315,133,76115,123,76430,https://worldathletics.org/records/competition-performance-rankings/ranking/573532
+124,574295,"Miami Hurricane Collegiate Invitational, Coral Gables, FL",USA,25 MAR 2017,25 MAR 2017,125,224,76260,119,76385,https://worldathletics.org/records/competition-performance-rankings/ranking/574295
+125,594709,"Atlanta Georgia Tech Invitational, Atlanta, GA",USA,21 APR 2017,22 APR 2017,85,264,76214,121,76299,https://worldathletics.org/records/competition-performance-rankings/ranking/594709
+126,579753,"Gavardo Memorial Max Corso, Gavardo",ITA,03 JUN 2017,04 JUN 2017,340,129,75930,127,76270,https://worldathletics.org/records/competition-performance-rankings/ranking/579753
+127,575239,"Pontoise, Cergy-Pontoise",FRA,20 JUN 2017,20 JUN 2017,125,224,76088,124,76213,https://worldathletics.org/records/competition-performance-rankings/ranking/575239
+128,578477,Manchester,GBR,16 AUG 2017,16 AUG 2017,295,142,75880,129,76175,https://worldathletics.org/records/competition-performance-rankings/ranking/578477
+129,573810,"Los Angeles Rafer Johnson/Jackie Joyner-Kersee Invitational, Los Angeles, CA",USA,08 APR 2017,08 APR 2017,375,118,75794,130,76169,https://worldathletics.org/records/competition-performance-rankings/ranking/573810
+130,573982,"Los Angeles Jim Bush Collegiate Invitational, Los Angeles, CA",USA,15 APR 2017,15 APR 2017,125,224,75942,126,76067,https://worldathletics.org/records/competition-performance-rankings/ranking/573982
+131,594708,"San Diego Triton Invitational, San Diego, CA",USA,21 APR 2017,22 APR 2017,445,107,75595,140,76040,https://worldathletics.org/records/competition-performance-rankings/ranking/594708
+132,578381,"Almaty Kosanov Memorial, Almaty",KAZ,24 JUN 2017,25 JUN 2017,235,156,75758,132,75993,https://worldathletics.org/records/competition-performance-rankings/ranking/578381
+133,574164,"Jiaxing Asian Grand Prix, Jiaxing",CHN,27 APR 2017,27 APR 2017,355,126,75628,137,75983,https://worldathletics.org/records/competition-performance-rankings/ranking/574164
+134,573904,"Tuscaloosa Crimson Tide Invitational, Tuscaloosa, AL",USA,07 APR 2017,08 APR 2017,60,314,75904,128,75964,https://worldathletics.org/records/competition-performance-rankings/ranking/573904
+135,574912,"Kingston JAAA All Comers Meet, Kingston",JAM,27 MAY 2017,27 MAY 2017,220,164,75716,134,75936,https://worldathletics.org/records/competition-performance-rankings/ranking/574912
+136,578350,"Merksem Antwerp Athletics Gala, Merksem",BEL,29 JUL 2017,29 JUL 2017,360,124,75503,142,75863,https://worldathletics.org/records/competition-performance-rankings/ranking/578350
+137,574765,"Savona Memorial Giulio Ottolia, Savona",ITA,25 MAY 2017,25 MAY 2017,75,285,75777,131,75852,https://worldathletics.org/records/competition-performance-rankings/ranking/574765
+138,585173,"Salamanca Memorial Carlos Gil Pérez, Salamanca",ESP,03 JUN 2017,03 JUN 2017,160,198,75674,136,75834,https://worldathletics.org/records/competition-performance-rankings/ranking/585173
+139,574655,"Turnov Ludvík Daňek Memorial, Turnov",CZE,23 MAY 2017,23 MAY 2017,500,98,75277,148,75777,https://worldathletics.org/records/competition-performance-rankings/ranking/574655
+140,594710,"Durham Duke Invitational, Durham, NC",USA,21 APR 2017,22 APR 2017,30,391,75745,133,75775,https://worldathletics.org/records/competition-performance-rankings/ranking/594710
+141,573684,"Kingston UWI Invitational, Kingston",JAM,25 MAR 2017,25 MAR 2017,360,124,75402,146,75762,https://worldathletics.org/records/competition-performance-rankings/ranking/573684
+142,574489,"Tucson Jim Click Shootout, Tucson, AZ",USA,08 APR 2017,08 APR 2017,45,345,75681,135,75726,https://worldathletics.org/records/competition-performance-rankings/ranking/574489
+143,578075,"Nembro Meeting Citta di Nembro, Nembro",ITA,07 JUL 2017,07 JUL 2017,105,244,75548,141,75653,https://worldathletics.org/records/competition-performance-rankings/ranking/578075
+144,594715,"Raleigh Relays, Raleigh, NC",USA,24 MAR 2017,25 MAR 2017,50,335,75602,138,75652,https://worldathletics.org/records/competition-performance-rankings/ranking/594715
+145,574583,"Kingston JAAA All Comers Meet, Kingston",JAM,13 MAY 2017,13 MAY 2017,395,114,75251,149,75646,https://worldathletics.org/records/competition-performance-rankings/ranking/574583
+146,594705,"Houston Victor Lopez Classic, Houston, TX",USA,23 MAR 2017,25 MAR 2017,15,468,75596,139,75611,https://worldathletics.org/records/competition-performance-rankings/ranking/594705
+146,575322,"Vancouver Harry Jerome Track Classic, Vancouver",CAN,28 JUN 2017,28 JUN 2017,465,103,75146,150,75611,https://worldathletics.org/records/competition-performance-rankings/ranking/575322
+148,574451,"Houston Tom Tellez Invitational, Houston, TX",USA,05 MAY 2017,05 MAY 2017,170,190,75429,144,75599,https://worldathletics.org/records/competition-performance-rankings/ranking/574451
+149,574486,"Fukuroi Shizuoka International Meet, Fukuroi",JPN,03 MAY 2017,03 MAY 2017,170,190,75428,145,75598,https://worldathletics.org/records/competition-performance-rankings/ranking/574486
+150,594704,"Auburn Tiger Track Classic, Auburn, AL",USA,07 APR 2017,08 APR 2017,115,236,75463,143,75578,https://worldathletics.org/records/competition-performance-rankings/ranking/594704
+151,594706,"Tallahassee Florida State Relays, Tallahassee, FL",USA,24 MAR 2017,25 MAR 2017,70,295,75358,147,75428,https://worldathletics.org/records/competition-performance-rankings/ranking/594706
+152,573570,"Potchefstroom Speed Series, Potchefstroom",RSA,15 MAR 2017,15 MAR 2017,455,105,74939,155,75394,https://worldathletics.org/records/competition-performance-rankings/ranking/573570
+153,578008,"Castellón Memorial José Antonio Cansino, Castellón",ESP,04 JUL 2017,04 JUL 2017,300,140,75091,153,75391,https://worldathletics.org/records/competition-performance-rankings/ranking/578008
+154,575131,"Lisboa Benfica Athletics Meeting, Lisboa",POR,17 JUN 2017,17 JUN 2017,465,103,74880,158,75345,https://worldathletics.org/records/competition-performance-rankings/ranking/575131
+155,578156,"Dublin Morton Games, Dublin",IRL,12 JUL 2017,12 JUL 2017,475,100,74822,160,75297,https://worldathletics.org/records/competition-performance-rankings/ranking/578156
+156,594690,"Fayetteville John McDonnell Invitational, Fayetteville, AR",USA,21 APR 2017,23 APR 2017,175,188,75094,152,75269,https://worldathletics.org/records/competition-performance-rankings/ranking/594690
+157,594656,"Los Angeles USC vs. UCLA, Los Angeles, CA",USA,29 APR 2017,30 APR 2017,170,190,75079,154,75249,https://worldathletics.org/records/competition-performance-rankings/ranking/594656
+158,594691,"Fort Worth TCU Invitational, Fort Worth, TX",USA,17 MAR 2017,18 MAR 2017,40,362,75129,151,75169,https://worldathletics.org/records/competition-performance-rankings/ranking/594691
+159,573752,"Sasolburg NWU Pukke Permit Meeting, Sasolburg",RSA,28 MAR 2017,28 MAR 2017,340,129,74671,164,75011,https://worldathletics.org/records/competition-performance-rankings/ranking/573752
+160,594699,"Louisville Invitational, Louisville, KY",USA,14 APR 2017,15 APR 2017,35,379,74939,155,74974,https://worldathletics.org/records/competition-performance-rankings/ranking/594699
+161,594703,"Los Angeles Bob Larsen Distance Carnival/UCLA Legends Invite, Los Angeles, CA",USA,31 MAR 2017,01 APR 2017,15,468,74912,157,74927,https://worldathletics.org/records/competition-performance-rankings/ranking/594703
+162,574321,"Fayetteville Arkansas Twilight, Fayetteville, AR",USA,05 MAY 2017,05 MAY 2017,100,250,74820,161,74920,https://worldathletics.org/records/competition-performance-rankings/ranking/574321
+163,594692,"Arcadia Invitational, Arcadia, CA",USA,07 APR 2017,08 APR 2017,0,,74826,159,74826,https://worldathletics.org/records/competition-performance-rankings/ranking/594692
+164,573756,"Pretoria Varsity Athletics, Pretoria",RSA,31 MAR 2017,31 MAR 2017,80,275,74718,163,74798,https://worldathletics.org/records/competition-performance-rankings/ranking/573756
+165,594698,"Norman John Jacobs Invitational, Norman, OK",USA,21 APR 2017,22 APR 2017,50,335,74720,162,74770,https://worldathletics.org/records/competition-performance-rankings/ranking/594698
+166,594701,"Princeton Larry Ellis Invitational, Princeton, NJ",USA,21 APR 2017,22 APR 2017,110,241,74636,166,74746,https://worldathletics.org/records/competition-performance-rankings/ranking/594701
+167,575254,"Nivelles Meeting International EAP, Nivelles",BEL,24 JUN 2017,24 JUN 2017,95,254,74647,165,74742,https://worldathletics.org/records/competition-performance-rankings/ranking/575254
+168,594697,"Corvallis OSU High Performance, Corvallis, OR",USA,28 APR 2017,29 APR 2017,70,295,74553,167,74623,https://worldathletics.org/records/competition-performance-rankings/ranking/594697
+169,585183,"St-Martin International Meeting, St-Martin",FRA,13 MAY 2017,13 MAY 2017,970,59,73636,193,74606,https://worldathletics.org/records/competition-performance-rankings/ranking/585183
+170,574439,"Athens Torrin Lawrence Memorial, Athens, GA",USA,06 MAY 2017,06 MAY 2017,455,105,74053,178,74508,https://worldathletics.org/records/competition-performance-rankings/ranking/574439
+171,594693,"San Marcos Bobcat Invitational, San Marcos, TX",USA,30 MAR 2017,01 APR 2017,10,508,74435,168,74445,https://worldathletics.org/records/competition-performance-rankings/ranking/594693
+172,574138,"Columbia USC Open, Columbia, SC",USA,22 APR 2017,22 APR 2017,170,190,74213,174,74383,https://worldathletics.org/records/competition-performance-rankings/ranking/574138
+173,575115,"Guelph New Balance Speed River Inferno, Guelph",CAN,14 JUN 2017,14 JUN 2017,145,213,74234,173,74379,https://worldathletics.org/records/competition-performance-rankings/ranking/575115
+174,578164,"São Bernardo do Campo Desafio Brasil / Circuito Prata 3ª Etapa, Sao Bernardo do Campo",BRA,01 JUL 2017,01 JUL 2017,300,140,74049,179,74349,https://worldathletics.org/records/competition-performance-rankings/ranking/578164
+175,594700,"Columbus Jesse Owens University Classic, Columbus, OH",USA,21 APR 2017,22 APR 2017,45,345,74302,169,74347,https://worldathletics.org/records/competition-performance-rankings/ranking/594700
+176,594702,"Tempe Pac-12 vs Big-10 Invitational, Tempe, AZ",USA,24 MAR 2017,25 MAR 2017,65,305,74254,171,74319,https://worldathletics.org/records/competition-performance-rankings/ranking/594702
+177,574748,"Orvieto Memorial Luca Coscioni, Orvieto",ITA,28 MAY 2017,28 MAY 2017,70,295,74247,172,74317,https://worldathletics.org/records/competition-performance-rankings/ranking/574748
+178,573903,"Houston Alumni Invitational, Houston, TX",USA,08 APR 2017,08 APR 2017,105,244,74186,175,74291,https://worldathletics.org/records/competition-performance-rankings/ranking/573903
+179,594696,"Los Angeles Trojan Invitational, Los Angeles, CA",USA,17 MAR 2017,18 MAR 2017,10,508,74275,170,74285,https://worldathletics.org/records/competition-performance-rankings/ranking/594696
+180,578579,Lappeenranta,FIN,26 AUG 2017,26 AUG 2017,535,95,73699,190,74234,https://worldathletics.org/records/competition-performance-rankings/ranking/578579
+181,578090,"Albi Championnats Nationaux, Albi",FRA,08 JUL 2017,09 JUL 2017,15,468,74168,176,74183,https://worldathletics.org/records/competition-performance-rankings/ranking/578090
+182,594652,"Albuquerque Great Southwest Classic, Albuquerque, NM",USA,01 JUN 2017,03 JUN 2017,15,468,74160,177,74175,https://worldathletics.org/records/competition-performance-rankings/ranking/594652
+183,578499,"Kessel-Lo Meeting voor Mon, Kessel-Lo",BEL,19 AUG 2017,19 AUG 2017,180,185,73991,181,74171,https://worldathletics.org/records/competition-performance-rankings/ranking/578499
+184,594694,"San Diego Aztec Invitational, San Diego, CA",USA,24 MAR 2017,25 MAR 2017,80,275,73969,182,74049,https://worldathletics.org/records/competition-performance-rankings/ranking/594694
+185,594695,"Louisville Lenny Lyles-Clark Wood Inv., Louisville, KY",USA,28 APR 2017,29 APR 2017,75,285,73940,184,74015,https://worldathletics.org/records/competition-performance-rankings/ranking/594695
+186,572852,"Kingston Queens Grace Jackson Track Meet, Kingston",JAM,28 JAN 2017,28 JAN 2017,185,182,73828,186,74013,https://worldathletics.org/records/competition-performance-rankings/ranking/572852
+187,574796,"Praha Academica, Praha",CZE,30 MAY 2017,30 MAY 2017,175,188,73825,187,74000,https://worldathletics.org/records/competition-performance-rankings/ranking/574796
+187,574982,Radom,POL,04 JUN 2017,04 JUN 2017,650,81,73350,201,74000,https://worldathletics.org/records/competition-performance-rankings/ranking/574982
+189,573755,"Arlington Bobby Lane Invitational, Arlington, TX",USA,25 MAR 2017,25 MAR 2017,25,413,73956,183,73981,https://worldathletics.org/records/competition-performance-rankings/ranking/573755
+190,574118,"Iowa City Musco Twilight, Iowa City, IA",USA,22 APR 2017,22 APR 2017,30,391,73876,185,73906,https://worldathletics.org/records/competition-performance-rankings/ranking/574118
+191,574299,"Charlottesville Virginia Grand Prix, Charlottesville, VA",USA,29 APR 2017,29 APR 2017,95,254,73749,188,73844,https://worldathletics.org/records/competition-performance-rankings/ranking/574299
+192,574449,"Lubbock Texas Tech Masked Rider Open, Lubbock, TX",USA,06 MAY 2017,06 MAY 2017,85,264,73746,189,73831,https://worldathletics.org/records/competition-performance-rankings/ranking/574449
+193,574323,"Tallahassee Seminole Twilight, Tallahassee, FL",USA,05 MAY 2017,05 MAY 2017,280,147,73527,195,73807,https://worldathletics.org/records/competition-performance-rankings/ranking/574323
+194,578387,"Lier Memorial Jos Verstockt, Lier",BEL,05 AUG 2017,05 AUG 2017,140,216,73647,192,73787,https://worldathletics.org/records/competition-performance-rankings/ranking/578387
+195,578045,"Hamilton Bermuda Invitational, Hamilton",BER,01 JUL 2017,01 JUL 2017,375,118,73371,200,73746,https://worldathletics.org/records/competition-performance-rankings/ranking/578045
+196,574754,"Chula Vista CVEATC High Performance Meet, Chula Vista, CA",USA,27 MAY 2017,28 MAY 2017,825,67,72909,219,73734,https://worldathletics.org/records/competition-performance-rankings/ranking/574754
+197,575286,"Lokeren Flanders Cup, Lokeren",BEL,25 JUN 2017,25 JUN 2017,45,345,73669,191,73714,https://worldathletics.org/records/competition-performance-rankings/ranking/575286
+198,578243,"Bursa Turkish Club Championships, Bursa",TUR,06 JUL 2017,07 JUL 2017,855,65,72847,224,73702,https://worldathletics.org/records/competition-performance-rankings/ranking/578243
+199,574599,"Portland Twilight, Portland, OR",USA,13 MAY 2017,13 MAY 2017,150,207,73550,194,73700,https://worldathletics.org/records/competition-performance-rankings/ranking/574599
+200,575163,"São Bernardo do Campo Circuito Prata 2ª Etapa, Sao Bernardo do Campo",BRA,17 JUN 2017,17 JUN 2017,190,178,73419,199,73609,https://worldathletics.org/records/competition-performance-rankings/ranking/575163
+201,574324,"Eugene Oregon Twilight, Eugene, OR",USA,05 MAY 2017,05 MAY 2017,225,162,73345,202,73570,https://worldathletics.org/records/competition-performance-rankings/ranking/574324
+202,594685,"Budapest Open, Budapest",HUN,03 JUN 2017,04 JUN 2017,295,142,73245,205,73540,https://worldathletics.org/records/competition-performance-rankings/ranking/594685
+203,574885,"München Ludwig Jall Sportfest, München",GER,03 JUN 2017,03 JUN 2017,65,305,73450,197,73515,https://worldathletics.org/records/competition-performance-rankings/ranking/574885
+204,594689,"San Marcos Texas State Bobcat Classic, San Marcos, TX",USA,28 APR 2017,29 APR 2017,25,413,73485,196,73510,https://worldathletics.org/records/competition-performance-rankings/ranking/594689
+205,578884,"Fayetteville Arkansas Spring Invitational, Fayetteville, AR",USA,24 MAR 2017,25 MAR 2017,45,345,73431,198,73476,https://worldathletics.org/records/competition-performance-rankings/ranking/578884
+206,574989,"Ankara Turkish Super League, Ankara",TUR,06 JUN 2017,07 JUN 2017,715,76,72747,230,73462,https://worldathletics.org/records/competition-performance-rankings/ranking/574989
+207,578430,"Wichita State KT Woodman Classic, Wichita, KS",USA,14 APR 2017,15 APR 2017,20,444,73324,203,73344,https://worldathletics.org/records/competition-performance-rankings/ranking/578430
+208,574623,"Basel Hürden- und Sprintmeeting, Basel",SUI,20 MAY 2017,20 MAY 2017,45,345,73282,204,73327,https://worldathletics.org/records/competition-performance-rankings/ranking/574623
+209,574495,"Lisse Ter Specke Bokaal, Lisse",NED,13 MAY 2017,13 MAY 2017,230,159,73088,206,73318,https://worldathletics.org/records/competition-performance-rankings/ranking/574495
+210,573764,"Pretoria AGN League, Pretoria",RSA,04 MAR 2017,04 MAR 2017,255,151,73054,210,73309,https://worldathletics.org/records/competition-performance-rankings/ranking/573764
+211,574437,"Oxford Ole Miss Classic, Oxford, MS",USA,06 MAY 2017,06 MAY 2017,255,151,73049,213,73304,https://worldathletics.org/records/competition-performance-rankings/ranking/574437
+212,580477,"Pretoria AGN Invitational League, Pretoria",RSA,02 DEC 2017,02 DEC 2017,200,172,73086,207,73286,https://worldathletics.org/records/competition-performance-rankings/ranking/580477
+213,574588,"Swarthmore Final Qualifier, Swarthmore, PA",USA,17 MAY 2017,17 MAY 2017,85,264,73052,212,73137,https://worldathletics.org/records/competition-performance-rankings/ranking/574588
+214,594674,"Hattiesburg Southern Miss Open, Hattiesburg, MS",USA,28 APR 2017,29 APR 2017,40,362,73060,209,73100,https://worldathletics.org/records/competition-performance-rankings/ranking/594674
+215,574977,"Abuja AFN/Dynamic Sporting Solutions Meet, Abuja",NGR,03 JUN 2017,03 JUN 2017,5,550,73084,208,73089,https://worldathletics.org/records/competition-performance-rankings/ranking/574977
+216,578226,"Bromley UK Women's League, Bromley",GBR,16 JUL 2017,16 JUL 2017,80,275,73005,214,73085,https://worldathletics.org/records/competition-performance-rankings/ranking/578226
+217,578174,"Ávila, Avila",ESP,15 JUL 2017,15 JUL 2017,235,156,72848,223,73083,https://worldathletics.org/records/competition-performance-rankings/ranking/578174
+218,594677,"San Antonio UTSA Invitational, San Antonio, TX",USA,17 MAR 2017,18 MAR 2017,25,413,73053,211,73078,https://worldathletics.org/records/competition-performance-rankings/ranking/594677
+219,596234,"Plzeň Czech Club Championships, Plzeň",CZE,10 SEP 2017,10 SEP 2017,490,99,72555,233,73045,https://worldathletics.org/records/competition-performance-rankings/ranking/596234
+220,573907,"Jacksonville North Florida Invitational, Jacksonville, FL",USA,08 APR 2017,08 APR 2017,80,275,72910,218,72990,https://worldathletics.org/records/competition-performance-rankings/ranking/573907
+221,594672,"Coral Gables Miami Hurricane Inv., Coral Gables, FL",USA,17 MAR 2017,18 MAR 2017,15,468,72972,216,72987,https://worldathletics.org/records/competition-performance-rankings/ranking/594672
+222,575008,"Huizingen Flanders Cup, Huizingen",BEL,10 JUN 2017,10 JUN 2017,110,241,72875,222,72985,https://worldathletics.org/records/competition-performance-rankings/ranking/575008
+223,594680,"Bowling Green WKU Hilltopper Relays, Bowling Green, KY",USA,07 APR 2017,08 APR 2017,5,550,72978,215,72983,https://worldathletics.org/records/competition-performance-rankings/ranking/594680
+224,594622,"Redlands Final Qualifier, Redlands, CA",USA,17 MAY 2017,18 MAY 2017,60,314,72893,220,72953,https://worldathletics.org/records/competition-performance-rankings/ranking/594622
+225,574718,"Langenthal Auffahrts-Meeting, Langenthal",SUI,25 MAY 2017,25 MAY 2017,10,508,72935,217,72945,https://worldathletics.org/records/competition-performance-rankings/ranking/574718
+226,574040,"El Paso UTEP Invitational, El Paso, TX",USA,22 APR 2017,22 APR 2017,70,295,72828,226,72898,https://worldathletics.org/records/competition-performance-rankings/ranking/574040
+227,573817,"San Angelo David Noble Relays, San Angelo, TX",USA,08 APR 2017,08 APR 2017,5,550,72888,221,72893,https://worldathletics.org/records/competition-performance-rankings/ranking/573817
+227,580574,"Brisbane Carlee Beattie Shield, Brisbane",AUS,16 DEC 2017,16 DEC 2017,95,254,72798,227,72893,https://worldathletics.org/records/competition-performance-rankings/ranking/580574
+229,594676,"Berkeley Brutus Hamilton Challenge, Berkeley, CA",USA,28 APR 2017,29 APR 2017,35,379,72833,225,72868,https://worldathletics.org/records/competition-performance-rankings/ranking/594676
+230,574734,"Slovenska Bistrica Int. Meeting, Slovenska Bistrica",SLO,27 MAY 2017,27 MAY 2017,275,149,72550,234,72825,https://worldathletics.org/records/competition-performance-rankings/ranking/574734
+231,594670,"Toronto AO Outdoor Prep Meet, Toronto",CAN,23 JUN 2017,25 JUN 2017,45,345,72774,228,72819,https://worldathletics.org/records/competition-performance-rankings/ranking/594670
+232,596265,"Budapest Atlétikai Magyar Szuper Liga Döntő, Budapest",HUN,02 SEP 2017,03 SEP 2017,575,89,72232,245,72807,https://worldathletics.org/records/competition-performance-rankings/ranking/596265
+233,594668,"Memphis Invitational, Memphis, TN",USA,28 APR 2017,29 APR 2017,0,,72751,229,72751,https://worldathletics.org/records/competition-performance-rankings/ranking/594668
+234,594666,"Canyon WT Classic and Multi, Canyon, TX",USA,07 APR 2017,08 APR 2017,0,,72714,231,72714,https://worldathletics.org/records/competition-performance-rankings/ranking/594666
+235,596261,"Jelenia Góra Polish Club Championships, Jelenia Góra",POL,03 SEP 2017,03 SEP 2017,635,83,71980,253,72615,https://worldathletics.org/records/competition-performance-rankings/ranking/596261
+236,574916,"Lee Valley British Athletics League, Lee Valley",GBR,03 JUN 2017,03 JUN 2017,65,305,72548,235,72613,https://worldathletics.org/records/competition-performance-rankings/ranking/574916
+237,574775,"Culver City Valerie Brisco-Hooks Inv., Culver City, CA",USA,27 MAY 2017,27 MAY 2017,55,326,72543,236,72598,https://worldathletics.org/records/competition-performance-rankings/ranking/574775
+238,594658,"Torrance Mt. SAC Relays High School, Torrance, CA",USA,14 APR 2017,15 APR 2017,30,391,72561,232,72591,https://worldathletics.org/records/competition-performance-rankings/ranking/594658
+239,574301,"Lynchburg Liberty Twilight, Lynchburg, VA",USA,03 MAY 2017,03 MAY 2017,120,232,72434,238,72554,https://worldathletics.org/records/competition-performance-rankings/ranking/574301
+240,574719,"Vught Harry Schulting Games, Vught",NED,25 MAY 2017,25 MAY 2017,135,221,72410,239,72545,https://worldathletics.org/records/competition-performance-rankings/ranking/574719
+241,594688,"Oxford Joe Walker Invite, Oxford, MS",USA,24 MAR 2017,25 MAR 2017,305,137,72216,246,72521,https://worldathletics.org/records/competition-performance-rankings/ranking/594688
+242,594673,"Lafayette Louisiana Classic, Lafayette, LA",USA,17 MAR 2017,18 MAR 2017,25,413,72482,237,72507,https://worldathletics.org/records/competition-performance-rankings/ranking/594673
+243,578349,"Rhede Int. Leichtathletik-Meeting, Rhede",GER,29 JUL 2017,29 JUL 2017,120,232,72357,242,72477,https://worldathletics.org/records/competition-performance-rankings/ranking/578349
+244,594682,"Provo BYU Robison Invitational, Provo, UT",USA,27 APR 2017,29 APR 2017,55,326,72391,240,72446,https://worldathletics.org/records/competition-performance-rankings/ranking/594682
+245,573429,"Potchefstroom Varsity Athletics, Potchefstroom",RSA,03 MAR 2017,03 MAR 2017,90,261,72318,244,72408,https://worldathletics.org/records/competition-performance-rankings/ranking/573429
+246,594675,"San Francisco State Distance Carnival, San Francisco, CA",USA,31 MAR 2017,01 APR 2017,0,,72381,241,72381,https://worldathletics.org/records/competition-performance-rankings/ranking/594675
+247,594687,"Sacramento Hornet Invitational, Sacramento, CA",USA,17 MAR 2017,18 MAR 2017,35,379,72333,243,72368,https://worldathletics.org/records/competition-performance-rankings/ranking/594687
+248,573734,"Knoxville Tennessee Rust Buster, Knoxville, TN",USA,25 MAR 2017,25 MAR 2017,15,468,72195,247,72210,https://worldathletics.org/records/competition-performance-rankings/ranking/573734
+249,573584,"Atlanta Georgia Tech Yellow Jacket Inv., Atlanta, GA",USA,17 MAR 2017,17 MAR 2017,40,362,72159,248,72199,https://worldathletics.org/records/competition-performance-rankings/ranking/573584
+250,575075,"Gdańsk Józef Żylewicz Memorial, Gdansk",POL,14 JUN 2017,14 JUN 2017,90,261,72104,249,72194,https://worldathletics.org/records/competition-performance-rankings/ranking/575075
+251,575255,Kraków,POL,24 JUN 2017,24 JUN 2017,95,254,72039,250,72134,https://worldathletics.org/records/competition-performance-rankings/ranking/575255
+252,579012,"Mississippi State Bulldog Relays, Mississippi State, MS",USA,17 MAR 2017,18 MAR 2017,45,345,71982,252,72027,https://worldathletics.org/records/competition-performance-rankings/ranking/579012
+253,585200,"Kobe Hyogo Relays, Kobe",JPN,22 APR 2017,23 APR 2017,330,131,71694,267,72024,https://worldathletics.org/records/competition-performance-rankings/ranking/585200
+254,603054,Ningbo,CHN,02 JUL 2017,02 JUL 2017,85,264,71917,256,72002,https://worldathletics.org/records/competition-performance-rankings/ranking/603054
+255,594664,"Las Vegas UNLV Invitational, Las Vegas, NV",USA,16 MAR 2017,18 MAR 2017,0,,71996,251,71996,https://worldathletics.org/records/competition-performance-rankings/ranking/594664
+256,578356,"Schifflange CAS Meeting, Schifflange",LUX,30 JUL 2017,30 JUL 2017,90,261,71903,257,71993,https://worldathletics.org/records/competition-performance-rankings/ranking/578356
+257,594686,"Williamsburg Colonial Relays, Williamsburg, VA",USA,30 MAR 2017,01 APR 2017,10,508,71970,254,71980,https://worldathletics.org/records/competition-performance-rankings/ranking/594686
+258,574895,"Raasepori Karis Telefon Games, Raasepori",FIN,04 JUN 2017,04 JUN 2017,245,154,71702,266,71947,https://worldathletics.org/records/competition-performance-rankings/ranking/574895
+259,579095,"Houston Region 3-6A Meet, Houston, TX",USA,28 APR 2017,29 APR 2017,0,,71922,255,71922,https://worldathletics.org/records/competition-performance-rankings/ranking/579095
+260,573733,"El Paso UTEP Springtime, El Paso, TX",USA,25 MAR 2017,25 MAR 2017,30,391,71888,259,71918,https://worldathletics.org/records/competition-performance-rankings/ranking/573733
+261,594683,"Hillsdale GINA Relays, Hillsdale, MI",USA,27 APR 2017,29 APR 2017,10,508,71903,257,71913,https://worldathletics.org/records/competition-performance-rankings/ranking/594683
+262,575251,"Carquefou Meeting National, Carquefou",FRA,23 JUN 2017,23 JUN 2017,155,202,71754,263,71909,https://worldathletics.org/records/competition-performance-rankings/ranking/575251
+263,574140,"Houston J Fred Duckett Rice Twilight Meet, Houston, TX",USA,22 APR 2017,22 APR 2017,15,468,71862,260,71877,https://worldathletics.org/records/competition-performance-rankings/ranking/574140
+264,578886,"Jacksonville UNF Spring Break Invitational, Jacksonville, FL",USA,24 MAR 2017,24 MAR 2017,115,236,71744,264,71859,https://worldathletics.org/records/competition-performance-rankings/ranking/578886
+265,585124,"Buenos Aires GP German Lauro, Buenos Aires",ARG,30 MAR 2017,30 MAR 2017,230,159,71616,270,71846,https://worldathletics.org/records/competition-performance-rankings/ranking/585124
+266,594665,"Nacogdoches Carl Kight Invitational, Nacogdoches, TX",USA,07 APR 2017,08 APR 2017,0,,71826,261,71826,https://worldathletics.org/records/competition-performance-rankings/ranking/594665
+267,574633,Chania,GRE,20 MAY 2017,20 MAY 2017,210,168,71613,271,71823,https://worldathletics.org/records/competition-performance-rankings/ranking/574633
+268,594684,"Lewisburg Bison Classic, Lewisburg, PA",USA,14 APR 2017,15 APR 2017,0,,71770,262,71770,https://worldathletics.org/records/competition-performance-rankings/ranking/594684
+269,594661,"Columbia Tom Botts Invitational, Columbia, MO",USA,14 APR 2017,15 APR 2017,65,305,71704,265,71769,https://worldathletics.org/records/competition-performance-rankings/ranking/594661
+270,578218,"Aliann Pompey Invitational, Leonora Stadium, Leonora",GUY,15 JUL 2017,15 JUL 2017,145,213,71607,273,71752,https://worldathletics.org/records/competition-performance-rankings/ranking/578218
+271,578666,Monachil,ESP,07 JUL 2017,07 JUL 2017,225,162,71493,279,71718,https://worldathletics.org/records/competition-performance-rankings/ranking/578666
+272,594663,"Mobile South Alabama Invitational, Mobile, AL",USA,13 APR 2017,15 APR 2017,20,444,71661,268,71681,https://worldathletics.org/records/competition-performance-rankings/ranking/594663
+273,594662,"Abilene Wes Kittley Invitational, Abilene, TX",USA,24 MAR 2017,25 MAR 2017,15,468,71646,269,71661,https://worldathletics.org/records/competition-performance-rankings/ranking/594662
+274,594647,"Houston TSU Relays, Houston, TX",USA,17 MAR 2017,18 MAR 2017,20,444,71611,272,71631,https://worldathletics.org/records/competition-performance-rankings/ranking/594647
+275,574628,"Debrecen Kelet Kupa, Debrecen",HUN,20 MAY 2017,21 MAY 2017,120,232,71509,277,71629,https://worldathletics.org/records/competition-performance-rankings/ranking/574628
+276,587957,"Provo BYU Cougar Invitational, Provo, UT",USA,12 MAY 2017,13 MAY 2017,105,244,71520,276,71625,https://worldathletics.org/records/competition-performance-rankings/ranking/587957
+277,574747,"Jena Sparkassen-Meeting, Jena",GER,27 MAY 2017,27 MAY 2017,0,,71590,274,71590,https://worldathletics.org/records/competition-performance-rankings/ranking/574747
+278,573906,"Claremont Pomona-Pitzer T&F Invite, Claremont, CA",USA,08 APR 2017,08 APR 2017,75,285,71509,277,71584,https://worldathletics.org/records/competition-performance-rankings/ranking/573906
+279,594681,"Charlotte 49er Classic, Charlotte, NC",USA,16 MAR 2017,18 MAR 2017,25,413,71557,275,71582,https://worldathletics.org/records/competition-performance-rankings/ranking/594681
+280,578307,Tábor,CZE,25 JUL 2017,25 JUL 2017,250,153,71325,286,71575,https://worldathletics.org/records/competition-performance-rankings/ranking/578307
+281,573835,"Santiago de Chile GP Orlando Guaita, Santiago de Chile",CHI,09 APR 2017,09 APR 2017,165,195,71355,284,71520,https://worldathletics.org/records/competition-performance-rankings/ranking/573835
+282,578609,"Boulder Colorado Invitational, Boulder, CO",USA,07 APR 2017,08 APR 2017,25,413,71439,280,71464,https://worldathletics.org/records/competition-performance-rankings/ranking/578609
+283,572748,"Glendale Hunter Track Classic, Glendale",AUS,28 JAN 2017,28 JAN 2017,60,314,71395,282,71455,https://worldathletics.org/records/competition-performance-rankings/ranking/572748
+284,594678,"Naperville NCC Dr. Keeler Invitational, Naperville, IL",USA,11 MAY 2017,12 MAY 2017,25,413,71404,281,71429,https://worldathletics.org/records/competition-performance-rankings/ranking/594678
+285,575081,"Kingston JAAA All Comers Meet, Kingston",JAM,11 JUN 2017,11 JUN 2017,155,202,71261,290,71416,https://worldathletics.org/records/competition-performance-rankings/ranking/575081
+286,594637,"San Marcos Bobcat Twilight, San Marcos, TX",USA,21 APR 2017,22 APR 2017,105,244,71310,287,71415,https://worldathletics.org/records/competition-performance-rankings/ranking/594637
+287,578573,"Princeton Sam Howell Invitational, Princeton, NJ",USA,08 APR 2017,08 APR 2017,30,391,71375,283,71405,https://worldathletics.org/records/competition-performance-rankings/ranking/578573
+288,574507,"Winterthur Swiss Club Championships, Winterthur",SUI,13 MAY 2017,13 MAY 2017,160,198,71227,293,71387,https://worldathletics.org/records/competition-performance-rankings/ranking/574507
+289,578074,"Boras Swedish Club Championships, Borås",SWE,07 JUL 2017,07 JUL 2017,280,147,71092,296,71372,https://worldathletics.org/records/competition-performance-rankings/ranking/578074
+290,594669,"Charlotte Invitational, Charlotte, NC",USA,14 APR 2017,15 APR 2017,15,468,71345,285,71360,https://worldathletics.org/records/competition-performance-rankings/ranking/594669
+291,580644,"Sydney Albie Thomas + Bankstown All-Comers, Sydney",AUS,23 DEC 2017,23 DEC 2017,70,295,71240,291,71310,https://worldathletics.org/records/competition-performance-rankings/ranking/580644
+292,594667,"High Point VertKlasse Meeting, High Point, NC",USA,31 MAR 2017,01 APR 2017,40,362,71269,288,71309,https://worldathletics.org/records/competition-performance-rankings/ranking/594667
+293,574473,"Lawrence Rock Chalk Classic, Lawrence, KS",USA,28 APR 2017,28 APR 2017,45,345,71233,292,71278,https://worldathletics.org/records/competition-performance-rankings/ranking/574473
+294,578648,"Greenville Bill Carson Invitational, Greenville, NC",USA,07 APR 2017,07 APR 2017,10,508,71265,289,71275,https://worldathletics.org/records/competition-performance-rankings/ranking/578648
+295,573800,"Long Beach Big West Challenge, Long Beach, CA",USA,07 APR 2017,07 APR 2017,5,550,71221,294,71226,https://worldathletics.org/records/competition-performance-rankings/ranking/573800
+296,578604,"Fairfax George Mason Spring Inv., Fairfax, VA",USA,08 APR 2017,08 APR 2017,0,,71200,295,71200,https://worldathletics.org/records/competition-performance-rankings/ranking/578604
+297,574751,"Palafrugell Meeting Internacional, Palafrugell",ESP,27 MAY 2017,27 MAY 2017,85,264,71019,301,71104,https://worldathletics.org/records/competition-performance-rankings/ranking/574751
+298,573815,"Orlando UCF Black & Gold Challenge, Orlando, FL",USA,17 MAR 2017,18 MAR 2017,60,314,71024,300,71084,https://worldathletics.org/records/competition-performance-rankings/ranking/573815
+299,574914,"Tilburg T-Meeting, Tilburg",NED,05 JUN 2017,05 JUN 2017,15,468,71044,299,71059,https://worldathletics.org/records/competition-performance-rankings/ranking/574914
+300,574290,"Fresno State Invitational, Fresno, CA",USA,29 APR 2017,29 APR 2017,0,,71057,297,71057,https://worldathletics.org/records/competition-performance-rankings/ranking/574290
+301,573993,"Hobbs Ross Black Open, Hobbs, NM",USA,15 APR 2017,15 APR 2017,0,,71053,298,71053,https://worldathletics.org/records/competition-performance-rankings/ranking/573993
+302,578369,"Freeport Blue Marlin Classic, Freeport",BAH,22 JUL 2017,22 JUL 2017,475,100,70571,320,71046,https://worldathletics.org/records/competition-performance-rankings/ranking/578369
+303,583068,"Queretaro Copa Autonomia, Queretaro",MEX,13 MAY 2017,14 MAY 2017,30,391,71009,302,71039,https://worldathletics.org/records/competition-performance-rankings/ranking/583068
+304,574882,"Zofingen Pfingstmeeting, Zofingen",SUI,03 JUN 2017,03 JUN 2017,40,362,70954,303,70994,https://worldathletics.org/records/competition-performance-rankings/ranking/574882
+305,578033,"Celle Ligure Meeting Arcobaleno, Celle Ligure",ITA,05 JUL 2017,05 JUL 2017,75,285,70894,304,70969,https://worldathletics.org/records/competition-performance-rankings/ranking/578033
+306,578030,"Bruay-la-Buissiere Meeting National, Bruay-la-Buissiere",FRA,04 JUL 2017,04 JUL 2017,150,207,70807,308,70957,https://worldathletics.org/records/competition-performance-rankings/ranking/578030
+307,575010,"Halifax Aileen Meagher International Track Classic, Halifax",CAN,10 JUN 2017,10 JUN 2017,85,264,70862,306,70947,https://worldathletics.org/records/competition-performance-rankings/ranking/575010
+308,578196,"Bedford British Athletics League Div. Premiership, Bedford",GBR,15 JUL 2017,15 JUL 2017,150,207,70751,311,70901,https://worldathletics.org/records/competition-performance-rankings/ranking/578196
+309,574327,"Madison Wisconsin Alumni Classic, Madison, WI",USA,05 MAY 2017,05 MAY 2017,35,379,70859,307,70894,https://worldathletics.org/records/competition-performance-rankings/ranking/574327
+310,594640,"Baltimore Morgan State Legacy Meet, Baltimore, MD",USA,21 APR 2017,22 APR 2017,0,,70884,305,70884,https://worldathletics.org/records/competition-performance-rankings/ranking/594640
+311,574715,"Zeulenroda Meeting, Zeulenroda",GER,25 MAY 2017,25 MAY 2017,210,168,70635,317,70845,https://worldathletics.org/records/competition-performance-rankings/ranking/574715
+312,574590,"Charlottesville Virginia Quad, Charlottesville, VA",USA,08 APR 2017,08 APR 2017,25,413,70799,309,70824,https://worldathletics.org/records/competition-performance-rankings/ranking/574590
+313,577959,"Nottwil Bonus-Track Meeting, Nottwil",SUI,01 JUL 2017,01 JUL 2017,15,468,70772,310,70787,https://worldathletics.org/records/competition-performance-rankings/ranking/577959
+314,574515,Castiglione della Pescaia,ITA,14 MAY 2017,14 MAY 2017,125,224,70658,314,70783,https://worldathletics.org/records/competition-performance-rankings/ranking/574515
+315,594655,"Irvine UC Irvine Spring Break Collegiate Classic, Irvine, CA",USA,17 MAR 2017,18 MAR 2017,0,,70738,312,70738,https://worldathletics.org/records/competition-performance-rankings/ranking/594655
+316,578063,"Oslo Boysen Memorial, Oslo",NOR,06 JUL 2017,06 JUL 2017,50,335,70656,315,70706,https://worldathletics.org/records/competition-performance-rankings/ranking/578063
+317,594657,"Charleston EIU Big Blue Classic, Charleston, IL",USA,31 MAR 2017,01 APR 2017,30,391,70672,313,70702,https://worldathletics.org/records/competition-performance-rankings/ranking/594657
+318,594660,"Riverside Spring Track Classic, Riverside, CA",USA,23 MAR 2017,25 MAR 2017,0,,70647,316,70647,https://worldathletics.org/records/competition-performance-rankings/ranking/594660
+319,574910,"Basel Susanne Meier Memorial, Basel",SUI,05 JUN 2017,05 JUN 2017,65,305,70575,319,70640,https://worldathletics.org/records/competition-performance-rankings/ranking/574910
+320,574168,"Champaign Illinois Twilight, Champaign, IL",USA,22 APR 2017,22 APR 2017,55,326,70576,318,70631,https://worldathletics.org/records/competition-performance-rankings/ranking/574168
+321,573784,"Durham Battle of the Blues, Durham, NC",USA,01 APR 2017,01 APR 2017,15,468,70536,321,70551,https://worldathletics.org/records/competition-performance-rankings/ranking/573784
+322,594659,"Fullerton Ben Brown Invitational, Fullerton, CA",USA,10 MAR 2017,11 MAR 2017,0,,70488,322,70488,https://worldathletics.org/records/competition-performance-rankings/ranking/594659
+323,594653,"Tucson Willie Williams Classic, Tucson, AZ",USA,17 MAR 2017,18 MAR 2017,25,413,70451,323,70476,https://worldathletics.org/records/competition-performance-rankings/ranking/594653
+324,574639,"Den Haag Dutch Club Championships, Den Haag",NED,20 MAY 2017,20 MAY 2017,155,202,70307,328,70462,https://worldathletics.org/records/competition-performance-rankings/ranking/574639
+325,594621,"Mayagüez Tercera Clasificatoria, Mayagüez",PUR,07 APR 2017,08 APR 2017,60,314,70395,325,70455,https://worldathletics.org/records/competition-performance-rankings/ranking/594621
+326,594643,"Columbia Bojangles Classic, Columbia, SC",USA,07 APR 2017,08 APR 2017,5,550,70445,324,70450,https://worldathletics.org/records/competition-performance-rankings/ranking/594643
+327,574568,"Allendale GVSU 2nd to Last Chance Meet, Allendale, MI",USA,12 MAY 2017,12 MAY 2017,55,326,70386,326,70441,https://worldathletics.org/records/competition-performance-rankings/ranking/574568
+328,574010,"Akron Northeast Ohio Quad, Akron, OH",USA,14 APR 2017,15 APR 2017,25,413,70331,327,70356,https://worldathletics.org/records/competition-performance-rankings/ranking/574010
+329,578327,"Castres Meeting National, Castres",FRA,26 JUL 2017,26 JUL 2017,105,244,70231,329,70336,https://worldathletics.org/records/competition-performance-rankings/ranking/578327
+330,577972,"Sacramento Meet of Champions, Sacramento, CA",USA,29 APR 2017,29 APR 2017,0,,70227,330,70227,https://worldathletics.org/records/competition-performance-rankings/ranking/577972
+331,578117,"Hilversum Arena Games, Hilversum",NED,09 JUL 2017,09 JUL 2017,115,236,70111,336,70226,https://worldathletics.org/records/competition-performance-rankings/ranking/578117
+332,574007,"Pittsburgh David Suenram Gorilla Classic, Pittsburgh, PA",USA,15 APR 2017,15 APR 2017,0,,70223,331,70223,https://worldathletics.org/records/competition-performance-rankings/ranking/574007
+333,594645,"Coquitlam Jesse Bent Memorial, Coquitlam",CAN,10 JUN 2017,11 JUN 2017,5,550,70187,332,70192,https://worldathletics.org/records/competition-performance-rankings/ranking/594645
+333,575178,"Rapperswil-Jona Oberseemeeting, Rapperswil-Jona",SUI,18 JUN 2017,18 JUN 2017,55,326,70137,334,70192,https://worldathletics.org/records/competition-performance-rankings/ranking/575178
+335,594654,"Cape Girardeau Drury Hotels Joey Haines Invite, Cape Girardeau, MO",USA,31 MAR 2017,01 APR 2017,75,285,70111,336,70186,https://worldathletics.org/records/competition-performance-rankings/ranking/594654
+336,594651,"High Point Bill Webb&Bob Davidson Spring Kick-Off, High Point, NC",USA,16 MAR 2017,18 MAR 2017,5,550,70167,333,70172,https://worldathletics.org/records/competition-performance-rankings/ranking/594651
+337,594644,"Calgary CALTAF Classic, Calgary",CAN,16 JUN 2017,18 JUN 2017,15,468,70132,335,70147,https://worldathletics.org/records/competition-performance-rankings/ranking/594644
+338,573577,"Houston Cougar Spring Break Inv., Houston, TX",USA,16 MAR 2017,16 MAR 2017,30,391,70084,338,70114,https://worldathletics.org/records/competition-performance-rankings/ranking/573577
+339,594650,"Sioux Falls Howard Wood Dakota Relays, Sioux Falls, SD",USA,05 MAY 2017,06 MAY 2017,45,345,70068,339,70113,https://worldathletics.org/records/competition-performance-rankings/ranking/594650
+340,574479,"Emporia State Relays, Emporia, KS",USA,01 APR 2017,01 APR 2017,10,508,70064,340,70074,https://worldathletics.org/records/competition-performance-rankings/ranking/574479
+341,594648,"Terre Haute Gibson Invitational, Terre Haute, IN",USA,14 APR 2017,15 APR 2017,0,,70001,341,70001,https://worldathletics.org/records/competition-performance-rankings/ranking/594648
+342,573663,"Pretoria AGN League, Pretoria",RSA,11 MAR 2017,11 MAR 2017,60,314,69922,343,69982,https://worldathletics.org/records/competition-performance-rankings/ranking/573663
+343,585191,"Melbourne Zatopek:10, Melbourne",AUS,14 DEC 2017,14 DEC 2017,60,314,69906,346,69966,https://worldathletics.org/records/competition-performance-rankings/ranking/585191
+344,574468,"Lexington Kentucky Relays, Lexington, KY",USA,06 MAY 2017,06 MAY 2017,40,362,69908,345,69948,https://worldathletics.org/records/competition-performance-rankings/ranking/574468
+345,574883,"Chania Venizelia, Chania",GRE,03 JUN 2017,03 JUN 2017,30,391,69912,344,69942,https://worldathletics.org/records/competition-performance-rankings/ranking/574883
+346,581288,"Lima GP Ciudad de Lima, Lima",PER,23 APR 2017,23 APR 2017,75,285,69853,348,69928,https://worldathletics.org/records/competition-performance-rankings/ranking/581288
+346,574714,"Amarillo West Texas A&M Last Chance, Amarillo, TX",USA,14 MAY 2017,14 MAY 2017,5,550,69923,342,69928,https://worldathletics.org/records/competition-performance-rankings/ranking/574714
+348,574141,"Fresno Bulldog Invitational, Fresno, CA",USA,22 APR 2017,22 APR 2017,0,,69895,347,69895,https://worldathletics.org/records/competition-performance-rankings/ranking/574141
+349,594613,"Lafayette Rankin/Poehlein Invitational, Lafayette, LA",USA,21 APR 2017,22 APR 2017,75,285,69795,351,69870,https://worldathletics.org/records/competition-performance-rankings/ranking/594613
+350,578783,"Hattiesburg Southern Miss Invitational, Hattiesburg, MS",USA,31 MAR 2017,01 APR 2017,15,468,69822,350,69837,https://worldathletics.org/records/competition-performance-rankings/ranking/578783
+351,575287,"Schweinfurt DLV U18 Gala, Schweinfurt",GER,24 JUN 2017,24 JUN 2017,0,,69834,349,69834,https://worldathletics.org/records/competition-performance-rankings/ranking/575287
+352,594602,"Tempe Duel In The Desert- ASU vs Arizona, Tempe, AZ",USA,28 APR 2017,29 APR 2017,70,295,69756,353,69826,https://worldathletics.org/records/competition-performance-rankings/ranking/594602
+353,573916,"Los Angeles Cal State LA Twilight Open, Los Angeles, CA",USA,12 APR 2017,13 APR 2017,10,508,69754,354,69764,https://worldathletics.org/records/competition-performance-rankings/ranking/573916
+354,574888,"Gladbeck BORSIG-Meeting, Gladbeck",GER,03 JUN 2017,03 JUN 2017,0,,69759,352,69759,https://worldathletics.org/records/competition-performance-rankings/ranking/574888
+355,578301,"Kavala Davitzógleia, Kavala",GRE,22 JUL 2017,22 JUL 2017,180,185,69570,360,69750,https://worldathletics.org/records/competition-performance-rankings/ranking/578301
+356,578514,"Normal Redbird Invitational, Normal, IL",USA,08 APR 2017,08 APR 2017,0,,69732,355,69732,https://worldathletics.org/records/competition-performance-rankings/ranking/578514
+357,574452,"Terre Haute Indiana State University Twilight, Terre Haute, IN",USA,06 MAY 2017,06 MAY 2017,65,305,69639,357,69704,https://worldathletics.org/records/competition-performance-rankings/ranking/574452
+358,575120,"Conegliano Trofeo Toni Fallai, Conegliano",ITA,16 JUN 2017,16 JUN 2017,85,264,69590,358,69675,https://worldathletics.org/records/competition-performance-rankings/ranking/575120
+359,594410,"Northern California Regional Ch. Preliminaries & Finals, Cupertino, CA",USA,05 MAY 2017,13 MAY 2017,0,,69664,356,69664,https://worldathletics.org/records/competition-performance-rankings/ranking/594410
+360,574197,"Ithaca Big Red Invitational, Ithaca, NY",USA,30 APR 2017,30 APR 2017,20,444,69581,359,69601,https://worldathletics.org/records/competition-performance-rankings/ranking/574197
+361,585180,"Tartu Gustav Sule Memorial, Tartu",EST,04 JUN 2017,04 JUN 2017,140,216,69440,363,69580,https://worldathletics.org/records/competition-performance-rankings/ranking/585180
+362,594649,"Allendale Al Owens Classic, Allendale, MI",USA,21 APR 2017,22 APR 2017,10,508,69553,361,69563,https://worldathletics.org/records/competition-performance-rankings/ranking/594649
+363,578544,"Lake Charles McNeese Spring Time Classic, Lake Charles, LA",USA,08 APR 2017,08 APR 2017,0,,69525,362,69525,https://worldathletics.org/records/competition-performance-rankings/ranking/578544
+364,573581,"Sydney Bankstown Invitational, Sydney",AUS,18 MAR 2017,18 MAR 2017,45,345,69436,364,69481,https://worldathletics.org/records/competition-performance-rankings/ranking/573581
+365,577996,"Kiev, Kyiv",UKR,29 JUN 2017,30 JUN 2017,100,250,69346,371,69446,https://worldathletics.org/records/competition-performance-rankings/ranking/577996
+366,578139,"Cullowhee Western Carolina Invitational, Cullowhee, NC",USA,28 APR 2017,28 APR 2017,10,508,69421,365,69431,https://worldathletics.org/records/competition-performance-rankings/ranking/578139
+367,573727,"Philadelphia Penn Challenge, Philadelphia, PA",USA,25 MAR 2017,25 MAR 2017,0,,69418,366,69418,https://worldathletics.org/records/competition-performance-rankings/ranking/573727
+368,574328,"Colorado Springs Air Force Twilight Open, Colorado Springs, CO",USA,05 MAY 2017,05 MAY 2017,30,391,69371,368,69401,https://worldathletics.org/records/competition-performance-rankings/ranking/574328
+369,574171,"Fort Collins Jack Christiansen Invitational, Fort Collins, CO",USA,22 APR 2017,22 APR 2017,25,413,69363,369,69388,https://worldathletics.org/records/competition-performance-rankings/ranking/574171
+370,574581,"Sacramento Mondo Team Challenge, Sacramento, CA",USA,01 APR 2017,01 APR 2017,5,550,69374,367,69379,https://worldathletics.org/records/competition-performance-rankings/ranking/574581
+371,578421,"Philadelphia Oxford&Cambridge vs Penn&Cornell, Philadelphia, PA",USA,15 APR 2017,15 APR 2017,15,468,69359,370,69374,https://worldathletics.org/records/competition-performance-rankings/ranking/578421
+372,574539,"Bruxelles Belgian Club Championships, Bruxelles",BEL,14 MAY 2017,14 MAY 2017,40,362,69303,373,69343,https://worldathletics.org/records/competition-performance-rankings/ranking/574539
+373,578562,"Bolivar SBU Invite, Bolivar, MO",USA,08 APR 2017,08 APR 2017,0,,69325,372,69325,https://worldathletics.org/records/competition-performance-rankings/ranking/578562
+374,578109,Palencia,ESP,08 JUL 2017,08 JUL 2017,75,285,69242,376,69317,https://worldathletics.org/records/competition-performance-rankings/ranking/578109
+375,573811,"Palo Alto The Big Meet, Palo Alto, CA",USA,08 APR 2017,08 APR 2017,10,508,69262,374,69272,https://worldathletics.org/records/competition-performance-rankings/ranking/573811
+376,573977,"Providence Ocean State Invitational, Providence, RI",USA,15 APR 2017,15 APR 2017,0,,69260,375,69260,https://worldathletics.org/records/competition-performance-rankings/ranking/573977
+377,578170,"Abilene ACU Wildcat Open, Abilene, TX",USA,27 APR 2017,27 APR 2017,25,413,69208,378,69233,https://worldathletics.org/records/competition-performance-rankings/ranking/578170
+378,574109,"Canyon West Texas A&M Invitational, Canyon, TX",USA,23 APR 2017,23 APR 2017,0,,69214,377,69214,https://worldathletics.org/records/competition-performance-rankings/ranking/574109
+379,575154,"Wrocław Memoriał Edward Listos, Wrocław",POL,18 JUN 2017,18 JUN 2017,60,314,69143,381,69203,https://worldathletics.org/records/competition-performance-rankings/ranking/575154
+380,594639,"Maryville MIAA vs NSIC Showdown, Maryville, MO",USA,06 APR 2017,08 APR 2017,0,,69191,379,69191,https://worldathletics.org/records/competition-performance-rankings/ranking/594639
+381,594633,"Muncie Ball State Challenge, Muncie, IN",USA,14 APR 2017,15 APR 2017,30,391,69144,380,69174,https://worldathletics.org/records/competition-performance-rankings/ranking/594633
+382,573744,"Fort Collins Fum McGraw Open, Fort Collins, CO",USA,25 MAR 2017,25 MAR 2017,20,444,69136,382,69156,https://worldathletics.org/records/competition-performance-rankings/ranking/573744
+383,574740,"Leiria ECCC Group B, Leiria",POR,27 MAY 2017,27 MAY 2017,60,314,69040,386,69100,https://worldathletics.org/records/competition-performance-rankings/ranking/574740
+384,594625,"Clarksville APSU Govs Invitational, Clarksville, TN",USA,14 APR 2017,15 APR 2017,0,,69084,383,69084,https://worldathletics.org/records/competition-performance-rankings/ranking/594625
+385,578050,"Trnava CZE-HUN-SLO-SVK U20 Match, Trnava",SVK,06 JUL 2017,06 JUL 2017,80,275,68998,388,69078,https://worldathletics.org/records/competition-performance-rankings/ranking/578050
+386,573804,"Johannesburg Nkwalu Invitational, Johannesburg",RSA,18 FEB 2017,18 FEB 2017,5,550,69046,385,69051,https://worldathletics.org/records/competition-performance-rankings/ranking/573804
+386,583066,"Zeven Pfingstsportfest, Zeven",GER,03 JUN 2017,04 JUN 2017,0,,69051,384,69051,https://worldathletics.org/records/competition-performance-rankings/ranking/583066
+388,573777,"Greeley Tom Benich Invitational, Greeley, CO",USA,02 APR 2017,02 APR 2017,0,,69040,386,69040,https://worldathletics.org/records/competition-performance-rankings/ranking/573777
+389,574435,"Kingston JAAA All Comers Meet, Kingston",JAM,06 MAY 2017,06 MAY 2017,190,178,68807,394,68997,https://worldathletics.org/records/competition-performance-rankings/ranking/574435
+390,594642,"Ogden Utah/Weber State Spring Classic, Ogden, UT",USA,07 APR 2017,08 APR 2017,0,,68991,389,68991,https://worldathletics.org/records/competition-performance-rankings/ranking/594642
+391,575235,Saarijärvi,FIN,21 JUN 2017,21 JUN 2017,80,275,68897,392,68977,https://worldathletics.org/records/competition-performance-rankings/ranking/575235
+392,574455,"Lincoln Nebraska Invitational, Lincoln, NE",USA,06 MAY 2017,06 MAY 2017,50,335,68919,391,68969,https://worldathletics.org/records/competition-performance-rankings/ranking/574455
+393,574582,"Joplin Bob Laptad/Bill Williams Invitational, Joplin, MO",USA,28 APR 2017,28 APR 2017,15,468,68940,390,68955,https://worldathletics.org/records/competition-performance-rankings/ranking/574582
+394,573768,"Buenos Aires GP Hugo M. La Nasa, Buenos Aires",ARG,02 APR 2017,02 APR 2017,150,207,68802,395,68952,https://worldathletics.org/records/competition-performance-rankings/ranking/573768
+395,574123,"Seattle UW v. WSU Dual, Seattle, WA",USA,23 APR 2017,23 APR 2017,25,413,68845,393,68870,https://worldathletics.org/records/competition-performance-rankings/ranking/574123
+396,573641,"Kingston Seniors Link Up, Kingston",JAM,18 MAR 2017,18 MAR 2017,205,171,68617,402,68822,https://worldathletics.org/records/competition-performance-rankings/ranking/573641
+397,577998,"Patra Tófalia, Patra",GRE,01 JUL 2017,01 JUL 2017,80,275,68721,397,68801,https://worldathletics.org/records/competition-performance-rankings/ranking/577998
+398,574776,"Kalamata Papaflessia, Kalamata",GRE,27 MAY 2017,27 MAY 2017,55,326,68713,398,68768,https://worldathletics.org/records/competition-performance-rankings/ranking/574776
+399,573988,"Commerce East Texas Invitational, Commerce, TX",USA,15 APR 2017,15 APR 2017,0,,68761,396,68761,https://worldathletics.org/records/competition-performance-rankings/ranking/573988
+400,575133,"Pärnu Estonian Cup, Pärnu",EST,17 JUN 2017,17 JUN 2017,75,285,68646,400,68721,https://worldathletics.org/records/competition-performance-rankings/ranking/575133
+401,574497,"Lokeren Belgian Club Championships, Lokeren",BEL,13 MAY 2017,13 MAY 2017,70,295,68636,401,68706,https://worldathletics.org/records/competition-performance-rankings/ranking/574497
+402,594646,"Naperville NCC Gregory Final Qualifier, Naperville, IL",USA,17 MAY 2017,18 MAY 2017,5,550,68647,399,68652,https://worldathletics.org/records/competition-performance-rankings/ranking/594646
+403,574872,"Aarhus Nordic Challenge, Århus",DEN,02 JUN 2017,02 JUN 2017,190,178,68360,409,68550,https://worldathletics.org/records/competition-performance-rankings/ranking/574872
+404,594632,"Rock Hill Winthrop ADIDAS Invitational, Rock Hill, SC",USA,23 MAR 2017,25 MAR 2017,25,413,68456,403,68481,https://worldathletics.org/records/competition-performance-rankings/ranking/594632
+405,594624,"Coquitlam BC Athletics Track and Field Jamboree, Coquitlam",CAN,14 JUL 2017,16 JUL 2017,45,345,68427,406,68472,https://worldathletics.org/records/competition-performance-rankings/ranking/594624
+406,594616,"Hillsdale ""Last-Chance"" Classic, Hillsdale, MI",USA,10 MAY 2017,11 MAY 2017,0,,68449,404,68449,https://worldathletics.org/records/competition-performance-rankings/ranking/594616
+407,574923,"Bressanone BRIXIA Meeting, Bressanone, Trentino-Alto Adige",ITA,04 JUN 2017,04 JUN 2017,0,,68445,405,68445,https://worldathletics.org/records/competition-performance-rankings/ranking/574923
+408,579011,"Atlanta Emory Invitational, Atlanta, GA",USA,17 MAR 2017,18 MAR 2017,0,,68383,407,68383,https://worldathletics.org/records/competition-performance-rankings/ranking/579011
+409,573587,"Emporia ESU Spring Invitational, Emporia, KS",USA,17 MAR 2017,17 MAR 2017,0,,68380,408,68380,https://worldathletics.org/records/competition-performance-rankings/ranking/573587
+410,578292,"Veszprém Balaton Bajnokság, Veszprém",HUN,22 JUL 2017,22 JUL 2017,305,137,68065,425,68370,https://worldathletics.org/records/competition-performance-rankings/ranking/578292
+411,574706,"Windsor Johnny Loaring Classic, Windsor",CAN,20 MAY 2017,20 MAY 2017,45,345,68299,412,68344,https://worldathletics.org/records/competition-performance-rankings/ranking/574706
+412,573989,"Storrs UCONN Northeast Challenge, Storrs, CT",USA,15 APR 2017,15 APR 2017,0,,68338,410,68338,https://worldathletics.org/records/competition-performance-rankings/ranking/573989
+413,573796,"Clinton Mississippi College/Mike McMillan Invitational, Clinton, MS",USA,31 MAR 2017,31 MAR 2017,5,550,68322,411,68327,https://worldathletics.org/records/competition-performance-rankings/ranking/573796
+414,573514,"Brisbane Garry Brown Shield, Brisbane",AUS,11 MAR 2017,11 MAR 2017,35,379,68287,413,68322,https://worldathletics.org/records/competition-performance-rankings/ranking/573514
+415,594628,"Ashland Alumni Open, Ashland, OH",USA,28 APR 2017,29 APR 2017,125,224,68163,418,68288,https://worldathletics.org/records/competition-performance-rankings/ranking/594628
+416,580570,"Sydney Treloar Shield, Sydney",AUS,16 DEC 2017,16 DEC 2017,5,550,68276,414,68281,https://worldathletics.org/records/competition-performance-rankings/ranking/580570
+417,578575,Tampere,FIN,25 AUG 2017,25 AUG 2017,35,379,68212,416,68247,https://worldathletics.org/records/competition-performance-rankings/ranking/578575
+418,579865,Cali,COL,01 JUL 2017,01 JUL 2017,140,216,68084,423,68224,https://worldathletics.org/records/competition-performance-rankings/ranking/579865
+419,594614,"Sherbrooke Ian Hume Invitational, Sherbrooke",CAN,16 JUN 2017,18 JUN 2017,0,,68222,415,68222,https://worldathletics.org/records/competition-performance-rankings/ranking/594614
+420,574142,"Riverside Highlander Challenge, Riverside, CA",USA,22 APR 2017,22 APR 2017,10,508,68182,417,68192,https://worldathletics.org/records/competition-performance-rankings/ranking/574142
+421,578441,"Rochester Oakland Univ. Golden Grizzly Invite, Rochester, MI",USA,14 APR 2017,15 APR 2017,5,550,68145,419,68150,https://worldathletics.org/records/competition-performance-rankings/ranking/578441
+422,573834,"El Dorado Everett Kohl Invite, El Dorado, KS",USA,08 APR 2017,08 APR 2017,0,,68126,420,68126,https://worldathletics.org/records/competition-performance-rankings/ranking/573834
+423,575236,"Thun Abendmeeting, Thun",SUI,21 JUN 2017,21 JUN 2017,0,,68125,421,68125,https://worldathletics.org/records/competition-performance-rankings/ranking/575236
+424,594636,"Richmond Fred Hardy Invitational, Richmond, VA",USA,24 MAR 2017,25 MAR 2017,5,550,68103,422,68108,https://worldathletics.org/records/competition-performance-rankings/ranking/594636
+425,578662,"Lynchburg Liberty Collegiate Invite, Lynchburg, VA",USA,07 APR 2017,08 APR 2017,15,468,68076,424,68091,https://worldathletics.org/records/competition-performance-rankings/ranking/578662
+426,596268,Brugnera,ITA,02 SEP 2017,02 SEP 2017,95,254,67973,427,68068,https://worldathletics.org/records/competition-performance-rankings/ranking/596268
+427,578351,Orimattila,FIN,29 JUL 2017,29 JUL 2017,365,121,67701,440,68066,https://worldathletics.org/records/competition-performance-rankings/ranking/578351
+428,574992,"Osterode Volksbankmeeting, Osterode",GER,09 JUN 2017,09 JUN 2017,220,164,67832,433,68052,https://worldathletics.org/records/competition-performance-rankings/ranking/574992
+429,578197,"Bedford British Athletics League Div. 1, Bedford",GBR,15 JUL 2017,15 JUL 2017,35,379,68008,426,68043,https://worldathletics.org/records/competition-performance-rankings/ranking/578197
+430,578348,"Andorf Int. Josko Laufmeeting, Andorf",AUT,29 JUL 2017,29 JUL 2017,30,391,67928,428,67958,https://worldathletics.org/records/competition-performance-rankings/ranking/578348
+431,594617,"Atlanta Emory Classic, Atlanta, GA",USA,24 MAR 2017,25 MAR 2017,20,444,67906,429,67926,https://worldathletics.org/records/competition-performance-rankings/ranking/594617
+432,572595,"Wellington Capital Classic, Wellington",NZL,20 JAN 2017,20 JAN 2017,35,379,67882,430,67917,https://worldathletics.org/records/competition-performance-rankings/ranking/572595
+433,573049,"Hamilton Porritt Classic, Hamilton",NZL,11 FEB 2017,11 FEB 2017,195,175,67679,443,67874,https://worldathletics.org/records/competition-performance-rankings/ranking/573049
+433,594629,"Charleston Southern Univ. Spring Break Inv., Charleston, SC",USA,17 MAR 2017,18 MAR 2017,0,,67874,431,67874,https://worldathletics.org/records/competition-performance-rankings/ranking/594629
+435,577952,"Budapest Honvéd Kupa, Budapest",HUN,30 JUN 2017,30 JUN 2017,30,391,67825,434,67855,https://worldathletics.org/records/competition-performance-rankings/ranking/577952
+436,572457,"Terre Haute Double Dual Meet, Terre Haute, IN",USA,13 JAN 2017,13 JAN 2017,0,,67843,432,67843,https://worldathletics.org/records/competition-performance-rankings/ranking/572457
+437,573682,"Carbondale Bill Cornell Spring Classic, Carbondale, IL",USA,25 MAR 2017,25 MAR 2017,25,413,67801,435,67826,https://worldathletics.org/records/competition-performance-rankings/ranking/573682
+438,573791,"Orem UVU Collegiate Invitational, Orem, UT",USA,31 MAR 2017,31 MAR 2017,0,,67791,436,67791,https://worldathletics.org/records/competition-performance-rankings/ranking/573791
+439,594635,"Lisle Benedictine Eagle Relays, Lisle, IL",USA,14 APR 2017,15 APR 2017,0,,67766,437,67766,https://worldathletics.org/records/competition-performance-rankings/ranking/594635
+440,573597,"Northridge Invitational, Northridge, CA",USA,19 MAR 2017,19 MAR 2017,5,550,67744,438,67749,https://worldathletics.org/records/competition-performance-rankings/ranking/573597
+441,585125,"Buenos Aires GP Alajandra Garcia, Buenos Aires",ARG,01 APR 2017,01 APR 2017,85,264,67643,444,67728,https://worldathletics.org/records/competition-performance-rankings/ranking/585125
+442,596262,"Langenthal Swiss Club Championships, Langenthal",SUI,03 SEP 2017,03 SEP 2017,25,413,67697,441,67722,https://worldathletics.org/records/competition-performance-rankings/ranking/596262
+443,594604,"Jonesboro ASU Red Wolf Open, Jonesboro, AR",USA,14 APR 2017,22 APR 2017,10,508,67709,439,67719,https://worldathletics.org/records/competition-performance-rankings/ranking/594604
+444,574273,"Shippensburg Paul Kaiser Classic, Shippensburg, PA",USA,29 APR 2017,29 APR 2017,0,,67680,442,67680,https://worldathletics.org/records/competition-performance-rankings/ranking/574273
+445,574450,"Manhattan KSU Ward Haylett Invite, Manhattan, KS",USA,06 MAY 2017,06 MAY 2017,80,275,67593,445,67673,https://worldathletics.org/records/competition-performance-rankings/ranking/574450
+446,594638,"Sioux City Relays, Sioux",USA,21 APR 2017,22 APR 2017,50,335,67550,449,67600,https://worldathletics.org/records/competition-performance-rankings/ranking/594638
+447,578591,"Vermillion USD SDSU Dual, Vermillion, SD",USA,08 APR 2017,08 APR 2017,40,362,67558,448,67598,https://worldathletics.org/records/competition-performance-rankings/ranking/578591
+448,594620,"Memphis Rhodes Invitational, Memphis, TN",USA,17 MAR 2017,18 MAR 2017,0,,67575,446,67575,https://worldathletics.org/records/competition-performance-rankings/ranking/594620
+449,578448,"Cullowhee Catamount Classic, Cullowhee, NC",USA,14 APR 2017,15 APR 2017,0,,67574,447,67574,https://worldathletics.org/records/competition-performance-rankings/ranking/578448
+450,578639,"Wichita Friends Invitational, Wichita, KS",USA,07 APR 2017,08 APR 2017,0,,67529,450,67529,https://worldathletics.org/records/competition-performance-rankings/ranking/578639
+451,574773,"Bern Nationales Nachwuchsmeeting, Bern",SUI,28 MAY 2017,28 MAY 2017,20,444,67481,453,67501,https://worldathletics.org/records/competition-performance-rankings/ranking/574773
+452,580567,"Espoo Tapiot Games, Espoo",FIN,28 MAY 2017,28 MAY 2017,0,,67500,451,67500,https://worldathletics.org/records/competition-performance-rankings/ranking/580567
+453,594630,"Oneonta Final Qualifier, Oneonta, NY",USA,17 MAY 2017,18 MAY 2017,0,,67488,452,67488,https://worldathletics.org/records/competition-performance-rankings/ranking/594630
+454,573515,"Los Angeles Carnival Spring Break Classic, Los Angeles, CA",USA,10 MAR 2017,10 MAR 2017,0,,67479,454,67479,https://worldathletics.org/records/competition-performance-rankings/ranking/573515
+455,578011,"San Luis Obispo Cal Poly-UCSB Dual Meet, San Luis Obispo, CA",USA,29 APR 2017,29 APR 2017,0,,67462,455,67462,https://worldathletics.org/records/competition-performance-rankings/ranking/578011
+455,574336,Zagreb,CRO,06 MAY 2017,06 MAY 2017,165,195,67297,464,67462,https://worldathletics.org/records/competition-performance-rankings/ranking/574336
+457,574024,"Davis Sac State Causeway Classic, Davis, CA",USA,21 APR 2017,21 APR 2017,0,,67434,456,67434,https://worldathletics.org/records/competition-performance-rankings/ranking/574024
+458,575123,"Miskolc HUN-CZE-SLO-SVK U18 Match, Miskolc",HUN,16 JUN 2017,16 JUN 2017,0,,67415,457,67415,https://worldathletics.org/records/competition-performance-rankings/ranking/575123
+459,574622,"Tübingen SoundTrack Meeting, SV 03 Stadion, Tübingen",GER,20 MAY 2017,20 MAY 2017,365,121,67048,475,67413,https://worldathletics.org/records/competition-performance-rankings/ranking/574622
+460,574509,"Joplin MSSU Last Chance Meet, Joplin, MO",USA,12 MAY 2017,12 MAY 2017,10,508,67400,459,67410,https://worldathletics.org/records/competition-performance-rankings/ranking/574509
+461,585203,"Sapporo Nambu Chuhei Memorial, Sapporo",JPN,09 JUL 2017,09 JUL 2017,185,182,67224,468,67409,https://worldathletics.org/records/competition-performance-rankings/ranking/585203
+462,573569,"Davis UC Aggie Open, Davis, CA",USA,11 MAR 2017,11 MAR 2017,0,,67408,458,67408,https://worldathletics.org/records/competition-performance-rankings/ranking/573569
+463,594600,"Santa Barbara All on the Line Meet, Santa Barbara, CA",USA,12 MAY 2017,13 MAY 2017,5,550,67398,460,67403,https://worldathletics.org/records/competition-performance-rankings/ranking/594600
+464,574659,"La Crosse UW Final Qualifier, La Crosse, WI",USA,18 MAY 2017,18 MAY 2017,0,,67381,461,67381,https://worldathletics.org/records/competition-performance-rankings/ranking/574659
+465,574279,"Pullman Cougar Invitational, Pullman, WA",USA,29 APR 2017,29 APR 2017,10,508,67355,462,67365,https://worldathletics.org/records/competition-performance-rankings/ranking/574279
+466,574822,"Springfield MSSU Last Chance, Springfield, MO",USA,12 MAY 2017,12 MAY 2017,10,508,67319,463,67329,https://worldathletics.org/records/competition-performance-rankings/ranking/574822
+467,574654,"Cambridge MIT Division III Final Qualifying Meet, Cambridge, MA",USA,18 MAY 2017,18 MAY 2017,15,468,67291,465,67306,https://worldathletics.org/records/competition-performance-rankings/ranking/574654
+468,574152,"Albany Spring Classic, Albany, NY",USA,22 APR 2017,22 APR 2017,15,468,67290,466,67305,https://worldathletics.org/records/competition-performance-rankings/ranking/574152
+469,574460,"Akron Campbell/Wright Invitational, Akron, OH",USA,05 MAY 2017,06 MAY 2017,55,326,67184,469,67239,https://worldathletics.org/records/competition-performance-rankings/ranking/574460
+470,578608,"Chico State Distance Carnival, Chico, CA",USA,07 APR 2017,08 APR 2017,0,,67238,467,67238,https://worldathletics.org/records/competition-performance-rankings/ranking/578608
+471,579037,"Lake Charles McNeese Cowboy Relays, Lake Charles, LA",USA,11 MAR 2017,11 MAR 2017,0,,67163,470,67163,https://worldathletics.org/records/competition-performance-rankings/ranking/579037
+472,573428,"Los Angeles Cal State LA Invitational, Los Angeles, CA",USA,04 MAR 2017,04 MAR 2017,15,468,67131,471,67146,https://worldathletics.org/records/competition-performance-rankings/ranking/573428
+473,573662,"Mobile Jaguar Classic, Mobile, AL",USA,18 MAR 2017,18 MAR 2017,5,550,67129,472,67134,https://worldathletics.org/records/competition-performance-rankings/ranking/573662
+474,573432,"Berkeley Cal Opener, Berkeley, CA",USA,04 MAR 2017,04 MAR 2017,0,,67109,473,67109,https://worldathletics.org/records/competition-performance-rankings/ranking/573432
+475,594627,"Platteville UW Invitational, Platteville, WI",USA,13 APR 2017,14 APR 2017,10,508,67067,474,67077,https://worldathletics.org/records/competition-performance-rankings/ranking/594627
+476,573057,"Melbourne NITRO Athletics, Melbourne",AUS,11 FEB 2017,11 FEB 2017,715,76,66351,506,67066,https://worldathletics.org/records/competition-performance-rankings/ranking/573057
+477,575032,"Argos Orestiko Greek Grand Prix, Argos Orestiko",GRE,10 JUN 2017,10 JUN 2017,25,413,67026,477,67051,https://worldathletics.org/records/competition-performance-rankings/ranking/575032
+478,573790,"Oxford Miami Duals, Oxford, OH",USA,01 APR 2017,01 APR 2017,0,,67047,476,67047,https://worldathletics.org/records/competition-performance-rankings/ranking/573790
+479,578315,"Moskva Open Season Competition, Moskva",RUS,15 MAY 2017,16 MAY 2017,10,508,67014,478,67024,https://worldathletics.org/records/competition-performance-rankings/ranking/578315
+480,594631,"La Crosse Phil Esten Challenge, La Crosse, WI",USA,20 APR 2017,21 APR 2017,0,,66989,479,66989,https://worldathletics.org/records/competition-performance-rankings/ranking/594631
+481,574871,"Modena Trofeo Goldoni - Benetti, Modena",ITA,02 JUN 2017,02 JUN 2017,20,444,66931,481,66951,https://worldathletics.org/records/competition-performance-rankings/ranking/574871
+482,578870,"Birmingham Samford's Alabama Track Challenge, Birmingham, AL",USA,24 MAR 2017,24 MAR 2017,10,508,66937,480,66947,https://worldathletics.org/records/competition-performance-rankings/ranking/578870
+483,594634,"Fargo Lyle Hokanson Classic, Fargo, ND",USA,21 APR 2017,22 APR 2017,10,508,66907,482,66917,https://worldathletics.org/records/competition-performance-rankings/ranking/594634
+484,594608,"Helsingborg Öresundsspelen, Helsingborg",SWE,07 JUL 2017,09 JUL 2017,95,254,66797,486,66892,https://worldathletics.org/records/competition-performance-rankings/ranking/594608
+485,573802,"Norwalk Cerritos Invitational, Norwalk, CA",USA,07 APR 2017,07 APR 2017,0,,66877,483,66877,https://worldathletics.org/records/competition-performance-rankings/ranking/573802
+486,578180,"Amarillo West Texas A&M Inv., Amarillo, TX",USA,23 APR 2017,23 APR 2017,0,,66868,484,66868,https://worldathletics.org/records/competition-performance-rankings/ranking/578180
+487,578310,"Moskva Kuts Memorial, Moskva",RUS,26 JUN 2017,26 JUN 2017,70,295,66796,487,66866,https://worldathletics.org/records/competition-performance-rankings/ranking/578310
+488,594626,"Des Moines Jim Duncan Invitational, Des Moines, IA",USA,14 APR 2017,15 APR 2017,0,,66831,485,66831,https://worldathletics.org/records/competition-performance-rankings/ranking/594626
+489,578031,"Tourcoing Meeting National, Tourcoing",FRA,05 JUL 2017,05 JUL 2017,40,362,66776,488,66816,https://worldathletics.org/records/competition-performance-rankings/ranking/578031
+490,574631,"Ellwangen Sparkassen-Meeting, Ellwangen",GER,20 MAY 2017,20 MAY 2017,30,391,66774,489,66804,https://worldathletics.org/records/competition-performance-rankings/ranking/574631
+491,578269,"Lewisburg Bucknell Team Challenge, Lewisburg, PA",USA,22 APR 2017,22 APR 2017,0,,66764,490,66764,https://worldathletics.org/records/competition-performance-rankings/ranking/578269
+492,573295,"Kingston Isaac Henry Invitational, Kingston",JAM,18 FEB 2017,18 FEB 2017,0,,66744,491,66744,https://worldathletics.org/records/competition-performance-rankings/ranking/573295
+493,574271,"Herentals Athletic Classic, Herentals",BEL,01 MAY 2017,01 MAY 2017,100,250,66622,495,66722,https://worldathletics.org/records/competition-performance-rankings/ranking/574271
+494,574122,"Rolla Dewey Allgood Invite, Rolla, MO",USA,23 APR 2017,23 APR 2017,0,,66699,492,66699,https://worldathletics.org/records/competition-performance-rankings/ranking/574122
+495,573651,"St. Michael Dual Meet U20 BAR/TTO, St. Michael",BAR,18 MAR 2017,18 MAR 2017,15,468,66675,493,66690,https://worldathletics.org/records/competition-performance-rankings/ranking/573651
+496,586452,Jämsä,FIN,01 JUL 2017,01 JUL 2017,40,362,66643,494,66683,https://worldathletics.org/records/competition-performance-rankings/ranking/586452
+497,594612,"Ewing Lions Invitational, Trenton, NJ",USA,28 APR 2017,29 APR 2017,15,468,66618,496,66633,https://worldathletics.org/records/competition-performance-rankings/ranking/594612
+498,573275,"Daytona Beach Embry-Riddle Last Chance, Daytona Beach, FL",USA,18 FEB 2017,18 FEB 2017,0,,66585,497,66585,https://worldathletics.org/records/competition-performance-rankings/ranking/573275
+499,594609,"Ogden Weber State Twilight, Ogden, UT",USA,03 MAY 2017,04 MAY 2017,5,550,66570,498,66575,https://worldathletics.org/records/competition-performance-rankings/ranking/594609
+500,594606,"Gävle Gavlehovspelen, Gävle",SWE,14 JUL 2017,16 JUL 2017,40,362,66519,500,66559,https://worldathletics.org/records/competition-performance-rankings/ranking/594606
+501,578407,"Towson Invitational, Towson, MD",USA,15 APR 2017,15 APR 2017,0,,66551,499,66551,https://worldathletics.org/records/competition-performance-rankings/ranking/578407
+502,574114,"Mesa T-Bird Invitational, Mesa, AZ",USA,21 APR 2017,21 APR 2017,100,250,66404,503,66504,https://worldathletics.org/records/competition-performance-rankings/ranking/574114
+503,578278,Šamorín,SVK,22 JUL 2017,22 JUL 2017,135,221,66350,507,66485,https://worldathletics.org/records/competition-performance-rankings/ranking/578278
+504,578194,"Cardiff Welsh Athletics International, Cardiff",GBR,12 JUL 2017,12 JUL 2017,15,468,66450,501,66465,https://worldathletics.org/records/competition-performance-rankings/ranking/578194
+505,574653,"Fort Lauderdale Broward Elite Athletic Club Showcase, Fort Lauderdale, FL",USA,19 MAY 2017,19 MAY 2017,65,305,66375,504,66440,https://worldathletics.org/records/competition-performance-rankings/ranking/574653
+506,574508,"Regensburg Rolf Watter Sportfest, Regensburg",GER,13 MAY 2017,13 MAY 2017,0,,66410,502,66410,https://worldathletics.org/records/competition-performance-rankings/ranking/574508
+507,596235,"Dubnica nad Váhom Slovak Club Championships, Dubnica nad Váhom",SVK,09 SEP 2017,09 SEP 2017,150,207,66228,518,66378,https://worldathletics.org/records/competition-performance-rankings/ranking/596235
+508,578711,"Cincinnati Oliver Nikoloff Invitational, Cincinnati, OH",USA,01 APR 2017,01 APR 2017,0,,66375,504,66375,https://worldathletics.org/records/competition-performance-rankings/ranking/578711
+509,579870,"Sydney Treloar Shield, Sydney",AUS,11 NOV 2017,11 NOV 2017,20,444,66350,507,66370,https://worldathletics.org/records/competition-performance-rankings/ranking/579870
+510,578102,Letterkenny,IRL,07 JUL 2017,07 JUL 2017,115,236,66243,516,66358,https://worldathletics.org/records/competition-performance-rankings/ranking/578102
+511,579038,"Ostia Italian Club Championships, Ostia",ITA,24 SEP 2017,24 SEP 2017,50,335,66286,511,66336,https://worldathletics.org/records/competition-performance-rankings/ranking/579038
+512,578044,"Amherst UMass Pre-Conference Meet, Amherst, MA",USA,29 APR 2017,29 APR 2017,0,,66335,509,66335,https://worldathletics.org/records/competition-performance-rankings/ranking/578044
+513,574465,"Fargo NDSU Tune Up, Fargo, ND",USA,05 MAY 2017,05 MAY 2017,15,468,66303,510,66318,https://worldathletics.org/records/competition-performance-rankings/ranking/574465
+514,594623,"Rovereto ARGE ALP 2017, Rovereto",ITA,16 SEP 2017,17 SEP 2017,20,444,66256,515,66276,https://worldathletics.org/records/competition-performance-rankings/ranking/594623
+515,573726,"San Diego PLNU Invitational Meet, San Diego, CA",USA,25 MAR 2017,25 MAR 2017,0,,66273,512,66273,https://worldathletics.org/records/competition-performance-rankings/ranking/573726
+516,574155,"Modena Trofeo Liberazione, Modena",ITA,25 APR 2017,25 APR 2017,10,508,66260,514,66270,https://worldathletics.org/records/competition-performance-rankings/ranking/574155
+517,594610,"Terre Haute Pacesetter Sports Invitational, Terre Haute, IN",USA,21 APR 2017,22 APR 2017,0,,66263,513,66263,https://worldathletics.org/records/competition-performance-rankings/ranking/594610
+518,574969,Łomża,POL,07 JUN 2017,07 JUN 2017,140,216,66121,522,66261,https://worldathletics.org/records/competition-performance-rankings/ranking/574969
+519,594607,"Chapel Hill Dennis Craddock Carolina Relays, Chapel Hill, NC",USA,17 MAR 2017,18 MAR 2017,0,,66232,517,66232,https://worldathletics.org/records/competition-performance-rankings/ranking/594607
+519,574908,"Bratislava Slovak Club Championships, Bratislava",SVK,04 JUN 2017,04 JUN 2017,105,244,66127,521,66232,https://worldathletics.org/records/competition-performance-rankings/ranking/574908
+521,574345,"Bunnell FHSAA 4A Region 1, Bunnell, FL",USA,27 APR 2017,27 APR 2017,0,,66209,519,66209,https://worldathletics.org/records/competition-performance-rankings/ranking/574345
+522,578435,"Hoschton GHSA Sectional 7A, Hoschton, GA",USA,29 APR 2017,29 APR 2017,0,,66205,520,66205,https://worldathletics.org/records/competition-performance-rankings/ranking/578435
+523,581287,"Lima GP Pedro Galvez Velarde, Lima",PER,22 APR 2017,22 APR 2017,85,264,66057,527,66142,https://worldathletics.org/records/competition-performance-rankings/ranking/581287
+524,573681,"Salem Willamette Invitational, Salem, OR",USA,25 MAR 2017,25 MAR 2017,10,508,66115,523,66125,https://worldathletics.org/records/competition-performance-rankings/ranking/573681
+525,574662,"Salzburg Austrian Club Championships, Salzburg",AUT,20 MAY 2017,20 MAY 2017,30,391,66081,525,66111,https://worldathletics.org/records/competition-performance-rankings/ranking/574662
+526,573991,"Liberty WJC Darrel Gourley Open, Liberty, MO",USA,15 APR 2017,15 APR 2017,0,,66104,524,66104,https://worldathletics.org/records/competition-performance-rankings/ranking/573991
+527,574852,"London Bob Vigars Classic, London",CAN,27 MAY 2017,27 MAY 2017,25,413,66037,528,66062,https://worldathletics.org/records/competition-performance-rankings/ranking/574852
+528,574126,"St. Paul Holst Invitational, St. Paul",USA,22 APR 2017,22 APR 2017,0,,66060,526,66060,https://worldathletics.org/records/competition-performance-rankings/ranking/574126
+529,578602,"Oordegem Topsport Lebbeke Sprintmeeting, Oordegem",BEL,22 AUG 2017,22 AUG 2017,40,362,65982,529,66022,https://worldathletics.org/records/competition-performance-rankings/ranking/578602
+530,594601,"San Luis Obispo Cal Poly Invitational, San Luis Obispo, CA",USA,24 MAR 2017,25 MAR 2017,0,,65958,530,65958,https://worldathletics.org/records/competition-performance-rankings/ranking/594601
+531,574316,"Oxford RedHawk Invitational, Oxford, OH",USA,29 APR 2017,29 APR 2017,5,550,65915,531,65920,https://worldathletics.org/records/competition-performance-rankings/ranking/574316
+532,602759,"Indian Grand Prix 2, New Delhi",IND,11 MAY 2017,11 MAY 2017,55,326,65844,537,65899,https://worldathletics.org/records/competition-performance-rankings/ranking/602759
+533,573598,"San Diego Ross and Sharon Irwin Inv., San Diego, CA",USA,18 MAR 2017,18 MAR 2017,5,550,65887,532,65892,https://worldathletics.org/records/competition-performance-rankings/ranking/573598
+534,574504,"Lutsk International U20 Match, Lutsk",UKR,13 MAY 2017,13 MAY 2017,10,508,65871,534,65881,https://worldathletics.org/records/competition-performance-rankings/ranking/574504
+535,573833,"Lisle Benedictine NCAA Challenge, Lisle, IL",USA,08 APR 2017,08 APR 2017,0,,65880,533,65880,https://worldathletics.org/records/competition-performance-rankings/ranking/573833
+536,580097,"Calgary New Balance Athletic Series, Calgary",CAN,04 JUN 2017,04 JUN 2017,10,508,65854,536,65864,https://worldathletics.org/records/competition-performance-rankings/ranking/580097
+537,578016,"Easton Stonehill Skyhawk Invite, Easton, MA",USA,29 APR 2017,29 APR 2017,0,,65862,535,65862,https://worldathletics.org/records/competition-performance-rankings/ranking/578016
+538,575006,"Colmar Meeting National, Colmar",FRA,10 JUN 2017,10 JUN 2017,35,379,65798,539,65833,https://worldathletics.org/records/competition-performance-rankings/ranking/575006
+539,572449,Perth,AUS,13 JAN 2017,13 JAN 2017,25,413,65783,541,65808,https://worldathletics.org/records/competition-performance-rankings/ranking/572449
+540,594611,"Crete Jim Dutcher Memorial Classic, Crete, NE",USA,21 APR 2017,22 APR 2017,0,,65807,538,65807,https://worldathletics.org/records/competition-performance-rankings/ranking/594611
+541,574612,"Rock Island Augustana Twilight Meet, Rock Island, IL",USA,18 MAY 2017,18 MAY 2017,10,508,65789,540,65799,https://worldathletics.org/records/competition-performance-rankings/ranking/574612
+542,574860,"Meadville Gator Invitational, Meadville, PA",USA,12 MAY 2017,12 MAY 2017,0,,65782,542,65782,https://worldathletics.org/records/competition-performance-rankings/ranking/574860
+543,574993,"Zenica International Meeting, Zenica",BIH,07 JUN 2017,07 JUN 2017,305,137,65457,556,65762,https://worldathletics.org/records/competition-performance-rankings/ranking/574993
+544,578432,"Baltimore Hopkins Invitational, Baltimore, MD",USA,14 APR 2017,14 APR 2017,0,,65692,543,65692,https://worldathletics.org/records/competition-performance-rankings/ranking/578432
+545,574475,Košice,SVK,08 MAY 2017,08 MAY 2017,195,175,65491,554,65686,https://worldathletics.org/records/competition-performance-rankings/ranking/574475
+546,580129,"Sydney Treloar Shield, Sydney",AUS,25 NOV 2017,25 NOV 2017,15,468,65662,545,65677,https://worldathletics.org/records/competition-performance-rankings/ranking/580129
+547,575034,"Kutno Mityng o Różę Kutna, Kutno",POL,11 JUN 2017,11 JUN 2017,30,391,65644,546,65674,https://worldathletics.org/records/competition-performance-rankings/ranking/575034
+548,574827,"Calgary New Balance Athletic Series, Calgary",CAN,28 MAY 2017,28 MAY 2017,0,,65663,544,65663,https://worldathletics.org/records/competition-performance-rankings/ranking/574827
+548,578329,"Ozoro Warri Relays, Ozoro",NGR,18 JUL 2017,18 JUL 2017,50,335,65613,549,65663,https://worldathletics.org/records/competition-performance-rankings/ranking/578329
+550,579091,"Wilmington UNCW Seahawk Invitational, Wilmington, NC",USA,10 MAR 2017,11 MAR 2017,0,,65639,547,65639,https://worldathletics.org/records/competition-performance-rankings/ranking/579091
+551,573793,"St. Paul Hamline Invitational, St. Paul",USA,01 APR 2017,01 APR 2017,0,,65618,548,65618,https://worldathletics.org/records/competition-performance-rankings/ranking/573793
+552,577987,"St. Paul Bear Cat Twilight, St. Paul",USA,03 MAY 2017,03 MAY 2017,5,550,65605,550,65610,https://worldathletics.org/records/competition-performance-rankings/ranking/577987
+553,573572,"Chico State Wildcat Invite, Chico, CA",USA,11 MAR 2017,11 MAR 2017,0,,65536,551,65536,https://worldathletics.org/records/competition-performance-rankings/ranking/573572
+554,573565,"San Diego Open Collegiate Meet, San Diego, CA",USA,11 MAR 2017,11 MAR 2017,0,,65533,552,65533,https://worldathletics.org/records/competition-performance-rankings/ranking/573565
+555,572714,Perth,AUS,25 JAN 2017,25 JAN 2017,25,413,65498,553,65523,https://worldathletics.org/records/competition-performance-rankings/ranking/572714
+556,580655,"Geelong Steigen Spectacular, Geelong",AUS,23 DEC 2017,23 DEC 2017,110,241,65379,558,65489,https://worldathletics.org/records/competition-performance-rankings/ranking/580655
+557,594619,"West Long Branch Monmouth Season Opener, West Long Branch, NJ",USA,24 MAR 2017,25 MAR 2017,0,,65468,555,65468,https://worldathletics.org/records/competition-performance-rankings/ranking/594619
+558,573190,"Brisbane Benita Willis Shield, Brisbane",AUS,18 FEB 2017,18 FEB 2017,5,550,65385,557,65390,https://worldathletics.org/records/competition-performance-rankings/ranking/573190
+559,573646,"Melbourne AV Pre-Nationals Departure Meet, Melbourne",AUS,18 MAR 2017,18 MAR 2017,25,413,65363,559,65388,https://worldathletics.org/records/competition-performance-rankings/ranking/573646
+560,578145,Maia,POR,08 JUL 2017,08 JUL 2017,180,185,65188,565,65368,https://worldathletics.org/records/competition-performance-rankings/ranking/578145
+561,575248,Keuruu,FIN,23 JUN 2017,23 JUN 2017,5,550,65337,560,65342,https://worldathletics.org/records/competition-performance-rankings/ranking/575248
+562,578654,"Alliance Mount Union John Homon Open, Alliance, OH",USA,07 APR 2017,07 APR 2017,0,,65257,561,65257,https://worldathletics.org/records/competition-performance-rankings/ranking/578654
+563,578464,"Bethlehem Greyhound Invitational, Bethlehem, PA",USA,14 APR 2017,15 APR 2017,35,379,65218,563,65253,https://worldathletics.org/records/competition-performance-rankings/ranking/578464
+564,574594,"Kearney UNK Loper Invitational, Kearney, NE",USA,15 APR 2017,15 APR 2017,0,,65242,562,65242,https://worldathletics.org/records/competition-performance-rankings/ranking/574594
+565,578166,"Indianola Kip Janvrin Open, Indianola, IA",USA,27 APR 2017,28 APR 2017,0,,65217,564,65217,https://worldathletics.org/records/competition-performance-rankings/ranking/578166
+566,594603,"Seward Concordia Invitational, Seward, NE",USA,07 APR 2017,08 APR 2017,5,550,65141,566,65146,https://worldathletics.org/records/competition-performance-rankings/ranking/594603
+567,578104,"Buffalo Invite, Buffalo, NY",USA,29 APR 2017,29 APR 2017,0,,65141,566,65141,https://worldathletics.org/records/competition-performance-rankings/ranking/578104
+568,573981,"Conway Central Arkansas Open, Conway, AR",USA,15 APR 2017,15 APR 2017,0,,65122,568,65122,https://worldathletics.org/records/competition-performance-rankings/ranking/573981
+569,594618,"Portland L&C Spring Break Open, Portland, OR",USA,17 MAR 2017,18 MAR 2017,10,508,65079,569,65089,https://worldathletics.org/records/competition-performance-rankings/ranking/594618
+570,579989,"Sydney Blacktown All Comers, Sydney",AUS,18 NOV 2017,18 NOV 2017,15,468,65062,570,65077,https://worldathletics.org/records/competition-performance-rankings/ranking/579989
+571,580130,"Brisbane Jai Taurima Shield, Brisbane",AUS,25 NOV 2017,25 NOV 2017,25,413,65018,572,65043,https://worldathletics.org/records/competition-performance-rankings/ranking/580130
+572,594605,"Missoula Montana Open, Missoula, MT",USA,27 APR 2017,29 APR 2017,0,,65019,571,65019,https://worldathletics.org/records/competition-performance-rankings/ranking/594605
+573,578659,"San Antonio UIW Invitational, San Antonio, TX",USA,07 APR 2017,08 APR 2017,0,,65012,573,65012,https://worldathletics.org/records/competition-performance-rankings/ranking/578659
+574,574482,"College Park Kehoe Twilight Meet, College Park, MD",USA,05 MAY 2017,05 MAY 2017,20,444,64989,575,65009,https://worldathletics.org/records/competition-performance-rankings/ranking/574482
+575,573430,"Long Beach State VS UCLA, Long Beach, CA",USA,04 MAR 2017,04 MAR 2017,0,,65000,574,65000,https://worldathletics.org/records/competition-performance-rankings/ranking/573430
+576,575176,"Espoo Nuorten eliittikisat, Espoo",FIN,20 JUN 2017,20 JUN 2017,5,550,64975,578,64980,https://worldathletics.org/records/competition-performance-rankings/ranking/575176
+577,578523,"Upland George Glass Invitational, Upland, IN",USA,08 APR 2017,08 APR 2017,0,,64979,576,64979,https://worldathletics.org/records/competition-performance-rankings/ranking/578523
+578,574349,"Tallahassee FHSAA 3A Region 1, Tallahassee, FL",USA,27 APR 2017,27 APR 2017,0,,64978,577,64978,https://worldathletics.org/records/competition-performance-rankings/ranking/574349
+579,578641,"Trnava Slovak Club Championships, Trnava",SVK,29 AUG 2017,29 AUG 2017,130,223,64841,586,64971,https://worldathletics.org/records/competition-performance-rankings/ranking/578641
+580,574157,"Missoula Griz/Cat Dual, Missoula, MT",USA,22 APR 2017,22 APR 2017,0,,64962,579,64962,https://worldathletics.org/records/competition-performance-rankings/ranking/574157
+581,573576,"Winfield Southwestern College Invite, Winfield, KS",USA,16 MAR 2017,16 MAR 2017,0,,64959,580,64959,https://worldathletics.org/records/competition-performance-rankings/ranking/573576
+582,578681,"Pueblo CSU-Pueblo Open, Pueblo, CO",USA,01 APR 2017,02 APR 2017,0,,64897,581,64897,https://worldathletics.org/records/competition-performance-rankings/ranking/578681
+583,579132,"Köln Christi Himmelfahrt Sportfest, Köln",GER,25 MAY 2017,25 MAY 2017,0,,64893,582,64893,https://worldathletics.org/records/competition-performance-rankings/ranking/579132
+584,578610,"Mount Berry Field Day Invitational, Mount Berry, GA",USA,07 APR 2017,08 APR 2017,0,,64878,583,64878,https://worldathletics.org/records/competition-performance-rankings/ranking/578610
+584,574658,"Delaware Great Lakes NCAA Final Qualifying Meet, Delaware, OH",USA,18 MAY 2017,18 MAY 2017,0,,64878,583,64878,https://worldathletics.org/records/competition-performance-rankings/ranking/574658
+586,578700,"Annapolis NAVY vs. ARMY Men's Meet, Annapolis, MD",USA,01 APR 2017,01 APR 2017,0,,64864,585,64864,https://worldathletics.org/records/competition-performance-rankings/ranking/578700
+587,580458,"Odense Danish Club Championships, Odense",DEN,09 SEP 2017,09 SEP 2017,20,444,64835,587,64855,https://worldathletics.org/records/competition-performance-rankings/ranking/580458
+588,572915,"Brisbane Chilla Porter Shield, Brisbane",AUS,04 FEB 2017,04 FEB 2017,25,413,64806,588,64831,https://worldathletics.org/records/competition-performance-rankings/ranking/572915
+589,574898,"Zagreb Dinamo Zrinjevac 2017, Zagreb",CRO,04 JUN 2017,04 JUN 2017,155,202,64654,597,64809,https://worldathletics.org/records/competition-performance-rankings/ranking/574898
+590,574578,"Berea BW Harrison Dillard Twilight, Berea, OH",USA,12 MAY 2017,12 MAY 2017,0,,64802,589,64802,https://worldathletics.org/records/competition-performance-rankings/ranking/574578
+591,578428,"Greenville Select Meet, Greenville, IL",USA,14 APR 2017,14 APR 2017,0,,64801,590,64801,https://worldathletics.org/records/competition-performance-rankings/ranking/578428
+592,574125,"Winfield Tabor College Invite, Winfield, KS",USA,22 APR 2017,22 APR 2017,0,,64739,591,64739,https://worldathletics.org/records/competition-performance-rankings/ranking/574125
+593,578912,"Amsterdam Dutch Club Championships, Amsterdam",NED,17 SEP 2017,17 SEP 2017,65,305,64670,595,64735,https://worldathletics.org/records/competition-performance-rankings/ranking/578912
+594,574167,"Lincoln Prairie Wolf Invite, Lincoln, NE",USA,27 APR 2017,27 APR 2017,0,,64726,592,64726,https://worldathletics.org/records/competition-performance-rankings/ranking/574167
+594,574721,"Sätra Swedish Club Championships, Sätra",SWE,25 MAY 2017,25 MAY 2017,80,275,64646,599,64726,https://worldathletics.org/records/competition-performance-rankings/ranking/574721
+594,578252,"Toronto Twilight Meet, Toronto",CAN,18 JUL 2017,18 JUL 2017,0,,64726,592,64726,https://worldathletics.org/records/competition-performance-rankings/ranking/578252
+597,578211,"Leigh UK Women's League Div. 1, Leigh",GBR,16 JUL 2017,16 JUL 2017,15,468,64705,594,64720,https://worldathletics.org/records/competition-performance-rankings/ranking/578211
+598,578268,Orvieto,ITA,21 JUL 2017,21 JUL 2017,85,264,64602,600,64687,https://worldathletics.org/records/competition-performance-rankings/ranking/578268
+599,578572,"Lawrenceville Rider Invitational, Lawrence Township, NJ",USA,08 APR 2017,08 APR 2017,0,,64659,596,64659,https://worldathletics.org/records/competition-performance-rankings/ranking/578572
+600,578856,"California Cal U Early Bird, California, PA",USA,25 MAR 2017,25 MAR 2017,0,,64651,598,64651,https://worldathletics.org/records/competition-performance-rankings/ranking/578856
+601,578043,"La-Roche-sur-Yon Meeting National, La Roche-sur-Yon",FRA,05 JUL 2017,05 JUL 2017,95,254,64507,603,64602,https://worldathletics.org/records/competition-performance-rankings/ranking/578043
+602,574198,"Providence Brown Springtime Invitational, Providence, RI",USA,30 APR 2017,30 APR 2017,0,,64564,601,64564,https://worldathletics.org/records/competition-performance-rankings/ranking/574198
+603,578420,"North Canton Walsh University Inv., North Canton, OH",USA,15 APR 2017,15 APR 2017,0,,64532,602,64532,https://worldathletics.org/records/competition-performance-rankings/ranking/578420
+604,573827,"Ewing TCNJ Invitational, Trenton, NJ",USA,08 APR 2017,08 APR 2017,0,,64503,604,64503,https://worldathletics.org/records/competition-performance-rankings/ranking/573827
+605,573431,"San Diego All-UC Challenge, San Diego, CA",USA,04 MAR 2017,04 MAR 2017,0,,64490,605,64490,https://worldathletics.org/records/competition-performance-rankings/ranking/573431
+606,601626,"The Berlin Meeting, Berlin",GER,03 JUN 2017,04 JUN 2017,0,,64487,606,64487,https://worldathletics.org/records/competition-performance-rankings/ranking/601626
+607,578463,"Ashland SOU Raider Invitational, Ashland, OH",USA,14 APR 2017,15 APR 2017,0,,64478,607,64478,https://worldathletics.org/records/competition-performance-rankings/ranking/578463
+608,572453,"Brisbane Alana Boyd Shield, Brisbane",AUS,14 JAN 2017,14 JAN 2017,20,444,64412,609,64432,https://worldathletics.org/records/competition-performance-rankings/ranking/572453
+609,574017,"Slippery Rock SRU Open, Slippery Rock, PA",USA,20 APR 2017,20 APR 2017,0,,64431,608,64431,https://worldathletics.org/records/competition-performance-rankings/ranking/574017
+610,574304,"Pretoria AGN League, Pretoria",RSA,12 APR 2017,12 APR 2017,150,207,64271,615,64421,https://worldathletics.org/records/competition-performance-rankings/ranking/574304
+611,572744,"Brisbane Denise Boyd Shield, Brisbane",AUS,28 JAN 2017,28 JAN 2017,35,379,64359,610,64394,https://worldathletics.org/records/competition-performance-rankings/ranking/572744
+612,580020,"Brisbane Benita Willis Shield, Brisbane",AUS,18 NOV 2017,18 NOV 2017,25,413,64310,613,64335,https://worldathletics.org/records/competition-performance-rankings/ranking/580020
+613,573159,"Melbourne AV Shield Final, Melbourne",AUS,12 FEB 2017,12 FEB 2017,0,,64321,611,64321,https://worldathletics.org/records/competition-performance-rankings/ranking/573159
+614,573980,"Chester Quarry Classic, Chester, PA",USA,15 APR 2017,15 APR 2017,0,,64315,612,64315,https://worldathletics.org/records/competition-performance-rankings/ranking/573980
+615,573028,Perth,AUS,10 FEB 2017,10 FEB 2017,0,,64304,614,64304,https://worldathletics.org/records/competition-performance-rankings/ranking/573028
+616,578403,"Amherst UMass Minuteman Inv., Amherst, MA",USA,15 APR 2017,15 APR 2017,0,,64267,616,64267,https://worldathletics.org/records/competition-performance-rankings/ranking/578403
+617,573579,Perth,AUS,16 MAR 2017,16 MAR 2017,20,444,64238,617,64258,https://worldathletics.org/records/competition-performance-rankings/ranking/573579
+618,577944,"Ried LA-Meeting, Ried im Innkreis",AUT,30 JUN 2017,30 JUN 2017,160,198,63996,623,64156,https://worldathletics.org/records/competition-performance-rankings/ranking/577944
+619,578333,"Pamplona Memorial Jose Luis Hernandez, Pamplona",ESP,27 JUL 2017,27 JUL 2017,270,150,63885,629,64155,https://worldathletics.org/records/competition-performance-rankings/ranking/578333
+620,574791,"Bedford BIGish Jumps & Throws Fest, Bedford",GBR,29 MAY 2017,29 MAY 2017,165,195,63987,624,64152,https://worldathletics.org/records/competition-performance-rankings/ranking/574791
+621,578521,"Eskisehir Turkish U20 Club Championships, Eskisehir",TUR,19 AUG 2017,19 AUG 2017,5,550,64118,618,64123,https://worldathletics.org/records/competition-performance-rankings/ranking/578521
+622,574291,"Gaborone International Meet, Gaborone",BOT,29 APR 2017,29 APR 2017,70,295,64045,620,64115,https://worldathletics.org/records/competition-performance-rankings/ranking/574291
+623,574278,"Bethlehem Lehigh Games, Bethlehem, PA",USA,29 APR 2017,29 APR 2017,0,,64081,619,64081,https://worldathletics.org/records/competition-performance-rankings/ranking/574278
+624,574725,"Bönnigheim Sportfest, Bönnigheim",GER,25 MAY 2017,25 MAY 2017,20,444,64002,622,64022,https://worldathletics.org/records/competition-performance-rankings/ranking/574725
+625,578994,"Santa Barbara Westmont Classic, Santa Barbara, CA",USA,23 MAR 2017,25 MAR 2017,0,,64005,621,64005,https://worldathletics.org/records/competition-performance-rankings/ranking/578994
+626,574711,Mersin,TUR,20 MAY 2017,20 MAY 2017,0,,63909,625,63909,https://worldathletics.org/records/competition-performance-rankings/ranking/574711
+627,578496,"Rochester Nazareth College ROC City Classic, Rochester, NY",USA,09 APR 2017,09 APR 2017,0,,63899,626,63899,https://worldathletics.org/records/competition-performance-rankings/ranking/578496
+628,579531,"Sydney Treloar Shield, Sydney",AUS,21 OCT 2017,21 OCT 2017,15,468,63883,630,63898,https://worldathletics.org/records/competition-performance-rankings/ranking/579531
+629,574467,"Louisville Bellarmine Invitational, Louisville, KY",USA,31 MAR 2017,31 MAR 2017,10,508,63886,628,63896,https://worldathletics.org/records/competition-performance-rankings/ranking/574467
+630,578397,"Macomb Lee Calhoun Memorial, Macomb, IL",USA,13 APR 2017,15 APR 2017,0,,63890,627,63890,https://worldathletics.org/records/competition-performance-rankings/ranking/578397
+631,574343,"Miramar FHSAA 4A Region 4, Ansin Sports Complex, Miramar, FL",USA,27 APR 2017,27 APR 2017,0,,63848,631,63848,https://worldathletics.org/records/competition-performance-rankings/ranking/574343
+632,578409,"Pretoria AGN League, Pretoria",RSA,03 JUN 2017,03 JUN 2017,120,232,63714,638,63834,https://worldathletics.org/records/competition-performance-rankings/ranking/578409
+632,579862,Perth,AUS,10 NOV 2017,10 NOV 2017,10,508,63824,632,63834,https://worldathletics.org/records/competition-performance-rankings/ranking/579862
+634,578231,"Stony Brook University - Wolfie Inv., Stony Brook, NY",USA,22 APR 2017,22 APR 2017,0,,63798,633,63798,https://worldathletics.org/records/competition-performance-rankings/ranking/578231
+635,573696,"Lynchburg Dr. Jack Toms Alumni Inv., Lynchburg, VA",USA,25 MAR 2017,25 MAR 2017,0,,63748,634,63748,https://worldathletics.org/records/competition-performance-rankings/ranking/573696
+636,580554,"Adelaide Australian Schools Knockout, Adelaide",AUS,11 DEC 2017,11 DEC 2017,0,,63745,635,63745,https://worldathletics.org/records/competition-performance-rankings/ranking/580554
+637,574222,"Bar International Meeting, Bar",MNE,01 MAY 2017,01 MAY 2017,210,168,63534,648,63744,https://worldathletics.org/records/competition-performance-rankings/ranking/574222
+638,585148,"Sydney Treloar Shield, Sydney",AUS,28 OCT 2017,28 OCT 2017,40,362,63694,640,63734,https://worldathletics.org/records/competition-performance-rankings/ranking/585148
+639,573778,"Arkansas City Cowley Tiger Invitational, Arkansas City, KS",USA,01 APR 2017,01 APR 2017,0,,63732,636,63732,https://worldathletics.org/records/competition-performance-rankings/ranking/573778
+640,612897,Łódź,POL,24 JUN 2017,24 JUN 2017,10,508,63720,637,63730,https://worldathletics.org/records/competition-performance-rankings/ranking/612897
+641,578677,"San Diego Arnie Robinson Invitational, San Diego, CA",USA,01 APR 2017,01 APR 2017,15,468,63690,641,63705,https://worldathletics.org/records/competition-performance-rankings/ranking/578677
+642,579005,"Kingsville Cactus Cup, Kingsville, TX",USA,18 MAR 2017,18 MAR 2017,0,,63700,639,63700,https://worldathletics.org/records/competition-performance-rankings/ranking/579005
+643,578377,"Langenthal Sommer-Meeting, Langenthal",SUI,02 AUG 2017,02 AUG 2017,0,,63690,641,63690,https://worldathletics.org/records/competition-performance-rankings/ranking/578377
+644,579716,"Ponzano Veneto Memorial Giovanni Maria Idda, Ponzano Veneto",ITA,01 JUN 2017,01 JUN 2017,20,444,63641,643,63661,https://worldathletics.org/records/competition-performance-rankings/ranking/579716
+645,575082,"Maribor Memorial Iztok Ciglaric, Maribor",SLO,14 JUN 2017,14 JUN 2017,15,468,63607,644,63622,https://worldathletics.org/records/competition-performance-rankings/ranking/575082
+646,575086,"Dubuque Dr. Tucker Open, Dubuque, IA",USA,05 MAY 2017,05 MAY 2017,0,,63596,645,63596,https://worldathletics.org/records/competition-performance-rankings/ranking/575086
+647,578246,"Novo Mesto Int. Meeting, Novo Mesto",SLO,19 JUL 2017,19 JUL 2017,220,164,63369,657,63589,https://worldathletics.org/records/competition-performance-rankings/ranking/578246
+648,578493,Brugge,BEL,15 AUG 2017,15 AUG 2017,0,,63579,646,63579,https://worldathletics.org/records/competition-performance-rankings/ranking/578493
+649,574272,"Palmanova ""Città di Palmanova"", Palmanova",ITA,01 MAY 2017,01 MAY 2017,65,305,63502,649,63567,https://worldathletics.org/records/competition-performance-rankings/ranking/574272
+650,578769,"Smithfield Black & Gold Invitational, Smithfield, RI",USA,01 APR 2017,01 APR 2017,0,,63562,647,63562,https://worldathletics.org/records/competition-performance-rankings/ranking/578769
+651,579036,"Ravenna Italian Club Championships, Ravenna",ITA,24 SEP 2017,24 SEP 2017,10,508,63475,651,63485,https://worldathletics.org/records/competition-performance-rankings/ranking/579036
+652,574161,"Roma Trofeo Liberazione, Roma",ITA,25 APR 2017,25 APR 2017,0,,63476,650,63476,https://worldathletics.org/records/competition-performance-rankings/ranking/574161
+653,578885,"Sacramento American River Invitational, Sacramento, CA",USA,24 MAR 2017,25 MAR 2017,0,,63442,652,63442,https://worldathletics.org/records/competition-performance-rankings/ranking/578885
+654,578204,"River Forest Concordia Univ. Cougar Inv., River Forest, IL",USA,22 APR 2017,22 APR 2017,0,,63425,653,63425,https://worldathletics.org/records/competition-performance-rankings/ranking/578204
+655,577974,"San Francisco TrackTown USA Summer Series, San Francisco, CA",USA,29 JUN 2017,29 JUN 2017,800,68,62621,700,63421,https://worldathletics.org/records/competition-performance-rankings/ranking/577974
+656,578788,"Chester Danny Curran Invitational, Chester, PA",USA,31 MAR 2017,01 APR 2017,0,,63413,654,63413,https://worldathletics.org/records/competition-performance-rankings/ranking/578788
+656,578647,"St. Louis SLU Invite, St. Louis, MO",USA,07 APR 2017,08 APR 2017,0,,63413,654,63413,https://worldathletics.org/records/competition-performance-rankings/ranking/578647
+658,574195,Nembro,ITA,29 APR 2017,29 APR 2017,0,,63393,656,63393,https://worldathletics.org/records/competition-performance-rankings/ranking/574195
+659,578500,"New Haven OCYH Match, New Haven, CT",USA,08 APR 2017,08 APR 2017,20,444,63364,658,63384,https://worldathletics.org/records/competition-performance-rankings/ranking/578500
+660,578568,"Cles Meeting Melinda, Cles",ITA,24 AUG 2017,24 AUG 2017,125,224,63244,667,63369,https://worldathletics.org/records/competition-performance-rankings/ranking/578568
+661,573690,"Phoenix Puma Invitational, Phoenix, AZ",USA,25 MAR 2017,25 MAR 2017,40,362,63328,659,63368,https://worldathletics.org/records/competition-performance-rankings/ranking/573690
+662,572693,"Cooks Classic, Whanganui",NZL,17 JAN 2017,17 JAN 2017,0,,63311,660,63311,https://worldathletics.org/records/competition-performance-rankings/ranking/572693
+663,578663,"Spokane WAR 10, Spokane, WA",USA,07 APR 2017,08 APR 2017,0,,63301,661,63301,https://worldathletics.org/records/competition-performance-rankings/ranking/578663
+664,574456,"Indian Grand Prix 1, Patiala",IND,07 MAY 2017,07 MAY 2017,45,345,63247,666,63292,https://worldathletics.org/records/competition-performance-rankings/ranking/574456
+665,575063,"McMinnville Linfield Open, Mcminnville, OR",USA,06 MAY 2017,06 MAY 2017,25,413,63258,664,63283,https://worldathletics.org/records/competition-performance-rankings/ranking/575063
+666,579046,"Arzignano Italian Club Championships, Arzignano",ITA,24 SEP 2017,24 SEP 2017,0,,63261,662,63261,https://worldathletics.org/records/competition-performance-rankings/ranking/579046
+667,573908,"Mobile Invitational, Mobile, AL",USA,07 APR 2017,07 APR 2017,0,,63260,663,63260,https://worldathletics.org/records/competition-performance-rankings/ranking/573908
+668,574159,"Golden MINES Nature's Bakery Invite, Golden, CO",USA,22 APR 2017,22 APR 2017,0,,63254,665,63254,https://worldathletics.org/records/competition-performance-rankings/ranking/574159
+669,579000,"College Park Maryland Invitational, College Park, MD",USA,18 MAR 2017,18 MAR 2017,0,,63187,668,63187,https://worldathletics.org/records/competition-performance-rankings/ranking/579000
+670,578506,"Espoo Challenge, Espoo",FIN,20 AUG 2017,20 AUG 2017,20,444,63138,669,63158,https://worldathletics.org/records/competition-performance-rankings/ranking/578506
+671,572432,"Berlin Gerhard Schlegel Gedenksportfest, Berlin",GER,07 JAN 2017,08 JAN 2017,0,,63137,670,63137,https://worldathletics.org/records/competition-performance-rankings/ranking/572432
+672,579410,"Erding Bayern Cup, Erding",GER,25 MAY 2017,25 MAY 2017,0,,63132,671,63132,https://worldathletics.org/records/competition-performance-rankings/ranking/579410
+673,575171,"Bozeman Tom Gage Classic, Bozeman, MT",USA,05 MAY 2017,05 MAY 2017,0,,63127,672,63127,https://worldathletics.org/records/competition-performance-rankings/ranking/575171
+674,578162,"Houston Rice All-Comers Meet, Houston, TX",USA,08 JUN 2017,08 JUN 2017,10,508,63116,673,63126,https://worldathletics.org/records/competition-performance-rankings/ranking/578162
+675,573919,"St. Paul Tomcat Twilight, St. Paul",USA,13 APR 2017,13 APR 2017,0,,63102,674,63102,https://worldathletics.org/records/competition-performance-rankings/ranking/573919
+676,575005,"Pézenas Meeting National, Pezenas",FRA,10 JUN 2017,10 JUN 2017,50,335,63019,678,63069,https://worldathletics.org/records/competition-performance-rankings/ranking/575005
+677,580276,Perth,AUS,30 NOV 2017,30 NOV 2017,60,314,62977,679,63037,https://worldathletics.org/records/competition-performance-rankings/ranking/580276
+678,578656,"Bethlehem Coach P Invitational, Bethlehem, PA",USA,07 APR 2017,08 APR 2017,0,,63030,675,63030,https://worldathletics.org/records/competition-performance-rankings/ranking/578656
+678,579045,"Torino Italian Club Championships, Torino",ITA,24 SEP 2017,24 SEP 2017,0,,63030,675,63030,https://worldathletics.org/records/competition-performance-rankings/ranking/579045
+680,574026,"Burnaby SFU Emilie Mondor Invite, Burnaby",CAN,08 APR 2017,08 APR 2017,0,,63029,677,63029,https://worldathletics.org/records/competition-performance-rankings/ranking/574026
+681,575252,Somero,FIN,23 JUN 2017,23 JUN 2017,15,468,62937,680,62952,https://worldathletics.org/records/competition-performance-rankings/ranking/575252
+682,579130,"Varaždin CRO-CZE-HUN-SVK-SLO U16 Match, Varaždin",CRO,30 SEP 2017,30 SEP 2017,0,,62931,681,62931,https://worldathletics.org/records/competition-performance-rankings/ranking/579130
+683,602760,"Indian Grand Prix 3, New Delhi",IND,15 MAY 2017,15 MAY 2017,40,362,62885,683,62925,https://worldathletics.org/records/competition-performance-rankings/ranking/602760
+684,578899,"St. Louis Wash U Mini Meet, St. Louis, MO",USA,24 MAR 2017,24 MAR 2017,0,,62907,682,62907,https://worldathletics.org/records/competition-performance-rankings/ranking/578899
+685,574300,"Abilene ACU Oliver Jackson Twilight, Abilene, TX",USA,03 MAY 2017,03 MAY 2017,20,444,62864,685,62884,https://worldathletics.org/records/competition-performance-rankings/ranking/574300
+686,574199,"New Haven Yale Springtime Invitational, New Haven, CT",USA,30 APR 2017,30 APR 2017,0,,62878,684,62878,https://worldathletics.org/records/competition-performance-rankings/ranking/574199
+687,578346,"Mannheim MTG Sommersportfest, Mannheim",GER,22 JUL 2017,22 JUL 2017,30,391,62816,689,62846,https://worldathletics.org/records/competition-performance-rankings/ranking/578346
+688,573937,"Harrisonburg William Walton Inv., Harrisonburg, VA",USA,15 APR 2017,15 APR 2017,0,,62832,686,62832,https://worldathletics.org/records/competition-performance-rankings/ranking/573937
+689,578806,"Marion IWU Polar Bear, Marion, IN",USA,25 MAR 2017,25 MAR 2017,0,,62831,687,62831,https://worldathletics.org/records/competition-performance-rankings/ranking/578806
+690,578908,Heusden-Zolder,BEL,16 SEP 2017,16 SEP 2017,0,,62828,688,62828,https://worldathletics.org/records/competition-performance-rankings/ranking/578908
+691,574348,"Clearwater FHSAA 3A Region 3, Clearwater, FL",USA,28 APR 2017,28 APR 2017,0,,62813,690,62813,https://worldathletics.org/records/competition-performance-rankings/ranking/574348
+692,580684,"Kreuzlingen Auffahrtsmeeting, Kreuzlingen",SUI,25 MAY 2017,25 MAY 2017,0,,62778,691,62778,https://worldathletics.org/records/competition-performance-rankings/ranking/580684
+693,573780,"Pittsburgh Wendy's/PSU Invitational, Pittsburgh, PA",USA,01 APR 2017,01 APR 2017,0,,62777,692,62777,https://worldathletics.org/records/competition-performance-rankings/ranking/573780
+694,585944,"Indianapolis Knight Open, Indianapolis, IN",USA,07 APR 2017,07 APR 2017,0,,62767,693,62767,https://worldathletics.org/records/competition-performance-rankings/ranking/585944
+695,578563,"Bismarck Al Bortke Open, Bismarck, ND",USA,08 APR 2017,09 APR 2017,0,,62745,694,62745,https://worldathletics.org/records/competition-performance-rankings/ranking/578563
+696,578391,"New London Silfen Invitational, New London, CT",USA,14 APR 2017,15 APR 2017,0,,62725,695,62725,https://worldathletics.org/records/competition-performance-rankings/ranking/578391
+697,578550,Helsinki,FIN,22 AUG 2017,22 AUG 2017,40,362,62673,697,62713,https://worldathletics.org/records/competition-performance-rankings/ranking/578550
+698,574766,"Hannover Nationales Leichtathletik-Meeting, Hannover",GER,27 MAY 2017,27 MAY 2017,25,413,62663,698,62688,https://worldathletics.org/records/competition-performance-rankings/ranking/574766
+699,573918,"Abilene McMurry Open, Abilene, TX",USA,13 APR 2017,13 APR 2017,0,,62674,696,62674,https://worldathletics.org/records/competition-performance-rankings/ranking/573918
+700,573799,"San Antonio Trinity Invitational, San Antonio, TX",USA,31 MAR 2017,31 MAR 2017,0,,62631,699,62631,https://worldathletics.org/records/competition-performance-rankings/ranking/573799
+701,573098,"Brisbane Norma Croker Shield, Brisbane",AUS,11 FEB 2017,11 FEB 2017,0,,62570,701,62570,https://worldathletics.org/records/competition-performance-rankings/ranking/573098
+702,574333,"Fort Collins Rams vs. Cowboys Dual, Fort Collins, CO",USA,05 MAY 2017,05 MAY 2017,25,413,62475,703,62500,https://worldathletics.org/records/competition-performance-rankings/ranking/574333
+703,573585,"Redlands Invite, Redlands, CA",USA,17 MAR 2017,17 MAR 2017,5,550,62488,702,62493,https://worldathletics.org/records/competition-performance-rankings/ranking/573585
+704,580590,"Spanish Town Gerald Claude Foster Over Distant Meet, Spanish Town",JAM,16 DEC 2017,16 DEC 2017,155,202,62315,709,62470,https://worldathletics.org/records/competition-performance-rankings/ranking/580590
+705,578400,"Williamstown MIT vs. Williams Dual, Williamstown, MA",USA,14 APR 2017,15 APR 2017,0,,62444,704,62444,https://worldathletics.org/records/competition-performance-rankings/ranking/578400
+706,601791,Maisons-Alfort,FRA,23 APR 2017,23 APR 2017,0,,62408,705,62408,https://worldathletics.org/records/competition-performance-rankings/ranking/601791
+707,578640,"Williamsburg Cumberlands Invitational, Williamsburg, KY",USA,07 APR 2017,08 APR 2017,0,,62405,706,62405,https://worldathletics.org/records/competition-performance-rankings/ranking/578640
+708,574147,"Romeoville Lewis Twilight, Romeoville, IL",USA,25 APR 2017,25 APR 2017,0,,62352,707,62352,https://worldathletics.org/records/competition-performance-rankings/ranking/574147
+708,578472,"Hamar Norsk Tipping Grand Prix, Hamar",NOR,16 AUG 2017,16 AUG 2017,30,391,62322,708,62352,https://worldathletics.org/records/competition-performance-rankings/ranking/578472
+710,580120,Perth,AUS,24 NOV 2017,24 NOV 2017,0,,62236,710,62236,https://worldathletics.org/records/competition-performance-rankings/ranking/580120
+711,573580,"Mount Olive Trojan Challenge, Mount Olive, NC",USA,17 MAR 2017,17 MAR 2017,0,,62173,711,62173,https://worldathletics.org/records/competition-performance-rankings/ranking/573580
+712,573450,"Tallahassee FAMU Relays, Tallahassee, FL",USA,04 MAR 2017,04 MAR 2017,0,,62147,712,62147,https://worldathletics.org/records/competition-performance-rankings/ranking/573450
+713,573909,"Monmouth John Knight Twilight, Monmouth, OR",USA,07 APR 2017,07 APR 2017,30,391,62102,714,62132,https://worldathletics.org/records/competition-performance-rankings/ranking/573909
+714,578227,"Lowell George Davis Invitational, Lowell, MA",USA,22 APR 2017,22 APR 2017,0,,62103,713,62103,https://worldathletics.org/records/competition-performance-rankings/ranking/578227
+715,578454,"Hanover Dartmouth Invitational, Hanover, NH",USA,14 APR 2017,14 APR 2017,0,,62097,715,62097,https://worldathletics.org/records/competition-performance-rankings/ranking/578454
+716,573816,"Newark Delaware Open, Newark, DE",USA,08 APR 2017,08 APR 2017,0,,62089,716,62089,https://worldathletics.org/records/competition-performance-rankings/ranking/573816
+717,579147,"Mörfelden Stadionfest, Mörfelden",GER,15 JUN 2017,15 JUN 2017,5,550,62048,717,62053,https://worldathletics.org/records/competition-performance-rankings/ranking/579147
+718,580709,"Affoltern am Albis August-Meeting LVAlbis, Affoltern am Albis",SUI,15 JUL 2017,15 JUL 2017,25,413,62026,719,62051,https://worldathletics.org/records/competition-performance-rankings/ranking/580709
+719,572597,"Brisbane Sally Pearson Shield, Brisbane",AUS,21 JAN 2017,21 JAN 2017,0,,62047,718,62047,https://worldathletics.org/records/competition-performance-rankings/ranking/572597
+720,573509,Perth,AUS,10 MAR 2017,10 MAR 2017,15,468,62013,720,62028,https://worldathletics.org/records/competition-performance-rankings/ranking/573509
+721,578513,"Wheaton Invitational, Wheaton, IL",USA,08 APR 2017,08 APR 2017,0,,62004,721,62004,https://worldathletics.org/records/competition-performance-rankings/ranking/578513
+722,578854,"Cedarville Yellow Jacket Collegiate Open, Cedarville, OH",USA,25 MAR 2017,25 MAR 2017,0,,61990,722,61990,https://worldathletics.org/records/competition-performance-rankings/ranking/578854
+723,578271,"Ellensburg CWU Spike Arlt Inv, Ellensburg, WA",USA,22 APR 2017,22 APR 2017,0,,61959,723,61959,https://worldathletics.org/records/competition-performance-rankings/ranking/578271
+724,578229,"Cortland Classic Invitational, Cortland, NY",USA,22 APR 2017,23 APR 2017,0,,61956,724,61956,https://worldathletics.org/records/competition-performance-rankings/ranking/578229
+725,579881,"Pretoria AGN Invitational League, Pretoria",RSA,11 NOV 2017,11 NOV 2017,40,362,61883,726,61923,https://worldathletics.org/records/competition-performance-rankings/ranking/579881
+726,578118,"Whitewater UW Drake Alternative Meet, Whitewater, WI",USA,29 APR 2017,29 APR 2017,5,550,61889,725,61894,https://worldathletics.org/records/competition-performance-rankings/ranking/578118
+727,578475,"Regensdorf Abendmeeting, Regensdorf",SUI,16 AUG 2017,16 AUG 2017,10,508,61847,727,61857,https://worldathletics.org/records/competition-performance-rankings/ranking/578475
+728,573053,"Sydney All-comers, Sydney",AUS,11 FEB 2017,11 FEB 2017,5,550,61846,728,61851,https://worldathletics.org/records/competition-performance-rankings/ranking/573053
+729,574459,"Knoxville Tennessee Challenge, Knoxville, TN",USA,06 MAY 2017,06 MAY 2017,15,468,61796,729,61811,https://worldathletics.org/records/competition-performance-rankings/ranking/574459
+730,575162,"Chula Vista CVEATC Last Chance, Chula Vista, CA",USA,17 JUN 2017,17 JUN 2017,400,112,61345,744,61745,https://worldathletics.org/records/competition-performance-rankings/ranking/575162
+731,573697,"Prairie View Relays, Prairie View, TX",USA,25 MAR 2017,25 MAR 2017,60,314,61646,731,61706,https://worldathletics.org/records/competition-performance-rankings/ranking/573697
+732,573177,"Sydney NSW 5000m Ch. and Allcomers, Sydney",AUS,18 FEB 2017,18 FEB 2017,0,,61670,730,61670,https://worldathletics.org/records/competition-performance-rankings/ranking/573177
+733,578691,"New Haven Mark T Young Invitational, New Haven, CT",USA,01 APR 2017,01 APR 2017,0,,61646,731,61646,https://worldathletics.org/records/competition-performance-rankings/ranking/578691
+734,574146,"Vermillion USD Twilight, Vermillion, SD",USA,24 APR 2017,24 APR 2017,45,345,61517,735,61562,https://worldathletics.org/records/competition-performance-rankings/ranking/574146
+735,578239,"Oregon City Cougar Open, Oregon City, OR",USA,22 APR 2017,22 APR 2017,0,,61540,733,61540,https://worldathletics.org/records/competition-performance-rankings/ranking/578239
+736,575062,"Jamaica Tom Farrell Classic, Jamaica, NY",USA,06 MAY 2017,06 MAY 2017,5,550,61519,734,61524,https://worldathletics.org/records/competition-performance-rankings/ranking/575062
+737,573746,"Savannah Tiger Twilight, Savannah, GA",USA,29 MAR 2017,29 MAR 2017,10,508,61508,737,61518,https://worldathletics.org/records/competition-performance-rankings/ranking/573746
+738,575312,"Romans Meeting National, Romans",FRA,27 JUN 2017,27 JUN 2017,50,335,61462,741,61512,https://worldathletics.org/records/competition-performance-rankings/ranking/575312
+738,577973,"Meeting Jose Antonio Peña, Altamira estadioa, Ordizia",ESP,01 JUL 2017,01 JUL 2017,5,550,61507,738,61512,https://worldathletics.org/records/competition-performance-rankings/ranking/577973
+740,578863,"Selinsgrove Jim Taylor Invitational, Selinsgrove, PA",USA,25 MAR 2017,25 MAR 2017,0,,61509,736,61509,https://worldathletics.org/records/competition-performance-rankings/ranking/578863
+741,572589,"Kingston JC/R. Danny Williams/Purewater, Kingston",JAM,07 JAN 2017,07 JAN 2017,15,468,61473,740,61488,https://worldathletics.org/records/competition-performance-rankings/ranking/572589
+741,573917,"Port Harcourt AFN All-Comers, Port Harcourt",NGR,12 APR 2017,12 APR 2017,0,,61488,739,61488,https://worldathletics.org/records/competition-performance-rankings/ranking/573917
+743,578178,"Guelph Speed River Twilight Two, Guelph",CAN,14 JUL 2017,14 JUL 2017,20,444,61428,742,61448,https://worldathletics.org/records/competition-performance-rankings/ranking/578178
+744,575135,"Ingolstadt MTV Meet-IN, Ingolstadt",GER,17 JUN 2017,17 JUN 2017,45,345,61343,745,61388,https://worldathletics.org/records/competition-performance-rankings/ranking/575135
+745,578667,"Milwaukee Marquette Duals, Milwaukee, WI",USA,07 APR 2017,07 APR 2017,0,,61366,743,61366,https://worldathletics.org/records/competition-performance-rankings/ranking/578667
+746,578852,"Wayne Wildcat Classic, Wayne, NE",USA,25 MAR 2017,26 MAR 2017,0,,61335,746,61335,https://worldathletics.org/records/competition-performance-rankings/ranking/578852
+747,573078,"Sydney Invitational, Sydney",AUS,04 FEB 2017,04 FEB 2017,70,295,61251,749,61321,https://worldathletics.org/records/competition-performance-rankings/ranking/573078
+748,574645,"West Point Twilight, West Point, NY",USA,11 MAY 2017,11 MAY 2017,20,444,61290,747,61310,https://worldathletics.org/records/competition-performance-rankings/ranking/574645
+749,578564,"Durham UNH Meet, Durham, NH",USA,08 APR 2017,08 APR 2017,0,,61269,748,61269,https://worldathletics.org/records/competition-performance-rankings/ranking/578564
+750,579131,"Dresden DSC Jugendmeeting, Dresden",GER,14 MAY 2017,14 MAY 2017,45,345,61198,750,61243,https://worldathletics.org/records/competition-performance-rankings/ranking/579131
+751,578584,"Budapest Junior Magyar Liga Döntő, Budapest",HUN,26 AUG 2017,27 AUG 2017,0,,61139,751,61139,https://worldathletics.org/records/competition-performance-rankings/ranking/578584
+752,578236,"Berea Sparky Adams Invitational, Berea, OH",USA,22 APR 2017,22 APR 2017,0,,61124,752,61124,https://worldathletics.org/records/competition-performance-rankings/ranking/578236
+753,573685,"Daytona Beach Florida Division 2 Challenge, Daytona Beach, FL",USA,25 MAR 2017,25 MAR 2017,0,,61123,753,61123,https://worldathletics.org/records/competition-performance-rankings/ranking/573685
+754,575045,"Sacramento State Open, Sacramento, CA",USA,06 MAY 2017,06 MAY 2017,0,,61085,754,61085,https://worldathletics.org/records/competition-performance-rankings/ranking/575045
+755,578770,"Tacoma Puget Sound Shotwell Inv., Tacoma, WA",USA,01 APR 2017,01 APR 2017,0,,61063,755,61063,https://worldathletics.org/records/competition-performance-rankings/ranking/578770
+756,574178,"Tiszaújváros Nemzetközi Atlétikai Verseny, Tiszaújváros",HUN,29 APR 2017,29 APR 2017,15,468,61041,756,61056,https://worldathletics.org/records/competition-performance-rankings/ranking/574178
+757,578007,"Riihimäki Häme Games, Riihimäki",FIN,04 JUL 2017,04 JUL 2017,5,550,61035,757,61040,https://worldathletics.org/records/competition-performance-rankings/ranking/578007
+758,579109,"San Marcos Mangrum Invitational, San Marcos, TX",USA,25 FEB 2017,25 FEB 2017,0,,60992,758,60992,https://worldathletics.org/records/competition-performance-rankings/ranking/579109
+759,578553,"Big Rapids Ferris State Bulldog Open, Big Rapids, MI",USA,08 APR 2017,08 APR 2017,0,,60988,759,60988,https://worldathletics.org/records/competition-performance-rankings/ranking/578553
+760,574329,"Wichita State Shocker Open, Wichita, KS",USA,05 MAY 2017,05 MAY 2017,0,,60976,760,60976,https://worldathletics.org/records/competition-performance-rankings/ranking/574329
+760,575049,"Kranj Memorial Vučko, Kranj",SLO,10 JUN 2017,10 JUN 2017,0,,60976,760,60976,https://worldathletics.org/records/competition-performance-rankings/ranking/575049
+762,578561,"Fayette Central Methodist Invite, Fayette, MO",USA,08 APR 2017,08 APR 2017,0,,60849,762,60849,https://worldathletics.org/records/competition-performance-rankings/ranking/578561
+763,578067,"Rochester Cardinal Classic, Rochester, NY",USA,29 APR 2017,29 APR 2017,0,,60845,763,60845,https://worldathletics.org/records/competition-performance-rankings/ranking/578067
+764,578083,"Bulle Meeting de la Gruyère, Bulle",SUI,08 JUL 2017,08 JUL 2017,20,444,60798,764,60818,https://worldathletics.org/records/competition-performance-rankings/ranking/578083
+765,578410,"St. Peter Lee Krough Invitational, St. Peter",USA,15 APR 2017,15 APR 2017,0,,60699,765,60699,https://worldathletics.org/records/competition-performance-rankings/ranking/578410
+766,574593,"Seward Concordia Twilight, Seward, NE",USA,12 MAY 2017,12 MAY 2017,0,,60641,766,60641,https://worldathletics.org/records/competition-performance-rankings/ranking/574593
+767,578424,"Hayward East Bay Invite, Hayward, CA",USA,14 APR 2017,15 APR 2017,0,,60608,767,60608,https://worldathletics.org/records/competition-performance-rankings/ranking/578424
+768,578297,"Köln Leichtathletik-Tage, Köln",GER,22 JUL 2017,23 JUL 2017,35,379,60559,768,60594,https://worldathletics.org/records/competition-performance-rankings/ranking/578297
+769,575157,"Lausanne Swiss U20 Club Championships, Lausanne",SUI,17 JUN 2017,17 JUN 2017,0,,60535,769,60535,https://worldathletics.org/records/competition-performance-rankings/ranking/575157
+770,578478,"Adrian Don Kleinow Invitational, Adrian, MI",USA,13 APR 2017,13 APR 2017,0,,60522,770,60522,https://worldathletics.org/records/competition-performance-rankings/ranking/578478
+771,578185,Orvieto,ITA,14 JUL 2017,14 JUL 2017,15,468,60491,771,60506,https://worldathletics.org/records/competition-performance-rankings/ranking/578185
+772,573414,"Brisbane Carlee Beattie Shield, Brisbane",AUS,04 MAR 2017,04 MAR 2017,20,444,60453,772,60473,https://worldathletics.org/records/competition-performance-rankings/ranking/573414
+773,573781,"Jacksonville Choccolocco Challenge, Jacksonville, FL",USA,01 APR 2017,01 APR 2017,0,,60313,773,60313,https://worldathletics.org/records/competition-performance-rankings/ranking/573781
+774,578386,"Saint-Niklaas Int. Peugeotmeeting, Sint-Niklaas",BEL,02 AUG 2017,02 AUG 2017,0,,60272,774,60272,https://worldathletics.org/records/competition-performance-rankings/ranking/578386
+775,579532,Perth,AUS,20 OCT 2017,20 OCT 2017,30,391,60222,776,60252,https://worldathletics.org/records/competition-performance-rankings/ranking/579532
+776,578642,"Worcester UMass Meet, Worcester, MA",USA,07 APR 2017,07 APR 2017,0,,60235,775,60235,https://worldathletics.org/records/competition-performance-rankings/ranking/578642
+777,578549,"Riehen Sommerabendmeeting, Riehen",SUI,22 AUG 2017,22 AUG 2017,0,,60219,777,60219,https://worldathletics.org/records/competition-performance-rankings/ranking/578549
+778,578857,"West Chester Golden Ram Invitational, West Chester, PA",USA,25 MAR 2017,25 MAR 2017,0,,60205,778,60205,https://worldathletics.org/records/competition-performance-rankings/ranking/578857
+779,578372,"Spokane Memorial Series, Spokane, WA",USA,21 APR 2017,22 APR 2017,0,,60204,779,60204,https://worldathletics.org/records/competition-performance-rankings/ranking/578372
+780,579007,"Spokane Buc Scoring Meet, Spokane, WA",USA,18 MAR 2017,18 MAR 2017,0,,60174,780,60174,https://worldathletics.org/records/competition-performance-rankings/ranking/579007
+781,578261,"East Stroudsburg All-American Inv., East Stroudsburg, PA",USA,22 APR 2017,22 APR 2017,0,,60164,781,60164,https://worldathletics.org/records/competition-performance-rankings/ranking/578261
+782,573288,"Santa Barbara UCSB and Pepperdine, Santa Barbara, CA",USA,18 FEB 2017,18 FEB 2017,0,,60160,782,60160,https://worldathletics.org/records/competition-performance-rankings/ranking/573288
+783,579110,"San Francisco Johnny Mathis Invitational, San Francisco, CA",USA,25 FEB 2017,25 FEB 2017,0,,60155,783,60155,https://worldathletics.org/records/competition-performance-rankings/ranking/579110
+784,578299,Trieste,ITA,22 JUL 2017,22 JUL 2017,30,391,60094,785,60124,https://worldathletics.org/records/competition-performance-rankings/ranking/578299
+785,573922,"Oakland Maurice Compton Invitational, Oakland, CA",USA,07 APR 2017,07 APR 2017,0,,60120,784,60120,https://worldathletics.org/records/competition-performance-rankings/ranking/573922
+786,574144,"Udine Memorial Todaro, Udine",ITA,25 APR 2017,25 APR 2017,5,550,60044,786,60049,https://worldathletics.org/records/competition-performance-rankings/ranking/574144
+787,578509,"Sioux Center Dordt College Outdoor Inv., Sioux",USA,08 APR 2017,08 APR 2017,0,,59999,787,59999,https://worldathletics.org/records/competition-performance-rankings/ranking/578509
+788,580555,"Tucson Winter All-Comers Meet, Tucson, AZ",USA,09 DEC 2017,09 DEC 2017,5,550,59950,788,59955,https://worldathletics.org/records/competition-performance-rankings/ranking/580555
+789,573931,"Elon Phoenix Invititational, Elon, NC",USA,15 APR 2017,15 APR 2017,10,508,59883,790,59893,https://worldathletics.org/records/competition-performance-rankings/ranking/573931
+790,578411,"Alton UNH Wildcat Invitational, Alton, IL",USA,15 APR 2017,15 APR 2017,0,,59888,789,59888,https://worldathletics.org/records/competition-performance-rankings/ranking/578411
+791,572592,"Sydney All-comers, Sydney",AUS,21 JAN 2017,21 JAN 2017,10,508,59872,791,59882,https://worldathletics.org/records/competition-performance-rankings/ranking/572592
+792,578657,"Columbia Susan Rouse Invite, Columbia, SC",USA,07 APR 2017,08 APR 2017,25,413,59839,793,59864,https://worldathletics.org/records/competition-performance-rankings/ranking/578657
+793,582265,"Kampala UAF Trials, Kampala",UGA,14 DEC 2017,14 DEC 2017,0,,59842,792,59842,https://worldathletics.org/records/competition-performance-rankings/ranking/582265
+794,574175,"Trento Meeting Citta di Trento, Trento",ITA,29 APR 2017,29 APR 2017,25,413,59806,794,59831,https://worldathletics.org/records/competition-performance-rankings/ranking/574175
+795,578780,"Hays FHSU Alex Francis Classic, Hays, KS",USA,31 MAR 2017,31 MAR 2017,0,,59795,795,59795,https://worldathletics.org/records/competition-performance-rankings/ranking/578780
+795,573893,"Denver Mullen Invitational, Denver, CO",USA,08 APR 2017,08 APR 2017,0,,59795,795,59795,https://worldathletics.org/records/competition-performance-rankings/ranking/573893
+797,578182,"Arcata Border Battle, Arcata, CA",USA,22 APR 2017,22 APR 2017,0,,59773,797,59773,https://worldathletics.org/records/competition-performance-rankings/ranking/578182
+798,578742,"Millersville Metrics, Millersville, PA",USA,01 APR 2017,01 APR 2017,0,,59737,798,59737,https://worldathletics.org/records/competition-performance-rankings/ranking/578742
+799,579781,Whanganui,NZL,04 NOV 2017,04 NOV 2017,0,,59734,799,59734,https://worldathletics.org/records/competition-performance-rankings/ranking/579781
+800,578453,"Crete Doane - Nebraska Wesleyan Dual, Crete, NE",USA,14 APR 2017,14 APR 2017,0,,59722,800,59722,https://worldathletics.org/records/competition-performance-rankings/ranking/578453
+801,579047,"Birmingham Southern Invitational, Birmingham, AL",USA,10 MAR 2017,11 MAR 2017,0,,59706,801,59706,https://worldathletics.org/records/competition-performance-rankings/ranking/579047
+802,579409,"Dormagen Jugendsportfest, Dormagen",GER,29 JUN 2017,29 JUN 2017,10,508,59680,802,59690,https://worldathletics.org/records/competition-performance-rankings/ranking/579409
+803,578378,"Pfungstadt Abendsportfest, Pfungstadt",GER,02 AUG 2017,02 AUG 2017,0,,59675,803,59675,https://worldathletics.org/records/competition-performance-rankings/ranking/578378
+804,575313,"Ljubljana Memorial Matica Šušteršiča in Patrika Cvetana, Ljubljana",SLO,28 JUN 2017,28 JUN 2017,10,508,59621,804,59631,https://worldathletics.org/records/competition-performance-rankings/ranking/575313
+805,578461,"Kotka Karhula Games, Kotka",FIN,13 AUG 2017,13 AUG 2017,80,275,59541,806,59621,https://worldathletics.org/records/competition-performance-rankings/ranking/578461
+806,580095,"Calgary New Balance Athletic Series, Calgary",CAN,20 MAY 2017,20 MAY 2017,0,,59584,805,59584,https://worldathletics.org/records/competition-performance-rankings/ranking/580095
+807,575132,"Lillebonne Meeting National, Lillebonne",FRA,17 JUN 2017,17 JUN 2017,15,468,59417,807,59432,https://worldathletics.org/records/competition-performance-rankings/ranking/575132
+808,574758,"Golden Mines Sunday Last Chance, Golden, CO",USA,14 MAY 2017,14 MAY 2017,15,468,59388,808,59403,https://worldathletics.org/records/competition-performance-rankings/ranking/574758
+809,579097,"Riverside City 4-Way, Riverside, CA",USA,04 MAR 2017,04 MAR 2017,0,,59354,809,59354,https://worldathletics.org/records/competition-performance-rankings/ranking/579097
+809,578713,"McMinnville Linfield Jenn Boyman Memorial, Mcminnville, OR",USA,01 APR 2017,01 APR 2017,30,391,59324,810,59354,https://worldathletics.org/records/competition-performance-rankings/ranking/578713
+811,578649,"Delaware OWU Marv Frye Inv., Delaware, OH",USA,07 APR 2017,08 APR 2017,0,,59187,811,59187,https://worldathletics.org/records/competition-performance-rankings/ranking/578649
+812,573479,"Clinton Mississippi College Season Opener, Clinton, MS",USA,04 MAR 2017,04 MAR 2017,0,,59184,812,59184,https://worldathletics.org/records/competition-performance-rankings/ranking/573479
+812,578222,"Worcester Holy Cross Invitational, Worcester, MA",USA,22 APR 2017,22 APR 2017,0,,59184,812,59184,https://worldathletics.org/records/competition-performance-rankings/ranking/578222
+814,579710,Milano,ITA,03 JUN 2017,03 JUN 2017,0,,59169,814,59169,https://worldathletics.org/records/competition-performance-rankings/ranking/579710
+815,579269,Perth,AUS,06 OCT 2017,06 OCT 2017,5,550,59135,815,59140,https://worldathletics.org/records/competition-performance-rankings/ranking/579269
+816,581285,"Concepción Grand Prix Sudanmericano, Concepción",CHI,07 APR 2017,07 APR 2017,60,314,59072,817,59132,https://worldathletics.org/records/competition-performance-rankings/ranking/581285
+817,573184,Perth,AUS,17 FEB 2017,17 FEB 2017,5,550,59111,816,59116,https://worldathletics.org/records/competition-performance-rankings/ranking/573184
+818,578342,Orvieto,ITA,28 JUL 2017,28 JUL 2017,45,345,59056,819,59101,https://worldathletics.org/records/competition-performance-rankings/ranking/578342
+819,574346,"Miami FHSAA 3A Region 4, Miami, FL",USA,27 APR 2017,28 APR 2017,0,,59069,818,59069,https://worldathletics.org/records/competition-performance-rankings/ranking/574346
+820,578495,Pärnu,EST,18 AUG 2017,18 AUG 2017,385,115,58637,829,59022,https://worldathletics.org/records/competition-performance-rankings/ranking/578495
+821,580238,"Toronto YUTC Twilight, Toronto",CAN,11 JUL 2017,11 JUL 2017,115,236,58883,822,58998,https://worldathletics.org/records/competition-performance-rankings/ranking/580238
+822,574952,"Bamako Meeting Grand Prix CAA, Bamako",MLI,03 JUN 2017,03 JUN 2017,10,508,58897,821,58907,https://worldathletics.org/records/competition-performance-rankings/ranking/574952
+823,578607,"Little Rock Open, Little Rock, AR",USA,07 APR 2017,08 APR 2017,0,,58902,820,58902,https://worldathletics.org/records/competition-performance-rankings/ranking/578607
+824,579114,"Claremont Rossi Relays, Claremont, CA",USA,25 FEB 2017,25 FEB 2017,0,,58852,823,58852,https://worldathletics.org/records/competition-performance-rankings/ranking/579114
+825,578138,"Fort Hays State Open, Hays, KS",USA,28 APR 2017,28 APR 2017,0,,58814,824,58814,https://worldathletics.org/records/competition-performance-rankings/ranking/578138
+826,574644,"Lowell Battle Road Twilight Series, Lowell, MA",USA,20 MAY 2017,20 MAY 2017,5,550,58794,825,58799,https://worldathletics.org/records/competition-performance-rankings/ranking/574644
+827,574963,"Turku Tilastopajacup, Turku",FIN,07 JUN 2017,07 JUN 2017,15,468,58745,826,58760,https://worldathletics.org/records/competition-performance-rankings/ranking/574963
+828,578545,"Springfield Yellow Jacket Invitational, Springfield, MA",USA,08 APR 2017,08 APR 2017,0,,58700,827,58700,https://worldathletics.org/records/competition-performance-rankings/ranking/578545
+829,578999,"Indianapolis Stan Lyons, Indianapolis, IN",USA,18 MAR 2017,18 MAR 2017,0,,58687,828,58687,https://worldathletics.org/records/competition-performance-rankings/ranking/578999
+830,578253,"Oslo Sommerstevne, Oslo",NOR,19 JUL 2017,19 JUL 2017,20,444,58611,831,58631,https://worldathletics.org/records/competition-performance-rankings/ranking/578253
+831,578276,"Rock Island Augustana Womens Invite, Rock Island, IL",USA,21 APR 2017,22 APR 2017,0,,58619,830,58619,https://worldathletics.org/records/competition-performance-rankings/ranking/578276
+832,574778,"Allendale GVSU LAST-Chance Meet, Allendale, MI",USA,13 MAY 2017,13 MAY 2017,75,285,58385,833,58460,https://worldathletics.org/records/competition-performance-rankings/ranking/574778
+833,579089,"Conway Central Arkansas Spring Opener, Conway, AR",USA,10 MAR 2017,10 MAR 2017,0,,58418,832,58418,https://worldathletics.org/records/competition-performance-rankings/ranking/579089
+834,574589,"West Chester WCU Invitational, West Chester, PA",USA,08 APR 2017,08 APR 2017,15,468,58348,835,58363,https://worldathletics.org/records/competition-performance-rankings/ranking/574589
+835,573517,"Shawnee OBU Early Outdoor Inv., Shawnee, OK",USA,09 MAR 2017,09 MAR 2017,0,,58352,834,58352,https://worldathletics.org/records/competition-performance-rankings/ranking/573517
+836,575042,"Plovdiv Memorial Vulpev-Bakchevanov, Plovdiv",BUL,11 JUN 2017,11 JUN 2017,55,326,58277,836,58332,https://worldathletics.org/records/competition-performance-rankings/ranking/575042
+837,574879,Göteborg,SWE,03 JUN 2017,03 JUN 2017,10,508,58237,837,58247,https://worldathletics.org/records/competition-performance-rankings/ranking/574879
+838,578431,"Danville Centre Twilight, Danville, KY",USA,14 APR 2017,14 APR 2017,0,,58177,838,58177,https://worldathletics.org/records/competition-performance-rankings/ranking/578431
+839,578103,"Troy Capital District Classic, Troy, NY",USA,29 APR 2017,29 APR 2017,0,,58171,839,58171,https://worldathletics.org/records/competition-performance-rankings/ranking/578103
+840,579024,"Richmond VCU Ram Invitational, Richmond, VA",USA,17 MAR 2017,18 MAR 2017,0,,58115,840,58115,https://worldathletics.org/records/competition-performance-rankings/ranking/579024
+841,579117,"Savannah State Eyeopener, Savannah, GA",USA,25 FEB 2017,25 FEB 2017,0,,58101,841,58101,https://worldathletics.org/records/competition-performance-rankings/ranking/579117
+842,580022,"Hamilton Twilight Meet, Hamilton",CAN,02 AUG 2017,02 AUG 2017,0,,58096,842,58096,https://worldathletics.org/records/competition-performance-rankings/ranking/580022
+843,579023,"Lexington W&L Carnival, Lexington, KY",USA,17 MAR 2017,18 MAR 2017,0,,58033,843,58033,https://worldathletics.org/records/competition-performance-rankings/ranking/579023
+844,578484,"Orange City Red Raider Open, Orange City, IA",USA,12 APR 2017,13 APR 2017,0,,57980,844,57980,https://worldathletics.org/records/competition-performance-rankings/ranking/578484
+845,575061,"Siedlce Henryk Gut Memorial, Siedlce",POL,10 JUN 2017,10 JUN 2017,25,413,57952,845,57977,https://worldathletics.org/records/competition-performance-rankings/ranking/575061
+846,574310,Berkane,MAR,16 APR 2017,16 APR 2017,10,508,57940,846,57950,https://worldathletics.org/records/competition-performance-rankings/ranking/574310
+847,573477,Perth,AUS,02 MAR 2017,02 MAR 2017,10,508,57918,847,57928,https://worldathletics.org/records/competition-performance-rankings/ranking/573477
+848,574145,"Padova Memorial Alberto Pettinella, Padova",ITA,25 APR 2017,25 APR 2017,10,508,57772,848,57782,https://worldathletics.org/records/competition-performance-rankings/ranking/574145
+849,579553,Sesto Fiorentino,ITA,25 MAY 2017,25 MAY 2017,0,,57771,849,57771,https://worldathletics.org/records/competition-performance-rankings/ranking/579553
+850,578064,"Winona St. Mary's Open, Winona, MN",USA,29 APR 2017,29 APR 2017,0,,57767,850,57767,https://worldathletics.org/records/competition-performance-rankings/ranking/578064
+851,578361,"Hässleholm HAIS-spelen, Hässleholm",SWE,28 JUL 2017,30 JUL 2017,190,178,57540,853,57730,https://worldathletics.org/records/competition-performance-rankings/ranking/578361
+852,578670,"Cheney Pelluer Invitational, Cheney, WA",USA,06 APR 2017,08 APR 2017,0,,57693,851,57693,https://worldathletics.org/records/competition-performance-rankings/ranking/578670
+853,578487,"St. Paul Hamline Womens Twilight, St. Paul",USA,12 APR 2017,12 APR 2017,0,,57676,852,57676,https://worldathletics.org/records/competition-performance-rankings/ranking/578487

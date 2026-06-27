@@ -1,0 +1,50 @@
+name: Daily World Athletics Rankings Scrape
+
+on:
+  schedule:
+    # Run once a day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # Allows manual triggering of the workflow from the GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run World Athletics Rankings scraper
+        run: |
+          python scrape_rankings.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Stage the newly scraped CSV files inside the data directory
+          git add data/
+          
+          # Only commit and push if the file has changed
+          if git diff --cached --quiet; then
+            echo "No changes in competition performance rankings. Skipping commit."
+          else
+            git commit -m "chore(data): automated daily update of $(date +'%Y') competition performance rankings $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            git push
+          fi

@@ -1,0 +1,738 @@
+place,competitionId,competition,country,startDate,endDate,partScore,participationScorePlace,resultScore,resultScorePlace,competitionScore,competitionUrl
+1,564994,"Monaco Herculis, Stade Louis II, Monaco",MON,17 JUL 2015,17 JUL 2015,8090,6,87739,1,95949,https://worldathletics.org/records/competition-performance-rankings/ranking/564994
+2,564267,"Eugene Prefontaine Classic, Hayward Field, Eugene, OR",USA,29 MAY 2015,30 MAY 2015,8510,1,87243,2,95753,https://worldathletics.org/records/competition-performance-rankings/ranking/564267
+3,564836,"Paris Meeting AREVA, Stade de France, Paris-St-Denis",FRA,04 JUL 2015,04 JUL 2015,8440,3,87122,3,95562,https://worldathletics.org/records/competition-performance-rankings/ranking/564836
+4,565090,"London Sainsbury's Anniversary Games, Olympic Stadium, London",GBR,24 JUL 2015,25 JUL 2015,7690,8,86591,4,94281,https://worldathletics.org/records/competition-performance-rankings/ranking/565090
+5,564894,"Athletissima Lausanne, Stade Olympique de la Pontaise, Lausanne",SUI,09 JUL 2015,09 JUL 2015,8270,5,85838,6,94108,https://worldathletics.org/records/competition-performance-rankings/ranking/564894
+6,565551,"Bruxelles Memorial Van Damme, Boudewijnstadion, Bruxelles",BEL,11 SEP 2015,11 SEP 2015,8380,4,85718,7,94098,https://worldathletics.org/records/competition-performance-rankings/ranking/565551
+7,564387,"Roma Golden Gala - Pietro Mennea, Stadio Olimpico, Roma",ITA,04 JUN 2015,04 JUN 2015,7870,7,86155,5,94025,https://worldathletics.org/records/competition-performance-rankings/ranking/564387
+8,565441,"Weltklasse Zürich, Letzigrund, Zürich",SUI,02 SEP 2015,03 SEP 2015,8500,2,85261,9,93761,https://worldathletics.org/records/competition-performance-rankings/ranking/565441
+9,563952,"Doha IAAF Diamond League, Suhaim bin Hamad Stadium, Doha",QAT,15 MAY 2015,15 MAY 2015,7570,9,85529,8,93099,https://worldathletics.org/records/competition-performance-rankings/ranking/563952
+10,564423,"Birmingham British Athletics Grand Prix, Alexander Stadium, Birmingham",GBR,07 JUN 2015,07 JUN 2015,7115,11,84567,11,91682,https://worldathletics.org/records/competition-performance-rankings/ranking/564423
+11,563977,"Shanghai Golden Grand Prix, Shanghai Stadium, Shanghai",CHN,17 MAY 2015,17 MAY 2015,7325,10,84260,12,91585,https://worldathletics.org/records/competition-performance-rankings/ranking/563977
+12,564566,"New York adidas Grand Prix, Icahn Stadium, New York, NY",USA,13 JUN 2015,13 JUN 2015,6470,13,85060,10,91530,https://worldathletics.org/records/competition-performance-rankings/ranking/564566
+13,564512,"Oslo ExxonMobil Bislett Games, Bislett Stadion, Oslo",NOR,11 JUN 2015,11 JUN 2015,6835,12,84253,13,91088,https://worldathletics.org/records/competition-performance-rankings/ranking/564512
+14,565149,"Stockholm BAUHAUS Athletics, Olympiastadion, Stockholm",SWE,29 JUL 2015,30 JUL 2015,5975,14,84005,14,89980,https://worldathletics.org/records/competition-performance-rankings/ranking/565149
+15,564883,"Gyulai István Memorial - Hungarian Athletics Grand Prix, Bregyó Athletic Center, Székesfehérvár",HUN,07 JUL 2015,07 JUL 2015,5230,17,83584,16,88814,https://worldathletics.org/records/competition-performance-rankings/ranking/564883
+16,566731,"Berlin ISTAF, Olympiastadion, Berlin",GER,06 SEP 2015,06 SEP 2015,5240,16,82890,21,88130,https://worldathletics.org/records/competition-performance-rankings/ranking/566731
+17,564556,"Meeting International Mohammed VI d'Athletisme de Rabat, Complexe Sportif Prince Moulay Abdellah, Rabat",MAR,14 JUN 2015,14 JUN 2015,4915,18,83044,20,87959,https://worldathletics.org/records/competition-performance-rankings/ranking/564556
+18,563819,"Kingston Jamaica International Invitational IWC, National Stadium, Kingston",JAM,09 MAY 2015,09 MAY 2015,3820,21,83936,15,87756,https://worldathletics.org/records/competition-performance-rankings/ranking/563819
+19,564097,"Beijing IAAF World Challenge, National Stadium, Beijing",CHN,20 MAY 2015,20 MAY 2015,4255,19,83381,19,87636,https://worldathletics.org/records/competition-performance-rankings/ranking/564097
+20,564180,"Golden Spike Ostrava 2015, Mestský Stadion, Ostrava",CZE,25 MAY 2015,26 MAY 2015,5285,15,82328,26,87613,https://worldathletics.org/records/competition-performance-rankings/ranking/564180
+21,564971,"Luzern Spitzen Leichtathletik, Luzern",SUI,14 JUL 2015,14 JUL 2015,3430,22,83426,17,86856,https://worldathletics.org/records/competition-performance-rankings/ranking/564971
+22,565490,"Zagreb IAAF World Challenge, Sports Park Mladost, Zagreb",CRO,07 SEP 2015,08 SEP 2015,3900,20,82383,24,86283,https://worldathletics.org/records/competition-performance-rankings/ranking/565490
+23,564916,"Madrid Meeting 2015, Moratalaz, Madrid",ESP,11 JUL 2015,11 JUL 2015,2670,27,83415,18,86085,https://worldathletics.org/records/competition-performance-rankings/ranking/564916
+24,564143,"Hengelo FBK Games, FBK Stadium, Hengelo",NED,24 MAY 2015,24 MAY 2015,2835,23,82361,25,85196,https://worldathletics.org/records/competition-performance-rankings/ranking/564143
+25,563824,"Kawasaki Seiko Golden Grand Prix, Todoroki Stadium, Kawasaki",JPN,10 MAY 2015,10 MAY 2015,2780,25,82241,27,85021,https://worldathletics.org/records/competition-performance-rankings/ranking/563824
+26,565007,"Heusden-Zolder KBC Night of Athletics, Heusden-Zolder",BEL,18 JUL 2015,18 JUL 2015,1740,37,82886,22,84626,https://worldathletics.org/records/competition-performance-rankings/ranking/565007
+27,565563,"Rieti IAAF World Challenge, Stadio Guidobaldi, Rieti",ITA,12 SEP 2015,13 SEP 2015,2680,26,81717,31,84397,https://worldathletics.org/records/competition-performance-rankings/ranking/565563
+28,564976,"Edmonton TrackTown Classic, Edmonton",CAN,11 JUL 2015,12 JUL 2015,1770,36,82432,23,84202,https://worldathletics.org/records/competition-performance-rankings/ranking/564976
+29,564441,"Memoriál Josefa Odložila, Stadion Juliska, Praha",CZE,08 JUN 2015,08 JUN 2015,2380,30,81480,33,83860,https://worldathletics.org/records/competition-performance-rankings/ranking/564441
+30,564860,"Sotteville-lès-Rouen Meeting International, Sotteville-lès-Rouen",FRA,06 JUL 2015,06 JUL 2015,2090,31,81515,32,83605,https://worldathletics.org/records/competition-performance-rankings/ranking/564860
+31,565054,"Bellinzona Galà dei Castelli, Bellinzona",SUI,21 JUL 2015,21 JUL 2015,1820,34,81741,30,83561,https://worldathletics.org/records/competition-performance-rankings/ranking/565054
+32,565248,"Janusz Kusociński Memorial, Wieslaw Maniak Municipal Athletic Stadium, Szczecin",POL,09 AUG 2015,09 AUG 2015,2820,24,80526,35,83346,https://worldathletics.org/records/competition-performance-rankings/ranking/565248
+33,564819,"Meeting Stanislas Nancy, Stade Raymond Petit, Tomblaine",FRA,01 JUL 2015,01 JUL 2015,1400,45,81790,28,83190,https://worldathletics.org/records/competition-performance-rankings/ranking/564819
+34,564736,"Turku Paavo Nurmi Games, Turku",FIN,25 JUN 2015,25 JUN 2015,2510,29,80608,34,83118,https://worldathletics.org/records/competition-performance-rankings/ranking/564736
+35,563462,"Gainesville Tom Jones Memorial, Gainesville, FL",USA,24 APR 2015,24 APR 2015,1310,46,81749,29,83059,https://worldathletics.org/records/competition-performance-rankings/ranking/563462
+36,564462,"Montreuil-sous-Bois Meeting International, Montreuil-sous-Bois",FRA,09 JUN 2015,09 JUN 2015,1925,32,80043,40,81968,https://worldathletics.org/records/competition-performance-rankings/ranking/564462
+37,565491,"Rovereto Palio Città della Quercia, Rovereto",ITA,08 SEP 2015,08 SEP 2015,1835,33,80062,39,81897,https://worldathletics.org/records/competition-performance-rankings/ranking/565491
+38,564162,"Ponce Grand Prix, Ponce",PUR,23 MAY 2015,23 MAY 2015,1415,44,80409,36,81824,https://worldathletics.org/records/competition-performance-rankings/ranking/564162
+39,565564,"Paris Décanation, Paris",FRA,13 SEP 2015,13 SEP 2015,2525,28,79226,51,81751,https://worldathletics.org/records/competition-performance-rankings/ranking/565564
+40,564747,"Sopot Janusz Sidło Memorial, Sopot",POL,27 JUN 2015,27 JUN 2015,1705,39,79876,41,81581,https://worldathletics.org/records/competition-performance-rankings/ranking/564747
+41,563642,"Palo Alto Payton Jordan Invitational, Palo Alto, CA",USA,02 MAY 2015,02 MAY 2015,1065,52,80309,38,81374,https://worldathletics.org/records/competition-performance-rankings/ranking/563642
+42,565200,"Atlanta American Track League, Atlanta, GA",USA,01 AUG 2015,01 AUG 2015,1600,40,79585,45,81185,https://worldathletics.org/records/competition-performance-rankings/ranking/565200
+43,563653,"Baie Mahault Meeting Caraibes Région, Baie Mahault",FRA,02 MAY 2015,02 MAY 2015,1710,38,79468,46,81178,https://worldathletics.org/records/competition-performance-rankings/ranking/563653
+44,563975,"Clermont NTC Pure Athletics Sprint Elite Meet, Clermont, FL",USA,16 MAY 2015,16 MAY 2015,725,63,80329,37,81054,https://worldathletics.org/records/competition-performance-rankings/ranking/563975
+45,564277,"Dessau Anhalt 2015, Dessau",GER,29 MAY 2015,29 MAY 2015,1600,40,79203,52,80803,https://worldathletics.org/records/competition-performance-rankings/ranking/564277
+46,564987,"Liège Meeting international de la province de Liège, Liège",BEL,15 JUL 2015,15 JUL 2015,915,56,79829,43,80744,https://worldathletics.org/records/competition-performance-rankings/ranking/564987
+47,565191,"Ninove Memorial Geert Rasschaert, Ninove",BEL,01 AUG 2015,01 AUG 2015,690,67,79831,42,80521,https://worldathletics.org/records/competition-performance-rankings/ranking/565191
+48,564430,"Genève AtletiCAGenève, Genève",SUI,06 JUN 2015,06 JUN 2015,600,78,79748,44,80348,https://worldathletics.org/records/competition-performance-rankings/ranking/564430
+49,564502,"Huelva Meeting Iberoamericano de Atletismo, Huelva",ESP,10 JUN 2015,10 JUN 2015,905,57,79358,48,80263,https://worldathletics.org/records/competition-performance-rankings/ranking/564502
+50,564150,"Oordegem IFAM Meeting, Oordegem",BEL,23 MAY 2015,23 MAY 2015,595,80,79427,47,80022,https://worldathletics.org/records/competition-performance-rankings/ranking/564150
+51,565445,"Amsterdam Flame Games, Amsterdam",NED,05 SEP 2015,05 SEP 2015,1805,35,78118,67,79923,https://worldathletics.org/records/competition-performance-rankings/ranking/565445
+52,564849,"La Chaux-de-Fonds Résisprint International, La Chaux-de-Fonds",SUI,05 JUL 2015,05 JUL 2015,635,71,79248,50,79883,https://worldathletics.org/records/competition-performance-rankings/ranking/564849
+53,563304,"Waco Michael Johnson Classic, Waco, TX",USA,18 APR 2015,18 APR 2015,540,83,79315,49,79855,https://worldathletics.org/records/competition-performance-rankings/ranking/563304
+54,565459,"Padova Meeting Citta Di Padova, Padova",ITA,06 SEP 2015,06 SEP 2015,1600,40,78178,65,79778,https://worldathletics.org/records/competition-performance-rankings/ranking/565459
+55,564626,"Bydgoszcz European Athletics Festival, Bydgoszcz",POL,14 JUN 2015,14 JUN 2015,995,53,78758,57,79753,https://worldathletics.org/records/competition-performance-rankings/ranking/564626
+56,564735,"Sollentuna Folksam GP, Sollentuna",SWE,25 JUN 2015,25 JUN 2015,770,61,78934,55,79704,https://worldathletics.org/records/competition-performance-rankings/ranking/564735
+57,564491,"Norwalk Jim Bush Invitational, Norwalk, CA",USA,06 JUN 2015,06 JUN 2015,525,86,79177,53,79702,https://worldathletics.org/records/competition-performance-rankings/ranking/564491
+58,564122,"Dakar IAAF World Challenge, Stade Senghor, Dakar",SEN,22 MAY 2015,23 MAY 2015,895,59,78806,56,79701,https://worldathletics.org/records/competition-performance-rankings/ranking/564122
+59,564171,"Rehlingen Pfingstsportfest, Rehlingen",GER,25 MAY 2015,25 MAY 2015,1235,48,78180,64,79415,https://worldathletics.org/records/competition-performance-rankings/ranking/564171
+60,563648,"Baton Rouge LSU Invitational, Baton Rouge, LA",USA,02 MAY 2015,02 MAY 2015,390,109,78943,54,79333,https://worldathletics.org/records/competition-performance-rankings/ranking/563648
+61,562601,"Sydney Track Classic, Sydney",AUS,14 MAR 2015,14 MAR 2015,905,57,78400,60,79305,https://worldathletics.org/records/competition-performance-rankings/ranking/562601
+62,563731,"Austin Longhorn Invitational, Austin, TX",USA,02 MAY 2015,02 MAY 2015,425,102,78723,58,79148,https://worldathletics.org/records/competition-performance-rankings/ranking/563731
+63,563294,"Baton Rouge LSU Alumni Gold, Baton Rouge, LA",USA,18 APR 2015,18 APR 2015,360,122,78693,59,79053,https://worldathletics.org/records/competition-performance-rankings/ranking/563294
+64,563936,"Kingston Utech Classic, Kingston",JAM,11 APR 2015,11 APR 2015,850,60,78166,66,79016,https://worldathletics.org/records/competition-performance-rankings/ranking/563936
+65,565020,"Zhukovskiy Znamenskiy Memorial, Meteor, Zhukovskiy",RUS,18 JUL 2015,19 JUL 2015,1120,49,77760,75,78880,https://worldathletics.org/records/competition-performance-rankings/ranking/565020
+66,565071,"Karlstad Folksam GP, Karlstad",SWE,22 JUL 2015,22 JUL 2015,1080,51,77784,74,78864,https://worldathletics.org/records/competition-performance-rankings/ranking/565071
+67,562677,"Melbourne IAAF World Challenge, Albert Park, Melbourne",AUS,21 MAR 2015,21 MAR 2015,1255,47,77599,78,78854,https://worldathletics.org/records/competition-performance-rankings/ranking/562677
+68,563934,"Los Angeles Occidental Invitational, Los Angeles, CA",USA,09 MAY 2015,09 MAY 2015,605,77,78232,62,78837,https://worldathletics.org/records/competition-performance-rankings/ranking/563934
+69,565619,"Lignano Sabbiadoro Meeting Int. Sport Solidarieta, Lignano Sabbiadoro",ITA,07 JUL 2015,07 JUL 2015,495,95,78297,61,78792,https://worldathletics.org/records/competition-performance-rankings/ranking/565619
+70,564469,"Burnaby Harry Jerome International Track Classic, Burnaby",CAN,08 JUN 2015,08 JUN 2015,615,73,78094,68,78709,https://worldathletics.org/records/competition-performance-rankings/ranking/564469
+71,563315,"Clermont NTC Pure Athletics Sprint Elite Meet, Clermont, FL",USA,18 APR 2015,18 APR 2015,1520,43,77088,87,78608,https://worldathletics.org/records/competition-performance-rankings/ranking/563315
+72,565078,"La Roche-sur-Yon Meeting National, La Roche-sur-Yon",FRA,22 JUL 2015,22 JUL 2015,380,114,78197,63,78577,https://worldathletics.org/records/competition-performance-rankings/ranking/565078
+73,564913,"Kortrijk Guldensporenmeeting, Kortrijk",BEL,11 JUL 2015,11 JUL 2015,590,81,77910,70,78500,https://worldathletics.org/records/competition-performance-rankings/ranking/564913
+74,564274,"Oordegem Putbos Memorial Léon Buyle, Oordegem",BEL,30 MAY 2015,30 MAY 2015,390,109,78094,68,78484,https://worldathletics.org/records/competition-performance-rankings/ranking/564274
+75,565241,"Kessel-Lo Meeting voor Mon, Kessel-Lo",BEL,08 AUG 2015,08 AUG 2015,585,82,77898,71,78483,https://worldathletics.org/records/competition-performance-rankings/ranking/565241
+76,565238,"Kuortane Games, Kuortane",FIN,08 AUG 2015,08 AUG 2015,940,55,77339,83,78279,https://worldathletics.org/records/competition-performance-rankings/ranking/565238
+77,564016,"Loughborough International, Loughborough",GBR,17 MAY 2015,17 MAY 2015,505,94,77756,76,78261,https://worldathletics.org/records/competition-performance-rankings/ranking/564016
+78,565034,"Loughborough EAP Meeting, Loughborough",GBR,18 JUL 2015,18 JUL 2015,440,99,77738,77,78178,https://worldathletics.org/records/competition-performance-rankings/ranking/565034
+79,564409,"Yerino Yuliya Pechonkina Prizes, Yerino",RUS,06 JUN 2015,06 JUN 2015,270,140,77813,73,78083,https://worldathletics.org/records/competition-performance-rankings/ranking/564409
+79,564674,"Reunión Internacional de Atletismo Villa De Bilbao, Bilbao",ESP,20 JUN 2015,20 JUN 2015,755,62,77328,84,78083,https://worldathletics.org/records/competition-performance-rankings/ranking/564674
+81,563150,"Tucson Jim Click Shootout, Tucson, AZ",USA,11 APR 2015,11 APR 2015,150,189,77818,72,77968,https://worldathletics.org/records/competition-performance-rankings/ranking/563150
+81,565228,"Copenhagen Athletics Games, Copenhagen",DEN,05 AUG 2015,05 AUG 2015,655,69,77313,85,77968,https://worldathletics.org/records/competition-performance-rankings/ranking/565228
+83,564104,"Montgeron Meeting Elite, Montgeron",FRA,17 MAY 2015,17 MAY 2015,530,85,77407,81,77937,https://worldathletics.org/records/competition-performance-rankings/ranking/564104
+84,565143,"Castres Meeting National, Castres",FRA,29 JUL 2015,29 JUL 2015,335,125,77530,79,77865,https://worldathletics.org/records/competition-performance-rankings/ranking/565143
+85,563127,"Austin Texas Invitational, Austin, TX",USA,11 APR 2015,11 APR 2015,615,73,77189,86,77804,https://worldathletics.org/records/competition-performance-rankings/ranking/563127
+85,564284,"Forbach Meeting National, Forbach",FRA,31 MAY 2015,31 MAY 2015,725,63,77079,88,77804,https://worldathletics.org/records/competition-performance-rankings/ranking/564284
+87,564818,"Velenje EA Classic Permit Meeting, Velenje",SLO,01 JUL 2015,01 JUL 2015,1110,50,76682,94,77792,https://worldathletics.org/records/competition-performance-rankings/ranking/564818
+88,561754,"Canberra Track Classic, Canberra",AUS,07 FEB 2015,07 FEB 2015,305,130,77480,80,77785,https://worldathletics.org/records/competition-performance-rankings/ranking/561754
+89,563782,"Fukuroi Shizuoka International Meeting, Fukuroi",JPN,03 MAY 2015,03 MAY 2015,525,86,77076,89,77601,https://worldathletics.org/records/competition-performance-rankings/ranking/563782
+90,611060,"Greensboro Aggie Last Chance, Greensboro, NC",USA,17 MAY 2015,17 MAY 2015,185,165,77351,82,77536,https://worldathletics.org/records/competition-performance-rankings/ranking/611060
+91,564898,"Pathum Thani Asian Grand Prix, Pathum Thani",THA,25 JUN 2015,25 JUN 2015,420,105,76980,91,77400,https://worldathletics.org/records/competition-performance-rankings/ranking/564898
+92,565148,"Warri Relays, Warri",NGR,24 JUL 2015,24 JUL 2015,235,149,77065,90,77300,https://worldathletics.org/records/competition-performance-rankings/ranking/565148
+93,565446,"Göteborg Folksam GP, Göteborg",SWE,05 SEP 2015,05 SEP 2015,995,53,76152,104,77147,https://worldathletics.org/records/competition-performance-rankings/ranking/565446
+94,564269,"Weinheim Kurpfalz Gala, Weinheim",GER,30 MAY 2015,30 MAY 2015,305,130,76839,93,77144,https://worldathletics.org/records/competition-performance-rankings/ranking/564269
+95,564306,"Guelph Speed River Inferno Festival, Guelph",CAN,30 MAY 2015,30 MAY 2015,155,184,76853,92,77008,https://worldathletics.org/records/competition-performance-rankings/ranking/564306
+96,564851,"Bruxelles Grand Prix, Bruxelles",BEL,05 JUL 2015,05 JUL 2015,400,108,76578,95,76978,https://worldathletics.org/records/competition-performance-rankings/ranking/564851
+97,564896,"Chantabury Asian Grand Prix, Chanthaburi",THA,29 JUN 2015,29 JUN 2015,490,96,76438,97,76928,https://worldathletics.org/records/competition-performance-rankings/ranking/564896
+98,565086,"Dublin Morton Games, Dublin",IRL,24 JUL 2015,24 JUL 2015,510,92,76293,102,76803,https://worldathletics.org/records/competition-performance-rankings/ranking/565086
+99,565024,"Lapinlahti Savo Games, Lapinlahti",FIN,19 JUL 2015,19 JUL 2015,700,65,76044,107,76744,https://worldathletics.org/records/competition-performance-rankings/ranking/565024
+100,564722,"Bangkok Asian Grand Prix, Bangkok",THA,22 JUN 2015,22 JUN 2015,425,102,76313,101,76738,https://worldathletics.org/records/competition-performance-rankings/ranking/564722
+101,564301,"Bedford International Games, Bedford",GBR,31 MAY 2015,31 MAY 2015,380,114,76328,100,76708,https://worldathletics.org/records/competition-performance-rankings/ranking/564301
+102,563870,"Athens Georgia Invitational, Athens, GA",USA,09 MAY 2015,09 MAY 2015,250,146,76426,99,76676,https://worldathletics.org/records/competition-performance-rankings/ranking/563870
+103,564739,"Lisboa Meeting Internacional, Lisboa",POR,25 JUN 2015,25 JUN 2015,480,97,76131,105,76611,https://worldathletics.org/records/competition-performance-rankings/ranking/564739
+104,563606,"Lubbock Red Raider Open, Lubbock, TX",USA,30 APR 2015,30 APR 2015,130,204,76468,96,76598,https://worldathletics.org/records/competition-performance-rankings/ranking/563606
+105,564149,"Pliezhausen Läufermeeting, Pliezhausen",GER,17 MAY 2015,17 MAY 2015,75,260,76431,98,76506,https://worldathletics.org/records/competition-performance-rankings/ranking/564149
+106,564529,"Leiden Gouden Spike, Leiden",NED,13 JUN 2015,13 JUN 2015,405,106,76083,106,76488,https://worldathletics.org/records/competition-performance-rankings/ranking/564529
+107,564749,"Nivelles Meeting International EAP, Nivelles",BEL,27 JUN 2015,27 JUN 2015,130,204,76264,103,76394,https://worldathletics.org/records/competition-performance-rankings/ranking/564749
+108,565079,"Joensuu Games, Joensuu",FIN,23 JUL 2015,23 JUL 2015,640,70,75722,114,76362,https://worldathletics.org/records/competition-performance-rankings/ranking/565079
+109,564139,Tourcoing,FRA,24 MAY 2015,24 MAY 2015,435,100,75926,111,76361,https://worldathletics.org/records/competition-performance-rankings/ranking/564139
+110,563141,"Los Angeles Rafer Johnson/Jackie Joyner-Kersee Invitational, Los Angeles, CA",USA,11 APR 2015,11 APR 2015,610,76,75730,113,76340,https://worldathletics.org/records/competition-performance-rankings/ranking/563141
+111,564595,"Spanish Club Championships, Zaragoza",ESP,13 JUN 2015,13 JUN 2015,320,128,75903,112,76223,https://worldathletics.org/records/competition-performance-rankings/ranking/564595
+112,564986,"Mannheim Abendsportfest, Mannheim",GER,15 JUL 2015,15 JUL 2015,140,199,75987,108,76127,https://worldathletics.org/records/competition-performance-rankings/ranking/564986
+113,589168,"Auburn War Eagle Invitational, Auburn, AL",USA,17 APR 2015,18 APR 2015,165,178,75959,109,76124,https://worldathletics.org/records/competition-performance-rankings/ranking/589168
+114,562596,"Kingston G.C. Foster Classics, Kingston",JAM,14 MAR 2015,14 MAR 2015,155,184,75948,110,76103,https://worldathletics.org/records/competition-performance-rankings/ranking/562596
+115,564884,"Cork City Sports, Cork",IRL,07 JUL 2015,07 JUL 2015,525,86,75429,117,75954,https://worldathletics.org/records/competition-performance-rankings/ranking/564884
+116,565096,"Gijón Campeonato de España de Federaciones Autonómicas, Gijón",ESP,25 JUL 2015,25 JUL 2015,300,132,75511,115,75811,https://worldathletics.org/records/competition-performance-rankings/ranking/565096
+117,564921,"Randalls Island USA National Club Championships, Randalls Island, NY",USA,11 JUL 2015,11 JUL 2015,155,184,75511,115,75666,https://worldathletics.org/records/competition-performance-rankings/ranking/564921
+118,564145,"Chula Vista OTC-CV Elite, Chula Vista, CA",USA,22 MAY 2015,23 MAY 2015,615,73,74985,123,75600,https://worldathletics.org/records/competition-performance-rankings/ranking/564145
+119,562097,"Adelaide Track Classic, Adelaide",AUS,21 FEB 2015,21 FEB 2015,460,98,75085,121,75545,https://worldathletics.org/records/competition-performance-rankings/ranking/562097
+120,564255,"San Marcos Bobcat Classic, San Marcos, TX",USA,25 APR 2015,25 APR 2015,125,212,75405,118,75530,https://worldathletics.org/records/competition-performance-rankings/ranking/564255
+121,564248,"Riga Cup, Riga",LAT,28 MAY 2015,28 MAY 2015,525,86,74955,124,75480,https://worldathletics.org/records/competition-performance-rankings/ranking/564248
+122,564582,"Kingston JAAA All Comers Meet, Kingston",JAM,13 JUN 2015,13 JUN 2015,210,150,75195,120,75405,https://worldathletics.org/records/competition-performance-rankings/ranking/564582
+123,563652,"Fort Worth Horned Frog Invitational, Fort Worth, TX",USA,02 MAY 2015,02 MAY 2015,150,189,75229,119,75379,https://worldathletics.org/records/competition-performance-rankings/ranking/563652
+124,561917,"Wien ASVÖ Indoor Gala, Wien",AUT,14 FEB 2015,14 FEB 2015,240,147,75003,122,75243,https://worldathletics.org/records/competition-performance-rankings/ranking/561917
+125,563657,"Knoxville Tennessee Challenge, Knoxville, TN",USA,02 MAY 2015,02 MAY 2015,385,112,74787,127,75172,https://worldathletics.org/records/competition-performance-rankings/ranking/563657
+126,564420,"Knoxville UT Challenge, Knoxville, TN",USA,02 MAY 2015,02 MAY 2015,360,122,74787,127,75147,https://worldathletics.org/records/competition-performance-rankings/ranking/564420
+127,564127,"Pitesti Int. Meeting, Pitesti",ROU,23 MAY 2015,23 MAY 2015,335,125,74767,129,75102,https://worldathletics.org/records/competition-performance-rankings/ranking/564127
+128,562715,"Kingston UWI Invitational, Kingston",JAM,21 MAR 2015,21 MAR 2015,290,136,74757,131,75047,https://worldathletics.org/records/competition-performance-rankings/ranking/562715
+129,566536,"Kiev, Kyiv",UKR,21 JUL 2015,21 JUL 2015,130,204,74823,126,74953,https://worldathletics.org/records/competition-performance-rankings/ranking/566536
+130,563689,"Lawrence Rock Chalk Classic, Lawrence, KS",USA,02 MAY 2015,02 MAY 2015,180,170,74758,130,74938,https://worldathletics.org/records/competition-performance-rankings/ranking/563689
+131,563608,"Orlando UCF Twilight, Orlando, FL",USA,30 APR 2015,30 APR 2015,195,158,74671,132,74866,https://worldathletics.org/records/competition-performance-rankings/ranking/563608
+132,563110,"Starkville Border Clash, Starkville, MS",USA,10 APR 2015,10 APR 2015,25,365,74838,125,74863,https://worldathletics.org/records/competition-performance-rankings/ranking/563110
+133,564412,"Salamanca Memorial Carlos Gil Pérez, Salamanca",ESP,06 JUN 2015,06 JUN 2015,140,199,74613,133,74753,https://worldathletics.org/records/competition-performance-rankings/ranking/564412
+134,564899,"Zeulenroda Meeting, Zeulenroda",GER,10 JUL 2015,10 JUL 2015,380,114,74359,139,74739,https://worldathletics.org/records/competition-performance-rankings/ranking/564899
+135,565296,"Göteborg Folksam GP, Göteborg",SWE,14 AUG 2015,14 AUG 2015,175,174,74505,134,74680,https://worldathletics.org/records/competition-performance-rankings/ranking/565296
+136,564385,"St. Pölten Liese Prokop Memorial, St. Pölten",AUT,04 JUN 2015,04 JUN 2015,370,118,74280,141,74650,https://worldathletics.org/records/competition-performance-rankings/ranking/564385
+137,564413,"Gdańsk Józef Żylewicz Memorial, Gdansk",POL,06 JUN 2015,06 JUN 2015,120,215,74496,135,74616,https://worldathletics.org/records/competition-performance-rankings/ranking/564413
+138,565447,"Tampere Games, Tampere",FIN,04 SEP 2015,05 SEP 2015,665,68,73929,148,74594,https://worldathletics.org/records/competition-performance-rankings/ranking/565447
+139,563856,"Jacksonville UNF invite, Jacksonville, FL",USA,08 MAY 2015,08 MAY 2015,60,281,74450,136,74510,https://worldathletics.org/records/competition-performance-rankings/ranking/563856
+140,564639,"Chania 2015, Chania",GRE,06 JUN 2015,06 JUN 2015,255,144,74229,142,74484,https://worldathletics.org/records/competition-performance-rankings/ranking/564639
+141,564400,"Iowa City Musco Invitational, Iowa City, IA",USA,02 MAY 2015,02 MAY 2015,55,284,74404,138,74459,https://worldathletics.org/records/competition-performance-rankings/ranking/564400
+142,565365,"Albuquerque HS Great Southwest Classic, Albuquerque, NM",USA,06 JUN 2015,06 JUN 2015,10,439,74416,137,74426,https://worldathletics.org/records/competition-performance-rankings/ranking/565365
+143,563704,"Los Angeles UCLA vs. USC Dual Meet, Los Angeles, CA",USA,03 MAY 2015,03 MAY 2015,200,154,74173,143,74373,https://worldathletics.org/records/competition-performance-rankings/ranking/563704
+144,562975,"Waco Baylor Invitational, Waco, TX",USA,03 APR 2015,03 APR 2015,50,295,74292,140,74342,https://worldathletics.org/records/competition-performance-rankings/ranking/562975
+145,564550,Lahti,FIN,14 JUN 2015,14 JUN 2015,540,83,73719,154,74259,https://worldathletics.org/records/competition-performance-rankings/ranking/564550
+146,564825,"Nembro Meeting Citta di Nembro, Nembro",ITA,01 JUL 2015,01 JUL 2015,100,232,74055,144,74155,https://worldathletics.org/records/competition-performance-rankings/ranking/564825
+147,561914,"Perth Jandakot City Track Classic, Perth",AUS,14 FEB 2015,14 FEB 2015,430,101,73704,156,74134,https://worldathletics.org/records/competition-performance-rankings/ranking/561914
+148,563120,"Eugene Pepsi Invitational, Eugene, OR",USA,11 APR 2015,11 APR 2015,110,223,74019,145,74129,https://worldathletics.org/records/competition-performance-rankings/ranking/563120
+149,564291,"Biała Podlaska Polish Club Championships, Biala Podlaska",POL,30 MAY 2015,30 MAY 2015,425,102,73676,157,74101,https://worldathletics.org/records/competition-performance-rankings/ranking/564291
+150,563804,"Eugene Oregon Twilight, Eugene, OR",USA,08 MAY 2015,08 MAY 2015,120,215,73948,147,74068,https://worldathletics.org/records/competition-performance-rankings/ranking/563804
+151,564679,"Bottrop NRW-Gala, Bottrop",GER,21 JUN 2015,21 JUN 2015,325,127,73735,152,74060,https://worldathletics.org/records/competition-performance-rankings/ranking/564679
+152,563172,"Santiago de Chile GP Orlando Guaita, Santiago de Chile",CHI,11 APR 2015,11 APR 2015,180,170,73862,149,74042,https://worldathletics.org/records/competition-performance-rankings/ranking/563172
+153,563493,"Houston Rice Twilight Meet, Houston, TX",USA,25 APR 2015,25 APR 2015,65,274,73957,146,74022,https://worldathletics.org/records/competition-performance-rankings/ranking/563493
+154,585201,"Sapporo Nambu Chuhei Memorial, Sapporo",JPN,12 JUL 2015,12 JUL 2015,240,147,73738,151,73978,https://worldathletics.org/records/competition-performance-rankings/ranking/585201
+155,565371,"Merksem Antwerp Athletics Gala, Merksem",BEL,22 AUG 2015,22 AUG 2015,180,170,73723,153,73903,https://worldathletics.org/records/competition-performance-rankings/ranking/565371
+156,563157,"Lincoln Husker Spring Invitational, Lincoln, NE",USA,11 APR 2015,11 APR 2015,190,160,73706,155,73896,https://worldathletics.org/records/competition-performance-rankings/ranking/563157
+157,563697,"Lexington Kentucky Relays, Lexington, KY",USA,02 MAY 2015,02 MAY 2015,115,220,73744,150,73859,https://worldathletics.org/records/competition-performance-rankings/ranking/563697
+158,564575,"Budapest Open - Schulek Ágoston Memorial, Budapest",HUN,13 JUN 2015,14 JUN 2015,370,118,73358,165,73728,https://worldathletics.org/records/competition-performance-rankings/ranking/564575
+159,564727,Katowice,POL,24 JUN 2015,24 JUN 2015,175,174,73518,160,73693,https://worldathletics.org/records/competition-performance-rankings/ranking/564727
+160,563498,"Chula Vista OTC-CV Elite, Chula Vista, CA",USA,23 APR 2015,23 APR 2015,700,65,72939,172,73639,https://worldathletics.org/records/competition-performance-rankings/ranking/563498
+161,565072,"Moskva Kuts Memorial, Moskva",RUS,15 JUL 2015,15 JUL 2015,55,284,73547,159,73602,https://worldathletics.org/records/competition-performance-rankings/ranking/565072
+162,564983,"Kaduna AFN Golden League, Kaduna",NGR,27 JUN 2015,27 JUN 2015,10,439,73553,158,73563,https://worldathletics.org/records/competition-performance-rankings/ranking/564983
+163,564752,"Amiens Meeting National, Amiens",FRA,27 JUN 2015,27 JUN 2015,105,227,73437,162,73542,https://worldathletics.org/records/competition-performance-rankings/ranking/564752
+164,562334,"Jundiaí Torneio FPA, Jundiaí",BRA,28 FEB 2015,28 FEB 2015,295,133,73237,168,73532,https://worldathletics.org/records/competition-performance-rankings/ranking/562334
+165,561593,"Glendale Hunter Track Classic, Glendale",AUS,31 JAN 2015,31 JAN 2015,190,160,73327,166,73517,https://worldathletics.org/records/competition-performance-rankings/ranking/561593
+166,563627,"Fayetteville Arkansas Twilight, Fayetteville, AR",USA,01 MAY 2015,01 MAY 2015,100,232,73394,164,73494,https://worldathletics.org/records/competition-performance-rankings/ranking/563627
+167,564152,"Windsor Open, Windsor",CAN,23 MAY 2015,23 MAY 2015,85,248,73402,163,73487,https://worldathletics.org/records/competition-performance-rankings/ranking/564152
+168,565364,"Clovis CA State Finals HS, Clovis, CA",USA,06 JUN 2015,06 JUN 2015,0,,73453,161,73453,https://worldathletics.org/records/competition-performance-rankings/ranking/565364
+169,564411,"West Long Branch New Jersey International Inv., West Long Branch, NJ",USA,06 JUN 2015,06 JUN 2015,105,227,73308,167,73413,https://worldathletics.org/records/competition-performance-rankings/ranking/564411
+170,563964,"Hoorn Flynth Recordwedstrijden, Hoorn",NED,16 MAY 2015,16 MAY 2015,510,92,72863,174,73373,https://worldathletics.org/records/competition-performance-rankings/ranking/563964
+171,565460,"Praha Czech Club Championships, Praha",CZE,06 SEP 2015,06 SEP 2015,600,78,72667,179,73267,https://worldathletics.org/records/competition-performance-rankings/ranking/565460
+172,563167,"Fairfax George Mason Spring Invitational, Fairfax, VA",USA,11 APR 2015,11 APR 2015,30,346,73228,169,73258,https://worldathletics.org/records/competition-performance-rankings/ranking/563167
+173,563295,"Abilene Wes Kittley Invitational, Abilene, TX",USA,11 APR 2015,11 APR 2015,85,248,73171,170,73256,https://worldathletics.org/records/competition-performance-rankings/ranking/563295
+174,563265,"Hampton University Relays, Hampton, VA",USA,10 APR 2015,10 APR 2015,45,305,73080,171,73125,https://worldathletics.org/records/competition-performance-rankings/ranking/563265
+175,563314,"Champaign Illinois Twilight, Champaign, IL",USA,18 APR 2015,18 APR 2015,175,174,72801,175,72976,https://worldathletics.org/records/competition-performance-rankings/ranking/563314
+176,565206,"Schifflange Meeting International, Schifflange",LUX,02 AUG 2015,02 AUG 2015,295,133,72641,182,72936,https://worldathletics.org/records/competition-performance-rankings/ranking/565206
+177,562693,"Sacramento State Hornet Invitational, Sacramento, CA",USA,21 MAR 2015,21 MAR 2015,20,383,72890,173,72910,https://worldathletics.org/records/competition-performance-rankings/ranking/562693
+178,562840,"Tuscaloosa Crimson Tide Invitational, Tuscaloosa, AL",USA,27 MAR 2015,28 MAR 2015,45,305,72780,176,72825,https://worldathletics.org/records/competition-performance-rankings/ranking/562840
+179,564496,Minsk,BLR,06 JUN 2015,06 JUN 2015,200,154,72607,183,72807,https://worldathletics.org/records/competition-performance-rankings/ranking/564496
+180,563008,"Berkeley Cal Tri Meet, Berkeley, CA",USA,04 APR 2015,04 APR 2015,25,365,72756,177,72781,https://worldathletics.org/records/competition-performance-rankings/ranking/563008
+181,562698,"El Paso UTEP Springtime, El Paso, TX",USA,21 MAR 2015,21 MAR 2015,90,242,72664,180,72754,https://worldathletics.org/records/competition-performance-rankings/ranking/562698
+182,562751,"Sasolburg Prestige Meeting, Sasolburg",RSA,19 MAR 2015,19 MAR 2015,365,121,72382,191,72747,https://worldathletics.org/records/competition-performance-rankings/ranking/562751
+183,564958,"Akure AFN Golden League, Akure",NGR,11 JUL 2015,11 JUL 2015,25,365,72688,178,72713,https://worldathletics.org/records/competition-performance-rankings/ranking/564958
+184,563118,"Durham Duke Invitational, Durham, NC",USA,10 APR 2015,11 APR 2015,20,383,72660,181,72680,https://worldathletics.org/records/competition-performance-rankings/ranking/563118
+185,563088,"Santiago de Chile GP Sudamericano, Santiago de Chile",CHI,09 APR 2015,09 APR 2015,185,165,72490,187,72675,https://worldathletics.org/records/competition-performance-rankings/ranking/563088
+186,564278,"Dubnica nad Váhom ECCC Group B, Dubnica nad Váhom",SVK,30 MAY 2015,30 MAY 2015,275,138,72396,190,72671,https://worldathletics.org/records/competition-performance-rankings/ranking/564278
+187,563159,"Greensboro Aggie Invitational, Greensboro, NC",USA,11 APR 2015,11 APR 2015,160,182,72510,186,72670,https://worldathletics.org/records/competition-performance-rankings/ranking/563159
+187,564410,"Huizingen Flanders Cup, Huizingen",BEL,06 JUN 2015,06 JUN 2015,75,260,72595,184,72670,https://worldathletics.org/records/competition-performance-rankings/ranking/564410
+189,563505,"Natchitoches Leon Johnson Invitational, Natchitoches, LA",USA,25 APR 2015,25 APR 2015,25,365,72576,185,72601,https://worldathletics.org/records/competition-performance-rankings/ranking/563505
+190,563685,"Bloomington Billy Hayes Invitational, Bloomington, IN",USA,02 MAY 2015,02 MAY 2015,150,189,72449,188,72599,https://worldathletics.org/records/competition-performance-rankings/ranking/563685
+191,562903,"Kingston Queens Grace Jackson Track Meet, Kingston",JAM,31 JAN 2015,31 JAN 2015,70,266,72440,189,72510,https://worldathletics.org/records/competition-performance-rankings/ranking/562903
+192,563113,"Mesa Classic, Mesa, AZ",USA,10 APR 2015,10 APR 2015,295,133,72186,195,72481,https://worldathletics.org/records/competition-performance-rankings/ranking/563113
+193,562842,"Orlando UCF Invitational, Orlando, FL",USA,27 MAR 2015,28 MAR 2015,95,237,72328,194,72423,https://worldathletics.org/records/competition-performance-rankings/ranking/562842
+194,562953,"Pretoria AGN League, Pretoria",RSA,28 FEB 2015,28 FEB 2015,65,274,72344,193,72409,https://worldathletics.org/records/competition-performance-rankings/ranking/562953
+195,565140,Tábor,CZE,28 JUL 2015,28 JUL 2015,405,106,71994,203,72399,https://worldathletics.org/records/competition-performance-rankings/ranking/565140
+196,563481,"Canyon WTAMU Open Twilight, Canyon, TX",USA,25 APR 2015,25 APR 2015,35,332,72355,192,72390,https://worldathletics.org/records/competition-performance-rankings/ranking/563481
+197,563007,"Claremont Pomona-Pitzer, Claremont, CA",USA,04 APR 2015,04 APR 2015,170,177,72155,198,72325,https://worldathletics.org/records/competition-performance-rankings/ranking/563007
+198,564187,Vénissieux,FRA,24 MAY 2015,24 MAY 2015,210,150,72068,199,72278,https://worldathletics.org/records/competition-performance-rankings/ranking/564187
+199,562802,"Los Angeles Jim Bush Collegiate Invitational, Los Angeles, CA",USA,24 MAR 2015,24 MAR 2015,20,383,72178,196,72198,https://worldathletics.org/records/competition-performance-rankings/ranking/562802
+200,563655,"Seattle UW vs WSU Dual Meet, Seattle, WA",USA,01 MAY 2015,02 MAY 2015,20,383,72162,197,72182,https://worldathletics.org/records/competition-performance-rankings/ranking/563655
+201,563239,"Louisville ACC-Big Ten Challenge, Louisville, KY",USA,11 APR 2015,11 APR 2015,20,383,72051,200,72071,https://worldathletics.org/records/competition-performance-rankings/ranking/563239
+202,562987,"Baton Rouge Battle on the Bayou, Baton Rouge, LA",USA,03 APR 2015,04 APR 2015,40,320,72019,202,72059,https://worldathletics.org/records/competition-performance-rankings/ranking/562987
+203,563001,"Sacramento Mondo Challenge, Sacramento, CA",USA,04 APR 2015,04 APR 2015,10,439,72036,201,72046,https://worldathletics.org/records/competition-performance-rankings/ranking/563001
+204,578882,"Debrecen Hungarian Super League Final, Debrecen",HUN,05 SEP 2015,06 SEP 2015,520,91,71508,214,72028,https://worldathletics.org/records/competition-performance-rankings/ranking/578882
+205,564167,"Lokeren Grote Prijs, Lokeren",BEL,25 MAY 2015,25 MAY 2015,185,165,71823,206,72008,https://worldathletics.org/records/competition-performance-rankings/ranking/564167
+206,564751,"Nottwil Bonus-Track Swiss Meeting, Nottwil",SUI,27 JUN 2015,27 JUN 2015,50,295,71920,204,71970,https://worldathletics.org/records/competition-performance-rankings/ranking/564751
+207,564141,Bondoufle,FRA,24 MAY 2015,24 MAY 2015,130,204,71830,205,71960,https://worldathletics.org/records/competition-performance-rankings/ranking/564141
+208,563838,Vénissieux,FRA,10 MAY 2015,10 MAY 2015,350,124,71592,210,71942,https://worldathletics.org/records/competition-performance-rankings/ranking/563838
+209,564461,"Tartu Gustav Sule Memorial, Tartu",EST,09 JUN 2015,09 JUN 2015,385,112,71531,212,71916,https://worldathletics.org/records/competition-performance-rankings/ranking/564461
+210,564745,"Reims Meeting National, Reims",FRA,25 JUN 2015,25 JUN 2015,20,383,71808,207,71828,https://worldathletics.org/records/competition-performance-rankings/ranking/564745
+211,563602,"Lynchburg Liberty Twilight Qualifier, Lynchburg, VA",USA,29 APR 2015,29 APR 2015,55,284,71663,208,71718,https://worldathletics.org/records/competition-performance-rankings/ranking/563602
+212,563966,"Bern Swiss Club Championships, Bern",SUI,16 MAY 2015,16 MAY 2015,265,141,71421,217,71686,https://worldathletics.org/records/competition-performance-rankings/ranking/563966
+213,563876,"Lincoln Nebraska Invitational, Lincoln, NE",USA,09 MAY 2015,09 MAY 2015,15,411,71645,209,71660,https://worldathletics.org/records/competition-performance-rankings/ranking/563876
+214,563821,"Sheffield British Athletics League, Sheffield",GBR,09 MAY 2015,09 MAY 2015,165,178,71476,216,71641,https://worldathletics.org/records/competition-performance-rankings/ranking/563821
+215,564435,"Vught Dutch Club Championships, Vught",NED,06 JUN 2015,06 JUN 2015,145,195,71485,215,71630,https://worldathletics.org/records/competition-performance-rankings/ranking/564435
+216,563948,"Corvallis OSU High Performance Meet, Corvallis, OR",USA,01 MAY 2015,01 MAY 2015,0,,71549,211,71549,https://worldathletics.org/records/competition-performance-rankings/ranking/563948
+217,563039,"Albuquerque UNM Tailwind, Albuquerque, NM",USA,04 APR 2015,04 APR 2015,20,383,71513,213,71533,https://worldathletics.org/records/competition-performance-rankings/ranking/563039
+218,563875,"Sacramento State Open, Sacramento, CA",USA,09 MAY 2015,09 MAY 2015,15,411,71420,218,71435,https://worldathletics.org/records/competition-performance-rankings/ranking/563875
+219,563974,"Swarthmore Final Qualifier, Swarthmore, PA",USA,11 MAY 2015,11 MAY 2015,0,,71414,219,71414,https://worldathletics.org/records/competition-performance-rankings/ranking/563974
+220,562015,"Montego Bay Milo Western Relays, Montego Bay",JAM,14 FEB 2015,14 FEB 2015,0,,71401,220,71401,https://worldathletics.org/records/competition-performance-rankings/ranking/562015
+221,563844,"Allendale GVSU Last Chance Meet, Allendale, MI",USA,08 MAY 2015,08 MAY 2015,145,195,71243,223,71388,https://worldathletics.org/records/competition-performance-rankings/ranking/563844
+222,564790,"Lier Memorial Jos Verstockt, Lier",BEL,28 JUN 2015,28 JUN 2015,45,305,71269,221,71314,https://worldathletics.org/records/competition-performance-rankings/ranking/564790
+223,564341,"Orvieto Memorial Luca Coscioni, Orvieto",ITA,02 JUN 2015,02 JUN 2015,45,305,71257,222,71302,https://worldathletics.org/records/competition-performance-rankings/ranking/564341
+224,563649,"Terre Haute Pacesetter Quadrangular, Terre Haute, IN",USA,02 MAY 2015,02 MAY 2015,65,274,71186,224,71251,https://worldathletics.org/records/competition-performance-rankings/ranking/563649
+225,564761,Nogent-sur-Marne,FRA,28 JUN 2015,28 JUN 2015,10,439,71186,224,71196,https://worldathletics.org/records/competition-performance-rankings/ranking/564761
+226,563976,"Georgetown Cayman Invitational, George Town",CAY,16 MAY 2015,16 MAY 2015,525,86,70636,244,71161,https://worldathletics.org/records/competition-performance-rankings/ranking/563976
+227,565354,"Cartagena GP Int. Bolivar Ganador, Cartagena de Indias",COL,16 MAY 2015,16 MAY 2015,165,178,70973,231,71138,https://worldathletics.org/records/competition-performance-rankings/ranking/565354
+228,562960,"Pretoria AGN League, Pretoria",RSA,07 MAR 2015,07 MAR 2015,85,248,71011,229,71096,https://worldathletics.org/records/competition-performance-rankings/ranking/562960
+229,562796,"Carolina Spring Classic, Carolina",PUR,21 MAR 2015,21 MAR 2015,50,295,71035,227,71085,https://worldathletics.org/records/competition-performance-rankings/ranking/562796
+230,564695,Valence,FRA,20 JUN 2015,20 JUN 2015,55,284,71029,228,71084,https://worldathletics.org/records/competition-performance-rankings/ranking/564695
+231,563119,"Palo Alto The Big Meet, Palo Alto, CA",USA,11 APR 2015,11 APR 2015,15,411,71048,226,71063,https://worldathletics.org/records/competition-performance-rankings/ranking/563119
+232,564941,"British Athletics League, Scotstoun Stadium, Glasgow",GBR,11 JUL 2015,11 JUL 2015,190,160,70858,234,71048,https://worldathletics.org/records/competition-performance-rankings/ranking/564941
+233,564375,"Halifax Aileen Meagher International Track Classic, Halifax",CAN,02 JUN 2015,02 JUN 2015,205,152,70842,236,71047,https://worldathletics.org/records/competition-performance-rankings/ranking/564375
+234,563940,"Louisville Twilight Classic, Louisville, KY",USA,08 MAY 2015,08 MAY 2015,60,281,70975,230,71035,https://worldathletics.org/records/competition-performance-rankings/ranking/563940
+235,563308,"El Paso UTEP Invitational, El Paso, TX",USA,18 APR 2015,18 APR 2015,50,295,70876,233,70926,https://worldathletics.org/records/competition-performance-rankings/ranking/563308
+236,563658,"Pavia Graziano Della Valle, Pavia",ITA,03 MAY 2015,03 MAY 2015,60,281,70844,235,70904,https://worldathletics.org/records/competition-performance-rankings/ranking/563658
+237,563932,"Rabat Meeting Elite, Rabat",MAR,09 MAY 2015,09 MAY 2015,15,411,70881,232,70896,https://worldathletics.org/records/competition-performance-rankings/ranking/563932
+238,565006,"Mataró Meeting Ciudad de Mataró, Mataró",ESP,18 JUL 2015,18 JUL 2015,145,195,70750,242,70895,https://worldathletics.org/records/competition-performance-rankings/ranking/565006
+239,564467,"Łódź Ludwik Szumlewski Memorial, Łódź",POL,07 JUN 2015,07 JUN 2015,130,204,70759,240,70889,https://worldathletics.org/records/competition-performance-rankings/ranking/564467
+240,564641,Kraków,POL,13 JUN 2015,13 JUN 2015,90,242,70768,238,70858,https://worldathletics.org/records/competition-performance-rankings/ranking/564641
+241,564405,"Ithaca Cornell Outdoor Invitational, Ithaca, NY",USA,02 MAY 2015,02 MAY 2015,35,332,70776,237,70811,https://worldathletics.org/records/competition-performance-rankings/ranking/564405
+242,563495,"Fresno Bulldog Invitational, Fresno, CA",USA,25 APR 2015,25 APR 2015,30,346,70766,239,70796,https://worldathletics.org/records/competition-performance-rankings/ranking/563495
+243,565252,"Eton UK Women's League, Eton",GBR,08 AUG 2015,08 AUG 2015,80,255,70677,243,70757,https://worldathletics.org/records/competition-performance-rankings/ranking/565252
+244,562458,"Berkeley Cal Opener, Berkeley, CA",USA,07 MAR 2015,07 MAR 2015,0,,70752,241,70752,https://worldathletics.org/records/competition-performance-rankings/ranking/562458
+245,564245,"Namur Atletissima, Namur",BEL,27 MAY 2015,27 MAY 2015,260,142,70388,246,70648,https://worldathletics.org/records/competition-performance-rankings/ranking/564245
+246,565395,"Columbus OH D1 State Meet, Columbus, OH",USA,06 JUN 2015,06 JUN 2015,0,,70455,245,70455,https://worldathletics.org/records/competition-performance-rankings/ranking/565395
+247,564669,"Osterode Volksbankmeeting, Osterode",GER,19 JUN 2015,19 JUN 2015,130,204,70318,250,70448,https://worldathletics.org/records/competition-performance-rankings/ranking/564669
+248,563809,"Lisse Ter Specke Bokaal, Lisse",NED,09 MAY 2015,09 MAY 2015,70,266,70329,249,70399,https://worldathletics.org/records/competition-performance-rankings/ranking/563809
+249,564985,"Onitsha AFN Golden League, Onitsha",NGR,11 JUN 2015,11 JUN 2015,30,346,70355,248,70385,https://worldathletics.org/records/competition-performance-rankings/ranking/564985
+250,563238,"Boulder Colorado Invitational, Boulder, CO",USA,10 APR 2015,11 APR 2015,25,365,70359,247,70384,https://worldathletics.org/records/competition-performance-rankings/ranking/563238
+251,562907,"Kingston Youngster Goldsmith, Kingston",JAM,07 FEB 2015,07 FEB 2015,105,227,70219,254,70324,https://worldathletics.org/records/competition-performance-rankings/ranking/562907
+252,563044,"Greeley Tom Benich Classic, Greeley, CO",USA,04 APR 2015,04 APR 2015,5,473,70293,251,70298,https://worldathletics.org/records/competition-performance-rankings/ranking/563044
+253,563861,"Naperville Dr. Keeler Invitational, Naperville, IL",USA,08 MAY 2015,08 MAY 2015,0,,70262,252,70262,https://worldathletics.org/records/competition-performance-rankings/ranking/563861
+254,563108,"Salt Lake City Utah Spring Classic, Salt Lake City, UT",USA,10 APR 2015,10 APR 2015,5,473,70241,253,70246,https://worldathletics.org/records/competition-performance-rankings/ranking/563108
+255,564886,"Saint-Niklaas Int. Peugeotmeeting, Sint-Niklaas",BEL,04 JUL 2015,04 JUL 2015,95,237,70072,257,70167,https://worldathletics.org/records/competition-performance-rankings/ranking/564886
+256,563334,"Los Angeles CSULA Twilight Open, Los Angeles, CA",USA,16 APR 2015,16 APR 2015,40,320,70123,255,70163,https://worldathletics.org/records/competition-performance-rankings/ranking/563334
+257,564564,Minsk,BLR,12 JUN 2015,12 JUN 2015,85,248,70065,258,70150,https://worldathletics.org/records/competition-performance-rankings/ranking/564564
+258,565088,"Hoschton USATF U19 JO Region 4 Qualifier, Hoschton, GA",USA,12 JUL 2015,12 JUL 2015,0,,70116,256,70116,https://worldathletics.org/records/competition-performance-rankings/ranking/565088
+259,563881,"Basel Hürden- und Sprintmeeting, Basel",SUI,09 MAY 2015,09 MAY 2015,30,346,70061,259,70091,https://worldathletics.org/records/competition-performance-rankings/ranking/563881
+260,564953,"Birmingham UK Women's League, Birmingham",GBR,12 JUL 2015,12 JUL 2015,55,284,70033,262,70088,https://worldathletics.org/records/competition-performance-rankings/ranking/564953
+261,564839,"Kutno Mityng o Różę Kutna, Kutno",POL,04 JUL 2015,04 JUL 2015,40,320,70034,261,70074,https://worldathletics.org/records/competition-performance-rankings/ranking/564839
+262,562674,"Tampa Bulls Invitational, Tampa, FL",USA,19 MAR 2015,20 MAR 2015,45,305,70023,263,70068,https://worldathletics.org/records/competition-performance-rankings/ranking/562674
+263,563630,"El Paso UTEP Twilight, El Paso, TX",USA,01 MAY 2015,01 MAY 2015,15,411,70045,260,70060,https://worldathletics.org/records/competition-performance-rankings/ranking/563630
+264,564392,"Praha Academica, Praha",CZE,04 JUN 2015,04 JUN 2015,125,212,69887,267,70012,https://worldathletics.org/records/competition-performance-rankings/ranking/564392
+265,561767,"Hamilton Porritt Classic, Hamilton",NZL,07 FEB 2015,07 FEB 2015,110,223,69900,266,70010,https://worldathletics.org/records/competition-performance-rankings/ranking/561767
+266,564732,"Plasenica, Plasencia",ESP,24 JUN 2015,24 JUN 2015,85,248,69905,265,69990,https://worldathletics.org/records/competition-performance-rankings/ranking/564732
+267,565186,"Linz UNION Leichtathletik Gala, Linz",AUT,01 AUG 2015,01 AUG 2015,280,137,69690,272,69970,https://worldathletics.org/records/competition-performance-rankings/ranking/565186
+268,564279,"Slovenska Bistrica Int. Meeting, Slovenska Bistrica",SLO,30 MAY 2015,30 MAY 2015,180,170,69769,270,69949,https://worldathletics.org/records/competition-performance-rankings/ranking/564279
+269,563112,"Fullerton Big West Challenge Cup, Fullerton, CA",USA,10 APR 2015,10 APR 2015,0,,69914,264,69914,https://worldathletics.org/records/competition-performance-rankings/ranking/563112
+270,564144,"Pontoise, Cergy-Pontoise",FRA,24 MAY 2015,24 MAY 2015,55,284,69857,268,69912,https://worldathletics.org/records/competition-performance-rankings/ranking/564144
+271,564501,"Veszprém Balaton Bajnokság, Veszprém",HUN,07 JUN 2015,07 JUN 2015,130,204,69772,269,69902,https://worldathletics.org/records/competition-performance-rankings/ranking/564501
+272,563859,"Madison Wisconsin Open, Madison, WI",USA,08 MAY 2015,08 MAY 2015,70,266,69756,271,69826,https://worldathletics.org/records/competition-performance-rankings/ranking/563859
+273,564276,Jena,GER,31 MAY 2015,31 MAY 2015,190,160,69634,275,69824,https://worldathletics.org/records/competition-performance-rankings/ranking/564276
+274,563835,Franconville,FRA,10 MAY 2015,10 MAY 2015,160,182,69555,280,69715,https://worldathletics.org/records/competition-performance-rankings/ranking/563835
+275,562816,"Buenos Aires Federacion Atletica Metropolitana, Buenos Aires",ARG,27 MAR 2015,27 MAR 2015,390,109,69306,293,69696,https://worldathletics.org/records/competition-performance-rankings/ranking/562816
+276,563427,"Edwardsville Gateway Invite, Edwardsville, IL",USA,18 APR 2015,18 APR 2015,35,332,69655,273,69690,https://worldathletics.org/records/competition-performance-rankings/ranking/563427
+276,564824,"Sundsvall Swedish Club Championships, Sundsvall",SWE,01 JUL 2015,01 JUL 2015,155,184,69535,283,69690,https://worldathletics.org/records/competition-performance-rankings/ranking/564824
+278,563855,"Charleston EIU Twilight, Charleston, IL",USA,08 MAY 2015,08 MAY 2015,5,473,69646,274,69651,https://worldathletics.org/records/competition-performance-rankings/ranking/563855
+279,562966,"San Angelo ASU David Noble Relays, San Angelo, TX",USA,02 APR 2015,02 APR 2015,10,439,69592,276,69602,https://worldathletics.org/records/competition-performance-rankings/ranking/562966
+280,561414,"Wellington Capital Classic, Wellington",NZL,23 JAN 2015,23 JAN 2015,30,346,69565,279,69595,https://worldathletics.org/records/competition-performance-rankings/ranking/561414
+280,562595,"Lake Charles McNeese Cowboy Relays, Lake Charles, LA",USA,14 MAR 2015,14 MAR 2015,25,365,69570,278,69595,https://worldathletics.org/records/competition-performance-rankings/ranking/562595
+282,563628,"College Park Jim Kehoe Twilight, College Park, MD",USA,01 MAY 2015,01 MAY 2015,20,383,69573,277,69593,https://worldathletics.org/records/competition-performance-rankings/ranking/563628
+283,564126,"Aarhus Nordic Challenge, Århus",DEN,23 MAY 2015,23 MAY 2015,80,255,69499,284,69579,https://worldathletics.org/records/competition-performance-rankings/ranking/564126
+284,633356,"Victoria International Track Classic, Victoria",CAN,10 JUN 2015,10 JUN 2015,275,138,69266,295,69541,https://worldathletics.org/records/competition-performance-rankings/ranking/633356
+285,565101,"Abilene USATF U19 JO Region 12 Qualifier, Abilene, TX",USA,11 JUL 2015,11 JUL 2015,0,,69540,281,69540,https://worldathletics.org/records/competition-performance-rankings/ranking/565101
+286,564163,"La Crosse UW-La Crosse Qualifier, La Crosse, WI",USA,15 MAY 2015,15 MAY 2015,0,,69538,282,69538,https://worldathletics.org/records/competition-performance-rankings/ranking/564163
+287,563158,"Pittsburg Gorilla Classic, Pittsburgh, PA",USA,11 APR 2015,11 APR 2015,0,,69489,285,69489,https://worldathletics.org/records/competition-performance-rankings/ranking/563158
+288,565440,"Cali GP Sudamericano, Cali",COL,01 AUG 2015,01 AUG 2015,105,227,69359,289,69464,https://worldathletics.org/records/competition-performance-rankings/ranking/565440
+289,564170,"Basel Susanne Meier Memorial, Basel",SUI,25 MAY 2015,25 MAY 2015,30,346,69420,286,69450,https://worldathletics.org/records/competition-performance-rankings/ranking/564170
+290,564700,Schweinfurt,GER,20 JUN 2015,20 JUN 2015,0,,69419,287,69419,https://worldathletics.org/records/competition-performance-rankings/ranking/564700
+291,564977,"Hobbs Ross Black Open, Hobbs, NM",USA,18 APR 2015,18 APR 2015,0,,69395,288,69395,https://worldathletics.org/records/competition-performance-rankings/ranking/564977
+292,564189,"München Ludwig Jall Sportfest, München",GER,23 MAY 2015,23 MAY 2015,70,266,69323,291,69393,https://worldathletics.org/records/competition-performance-rankings/ranking/564189
+293,563960,"Vught Harry Schulting Games, Vught",NED,14 MAY 2015,14 MAY 2015,40,320,69336,290,69376,https://worldathletics.org/records/competition-performance-rankings/ranking/563960
+294,564723,Maribor,SLO,24 JUN 2015,24 JUN 2015,90,242,69278,294,69368,https://worldathletics.org/records/competition-performance-rankings/ranking/564723
+295,564042,"Turnov Ludvík Daňek Memorial, Turnov",CZE,19 MAY 2015,19 MAY 2015,635,71,68717,314,69352,https://worldathletics.org/records/competition-performance-rankings/ranking/564042
+296,563629,"Davis Causeway Classic Dual, Davis, CA",USA,01 MAY 2015,01 MAY 2015,0,,69309,292,69309,https://worldathletics.org/records/competition-performance-rankings/ranking/563629
+297,564151,"Debrecen Kelet Kupa, Debrecen",HUN,24 MAY 2015,24 MAY 2015,55,284,69197,297,69252,https://worldathletics.org/records/competition-performance-rankings/ranking/564151
+298,565116,"Budapest Honvéd Kupa, Budapest",HUN,24 JUL 2015,24 JUL 2015,35,332,69200,296,69235,https://worldathletics.org/records/competition-performance-rankings/ranking/565116
+299,563863,"Seattle Ken Shannon Invitational, Seattle, WA",USA,08 MAY 2015,09 MAY 2015,40,320,69067,298,69107,https://worldathletics.org/records/competition-performance-rankings/ranking/563863
+300,564391,"Gladbeck BORSIG-Meeting, Gladbeck",GER,23 MAY 2015,23 MAY 2015,15,411,69050,301,69065,https://worldathletics.org/records/competition-performance-rankings/ranking/564391
+301,562817,"Orem UVU Collegiate Invitational, Orem, UT",USA,27 MAR 2015,27 MAR 2015,5,473,69054,300,69059,https://worldathletics.org/records/competition-performance-rankings/ranking/562817
+301,565444,"South Plainfield NJ Meet of Champions, South Plainfield, NJ",USA,03 JUN 2015,03 JUN 2015,0,,69059,299,69059,https://worldathletics.org/records/competition-performance-rankings/ranking/565444
+303,564428,"Memphis Invitational, Memphis, TN",USA,02 MAY 2015,02 MAY 2015,15,411,69036,302,69051,https://worldathletics.org/records/competition-performance-rankings/ranking/564428
+304,564834,"22. midsommar - Charlottenburger-Mittsommernacht, Mommsenstadion, Berlin",GER,03 JUL 2015,03 JUL 2015,25,365,68917,303,68942,https://worldathletics.org/records/competition-performance-rankings/ranking/564834
+305,564531,"Zagreb Croatian Club Championships, Zagreb",CRO,13 JUN 2015,13 JUN 2015,90,242,68821,307,68911,https://worldathletics.org/records/competition-performance-rankings/ranking/564531
+306,563148,"San Marcos Mangrum Invitational, San Marcos, TX",USA,11 APR 2015,11 APR 2015,0,,68882,304,68882,https://worldathletics.org/records/competition-performance-rankings/ranking/563148
+307,564833,Praha,CZE,03 JUL 2015,03 JUL 2015,50,295,68818,308,68868,https://worldathletics.org/records/competition-performance-rankings/ranking/564833
+308,564459,Rovigo,ITA,06 JUN 2015,07 JUN 2015,30,346,68830,306,68860,https://worldathletics.org/records/competition-performance-rankings/ranking/564459
+309,563143,"Walnut Mt. SAC Relays CC, Walnut, CA",USA,11 APR 2015,11 APR 2015,0,,68846,305,68846,https://worldathletics.org/records/competition-performance-rankings/ranking/563143
+310,563813,"Barcelona Spanish Club Championships, Barcelona",ESP,09 MAY 2015,09 MAY 2015,45,305,68787,311,68832,https://worldathletics.org/records/competition-performance-rankings/ranking/563813
+311,562864,"Emporia ESU Spring Open, Emporia, KS",USA,28 MAR 2015,28 MAR 2015,5,473,68812,309,68817,https://worldathletics.org/records/competition-performance-rankings/ranking/562864
+312,564169,"La Crosse Eagle Open, La Crosse, WI",USA,08 MAY 2015,08 MAY 2015,0,,68793,310,68793,https://worldathletics.org/records/competition-performance-rankings/ranking/564169
+313,563163,"Cullowhee Catamount Classic, Cullowhee, NC",USA,11 APR 2015,11 APR 2015,0,,68780,312,68780,https://worldathletics.org/records/competition-performance-rankings/ranking/563163
+314,564750,"Ingolstadt MTV Meet-IN, Ingolstadt",GER,27 JUN 2015,27 JUN 2015,25,365,68754,313,68779,https://worldathletics.org/records/competition-performance-rankings/ranking/564750
+315,564573,"Tartu Estonian Club Championships, Tartu",EST,14 JUN 2015,14 JUN 2015,80,255,68651,317,68731,https://worldathletics.org/records/competition-performance-rankings/ranking/564573
+316,562801,"Buenos Aires GP Sudamericano, Buenos Aires",ARG,25 MAR 2015,25 MAR 2015,255,144,68468,322,68723,https://worldathletics.org/records/competition-performance-rankings/ranking/562801
+317,564373,Lappeenranta,FIN,03 JUN 2015,03 JUN 2015,375,117,68339,330,68714,https://worldathletics.org/records/competition-performance-rankings/ranking/564373
+318,563441,"Elon Phoenix Invitational, Elon, NC",USA,18 APR 2015,18 APR 2015,50,295,68663,316,68713,https://worldathletics.org/records/competition-performance-rankings/ranking/563441
+319,564915,"Savona Memorial Giulio Ottolia, Savona",ITA,11 JUL 2015,11 JUL 2015,10,439,68694,315,68704,https://worldathletics.org/records/competition-performance-rankings/ranking/564915
+320,563464,Stellenbosch,RSA,20 APR 2015,20 APR 2015,150,189,68536,320,68686,https://worldathletics.org/records/competition-performance-rankings/ranking/563464
+321,565159,"Cardiff Welsh Athletics International, Cardiff",GBR,29 JUL 2015,29 JUL 2015,65,274,68574,319,68639,https://worldathletics.org/records/competition-performance-rankings/ranking/565159
+322,562710,"Sao Paulo, São Paulo",BRA,21 MAR 2015,21 MAR 2015,165,178,68460,323,68625,https://worldathletics.org/records/competition-performance-rankings/ranking/562710
+323,564724,"Conegliano Trofeo Toni Fallai, Conegliano",ITA,24 JUN 2015,24 JUN 2015,45,305,68577,318,68622,https://worldathletics.org/records/competition-performance-rankings/ranking/564724
+324,564947,Monachil,ESP,11 JUL 2015,11 JUL 2015,130,204,68457,324,68587,https://worldathletics.org/records/competition-performance-rankings/ranking/564947
+325,565349,"Delaware Midwest Meet of Champions, Delaware, OH",USA,13 JUN 2015,13 JUN 2015,0,,68507,321,68507,https://worldathletics.org/records/competition-performance-rankings/ranking/565349
+326,566467,"Melbourne Zatopek:10, Melbourne",AUS,05 DEC 2015,05 DEC 2015,45,305,68434,325,68479,https://worldathletics.org/records/competition-performance-rankings/ranking/566467
+327,563797,"Northridge CSUN Challenge, Northridge, CA",USA,02 MAY 2015,02 MAY 2015,0,,68431,326,68431,https://worldathletics.org/records/competition-performance-rankings/ranking/563797
+328,563676,"Boone App State Open, Boone, NC",USA,02 MAY 2015,02 MAY 2015,5,473,68408,327,68413,https://worldathletics.org/records/competition-performance-rankings/ranking/563676
+329,562800,"Jacksonville Bob Hayes Invitational, Jacksonville, FL",USA,21 MAR 2015,21 MAR 2015,0,,68370,328,68370,https://worldathletics.org/records/competition-performance-rankings/ranking/562800
+330,563367,"New Haven Mark Young Invitational, New Haven, CT",USA,18 APR 2015,18 APR 2015,10,439,68356,329,68366,https://worldathletics.org/records/competition-performance-rankings/ranking/563367
+331,564298,"Pézenas Meeting National, Pezenas",FRA,30 MAY 2015,30 MAY 2015,80,255,68277,332,68357,https://worldathletics.org/records/competition-performance-rankings/ranking/564298
+332,562853,"Fort Collins Fum McGraw Quadrangular, Fort Collins, CO",USA,28 MAR 2015,28 MAR 2015,15,411,68338,331,68353,https://worldathletics.org/records/competition-performance-rankings/ranking/562853
+333,562786,Potchefstroom,RSA,24 MAR 2015,24 MAR 2015,35,332,68254,333,68289,https://worldathletics.org/records/competition-performance-rankings/ranking/562786
+334,564948,Vitoria,ESP,12 JUL 2015,12 JUL 2015,35,332,68234,334,68269,https://worldathletics.org/records/competition-performance-rankings/ranking/564948
+335,563946,"Langenthal Auffahrtsmeeting, Langenthal",SUI,14 MAY 2015,14 MAY 2015,30,346,68228,335,68258,https://worldathletics.org/records/competition-performance-rankings/ranking/563946
+336,562998,"Emporia ESU Relays, Emporia, KS",USA,04 APR 2015,04 APR 2015,20,383,68173,336,68193,https://worldathletics.org/records/competition-performance-rankings/ranking/562998
+337,564792,Les Sables d'Olonne,FRA,27 JUN 2015,27 JUN 2015,20,383,68164,338,68184,https://worldathletics.org/records/competition-performance-rankings/ranking/564792
+338,562861,"Salem Willamette Invitational, Salem, OR",USA,28 MAR 2015,28 MAR 2015,0,,68169,337,68169,https://worldathletics.org/records/competition-performance-rankings/ranking/562861
+339,565297,"Andorf Int. Josko Laufmeeting, Andorf",AUT,15 AUG 2015,15 AUG 2015,100,232,68062,342,68162,https://worldathletics.org/records/competition-performance-rankings/ranking/565297
+340,565010,"Stara Zagora Int. Meeting ""Samarsko Zname"", Stara Zagora",BUL,18 JUL 2015,18 JUL 2015,205,152,67929,345,68134,https://worldathletics.org/records/competition-performance-rankings/ranking/565010
+341,566717,Jyväskylä,FIN,11 JUN 2015,11 JUN 2015,5,473,68100,339,68105,https://worldathletics.org/records/competition-performance-rankings/ranking/566717
+342,563868,"Meadville Gator Invitational, Meadville, PA",USA,08 MAY 2015,08 MAY 2015,0,,68095,340,68095,https://worldathletics.org/records/competition-performance-rankings/ranking/563868
+343,563820,"Vigo Spanish Club Championships, Vigo",ESP,09 MAY 2015,09 MAY 2015,5,473,68073,341,68078,https://worldathletics.org/records/competition-performance-rankings/ranking/563820
+344,565573,"Rockford MI LP D1 State Meet, Rockford, IL",USA,30 MAY 2015,30 MAY 2015,0,,68041,343,68041,https://worldathletics.org/records/competition-performance-rankings/ranking/565573
+345,564431,"Uppsala Folksam Challenge, Uppsala",SWE,07 JUN 2015,07 JUN 2015,110,223,67930,344,68040,https://worldathletics.org/records/competition-performance-rankings/ranking/564431
+346,565036,Minsk,BLR,10 JUL 2015,10 JUL 2015,110,223,67808,348,67918,https://worldathletics.org/records/competition-performance-rankings/ranking/565036
+347,562620,"Northridge CSUN Invitational, Northridge, CA",USA,13 MAR 2015,13 MAR 2015,5,473,67862,346,67867,https://worldathletics.org/records/competition-performance-rankings/ranking/562620
+348,563853,St-Junien,FRA,10 MAY 2015,10 MAY 2015,15,411,67843,347,67858,https://worldathletics.org/records/competition-performance-rankings/ranking/563853
+349,566299,St-Denis-Réunion,FRA,18 APR 2015,18 APR 2015,260,142,67594,356,67854,https://worldathletics.org/records/competition-performance-rankings/ranking/566299
+350,562919,"Pasadena Games, Pasadena, CA",USA,27 MAR 2015,27 MAR 2015,70,266,67746,349,67816,https://worldathletics.org/records/competition-performance-rankings/ranking/562919
+351,563011,"Oxford Miami Invitational, Oxford, OH",USA,04 APR 2015,04 APR 2015,70,266,67741,350,67811,https://worldathletics.org/records/competition-performance-rankings/ranking/563011
+352,563846,"Allendale GVSU Second Last Chance meet, Allendale, MI",USA,09 MAY 2015,09 MAY 2015,40,320,67721,351,67761,https://worldathletics.org/records/competition-performance-rankings/ranking/563846
+353,563815,"Bratislava Memorial Tomáša Babjaka, Bratislava",SVK,09 MAY 2015,09 MAY 2015,80,255,67665,354,67745,https://worldathletics.org/records/competition-performance-rankings/ranking/563815
+354,565745,"Austintown OH D1 Region 1, Austintown, OH",USA,27 MAY 2015,29 MAY 2015,0,,67696,352,67696,https://worldathletics.org/records/competition-performance-rankings/ranking/565745
+355,564458,"Edinburgh UK Women's League, Edinburgh",GBR,06 JUN 2015,06 JUN 2015,30,346,67657,355,67687,https://worldathletics.org/records/competition-performance-rankings/ranking/564458
+356,563188,"Platteville UWP Invitational, Platteville, WI",USA,10 APR 2015,11 APR 2015,0,,67677,353,67677,https://worldathletics.org/records/competition-performance-rankings/ranking/563188
+357,563808,"Spanish Club Championships, Zaragoza",ESP,09 MAY 2015,09 MAY 2015,105,227,67570,357,67675,https://worldathletics.org/records/competition-performance-rankings/ranking/563808
+358,565040,Gorizia,ITA,18 JUL 2015,18 JUL 2015,115,220,67546,359,67661,https://worldathletics.org/records/competition-performance-rankings/ranking/565040
+359,564852,"Hilversum Arena Games, Hilversum",NED,05 JUL 2015,05 JUL 2015,120,215,67476,365,67596,https://worldathletics.org/records/competition-performance-rankings/ranking/564852
+360,565408,"Hämeenlinna Tähtikisat, Hämeenlinna",FIN,29 AUG 2015,29 AUG 2015,40,320,67539,360,67579,https://worldathletics.org/records/competition-performance-rankings/ranking/565408
+361,564041,"Diekirch Pokal der Freundschaft, Diekirch",LUX,14 MAY 2015,14 MAY 2015,25,365,67539,360,67564,https://worldathletics.org/records/competition-performance-rankings/ranking/564041
+362,565308,"Longview USATF U19 JO Southwest Assn, Longview, TX",USA,20 JUN 2015,20 JUN 2015,0,,67547,358,67547,https://worldathletics.org/records/competition-performance-rankings/ranking/565308
+363,561939,"Flagstaff NAU Invitational, Flagstaff, AZ",USA,13 FEB 2015,14 FEB 2015,35,332,67501,363,67536,https://worldathletics.org/records/competition-performance-rankings/ranking/561939
+364,564154,Ljubljana,SLO,23 MAY 2015,24 MAY 2015,30,346,67487,364,67517,https://worldathletics.org/records/competition-performance-rankings/ranking/564154
+365,563317,"Rolla Dewey Allgood Invitational, Rolla, MO",USA,18 APR 2015,18 APR 2015,0,,67511,362,67511,https://worldathletics.org/records/competition-performance-rankings/ranking/563317
+366,564460,Zagreb,CRO,09 JUN 2015,09 JUN 2015,70,266,67318,369,67388,https://worldathletics.org/records/competition-performance-rankings/ranking/564460
+367,565735,"Velenje Balkanation, Velenje",SLO,26 SEP 2015,26 SEP 2015,120,215,67267,371,67387,https://worldathletics.org/records/competition-performance-rankings/ranking/565735
+368,564596,"L’Hospitalet de Llobregat Spanish Club Championships, L'Hospitalet",ESP,13 JUN 2015,13 JUN 2015,0,,67386,366,67386,https://worldathletics.org/records/competition-performance-rankings/ranking/564596
+369,565009,Orvieto,ITA,17 JUL 2015,17 JUL 2015,25,365,67359,367,67384,https://worldathletics.org/records/competition-performance-rankings/ranking/565009
+370,566651,Sydney,AUS,19 DEC 2015,19 DEC 2015,30,346,67336,368,67366,https://worldathletics.org/records/competition-performance-rankings/ranking/566651
+371,563931,"Fes Meeting Elite, Fes",MAR,02 MAY 2015,02 MAY 2015,45,305,67295,370,67340,https://worldathletics.org/records/competition-performance-rankings/ranking/563931
+372,562844,"Louisville Lenny Lyles-Clark Wood Invitational, Louisville, KY",USA,27 MAR 2015,28 MAR 2015,95,237,67185,376,67280,https://worldathletics.org/records/competition-performance-rankings/ranking/562844
+373,562843,"Shawnee OBU Invitational, Shawnee, OK",USA,27 MAR 2015,28 MAR 2015,0,,67258,372,67258,https://worldathletics.org/records/competition-performance-rankings/ranking/562843
+374,562721,"Tulsa Duels, Tulsa, OK",USA,21 MAR 2015,21 MAR 2015,0,,67243,373,67243,https://worldathletics.org/records/competition-performance-rankings/ranking/562721
+375,563190,"Lisle Benedictine Eagle Invitational, Lisle, IL",USA,11 APR 2015,11 APR 2015,15,411,67218,374,67233,https://worldathletics.org/records/competition-performance-rankings/ranking/563190
+376,562701,"Charlottesville Virginia Cup, Charlottesville, VA",USA,21 MAR 2015,21 MAR 2015,5,473,67210,375,67215,https://worldathletics.org/records/competition-performance-rankings/ranking/562701
+377,563331,"Lewisburg Bucknell Team Challenge, Lewisburg, PA",USA,18 APR 2015,18 APR 2015,0,,67160,377,67160,https://worldathletics.org/records/competition-performance-rankings/ranking/563331
+378,562590,"Riverside Big West Dual Meet, Riverside, CA",USA,14 MAR 2015,14 MAR 2015,0,,67156,378,67156,https://worldathletics.org/records/competition-performance-rankings/ranking/562590
+379,564244,"Espoo Challenge, Espoo",FIN,24 MAY 2015,24 MAY 2015,10,439,67141,379,67151,https://worldathletics.org/records/competition-performance-rankings/ranking/564244
+380,566338,"Sherbrooke Ian Hume Invitational, Sherbrooke",CAN,13 JUN 2015,14 JUN 2015,5,473,67138,380,67143,https://worldathletics.org/records/competition-performance-rankings/ranking/566338
+381,565374,"Rapperswil-Jona Oberseemeeting, Rapperswil-Jona",SUI,22 AUG 2015,22 AUG 2015,5,473,67135,381,67140,https://worldathletics.org/records/competition-performance-rankings/ranking/565374
+382,563142,"Storrs UConn Northeast Challenge, Storrs, CT",USA,11 APR 2015,11 APR 2015,5,473,67102,382,67107,https://worldathletics.org/records/competition-performance-rankings/ranking/563142
+383,565461,"Olten Swiss Club Championships, Olten",SUI,06 SEP 2015,06 SEP 2015,15,411,67059,383,67074,https://worldathletics.org/records/competition-performance-rankings/ranking/565461
+384,564516,Zoetermeer,NED,07 JUN 2015,07 JUN 2015,15,411,67039,384,67054,https://worldathletics.org/records/competition-performance-rankings/ranking/564516
+385,564444,Nitra,SVK,07 JUN 2015,07 JUN 2015,200,154,66843,389,67043,https://worldathletics.org/records/competition-performance-rankings/ranking/564444
+386,564468,"Zenica International Meeting, Zenica",BIH,03 JUN 2015,03 JUN 2015,200,154,66772,391,66972,https://worldathletics.org/records/competition-performance-rankings/ranking/564468
+387,562706,"Portland Rose City Preview, Portland, OR",USA,21 MAR 2015,21 MAR 2015,0,,66964,385,66964,https://worldathletics.org/records/competition-performance-rankings/ranking/562706
+388,563836,"Bruxelles Grand Prix Fernand Mingels, Bruxelles",BEL,03 MAY 2015,03 MAY 2015,15,411,66942,386,66957,https://worldathletics.org/records/competition-performance-rankings/ranking/563836
+389,564515,"Kingston JAAA All Comers Meet, Kingston",JAM,06 JUN 2015,06 JUN 2015,185,165,66771,392,66956,https://worldathletics.org/records/competition-performance-rankings/ranking/564515
+390,563324,"Ithaca Cornell Upstate Challenge, Ithaca, NY",USA,18 APR 2015,18 APR 2015,25,365,66868,387,66893,https://worldathletics.org/records/competition-performance-rankings/ranking/563324
+391,563395,"Slippery Rock Dave Labor Invt, Slippery Rock, PA",USA,18 APR 2015,18 APR 2015,0,,66850,388,66850,https://worldathletics.org/records/competition-performance-rankings/ranking/563395
+392,563043,"Sioux Falls Dakota Duals, Sioux Falls, SD",USA,04 APR 2015,04 APR 2015,0,,66785,390,66785,https://worldathletics.org/records/competition-performance-rankings/ranking/563043
+393,563841,"Derby UK Women's League, Derby",GBR,10 MAY 2015,10 MAY 2015,20,383,66763,394,66783,https://worldathletics.org/records/competition-performance-rankings/ranking/563841
+394,563054,"Spartanburg Terrier Relays, Spartanburg, SC",USA,04 APR 2015,04 APR 2015,0,,66769,393,66769,https://worldathletics.org/records/competition-performance-rankings/ranking/563054
+395,563817,"Kessel-Lo Belgian Club Championships, Kessel-Lo",BEL,09 MAY 2015,09 MAY 2015,40,320,66725,398,66765,https://worldathletics.org/records/competition-performance-rankings/ranking/563817
+396,562860,"Pittsburgh Wendy's/PSU Invitational, Pittsburgh, PA",USA,28 MAR 2015,28 MAR 2015,0,,66744,395,66744,https://worldathletics.org/records/competition-performance-rankings/ranking/562860
+397,565489,"San Diego CIF-SDS Finals, San Diego, CA",USA,30 MAY 2015,30 MAY 2015,0,,66739,396,66739,https://worldathletics.org/records/competition-performance-rankings/ranking/565489
+398,565046,"Grangemouth SIAB Schools' International, Grangemouth",GBR,18 JUL 2015,18 JUL 2015,0,,66735,397,66735,https://worldathletics.org/records/competition-performance-rankings/ranking/565046
+399,564136,"Spanish Club Championships, Valencia",ESP,23 MAY 2015,23 MAY 2015,120,215,66598,402,66718,https://worldathletics.org/records/competition-performance-rankings/ranking/564136
+400,564720,"Carquefou Meeting National, Carquefou",FRA,19 JUN 2015,19 JUN 2015,75,260,66611,401,66686,https://worldathletics.org/records/competition-performance-rankings/ranking/564720
+400,564935,Orimattila,FIN,12 JUL 2015,12 JUL 2015,135,202,66551,407,66686,https://worldathletics.org/records/competition-performance-rankings/ranking/564935
+402,565027,"Ávila, Avila",ESP,19 JUL 2015,19 JUL 2015,90,242,66558,406,66648,https://worldathletics.org/records/competition-performance-rankings/ranking/565027
+403,561853,"Melbourne AV Knockout, Melbourne",AUS,07 FEB 2015,07 FEB 2015,5,473,66631,399,66636,https://worldathletics.org/records/competition-performance-rankings/ranking/561853
+404,564857,Oyonnax,FRA,05 JUL 2015,05 JUL 2015,0,,66629,400,66629,https://worldathletics.org/records/competition-performance-rankings/ranking/564857
+405,563281,"Muncie Cardinal Invitational, Muncie, IN",USA,17 APR 2015,17 APR 2015,85,248,66526,408,66611,https://worldathletics.org/records/competition-performance-rankings/ranking/563281
+406,564944,Sosnowiec,POL,11 JUL 2015,11 JUL 2015,35,332,66563,405,66598,https://worldathletics.org/records/competition-performance-rankings/ranking/564944
+407,563009,"San Diego California Collegiate Invitational, San Diego, CA",USA,04 APR 2015,04 APR 2015,10,439,66579,403,66589,https://worldathletics.org/records/competition-performance-rankings/ranking/563009
+408,563581,"New Haven Yale Springtime Invitational, New Haven, CT",USA,26 APR 2015,26 APR 2015,5,473,66575,404,66580,https://worldathletics.org/records/competition-performance-rankings/ranking/563581
+409,563833,Tourcoing,FRA,10 MAY 2015,10 MAY 2015,145,195,66413,413,66558,https://worldathletics.org/records/competition-performance-rankings/ranking/563833
+410,563345,"Montevideo GP Darwin Piñeyrúa, Montevideo",URU,17 APR 2015,19 APR 2015,35,332,66510,410,66545,https://worldathletics.org/records/competition-performance-rankings/ranking/563345
+411,565098,Nové Město nad Metují,CZE,25 JUL 2015,25 JUL 2015,135,202,66405,415,66540,https://worldathletics.org/records/competition-performance-rankings/ranking/565098
+412,564006,"Rock Island Twilight Meet, Rock Island, IL",USA,15 MAY 2015,15 MAY 2015,0,,66519,409,66519,https://worldathletics.org/records/competition-performance-rankings/ranking/564006
+413,564593,"Norwalk South Coast Conference, Norwalk, CA",USA,21 APR 2015,21 APR 2015,0,,66479,411,66479,https://worldathletics.org/records/competition-performance-rankings/ranking/564593
+414,564130,"Zofingen Pfingstmeeting, Zofingen",SUI,23 MAY 2015,23 MAY 2015,45,305,66395,416,66440,https://worldathletics.org/records/competition-performance-rankings/ranking/564130
+415,562778,"Richmond VCU Ram Invite, Richmond, VA",USA,21 MAR 2015,21 MAR 2015,0,,66430,412,66430,https://worldathletics.org/records/competition-performance-rankings/ranking/562778
+416,564417,"Trnava CZE-HUN-SLO-SVK Int. U18 Match, Trnava",SVK,06 JUN 2015,06 JUN 2015,20,383,66394,417,66414,https://worldathletics.org/records/competition-performance-rankings/ranking/564417
+417,563635,"Fargo Lyle Hokanson Classic, Fargo, ND",USA,01 MAY 2015,01 MAY 2015,0,,66407,414,66407,https://worldathletics.org/records/competition-performance-rankings/ranking/563635
+418,564312,"Toronto University of Toronto Twilight, Toronto",CAN,26 MAY 2015,26 MAY 2015,15,411,66391,418,66406,https://worldathletics.org/records/competition-performance-rankings/ranking/564312
+419,563980,"Bönnigheim Sportfest, Bönnigheim",GER,14 MAY 2015,14 MAY 2015,30,346,66375,419,66405,https://worldathletics.org/records/competition-performance-rankings/ranking/563980
+420,565056,"Orlando U19 AAU National Club Championships, Orlando, FL",USA,18 JUL 2015,18 JUL 2015,5,473,66371,420,66376,https://worldathletics.org/records/competition-performance-rankings/ranking/565056
+421,565450,"Copenhagen Danish Club Championships, Copenhagen",DEN,05 SEP 2015,05 SEP 2015,190,160,66178,428,66368,https://worldathletics.org/records/competition-performance-rankings/ranking/565450
+422,565084,"Hampton USATF U19 JO Region 3 Qualifier, Hampton, VA",USA,12 JUL 2015,12 JUL 2015,0,,66334,421,66334,https://worldathletics.org/records/competition-performance-rankings/ranking/565084
+423,565403,"Cles Meeting Melinda, Cles",ITA,28 AUG 2015,28 AUG 2015,30,346,66284,424,66314,https://worldathletics.org/records/competition-performance-rankings/ranking/565403
+424,563873,"Emporia Sam Williams Qualifier, Emporia, KS",USA,09 MAY 2015,09 MAY 2015,5,473,66301,422,66306,https://worldathletics.org/records/competition-performance-rankings/ranking/563873
+425,563316,"Buies Creek Campbell Invitational, Buies Creek, NC",USA,18 APR 2015,18 APR 2015,0,,66293,423,66293,https://worldathletics.org/records/competition-performance-rankings/ranking/563316
+426,562920,"San Diego PLNU Collegiate Invitational, San Diego, CA",USA,28 MAR 2015,28 MAR 2015,115,220,66156,430,66271,https://worldathletics.org/records/competition-performance-rankings/ranking/562920
+427,562501,"Turlock Kim Duyst Invitational, Turlock, CA",USA,07 MAR 2015,07 MAR 2015,0,,66244,425,66244,https://worldathletics.org/records/competition-performance-rankings/ranking/562501
+428,565014,"Riihimäki Häme Games, Riihimäki",FIN,18 JUL 2015,18 JUL 2015,10,439,66209,426,66219,https://worldathletics.org/records/competition-performance-rankings/ranking/565014
+429,563156,"Lake Charles Springtime Classic, Lake Charles, LA",USA,11 APR 2015,11 APR 2015,75,260,66125,432,66200,https://worldathletics.org/records/competition-performance-rankings/ranking/563156
+430,562588,"Birmingham Battle of I-65, Birmingham, AL",USA,14 MAR 2015,14 MAR 2015,0,,66198,427,66198,https://worldathletics.org/records/competition-performance-rankings/ranking/562588
+431,563140,"Princeton Quad Meet, Princeton, NJ",USA,11 APR 2015,11 APR 2015,20,383,66177,429,66197,https://worldathletics.org/records/competition-performance-rankings/ranking/563140
+432,563500,"Modena Trofeo Liberazione, Modena",ITA,25 APR 2015,25 APR 2015,15,411,66129,431,66144,https://worldathletics.org/records/competition-performance-rankings/ranking/563500
+433,563578,"Miramar South Florida Multi-Cultural Games, Miramar, FL",USA,27 APR 2015,27 APR 2015,45,305,66083,434,66128,https://worldathletics.org/records/competition-performance-rankings/ranking/563578
+434,563136,"Ogden Weber State Open, Ogden, UT",USA,11 APR 2015,11 APR 2015,0,,66092,433,66092,https://worldathletics.org/records/competition-performance-rankings/ranking/563136
+435,563107,"Albuquerque UNM Quadrangular, Albuquerque, NM",USA,10 APR 2015,10 APR 2015,0,,66079,435,66079,https://worldathletics.org/records/competition-performance-rankings/ranking/563107
+436,564457,"Stoke Gifford UK Women's League, Stoke-on-Trent",GBR,07 JUN 2015,07 JUN 2015,5,473,66054,436,66059,https://worldathletics.org/records/competition-performance-rankings/ranking/564457
+437,563849,"Bozeman Tom Gagle Classic, Bozeman, MT",USA,08 MAY 2015,08 MAY 2015,0,,66015,437,66015,https://worldathletics.org/records/competition-performance-rankings/ranking/563849
+438,562863,"Carbondale Bill Cornell Spring Classic, Carbondale, IL",USA,28 MAR 2015,28 MAR 2015,20,383,65983,439,66003,https://worldathletics.org/records/competition-performance-rankings/ranking/562863
+439,562446,"Miramar Louie Bing Classic, Miramar, FL",USA,21 FEB 2015,21 FEB 2015,0,,65993,438,65993,https://worldathletics.org/records/competition-performance-rankings/ranking/562446
+440,563499,"Louisville Bellarmine Classic, Louisville, KY",USA,25 APR 2015,25 APR 2015,5,473,65954,440,65959,https://worldathletics.org/records/competition-performance-rankings/ranking/563499
+441,562746,"San Diego PLNU Collegiate Scoring Meet, San Diego, CA",USA,21 MAR 2015,21 MAR 2015,100,232,65848,445,65948,https://worldathletics.org/records/competition-performance-rankings/ranking/562746
+442,565251,"Wigan UK Women's League, Wigan",GBR,09 AUG 2015,09 AUG 2015,20,383,65919,442,65939,https://worldathletics.org/records/competition-performance-rankings/ranking/565251
+443,565005,"Lawrenceville Rider Invite, Lawrence Township, NJ",USA,11 APR 2015,11 APR 2015,0,,65927,441,65927,https://worldathletics.org/records/competition-performance-rankings/ranking/565005
+444,563969,"Zagreb Open, Zagreb",CRO,16 MAY 2015,16 MAY 2015,65,274,65855,444,65920,https://worldathletics.org/records/competition-performance-rankings/ranking/563969
+445,566559,Sydney,AUS,12 DEC 2015,12 DEC 2015,0,,65877,443,65877,https://worldathletics.org/records/competition-performance-rankings/ranking/566559
+446,563433,"Rock Hill Carolina's Cup, Rock Hill, SC",USA,22 APR 2015,22 APR 2015,10,439,65800,446,65810,https://worldathletics.org/records/competition-performance-rankings/ranking/563433
+447,562199,"Pretoria AGN League, Pretoria",RSA,13 FEB 2015,13 FEB 2015,30,346,65778,447,65808,https://worldathletics.org/records/competition-performance-rankings/ranking/562199
+448,565746,"Amherst OH D1 Region 2, Amherst, OH",USA,27 MAY 2015,30 MAY 2015,0,,65741,448,65741,https://worldathletics.org/records/competition-performance-rankings/ranking/565746
+449,564942,"Bromley British Athletics League, Bromley",GBR,11 JUL 2015,11 JUL 2015,15,411,65719,449,65734,https://worldathletics.org/records/competition-performance-rankings/ranking/564942
+450,562454,"Melbourne AV Knockout, Melbourne",AUS,07 MAR 2015,07 MAR 2015,10,439,65692,450,65702,https://worldathletics.org/records/competition-performance-rankings/ranking/562454
+451,566052,"Lexington KY 3A State Meet, Lexington, KY",USA,23 MAY 2015,23 MAY 2015,0,,65686,451,65686,https://worldathletics.org/records/competition-performance-rankings/ranking/566052
+452,565013,Nerja,ESP,18 JUL 2015,18 JUL 2015,0,,65680,452,65680,https://worldathletics.org/records/competition-performance-rankings/ranking/565013
+453,563985,"Regensburg Rolf Watter Sportfest, Regensburg",GER,16 MAY 2015,16 MAY 2015,0,,65608,453,65608,https://worldathletics.org/records/competition-performance-rankings/ranking/563985
+454,563149,"Cambridge Harvard vs Yale, Cambridge, MA",USA,11 APR 2015,11 APR 2015,20,383,65472,454,65492,https://worldathletics.org/records/competition-performance-rankings/ranking/563149
+455,563153,"Hillsdale Invitational, Hillsdale, MI",USA,11 APR 2015,11 APR 2015,0,,65463,455,65463,https://worldathletics.org/records/competition-performance-rankings/ranking/563153
+456,563144,"Stephenville Joe Gillespie Tri Meet, Stephenville, TX",USA,11 APR 2015,11 APR 2015,0,,65432,456,65432,https://worldathletics.org/records/competition-performance-rankings/ranking/563144
+457,564978,"North Canton Walsh University Invitational, North Canton, OH",USA,18 APR 2015,18 APR 2015,5,473,65411,457,65416,https://worldathletics.org/records/competition-performance-rankings/ranking/564978
+458,564394,"Kalamata Papaflessia, Kalamata",GRE,29 MAY 2015,29 MAY 2015,40,320,65362,458,65402,https://worldathletics.org/records/competition-performance-rankings/ranking/564394
+459,562858,"Buenos Aires GP Sudamericano, Buenos Aires",ARG,29 MAR 2015,29 MAR 2015,315,129,65031,477,65346,https://worldathletics.org/records/competition-performance-rankings/ranking/562858
+460,565744,"Macerata Italian Club Championships, Macerata",ITA,27 SEP 2015,27 SEP 2015,25,365,65316,459,65341,https://worldathletics.org/records/competition-performance-rankings/ranking/565744
+461,563280,"Warrensburg UCM Mule Relays, Warrensburg, MO",USA,17 APR 2015,17 APR 2015,0,,65313,460,65313,https://worldathletics.org/records/competition-performance-rankings/ranking/563280
+462,563473,"Bellingham Ralph Vernacchia Invitational, Bellingham, WA",USA,25 APR 2015,25 APR 2015,0,,65308,461,65308,https://worldathletics.org/records/competition-performance-rankings/ranking/563473
+463,562974,"Clinton Mississippi College Twilight Invitational, Clinton, MS",USA,03 APR 2015,03 APR 2015,10,439,65292,463,65302,https://worldathletics.org/records/competition-performance-rankings/ranking/562974
+464,565240,Trnava,SVK,08 AUG 2015,08 AUG 2015,50,295,65251,467,65301,https://worldathletics.org/records/competition-performance-rankings/ranking/565240
+465,565385,"Port Jefferson NY Section 11 State Qualifier, Port Jefferson, NY",USA,06 JUN 2015,06 JUN 2015,0,,65296,462,65296,https://worldathletics.org/records/competition-performance-rankings/ranking/565385
+466,566055,"Baltimore MD 4A State Meet, Baltimore, MD",USA,23 MAY 2015,23 MAY 2015,0,,65287,464,65287,https://worldathletics.org/records/competition-performance-rankings/ranking/566055
+467,563434,"Emporia ESU Mid-Week Open, Emporia, KS",USA,22 APR 2015,22 APR 2015,0,,65275,465,65275,https://worldathletics.org/records/competition-performance-rankings/ranking/563434
+468,565787,"Dayton OH D1 Region 4, Dayton, OH",USA,29 MAY 2015,29 MAY 2015,0,,65270,466,65270,https://worldathletics.org/records/competition-performance-rankings/ranking/565787
+469,562242,"Pretoria AGN League, Pretoria",RSA,07 FEB 2015,07 FEB 2015,0,,65237,468,65237,https://worldathletics.org/records/competition-performance-rankings/ranking/562242
+470,562905,Santa Cruz,JAM,31 JAN 2015,31 JAN 2015,0,,65229,469,65229,https://worldathletics.org/records/competition-performance-rankings/ranking/562905
+471,565671,"Istanbul ECCC Junior Group A, Istanbul",TUR,19 SEP 2015,19 SEP 2015,25,365,65187,470,65212,https://worldathletics.org/records/competition-performance-rankings/ranking/565671
+472,564906,"Shippensburg Paul Kaiser Classic, Shippensburg, PA",USA,25 APR 2015,25 APR 2015,0,,65182,471,65182,https://worldathletics.org/records/competition-performance-rankings/ranking/564906
+473,585198,"Bishkek Kolpakova Memorial, Bishkek",KGZ,20 JUN 2015,21 JUN 2015,5,473,65169,472,65174,https://worldathletics.org/records/competition-performance-rankings/ranking/585198
+474,564826,"Boissano Meeting Arcobaleno, Boissano",ITA,01 JUL 2015,01 JUL 2015,100,232,64999,478,65099,https://worldathletics.org/records/competition-performance-rankings/ranking/564826
+475,563489,"Amherst Pre Conference Meet, Amherst, MA",USA,25 APR 2015,25 APR 2015,0,,65098,473,65098,https://worldathletics.org/records/competition-performance-rankings/ranking/563489
+476,564492,Łomża,POL,02 JUN 2015,02 JUN 2015,45,305,65048,476,65093,https://worldathletics.org/records/competition-performance-rankings/ranking/564492
+477,564911,"Ponzano Veneto Memorial Giovanni Maria Idda, Ponzano Veneto",ITA,03 JUL 2015,03 JUL 2015,25,365,65061,475,65086,https://worldathletics.org/records/competition-performance-rankings/ranking/564911
+478,563928,"San Francisco Last Chance Meet, San Francisco, CA",USA,09 MAY 2015,09 MAY 2015,0,,65065,474,65065,https://worldathletics.org/records/competition-performance-rankings/ranking/563928
+479,563848,"University Park Jim Thorpe Open, University Park, PA",USA,08 MAY 2015,08 MAY 2015,30,346,64991,479,65021,https://worldathletics.org/records/competition-performance-rankings/ranking/563848
+480,564129,Eskilstuna,SWE,23 MAY 2015,23 MAY 2015,20,383,64978,480,64998,https://worldathletics.org/records/competition-performance-rankings/ranking/564129
+481,562162,"Claremont Pomona-Pitzer All Comers, Claremont, CA",USA,21 FEB 2015,21 FEB 2015,10,439,64972,481,64982,https://worldathletics.org/records/competition-performance-rankings/ranking/562162
+482,564020,Nembro,ITA,16 MAY 2015,16 MAY 2015,0,,64950,482,64950,https://worldathletics.org/records/competition-performance-rankings/ranking/564020
+483,563160,"Providence Brown Invitational, Providence, RI",USA,11 APR 2015,11 APR 2015,10,439,64910,483,64920,https://worldathletics.org/records/competition-performance-rankings/ranking/563160
+484,562589,"San Diego Collegiate Challenge, San Diego, CA",USA,14 MAR 2015,14 MAR 2015,0,,64889,484,64889,https://worldathletics.org/records/competition-performance-rankings/ranking/562589
+485,562978,"Sioux Falls Vance Butler Invitational, Sioux Falls, SD",USA,03 APR 2015,03 APR 2015,0,,64857,485,64857,https://worldathletics.org/records/competition-performance-rankings/ranking/562978
+486,566793,Třinec,CZE,22 AUG 2015,22 AUG 2015,10,439,64846,486,64856,https://worldathletics.org/records/competition-performance-rankings/ranking/566793
+487,563837,Haguenau,FRA,10 MAY 2015,10 MAY 2015,185,165,64657,493,64842,https://worldathletics.org/records/competition-performance-rankings/ranking/563837
+488,564594,"Burgos Spanish Club Championships, Burgos",ESP,13 JUN 2015,13 JUN 2015,5,473,64833,487,64838,https://worldathletics.org/records/competition-performance-rankings/ranking/564594
+489,564748,Saulheim,GER,27 JUN 2015,27 JUN 2015,30,346,64765,488,64795,https://worldathletics.org/records/competition-performance-rankings/ranking/564748
+490,566162,Sydney,AUS,31 OCT 2015,31 OCT 2015,0,,64765,488,64765,https://worldathletics.org/records/competition-performance-rankings/ranking/566162
+491,563852,"Seward Concordia Twilight, Seward, NE",USA,08 MAY 2015,08 MAY 2015,0,,64747,490,64747,https://worldathletics.org/records/competition-performance-rankings/ranking/563852
+492,566418,Sydney,AUS,28 NOV 2015,28 NOV 2015,20,383,64723,492,64743,https://worldathletics.org/records/competition-performance-rankings/ranking/566418
+493,564018,"Köln Christi-Himmelfahrtsportfest, Köln",GER,14 MAY 2015,14 MAY 2015,0,,64730,491,64730,https://worldathletics.org/records/competition-performance-rankings/ranking/564018
+494,563246,"Seward Concordia Invite, Seward, NE",USA,11 APR 2015,11 APR 2015,0,,64623,494,64623,https://worldathletics.org/records/competition-performance-rankings/ranking/563246
+495,564810,Radom,POL,27 JUN 2015,27 JUN 2015,75,260,64537,501,64612,https://worldathletics.org/records/competition-performance-rankings/ranking/564810
+496,564165,"Ellwangen Sparkassen-Meeting, Ellwangen",GER,23 MAY 2015,23 MAY 2015,5,473,64603,495,64608,https://worldathletics.org/records/competition-performance-rankings/ranking/564165
+497,564290,"Milano Trofeo Bracco Donna Sport, Milano",ITA,30 MAY 2015,30 MAY 2015,5,473,64583,496,64588,https://worldathletics.org/records/competition-performance-rankings/ranking/564290
+498,561596,"Brisbane South Queensland Regional Cup, Brisbane",AUS,31 JAN 2015,31 JAN 2015,0,,64568,497,64568,https://worldathletics.org/records/competition-performance-rankings/ranking/561596
+499,563347,"Hayward East Bay Legacy Invitational, Hayward, CA",USA,18 APR 2015,18 APR 2015,0,,64555,498,64555,https://worldathletics.org/records/competition-performance-rankings/ranking/563347
+500,563109,"Monmouth John Knight Twilight, Monmouth, OR",USA,10 APR 2015,10 APR 2015,0,,64539,499,64539,https://worldathletics.org/records/competition-performance-rankings/ranking/563109
+501,562959,"Savannah State Twilight, Savannah, GA",USA,01 APR 2015,01 APR 2015,0,,64538,500,64538,https://worldathletics.org/records/competition-performance-rankings/ranking/562959
+502,563944,"Südstadt Austrian Club Championships, Südstadt",AUT,14 MAY 2015,14 MAY 2015,35,332,64477,503,64512,https://worldathletics.org/records/competition-performance-rankings/ranking/563944
+503,563139,"St. Paul Hamline Invitational, St. Paul",USA,11 APR 2015,11 APR 2015,0,,64501,502,64501,https://worldathletics.org/records/competition-performance-rankings/ranking/563139
+504,565290,Brisbane,AUS,14 JUN 2015,14 JUN 2015,30,346,64436,505,64466,https://worldathletics.org/records/competition-performance-rankings/ranking/565290
+505,564096,"Portland Twilight Meet, Portland, OR",USA,17 MAY 2015,17 MAY 2015,25,365,64435,506,64460,https://worldathletics.org/records/competition-performance-rankings/ranking/564096
+506,562602,"Wilmington Seahawk Invitational, Wilmington, NC",USA,13 MAR 2015,14 MAR 2015,0,,64454,504,64454,https://worldathletics.org/records/competition-performance-rankings/ranking/562602
+507,563474,"Pullman Cougar Invitational, Pullman, WA",USA,25 APR 2015,25 APR 2015,0,,64434,507,64434,https://worldathletics.org/records/competition-performance-rankings/ranking/563474
+508,561800,"Brisbane Glynis Nunn Shield, Brisbane",AUS,07 FEB 2015,07 FEB 2015,20,383,64413,508,64433,https://worldathletics.org/records/competition-performance-rankings/ranking/561800
+509,562256,"Perth Strive Interclub, Perth",AUS,27 FEB 2015,27 FEB 2015,35,332,64396,509,64431,https://worldathletics.org/records/competition-performance-rankings/ranking/562256
+510,562856,"Wayne Wildcat Classic, Wayne, NE",USA,28 MAR 2015,28 MAR 2015,0,,64361,510,64361,https://worldathletics.org/records/competition-performance-rankings/ranking/562856
+511,564414,"Florø Norwegian Grand Prix, Florø",NOR,06 JUN 2015,06 JUN 2015,150,189,64190,518,64340,https://worldathletics.org/records/competition-performance-rankings/ranking/564414
+511,565396,"Columbus OH D3 State Meet, Columbus, OH",USA,06 JUN 2015,06 JUN 2015,0,,64340,511,64340,https://worldathletics.org/records/competition-performance-rankings/ranking/565396
+513,562597,"Irvine Anteater Four-Way Meet, Irvine, CA",USA,14 MAR 2015,14 MAR 2015,0,,64321,512,64321,https://worldathletics.org/records/competition-performance-rankings/ranking/562597
+514,563390,"Northfield Carleton Relays, Northfield, MN",USA,18 APR 2015,18 APR 2015,0,,64289,513,64289,https://worldathletics.org/records/competition-performance-rankings/ranking/563390
+515,563865,"Lakewood Last Chance Meet, Lakewood, NJ",USA,08 MAY 2015,08 MAY 2015,0,,64277,514,64277,https://worldathletics.org/records/competition-performance-rankings/ranking/563865
+516,563447,"Yankton Mount Marty Twilight Meet, Yankton, SD",USA,22 APR 2015,22 APR 2015,0,,64256,515,64256,https://worldathletics.org/records/competition-performance-rankings/ranking/563447
+517,563735,"Willisau Leichtathletikmeeting, Willisau",SUI,02 MAY 2015,02 MAY 2015,5,473,64244,516,64249,https://worldathletics.org/records/competition-performance-rankings/ranking/563735
+518,563840,Laval,FRA,10 MAY 2015,10 MAY 2015,5,473,64240,517,64245,https://worldathletics.org/records/competition-performance-rankings/ranking/563840
+519,564289,"DeKalb Huskie Classic, Dekalb, IL",USA,09 MAY 2015,09 MAY 2015,0,,64146,519,64146,https://worldathletics.org/records/competition-performance-rankings/ranking/564289
+520,562149,"Daytona Beach Embry-Riddle Last Chance, Daytona Beach, FL",USA,21 FEB 2015,21 FEB 2015,0,,64072,520,64072,https://worldathletics.org/records/competition-performance-rankings/ranking/562149
+521,566157,"Omaha NE Class A State Meet, Omaha, NE",USA,23 MAY 2015,23 MAY 2015,0,,64067,521,64067,https://worldathletics.org/records/competition-performance-rankings/ranking/566157
+522,564861,"Ljubljana Memorial Matica Šušteršiča in Patrika Cvetana, Ljubljana",SLO,06 JUL 2015,06 JUL 2015,20,383,63980,522,64000,https://worldathletics.org/records/competition-performance-rankings/ranking/564861
+523,565613,"Bergen op Zoom Dutch Club Championships, Bergen op Zoom",NED,13 SEP 2015,13 SEP 2015,0,,63973,523,63973,https://worldathletics.org/records/competition-performance-rankings/ranking/565613
+524,564464,"Southampton British Athletics League, Southampton",GBR,06 JUN 2015,06 JUN 2015,0,,63944,524,63944,https://worldathletics.org/records/competition-performance-rankings/ranking/564464
+525,563301,"Lowell George Davis Invitational, Lowell, MA",USA,18 APR 2015,18 APR 2015,0,,63905,525,63905,https://worldathletics.org/records/competition-performance-rankings/ranking/563301
+526,563006,"Kearney UNK Loper Invitational, Kearney, NE",USA,04 APR 2015,04 APR 2015,0,,63838,526,63838,https://worldathletics.org/records/competition-performance-rankings/ranking/563006
+527,563186,"Burnaby SFU Emilie Mondor, Burnaby",CAN,11 APR 2015,11 APR 2015,0,,63805,527,63805,https://worldathletics.org/records/competition-performance-rankings/ranking/563186
+528,564406,"Gresham Mt. Hood Track Festival, Gresham, OR",USA,02 MAY 2015,02 MAY 2015,0,,63801,528,63801,https://worldathletics.org/records/competition-performance-rankings/ranking/564406
+529,563426,"Port-of-Spain President's Classic, Port-of-Spain",TTO,18 APR 2015,18 APR 2015,0,,63781,529,63781,https://worldathletics.org/records/competition-performance-rankings/ranking/563426
+530,564382,"Santa Barbara Cal Poly Dual, Santa Barbara, CA",USA,02 MAY 2015,02 MAY 2015,0,,63752,530,63752,https://worldathletics.org/records/competition-performance-rankings/ranking/564382
+531,565743,"Orvieto Italian Club Championships, Orvieto",ITA,27 SEP 2015,27 SEP 2015,5,473,63727,531,63732,https://worldathletics.org/records/competition-performance-rankings/ranking/565743
+532,562833,"Fresno Sunbird Open, Fresno, CA",USA,28 MAR 2015,28 MAR 2015,10,439,63687,533,63697,https://worldathletics.org/records/competition-performance-rankings/ranking/562833
+533,562143,"Golden Joe Davis Open, Golden, CO",USA,20 FEB 2015,21 FEB 2015,0,,63692,532,63692,https://worldathletics.org/records/competition-performance-rankings/ranking/562143
+534,561864,Melbourne,AUS,31 JAN 2015,31 JAN 2015,10,439,63646,535,63656,https://worldathletics.org/records/competition-performance-rankings/ranking/561864
+534,562709,"Philadelphia College Classic, Philadelphia, PA",USA,21 MAR 2015,21 MAR 2015,5,473,63651,534,63656,https://worldathletics.org/records/competition-performance-rankings/ranking/562709
+534,564517,"Colmar Meeting National, Colmar",FRA,12 JUN 2015,12 JUN 2015,15,411,63641,536,63656,https://worldathletics.org/records/competition-performance-rankings/ranking/564517
+537,563328,"Ada Polar Bear Invitational, Ada, OH",USA,18 APR 2015,18 APR 2015,10,439,63627,537,63637,https://worldathletics.org/records/competition-performance-rankings/ranking/563328
+538,563061,"Arkansas City Tiger Invite, Arkansas City, KS",USA,04 APR 2015,04 APR 2015,0,,63611,538,63611,https://worldathletics.org/records/competition-performance-rankings/ranking/563061
+538,565786,"Pickerington OH D1 Region 3, Pickerington, OH",USA,27 MAY 2015,29 MAY 2015,0,,63611,538,63611,https://worldathletics.org/records/competition-performance-rankings/ranking/565786
+540,561356,"Cooks Classic, Whanganui",NZL,20 JAN 2015,20 JAN 2015,20,383,63558,540,63578,https://worldathletics.org/records/competition-performance-rankings/ranking/561356
+541,565741,"Rovereto Italian Club Championships, Rovereto",ITA,27 SEP 2015,27 SEP 2015,20,383,63552,542,63572,https://worldathletics.org/records/competition-performance-rankings/ranking/565741
+542,562330,"Turlock CSU Stanislaus Open, Turlock, CA",USA,28 FEB 2015,28 FEB 2015,0,,63556,541,63556,https://worldathletics.org/records/competition-performance-rankings/ranking/562330
+543,563361,"Worcester Holy Cross Invitational, Worcester, MA",USA,18 APR 2015,18 APR 2015,0,,63549,543,63549,https://worldathletics.org/records/competition-performance-rankings/ranking/563361
+544,562613,"Walnut Mt. SAC 10 Way, Walnut, CA",USA,14 MAR 2015,14 MAR 2015,10,439,63471,544,63481,https://worldathletics.org/records/competition-performance-rankings/ranking/562613
+545,564249,"Kingston JAAA All Comers Meet, Kingston",JAM,23 MAY 2015,23 MAY 2015,195,158,63266,549,63461,https://worldathletics.org/records/competition-performance-rankings/ranking/564249
+546,565614,"Alphen aan den Rijn Dutch Club Championships, Alphen aan den Rijn",NED,13 SEP 2015,13 SEP 2015,55,284,63393,546,63448,https://worldathletics.org/records/competition-performance-rankings/ranking/565614
+547,563005,"Bolivar SBU Bearcat Classic, Bolivar, MO",USA,04 APR 2015,04 APR 2015,0,,63439,545,63439,https://worldathletics.org/records/competition-performance-rankings/ranking/563005
+548,563077,"Defiance Dick Small Meet, Defiance, OH",USA,06 APR 2015,06 APR 2015,5,473,63352,547,63357,https://worldathletics.org/records/competition-performance-rankings/ranking/563077
+549,565100,"Abilene USATF U17 JO Region 12 Qualifier, Abilene, TX",USA,11 JUL 2015,11 JUL 2015,0,,63336,548,63336,https://worldathletics.org/records/competition-performance-rankings/ranking/565100
+550,563659,"Rovereto Quercia d'Oro, Rovereto",ITA,03 MAY 2015,03 MAY 2015,0,,63254,550,63254,https://worldathletics.org/records/competition-performance-rankings/ranking/563659
+551,563654,"Zagreb Memorial Goran Subotić, Zagreb",CRO,02 MAY 2015,02 MAY 2015,155,184,63077,554,63232,https://worldathletics.org/records/competition-performance-rankings/ranking/563654
+552,565574,"Zeeland MI LP D2 State Meet, Zeeland, MI",USA,30 MAY 2015,30 MAY 2015,0,,63223,551,63223,https://worldathletics.org/records/competition-performance-rankings/ranking/565574
+553,563816,"Pamplona Spanish Club Championships, Pamplona",ESP,09 MAY 2015,09 MAY 2015,150,189,63016,557,63166,https://worldathletics.org/records/competition-performance-rankings/ranking/563816
+554,563805,"Wichita Schocker Open, Wichita, KS",USA,08 MAY 2015,08 MAY 2015,10,439,63126,552,63136,https://worldathletics.org/records/competition-performance-rankings/ranking/563805
+555,563571,"Providence Brown Springtime Invitational, Providence, RI",USA,25 APR 2015,25 APR 2015,10,439,63084,553,63094,https://worldathletics.org/records/competition-performance-rankings/ranking/563571
+556,564918,"Lisle Benedictine Twilight Invitational, Lisle, IL",USA,24 APR 2015,24 APR 2015,0,,63070,555,63070,https://worldathletics.org/records/competition-performance-rankings/ranking/564918
+557,564316,"Hannover Sparkassen-Meeting, Hannover",GER,30 MAY 2015,30 MAY 2015,5,473,63059,556,63064,https://worldathletics.org/records/competition-performance-rankings/ranking/564316
+558,566730,"Bruay-la-Buissiere Meeting National de l'Artois, Bruay-la-Buissiere",FRA,01 JUL 2015,01 JUL 2015,50,295,63009,559,63059,https://worldathletics.org/records/competition-performance-rankings/ranking/566730
+559,565372,"Kauhajoki Suupohja Games, Kauhajoki",FIN,22 AUG 2015,22 AUG 2015,65,274,62980,561,63045,https://worldathletics.org/records/competition-performance-rankings/ranking/565372
+560,563482,"Missoula Dual Meet, Missoula, MT",USA,25 APR 2015,25 APR 2015,10,439,63007,560,63017,https://worldathletics.org/records/competition-performance-rankings/ranking/563482
+561,562571,"Winfield Southwestern Invitational, Winfield, KS",USA,12 MAR 2015,12 MAR 2015,0,,63013,558,63013,https://worldathletics.org/records/competition-performance-rankings/ranking/562571
+562,564286,"Bern Nationales Nachwuchsmeeting, Bern",SUI,30 MAY 2015,30 MAY 2015,0,,62964,562,62964,https://worldathletics.org/records/competition-performance-rankings/ranking/564286
+563,565632,"Novo Mesto Int. Meeting, Novo Mesto",SLO,18 SEP 2015,18 SEP 2015,95,237,62860,565,62955,https://worldathletics.org/records/competition-performance-rankings/ranking/565632
+564,561915,"Brisbane Joanna Stone Shield, Brisbane",AUS,14 FEB 2015,14 FEB 2015,0,,62919,563,62919,https://worldathletics.org/records/competition-performance-rankings/ranking/561915
+565,563393,"Danville Centre Twilight, Danville, KY",USA,17 APR 2015,17 APR 2015,0,,62898,564,62898,https://worldathletics.org/records/competition-performance-rankings/ranking/563393
+566,565280,"Espoo Tapiot Games, Espoo",FIN,10 AUG 2015,10 AUG 2015,35,332,62807,568,62842,https://worldathletics.org/records/competition-performance-rankings/ranking/565280
+567,565076,"Turku Tilastopajacup, Turku",FIN,22 JUL 2015,22 JUL 2015,0,,62831,566,62831,https://worldathletics.org/records/competition-performance-rankings/ranking/565076
+568,565798,"København Tårnby Games, København",DEN,02 MAY 2015,03 MAY 2015,10,439,62817,567,62827,https://worldathletics.org/records/competition-performance-rankings/ranking/565798
+569,565018,"Viljandi Valter Kalami Memorial, Viljandi",EST,19 JUL 2015,19 JUL 2015,370,118,62417,586,62787,https://worldathletics.org/records/competition-performance-rankings/ranking/565018
+570,566042,"Charleston IL 3A Girls State Finals, Charleston, IL",USA,23 MAY 2015,23 MAY 2015,0,,62786,569,62786,https://worldathletics.org/records/competition-performance-rankings/ranking/566042
+571,561224,Kingston,JAM,10 JAN 2015,10 JAN 2015,10,439,62736,571,62746,https://worldathletics.org/records/competition-performance-rankings/ranking/561224
+571,565393,"Sanborn NY Section 6 State Qualifier, Sanborn, NY",USA,06 JUN 2015,06 JUN 2015,0,,62746,570,62746,https://worldathletics.org/records/competition-performance-rankings/ranking/565393
+573,565720,"Newport News VA 6A South Region, Newport News, VA",USA,30 MAY 2015,30 MAY 2015,0,,62725,572,62725,https://worldathletics.org/records/competition-performance-rankings/ranking/565720
+574,563437,"East Stroudsburg ESU All American Inv., East Stroudsburg, PA",USA,18 APR 2015,18 APR 2015,5,473,62706,573,62711,https://worldathletics.org/records/competition-performance-rankings/ranking/563437
+575,563151,"Corpus Christi Islander Invitational, Corpus Christi, TX",USA,10 APR 2015,10 APR 2015,10,439,62691,576,62701,https://worldathletics.org/records/competition-performance-rankings/ranking/563151
+576,564503,"Grenoble Meeting National, Grenoble",FRA,10 JUN 2015,10 JUN 2015,55,284,62644,577,62699,https://worldathletics.org/records/competition-performance-rankings/ranking/564503
+577,566301,"Elk Grove CIF-SJS Division I Finals, Elk Grove, CA",USA,22 MAY 2015,22 MAY 2015,0,,62698,574,62698,https://worldathletics.org/records/competition-performance-rankings/ranking/566301
+578,565625,Milano,ITA,16 SEP 2015,16 SEP 2015,0,,62696,575,62696,https://worldathletics.org/records/competition-performance-rankings/ranking/565625
+579,562016,"Kingston Camperdown Classics, Kingston",JAM,14 FEB 2015,14 FEB 2015,55,284,62599,580,62654,https://worldathletics.org/records/competition-performance-rankings/ranking/562016
+580,564425,"Zalaegerszeg Zalaszám KUPA, Zalaegerszeg",HUN,06 JUN 2015,06 JUN 2015,5,473,62644,577,62649,https://worldathletics.org/records/competition-performance-rankings/ranking/564425
+581,562474,"Clinton Mississippi College Season Opener, Clinton, MS",USA,07 MAR 2015,07 MAR 2015,0,,62619,579,62619,https://worldathletics.org/records/competition-performance-rankings/ranking/562474
+582,564800,Draguignan,FRA,27 JUN 2015,27 JUN 2015,25,365,62574,582,62599,https://worldathletics.org/records/competition-performance-rankings/ranking/564800
+583,564793,"Pontoise, Cergy-Pontoise",FRA,27 JUN 2015,27 JUN 2015,0,,62585,581,62585,https://worldathletics.org/records/competition-performance-rankings/ranking/564793
+584,566239,"Egg Harbor NJ South Group 4, Egg Harbor City, NJ",USA,23 MAY 2015,23 MAY 2015,0,,62555,583,62555,https://worldathletics.org/records/competition-performance-rankings/ranking/566239
+585,563812,"Valladolid Spanish Club Championships, Valladolid",ESP,09 MAY 2015,09 MAY 2015,5,473,62529,584,62534,https://worldathletics.org/records/competition-performance-rankings/ranking/563812
+586,566343,"Sainte-Therese Corsaire Chaparal Invitation, Sainte-Therese",CAN,20 JUN 2015,20 JUN 2015,5,473,62508,585,62513,https://worldathletics.org/records/competition-performance-rankings/ranking/566343
+587,566159,Blois,FRA,25 OCT 2015,25 OCT 2015,15,411,62405,587,62420,https://worldathletics.org/records/competition-performance-rankings/ranking/566159
+588,564685,"Modena Trofeo Goldoni - Benetti, Modena",ITA,20 JUN 2015,20 JUN 2015,5,473,62388,588,62393,https://worldathletics.org/records/competition-performance-rankings/ranking/564685
+589,565284,"Langenthal Sommer-Meeting, Langenthal",SUI,12 AUG 2015,12 AUG 2015,15,411,62306,589,62321,https://worldathletics.org/records/competition-performance-rankings/ranking/565284
+590,564401,"Moorhead Masanz Classic, Moorhead, MN",USA,02 MAY 2015,02 MAY 2015,0,,62235,590,62235,https://worldathletics.org/records/competition-performance-rankings/ranking/564401
+591,565144,"Bern Abendmeeting, Bern",SUI,29 JUL 2015,29 JUL 2015,5,473,62222,591,62227,https://worldathletics.org/records/competition-performance-rankings/ranking/565144
+592,562689,"Redlands Invitational, Redlands, CA",USA,20 MAR 2015,20 MAR 2015,5,473,62203,592,62208,https://worldathletics.org/records/competition-performance-rankings/ranking/562689
+593,563247,"Cheney Pelluer Invitational, Cheney, WA",USA,11 APR 2015,11 APR 2015,0,,62194,593,62194,https://worldathletics.org/records/competition-performance-rankings/ranking/563247
+594,565232,"College Station U19 TAAF Games of Texas, College Station, TX",USA,02 AUG 2015,02 AUG 2015,0,,62192,594,62192,https://worldathletics.org/records/competition-performance-rankings/ranking/565232
+595,561913,Sydney,AUS,14 FEB 2015,14 FEB 2015,0,,62182,595,62182,https://worldathletics.org/records/competition-performance-rankings/ranking/561913
+596,563154,"Amherst UMass Invitational, Amherst, MA",USA,11 APR 2015,11 APR 2015,0,,62163,596,62163,https://worldathletics.org/records/competition-performance-rankings/ranking/563154
+597,563472,"St. Peter Drake Alternative, St. Peter",USA,25 APR 2015,25 APR 2015,0,,62121,597,62121,https://worldathletics.org/records/competition-performance-rankings/ranking/563472
+598,564855,Durango,ESP,05 JUL 2015,05 JUL 2015,40,320,62053,600,62093,https://worldathletics.org/records/competition-performance-rankings/ranking/564855
+599,562977,"Vancouver UBC Open, Vancouver",CAN,28 MAR 2015,28 MAR 2015,25,365,62060,599,62085,https://worldathletics.org/records/competition-performance-rankings/ranking/562977
+600,564673,Erding,GER,20 JUN 2015,20 JUN 2015,0,,62078,598,62078,https://worldathletics.org/records/competition-performance-rankings/ranking/564673
+601,564730,"Halluin Meeting National, Halluin",FRA,24 JUN 2015,24 JUN 2015,35,332,61979,602,62014,https://worldathletics.org/records/competition-performance-rankings/ranking/564730
+602,563818,"Mol Belgian Club Championships, Mol",BEL,09 MAY 2015,09 MAY 2015,10,439,61984,601,61994,https://worldathletics.org/records/competition-performance-rankings/ranking/563818
+603,564993,Virrat,FIN,15 JUL 2015,15 JUL 2015,15,411,61906,604,61921,https://worldathletics.org/records/competition-performance-rankings/ranking/564993
+604,562418,"Walnut Cal Poly Pomona Preview Meet, Walnut, CA",USA,28 FEB 2015,28 FEB 2015,0,,61917,603,61917,https://worldathletics.org/records/competition-performance-rankings/ranking/562418
+605,565002,"Rochester Golden Grizzly Duals, Rochester, MI",USA,11 APR 2015,11 APR 2015,0,,61868,605,61868,https://worldathletics.org/records/competition-performance-rankings/ranking/565002
+606,565742,"Genova Italian Club Championships, Genova",ITA,27 SEP 2015,27 SEP 2015,20,383,61836,606,61856,https://worldathletics.org/records/competition-performance-rankings/ranking/565742
+607,563086,"Tacoma Puget Sound Shotwell Inv., Tacoma, WA",USA,04 APR 2015,04 APR 2015,0,,61820,607,61820,https://worldathletics.org/records/competition-performance-rankings/ranking/563086
+608,580713,"Affoltern am Albis August-Meeting LVAlbis, Affoltern am Albis",SUI,01 AUG 2015,01 AUG 2015,0,,61710,608,61710,https://worldathletics.org/records/competition-performance-rankings/ranking/580713
+609,563370,"Cambridge Sean Collier Inviational, Cambridge, MA",USA,18 APR 2015,18 APR 2015,0,,61708,609,61708,https://worldathletics.org/records/competition-performance-rankings/ranking/563370
+610,563000,"Cape Girardeau Joey Haines Invite, Cape Girardeau, MO",USA,04 APR 2015,04 APR 2015,0,,61672,610,61672,https://worldathletics.org/records/competition-performance-rankings/ranking/563000
+611,562958,"Pretoria AGN League, Pretoria",RSA,14 MAR 2015,14 MAR 2015,45,305,61624,612,61669,https://worldathletics.org/records/competition-performance-rankings/ranking/562958
+612,565696,"Lexington OH D2 Region 6, Lexington, KY",USA,30 MAY 2015,30 MAY 2015,0,,61647,611,61647,https://worldathletics.org/records/competition-performance-rankings/ranking/565696
+613,562986,"Kalamazoo Bronco Classic, Kalamazoo, MI",USA,03 APR 2015,03 APR 2015,0,,61594,613,61594,https://worldathletics.org/records/competition-performance-rankings/ranking/562986
+614,562854,"Rome Shorter Invitational, Rome, GA",USA,28 MAR 2015,28 MAR 2015,5,473,61564,614,61569,https://worldathletics.org/records/competition-performance-rankings/ranking/562854
+615,563372,"Terre Haute Rose-Hulman Twilight Meet, Terre Haute, IN",USA,17 APR 2015,17 APR 2015,0,,61550,615,61550,https://worldathletics.org/records/competition-performance-rankings/ranking/563372
+616,563626,"Garbsen Bahneröffnung, Garbsen",GER,01 MAY 2015,01 MAY 2015,15,411,61468,616,61483,https://worldathletics.org/records/competition-performance-rankings/ranking/563626
+617,565348,Rio de Janeiro,BRA,23 MAY 2015,23 MAY 2015,90,242,61373,620,61463,https://worldathletics.org/records/competition-performance-rankings/ranking/565348
+618,562788,"Williamsburg Tribe Invitational, Williamsburg, VA",USA,21 MAR 2015,21 MAR 2015,0,,61428,617,61428,https://worldathletics.org/records/competition-performance-rankings/ranking/562788
+619,566392,"Surrey Ocean Athletics ReMax Twilight Series, Surrey",CAN,30 MAY 2015,30 MAY 2015,0,,61423,618,61423,https://worldathletics.org/records/competition-performance-rankings/ranking/566392
+620,566248,Sydney,AUS,07 NOV 2015,07 NOV 2015,0,,61406,619,61406,https://worldathletics.org/records/competition-performance-rankings/ranking/566248
+621,563814,"Andújar Spanish Club Championships, Andújar",ESP,09 MAY 2015,09 MAY 2015,35,332,61352,621,61387,https://worldathletics.org/records/competition-performance-rankings/ranking/563814
+622,564310,"Cape Town ASA Invitational Meeting, Cape Town",RSA,23 MAY 2015,23 MAY 2015,95,237,61284,623,61379,https://worldathletics.org/records/competition-performance-rankings/ranking/564310
+623,564922,"Bulle Meeting de la Gruyère, Bulle",SUI,11 JUL 2015,11 JUL 2015,0,,61325,622,61325,https://worldathletics.org/records/competition-performance-rankings/ranking/564922
+624,563391,"Ellensburg Spike Arlt Invitational, Ellensburg, WA",USA,18 APR 2015,18 APR 2015,0,,61226,624,61226,https://worldathletics.org/records/competition-performance-rankings/ranking/563391
+625,564174,"Calgary New Balance Athletic Series, Calgary",CAN,24 MAY 2015,24 MAY 2015,10,439,61207,626,61217,https://worldathletics.org/records/competition-performance-rankings/ranking/564174
+626,564158,Desenzano del Garda,ITA,23 MAY 2015,23 MAY 2015,0,,61213,625,61213,https://worldathletics.org/records/competition-performance-rankings/ranking/564158
+627,563364,"Harrisonburg James Madison University Quad, Harrisonburg, VA",USA,18 APR 2015,18 APR 2015,0,,61202,627,61202,https://worldathletics.org/records/competition-performance-rankings/ranking/563364
+628,563134,"Newark Delaware Open, Newark, DE",USA,11 APR 2015,11 APR 2015,0,,61144,628,61144,https://worldathletics.org/records/competition-performance-rankings/ranking/563134
+628,563618,"Burnaby Achilles Cup, Burnaby",CAN,27 APR 2015,27 APR 2015,0,,61144,628,61144,https://worldathletics.org/records/competition-performance-rankings/ranking/563618
+630,566400,"Houston Rice Summer All Comers Meet, Houston, TX",USA,28 MAY 2015,28 MAY 2015,140,199,60980,638,61120,https://worldathletics.org/records/competition-performance-rankings/ranking/566400
+631,564038,"Guelph Speed River Twilight, Guelph",CAN,06 MAY 2015,06 MAY 2015,5,473,61100,630,61105,https://worldathletics.org/records/competition-performance-rankings/ranking/564038
+632,566319,"Perth Strive Interclub, Perth",AUS,13 NOV 2015,13 NOV 2015,0,,61089,631,61089,https://worldathletics.org/records/competition-performance-rankings/ranking/566319
+633,563748,"Tiszaújváros World Athletics Day, Tiszaújváros",HUN,02 MAY 2015,02 MAY 2015,5,473,61081,632,61086,https://worldathletics.org/records/competition-performance-rankings/ranking/563748
+634,563555,Padova,ITA,25 APR 2015,25 APR 2015,0,,61079,633,61079,https://worldathletics.org/records/competition-performance-rankings/ranking/563555
+635,563013,"McMinnville Jenn Boyman Memorial, Mcminnville, OR",USA,04 APR 2015,04 APR 2015,0,,61064,634,61064,https://worldathletics.org/records/competition-performance-rankings/ranking/563013
+636,563162,"Rapid City Bauer Open, Rapid City, SD",USA,11 APR 2015,11 APR 2015,0,,61056,635,61056,https://worldathletics.org/records/competition-performance-rankings/ranking/563162
+637,562484,"Riverside Quad, Riverside, CA",USA,07 MAR 2015,07 MAR 2015,0,,61042,636,61042,https://worldathletics.org/records/competition-performance-rankings/ranking/562484
+638,565435,"Johnstown NY Section 2 State Qualifier, Johnstown, NY",USA,05 JUN 2015,05 JUN 2015,0,,60996,637,60996,https://worldathletics.org/records/competition-performance-rankings/ranking/565435
+639,564254,"Whitewater Drake Alternative, Whitewater, WI",USA,26 APR 2015,26 APR 2015,0,,60970,639,60970,https://worldathletics.org/records/competition-performance-rankings/ranking/564254
+640,566652,"Perth Strive Interclub, Perth",AUS,17 DEC 2015,17 DEC 2015,20,383,60925,642,60945,https://worldathletics.org/records/competition-performance-rankings/ranking/566652
+641,566238,"Bayville NJ South Group 3, Bayville, NJ",USA,23 MAY 2015,23 MAY 2015,0,,60942,640,60942,https://worldathletics.org/records/competition-performance-rankings/ranking/566238
+642,562724,"California Early Bird Meet, California, PA",USA,21 MAR 2015,21 MAR 2015,0,,60938,641,60938,https://worldathletics.org/records/competition-performance-rankings/ranking/562724
+643,562510,"Sacramento Beaver Relays, Sacramento, CA",USA,07 MAR 2015,07 MAR 2015,0,,60924,643,60924,https://worldathletics.org/records/competition-performance-rankings/ranking/562510
+644,562983,"Whitewater Rex Foster Invitational, Whitewater, WI",USA,03 APR 2015,03 APR 2015,0,,60901,644,60901,https://worldathletics.org/records/competition-performance-rankings/ranking/562983
+645,564932,"Guelph Speed River Twilight, Guelph",CAN,10 JUL 2015,10 JUL 2015,0,,60799,645,60799,https://worldathletics.org/records/competition-performance-rankings/ranking/564932
+646,565672,"Leiria ECCC Junior Group B, Leiria",POR,19 SEP 2015,19 SEP 2015,5,473,60709,646,60714,https://worldathletics.org/records/competition-performance-rankings/ranking/565672
+647,566357,"Perth Strive Interclub, Perth",AUS,20 NOV 2015,20 NOV 2015,5,473,60698,647,60703,https://worldathletics.org/records/competition-performance-rankings/ranking/566357
+648,565621,Neuwied,GER,06 JUN 2015,06 JUN 2015,0,,60673,648,60673,https://worldathletics.org/records/competition-performance-rankings/ranking/565621
+649,562703,"Orlando Black and Gold Challenge, Orlando, FL",USA,21 MAR 2015,21 MAR 2015,15,411,60634,649,60649,https://worldathletics.org/records/competition-performance-rankings/ranking/562703
+650,564907,"Bethlehem Lehigh Games, Bethlehem, PA",USA,25 APR 2015,25 APR 2015,5,473,60613,650,60618,https://worldathletics.org/records/competition-performance-rankings/ranking/564907
+651,563062,"Greencastle DePauw Invitational, Greencastle, IN",USA,04 APR 2015,04 APR 2015,0,,60594,651,60594,https://worldathletics.org/records/competition-performance-rankings/ranking/563062
+652,565266,"Gold Coast Winter Meet, Gold Coast",AUS,28 JUN 2015,28 JUN 2015,85,248,60457,657,60542,https://worldathletics.org/records/competition-performance-rankings/ranking/565266
+653,562904,"College Park Maryland Invitational, College Park, MD",USA,28 MAR 2015,28 MAR 2015,0,,60530,652,60530,https://worldathletics.org/records/competition-performance-rankings/ranking/562904
+654,563068,"Spokane Sam Adams Classic, Spokane, WA",USA,04 APR 2015,04 APR 2015,0,,60504,653,60504,https://worldathletics.org/records/competition-performance-rankings/ranking/563068
+655,563929,"Oneonta May Meet, Oneonta, NY",USA,09 MAY 2015,09 MAY 2015,0,,60489,654,60489,https://worldathletics.org/records/competition-performance-rankings/ranking/563929
+656,566206,"Schaan IBL-Länderkampf, Schaan",LIE,09 MAY 2015,09 MAY 2015,0,,60483,655,60483,https://worldathletics.org/records/competition-performance-rankings/ranking/566206
+657,563394,"River Forest Cougar Invitational, River Forest, IL",USA,18 APR 2015,18 APR 2015,0,,60471,656,60471,https://worldathletics.org/records/competition-performance-rankings/ranking/563394
+658,566073,"Bismarck ND Class A State Meet, Bismarck, ND",USA,23 MAY 2015,23 MAY 2015,0,,60410,658,60410,https://worldathletics.org/records/competition-performance-rankings/ranking/566073
+659,563507,Chiari,ITA,25 APR 2015,25 APR 2015,0,,60318,659,60318,https://worldathletics.org/records/competition-performance-rankings/ranking/563507
+660,561399,"Perth Strive Interclub, Perth",AUS,22 JAN 2015,22 JAN 2015,45,305,60272,662,60317,https://worldathletics.org/records/competition-performance-rankings/ranking/561399
+661,564295,Savona,ITA,30 MAY 2015,30 MAY 2015,75,260,60229,663,60304,https://worldathletics.org/records/competition-performance-rankings/ranking/564295
+662,566054,"Baltimore MD 3A State Meet, Baltimore, MD",USA,23 MAY 2015,23 MAY 2015,0,,60297,660,60297,https://worldathletics.org/records/competition-performance-rankings/ranking/566054
+663,566067,"Blue Springs MO Class 5 Sectional 3, Blue Springs, MO",USA,23 MAY 2015,23 MAY 2015,0,,60280,661,60280,https://worldathletics.org/records/competition-performance-rankings/ranking/566067
+664,563930,"Baltimore Coppin State Invitational, Baltimore, MD",USA,08 MAY 2015,08 MAY 2015,10,439,60196,664,60206,https://worldathletics.org/records/competition-performance-rankings/ranking/563930
+665,564690,Borna,GER,21 JUN 2015,21 JUN 2015,0,,60162,665,60162,https://worldathletics.org/records/competition-performance-rankings/ranking/564690
+666,562902,"Easton Lafayette 7-Way Invitational, Easton, PA",USA,28 MAR 2015,28 MAR 2015,0,,60032,666,60032,https://worldathletics.org/records/competition-performance-rankings/ranking/562902
+667,566191,"Hillsborough NJ Central Group 4, Hillsborough, NJ",USA,23 MAY 2015,23 MAY 2015,0,,60022,667,60022,https://worldathletics.org/records/competition-performance-rankings/ranking/566191
+668,565388,"Waterloo NY Section 5 State Qualifier, Waterloo, NY",USA,06 JUN 2015,06 JUN 2015,0,,60019,668,60019,https://worldathletics.org/records/competition-performance-rankings/ranking/565388
+669,564471,"Calgary New Balance Athletics Series, Calgary",CAN,07 JUN 2015,07 JUN 2015,20,383,59967,669,59987,https://worldathletics.org/records/competition-performance-rankings/ranking/564471
+670,564577,Jelgava,LAT,10 JUN 2015,10 JUN 2015,0,,59929,670,59929,https://worldathletics.org/records/competition-performance-rankings/ranking/564577
+671,565402,"Harrisonburg VA 4A State Meet, Harrisonburg, VA",USA,06 JUN 2015,06 JUN 2015,0,,59905,671,59905,https://worldathletics.org/records/competition-performance-rankings/ranking/565402
+672,564889,"Winona St. Mary's Open, Winona, MN",USA,25 APR 2015,25 APR 2015,0,,59886,672,59886,https://worldathletics.org/records/competition-performance-rankings/ranking/564889
+673,566686,Valmiera,LAT,11 JUN 2015,12 JUN 2015,10,439,59865,673,59875,https://worldathletics.org/records/competition-performance-rankings/ranking/566686
+674,564031,"Esbjerg Danish Club Championships, Esbjerg",DEN,17 MAY 2015,17 MAY 2015,15,411,59843,675,59858,https://worldathletics.org/records/competition-performance-rankings/ranking/564031
+675,566469,Sydney,AUS,05 DEC 2015,05 DEC 2015,0,,59848,674,59848,https://worldathletics.org/records/competition-performance-rankings/ranking/566469
+676,562160,"Santa Barbara & Westmont College, Santa Barbara, CA",USA,21 FEB 2015,21 FEB 2015,0,,59817,676,59817,https://worldathletics.org/records/competition-performance-rankings/ranking/562160
+677,565734,"Ljubljana Slovenian Junior Club Championships, Ljubljana",SLO,05 SEP 2015,05 SEP 2015,10,439,59784,678,59794,https://worldathletics.org/records/competition-performance-rankings/ranking/565734
+678,564381,"Mondovi Meeting di Primavera, Mondovi",ITA,02 JUN 2015,02 JUN 2015,0,,59792,677,59792,https://worldathletics.org/records/competition-performance-rankings/ranking/564381
+679,564703,"Romans Meeting National, Romans",FRA,23 JUN 2015,23 JUN 2015,40,320,59683,679,59723,https://worldathletics.org/records/competition-performance-rankings/ranking/564703
+680,564967,"Upland Taylor Invitational, Upland, IN",USA,18 APR 2015,18 APR 2015,0,,59645,680,59645,https://worldathletics.org/records/competition-performance-rankings/ranking/564967
+681,562719,"Hickory Lenoir-Rhyne PowerSox Invitational, Hickory, NC",USA,21 MAR 2015,21 MAR 2015,0,,59592,681,59592,https://worldathletics.org/records/competition-performance-rankings/ranking/562719
+682,563636,"Bar International Meeting, Bar",MNE,01 MAY 2015,01 MAY 2015,125,212,59441,685,59566,https://worldathletics.org/records/competition-performance-rankings/ranking/563636
+683,562985,"Amherst UMass Women's Minuteman Track Meet, Amherst, MA",USA,03 APR 2015,03 APR 2015,0,,59503,682,59503,https://worldathletics.org/records/competition-performance-rankings/ranking/562985
+684,563189,"Durham UNH Wildcat Invitational, Durham, NH",USA,11 APR 2015,11 APR 2015,0,,59502,683,59502,https://worldathletics.org/records/competition-performance-rankings/ranking/563189
+685,565825,"Brisbane School Holiday All Comers Meet, Brisbane",AUS,02 OCT 2015,02 OCT 2015,0,,59471,684,59471,https://worldathletics.org/records/competition-performance-rankings/ranking/565825
+686,563625,"Herentals Prijzenmeeting, Herentals",BEL,01 MAY 2015,01 MAY 2015,15,411,59428,686,59443,https://worldathletics.org/records/competition-performance-rankings/ranking/563625
+687,565369,Herzogenaurach,GER,09 MAY 2015,09 MAY 2015,5,473,59381,687,59386,https://worldathletics.org/records/competition-performance-rankings/ranking/565369
+688,562167,"Kingston Isaac Henry Invitational, Kingston",JAM,21 FEB 2015,21 FEB 2015,20,383,59362,688,59382,https://worldathletics.org/records/competition-performance-rankings/ranking/562167
+689,564725,"Thun Abendmeeting, Thun",SUI,24 JUN 2015,24 JUN 2015,20,383,59282,689,59302,https://worldathletics.org/records/competition-performance-rankings/ranking/564725
+690,564105,"Sofia New Stars Meeting, Sofia",BUL,20 MAY 2015,20 MAY 2015,70,266,59218,692,59288,https://worldathletics.org/records/competition-performance-rankings/ranking/564105
+691,564831,Bron,FRA,02 JUL 2015,02 JUL 2015,65,274,59202,694,59267,https://worldathletics.org/records/competition-performance-rankings/ranking/564831
+692,564039,"Beograd Memorial Aleksandar Marinkovic, Beograd",SRB,16 MAY 2015,16 MAY 2015,0,,59254,690,59254,https://worldathletics.org/records/competition-performance-rankings/ranking/564039
+693,563483,"Pitesti ROU-UKR-CYP-ISR U20 Match, Pitesti",ROU,25 APR 2015,25 APR 2015,0,,59241,691,59241,https://worldathletics.org/records/competition-performance-rankings/ranking/563483
+694,563851,"Colorado Springs Twilight Open, Colorado Springs, CO",USA,08 MAY 2015,08 MAY 2015,5,473,59216,693,59221,https://worldathletics.org/records/competition-performance-rankings/ranking/563851
+695,566690,Liepaja,LAT,09 MAY 2015,10 MAY 2015,15,411,59142,695,59157,https://worldathletics.org/records/competition-performance-rankings/ranking/566690
+696,563346,"Wheaton Don Church Twilight, Wheaton, IL",USA,18 APR 2015,18 APR 2015,15,411,59096,698,59111,https://worldathletics.org/records/competition-performance-rankings/ranking/563346
+697,562790,"Kingsville Cactus Cup, Kingsville, TX",USA,21 MAR 2015,21 MAR 2015,0,,59107,696,59107,https://worldathletics.org/records/competition-performance-rankings/ranking/562790
+698,563396,"St. Paul Holst Invitational, St. Paul",USA,18 APR 2015,18 APR 2015,0,,59099,697,59099,https://worldathletics.org/records/competition-performance-rankings/ranking/563396
+699,563366,"Gambier Kenyon Spring Invitational, Gambier, OH",USA,18 APR 2015,18 APR 2015,0,,59052,699,59052,https://worldathletics.org/records/competition-performance-rankings/ranking/563366
+700,566410,"Perth Strive Interclub, Perth",AUS,27 NOV 2015,27 NOV 2015,0,,59026,700,59026,https://worldathletics.org/records/competition-performance-rankings/ranking/566410
+701,566311,"Ottawa Summer Twilight, Ottawa",CAN,29 JUL 2015,29 JUL 2015,0,,59020,701,59020,https://worldathletics.org/records/competition-performance-rankings/ranking/566311
+702,565397,"Providence RI State Meet HS, Providence, RI",USA,06 JUN 2015,06 JUN 2015,0,,58960,702,58960,https://worldathletics.org/records/competition-performance-rankings/ranking/565397
+703,564033,"Dublin AAI Open Games, Dublin",IRL,17 MAY 2015,17 MAY 2015,0,,58850,703,58850,https://worldathletics.org/records/competition-performance-rankings/ranking/564033
+704,562683,Adelaide,AUS,07 FEB 2015,07 FEB 2015,0,,58837,704,58837,https://worldathletics.org/records/competition-performance-rankings/ranking/562683
+705,563450,"San Diego Arnie Robinson Invitational, San Diego, CA",USA,04 APR 2015,04 APR 2015,25,365,58796,705,58821,https://worldathletics.org/records/competition-performance-rankings/ranking/563450
+706,561107,"Perth Strive Interclub, Perth",AUS,09 JAN 2015,09 JAN 2015,15,411,58751,708,58766,https://worldathletics.org/records/competition-performance-rankings/ranking/561107
+707,565360,Rio de Janeiro,BRA,11 APR 2015,11 APR 2015,10,439,58754,706,58764,https://worldathletics.org/records/competition-performance-rankings/ranking/565360
+708,570435,Mörfelden,GER,14 MAY 2015,14 MAY 2015,0,,58754,706,58754,https://worldathletics.org/records/competition-performance-rankings/ranking/570435
+709,566057,"Perth Strive Interclub, Perth",AUS,23 OCT 2015,23 OCT 2015,0,,58723,709,58723,https://worldathletics.org/records/competition-performance-rankings/ranking/566057
+710,564283,"Braine-l'Alleud Memorial Gaston Reiff, Braine-l'Alleud",BEL,31 MAY 2015,31 MAY 2015,5,473,58646,710,58651,https://worldathletics.org/records/competition-performance-rankings/ranking/564283
+711,563165,"Little Rock UALR Open, Little Rock, AR",USA,11 APR 2015,11 APR 2015,0,,58584,711,58584,https://worldathletics.org/records/competition-performance-rankings/ranking/563165
+712,564788,Eindhoven,NED,27 JUN 2015,27 JUN 2015,50,295,58468,713,58518,https://worldathletics.org/records/competition-performance-rankings/ranking/564788
+713,562091,"Akron Zips Invitational, Akron, OH",USA,20 FEB 2015,20 FEB 2015,30,346,58481,712,58511,https://worldathletics.org/records/competition-performance-rankings/ranking/562091
+714,565620,Rovereto,ITA,26 JUN 2015,26 JUN 2015,30,346,58428,714,58458,https://worldathletics.org/records/competition-performance-rankings/ranking/565620
+715,564262,"Kingston JAAA All Comers Meet, Kingston",JAM,16 MAY 2015,16 MAY 2015,5,473,58428,714,58433,https://worldathletics.org/records/competition-performance-rankings/ranking/564262
+716,563494,"Winfield Southwestern Relays, Winfield, KS",USA,25 APR 2015,25 APR 2015,0,,58403,716,58403,https://worldathletics.org/records/competition-performance-rankings/ranking/563494
+717,565087,"Hoschton USATF U17 JO Region 4 Qualifier, Hoschton, GA",USA,12 JUL 2015,12 JUL 2015,0,,58399,717,58399,https://worldathletics.org/records/competition-performance-rankings/ranking/565087
+718,565254,"Oslo Boysen Memorial, Oslo",NOR,08 AUG 2015,08 AUG 2015,50,295,58315,718,58365,https://worldathletics.org/records/competition-performance-rankings/ranking/565254
+719,565050,"Orlando U17 AAU National Club Championships, Orlando, FL",USA,18 JUL 2015,18 JUL 2015,0,,58120,719,58120,https://worldathletics.org/records/competition-performance-rankings/ranking/565050
+720,564032,"Stuttgart Team-DM, Stuttgart",GER,17 MAY 2015,17 MAY 2015,45,305,58056,720,58101,https://worldathletics.org/records/competition-performance-rankings/ranking/564032
+721,564297,Castiglione della Pescaia,ITA,01 JUN 2015,01 JUN 2015,55,284,58003,722,58058,https://worldathletics.org/records/competition-performance-rankings/ranking/564297
+722,562803,"Fresno State Twilight, Fresno, CA",USA,24 MAR 2015,24 MAR 2015,0,,58054,721,58054,https://worldathletics.org/records/competition-performance-rankings/ranking/562803
+723,566058,Sydney,AUS,24 OCT 2015,24 OCT 2015,0,,57950,723,57950,https://worldathletics.org/records/competition-performance-rankings/ranking/566058
+724,563924,Domžale,SLO,10 MAY 2015,10 MAY 2015,0,,57934,724,57934,https://worldathletics.org/records/competition-performance-rankings/ranking/563924
+725,563051,"Durham UNH Outdoor Season Opener, Durham, NH",USA,04 APR 2015,04 APR 2015,0,,57930,725,57930,https://worldathletics.org/records/competition-performance-rankings/ranking/563051
+726,563502,"Roma Trofeo della Liberazione, Roma",ITA,25 APR 2015,25 APR 2015,0,,57906,726,57906,https://worldathletics.org/records/competition-performance-rankings/ranking/563502
+727,563080,"Millersville Metrics, Millersville, PA",USA,04 APR 2015,04 APR 2015,0,,57889,727,57889,https://worldathletics.org/records/competition-performance-rankings/ranking/563080
+728,565310,Dachau,GER,15 AUG 2015,15 AUG 2015,0,,57887,728,57887,https://worldathletics.org/records/competition-performance-rankings/ranking/565310
+729,564598,"Hodonín Czech Club Championships, Hodonín",CZE,13 JUN 2015,13 JUN 2015,5,473,57847,729,57852,https://worldathletics.org/records/competition-performance-rankings/ranking/564598
+730,564534,Lillebonne,FRA,13 JUN 2015,13 JUN 2015,15,411,57810,730,57825,https://worldathletics.org/records/competition-performance-rankings/ranking/564534
+731,564030,Lisboa,POR,16 MAY 2015,16 MAY 2015,40,320,57760,732,57800,https://worldathletics.org/records/competition-performance-rankings/ranking/564030
+732,564929,"Easton Skyhawk Invite, Easton, MA",USA,24 APR 2015,24 APR 2015,0,,57779,731,57779,https://worldathletics.org/records/competition-performance-rankings/ranking/564929
+733,564128,Pitesti,ROU,23 MAY 2015,23 MAY 2015,0,,57752,733,57752,https://worldathletics.org/records/competition-performance-rankings/ranking/564128
+734,566160,"Montelimar, Montélimar",FRA,25 OCT 2015,25 OCT 2015,10,439,57713,734,57723,https://worldathletics.org/records/competition-performance-rankings/ranking/566160
+735,561413,"Brisbane Garry Brown Shield, Brisbane",AUS,24 JAN 2015,24 JAN 2015,20,383,57656,736,57676,https://worldathletics.org/records/competition-performance-rankings/ranking/561413
+736,563368,"Portland Lewis & Clark Invitational, Portland, OR",USA,18 APR 2015,18 APR 2015,0,,57668,735,57668,https://worldathletics.org/records/competition-performance-rankings/ranking/563368
+737,562411,"Maringá Torneio FAP, Maringa",BRA,28 FEB 2015,28 FEB 2015,10,439,57618,737,57628,https://worldathletics.org/records/competition-performance-rankings/ranking/562411

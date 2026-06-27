@@ -1,0 +1,723 @@
+place,competitionId,competition,country,startDate,endDate,partScore,participationScorePlace,resultScore,resultScorePlace,competitionScore,competitionUrl
+1,551279,"Eugene Prefontaine Classic, Hayward Field, Eugene, OR",USA,31 MAY 2013,01 JUN 2013,8370,2,86664,1,95034,https://worldathletics.org/records/competition-performance-rankings/ranking/551279
+2,552260,"Weltklasse Zürich, Letzigrund, Zürich",SUI,28 AUG 2013,29 AUG 2013,8400,1,86277,4,94677,https://worldathletics.org/records/competition-performance-rankings/ranking/552260
+3,552375,"Bruxelles Memorial Van Damme, Boudewijnstadion, Bruxelles",BEL,06 SEP 2013,06 SEP 2013,8200,3,86059,5,94259,https://worldathletics.org/records/competition-performance-rankings/ranking/552375
+4,552023,"London Sainsbury's Anniversary Games, Olympic Stadium, London",GBR,26 JUL 2013,27 JUL 2013,7660,4,86376,3,94036,https://worldathletics.org/records/competition-performance-rankings/ranking/552023
+5,551967,"Monaco Herculis, Stade Louis II, Monaco",MON,19 JUL 2013,19 JUL 2013,6885,10,86589,2,93474,https://worldathletics.org/records/competition-performance-rankings/ranking/551967
+6,551832,"Paris Meeting AREVA, Stade de France, Paris-St-Denis",FRA,06 JUL 2013,06 JUL 2013,6780,12,86028,6,92808,https://worldathletics.org/records/competition-performance-rankings/ranking/551832
+7,550822,"Doha IAAF Diamond League Meeting, Suhaim bin Hamad Stadium, Doha",QAT,10 MAY 2013,10 MAY 2013,6825,11,85884,7,92709,https://worldathletics.org/records/competition-performance-rankings/ranking/550822
+8,551353,"Roma Golden Gala, Stadio Olimpico, Roma",ITA,06 JUN 2013,06 JUN 2013,7200,6,85424,8,92624,https://worldathletics.org/records/competition-performance-rankings/ranking/551353
+9,565168,"Athletissima Lausanne, Stade Olympique de la Pontaise, Lausanne",SUI,04 JUL 2013,04 JUL 2013,7060,8,85388,9,92448,https://worldathletics.org/records/competition-performance-rankings/ranking/565168
+10,551009,"Shanghai IAAF Diamond League Meeting, Shanghai Stadium, Shanghai",CHN,18 MAY 2013,18 MAY 2013,7085,7,84756,10,91841,https://worldathletics.org/records/competition-performance-rankings/ranking/551009
+11,552202,"Stockholm DN Galan, Olympiastadion, Stockholm",SWE,22 AUG 2013,22 AUG 2013,7600,5,83776,14,91376,https://worldathletics.org/records/competition-performance-rankings/ranking/552202
+12,551752,"Birmingham Sainsbury's Grand Prix, Alexander Stadium, Birmingham",GBR,30 JUN 2013,30 JUN 2013,6970,9,84402,12,91372,https://worldathletics.org/records/competition-performance-rankings/ranking/551752
+13,551718,"Golden Spike Ostrava 2013, Mestský Stadion, Ostrava",CZE,26 JUN 2013,27 JUN 2013,5670,15,84571,11,90241,https://worldathletics.org/records/competition-performance-rankings/ranking/551718
+14,551499,"Oslo ExxonMobil Bislett Games, Bislett Stadion, Oslo",NOR,13 JUN 2013,13 JUN 2013,6015,13,83874,13,89889,https://worldathletics.org/records/competition-performance-rankings/ranking/551499
+15,551140,"New York adidas Grand Prix, Icahn Stadium, New York, NY",USA,25 MAY 2013,25 MAY 2013,5980,14,83098,18,89078,https://worldathletics.org/records/competition-performance-rankings/ranking/551140
+16,552376,"Zagreb IAAF World Challenge, Sports Park Mladost, Zagreb",CRO,03 SEP 2013,03 SEP 2013,4610,17,83541,16,88151,https://worldathletics.org/records/competition-performance-rankings/ranking/552376
+17,552281,"Berlin ISTAF, Olympiastadion, Berlin",GER,01 SEP 2013,01 SEP 2013,5050,16,82776,21,87826,https://worldathletics.org/records/competition-performance-rankings/ranking/552281
+18,552393,"Rieti IAAF World Challenge, Stadio Guidobaldi, Rieti",ITA,07 SEP 2013,08 SEP 2013,3795,18,83659,15,87454,https://worldathletics.org/records/competition-performance-rankings/ranking/552393
+19,551400,"Meeting International Mohammed VI d'Athletisme de Rabat, Rabat",MAR,09 JUN 2013,09 JUN 2013,3275,21,83206,17,86481,https://worldathletics.org/records/competition-performance-rankings/ranking/551400
+20,551880,"Gyulai István Memorial - Hungarian Athletics Grand Prix, Puskás Ferenc Stadion, Budapest",HUN,10 JUL 2013,10 JUL 2013,3130,24,82922,19,86052,https://worldathletics.org/records/competition-performance-rankings/ranking/551880
+21,551489,"Hengelo Fanny Blankers-Koen Games, FBK Stadium, Hengelo",NED,08 JUN 2013,08 JUN 2013,3140,23,82882,20,86022,https://worldathletics.org/records/competition-performance-rankings/ranking/551489
+22,551107,"Beijing IAAF World Challenge Meeting, Beijing",CHN,21 MAY 2013,21 MAY 2013,3265,22,82610,22,85875,https://worldathletics.org/records/competition-performance-rankings/ranking/551107
+23,550644,"Kingston Jamaica International Invitational Track Meet, National Stadium, Kingston",JAM,04 MAY 2013,04 MAY 2013,3290,20,82415,24,85705,https://worldathletics.org/records/competition-performance-rankings/ranking/550644
+24,551949,"Luzern Spitzen Leichtathletik, Luzern",SUI,17 JUL 2013,17 JUL 2013,3050,25,82583,23,85633,https://worldathletics.org/records/competition-performance-rankings/ranking/551949
+25,551891,"Madrid Meeting de Atletismo, Moratalaz, Madrid",ESP,13 JUL 2013,13 JUL 2013,2585,30,82202,25,84787,https://worldathletics.org/records/competition-performance-rankings/ranking/551891
+26,551918,"Nairobi Kenyan World Ch. Trials, Nairobi",KEN,13 JUL 2013,13 JUL 2013,3650,19,81099,29,84749,https://worldathletics.org/records/competition-performance-rankings/ranking/551918
+27,551761,"Edmonton International Track Classic, Edmonton",CAN,29 JUN 2013,29 JUN 2013,2430,33,81380,28,83810,https://worldathletics.org/records/competition-performance-rankings/ranking/551761
+28,551874,"Sotteville-lès-Rouen Meeting International, Sotteville-lès-Rouen",FRA,08 JUL 2013,08 JUL 2013,1985,38,81610,27,83595,https://worldathletics.org/records/competition-performance-rankings/ranking/551874
+29,552328,"Rovereto Palio Città della Quercia, Rovereto",ITA,03 SEP 2013,03 SEP 2013,2320,34,81092,30,83412,https://worldathletics.org/records/competition-performance-rankings/ranking/552328
+30,551895,"Heusden-Zolder KBC Night of Athletics, Heusden-Zolder",BEL,13 JUL 2013,13 JUL 2013,1670,41,81722,26,83392,https://worldathletics.org/records/competition-performance-rankings/ranking/551895
+31,552210,"Kamila Skolimowska Memorial, Stadion Orzeł, Warszawa",POL,25 AUG 2013,25 AUG 2013,2800,28,80563,34,83363,https://worldathletics.org/records/competition-performance-rankings/ranking/552210
+32,551510,"Janusz Kusociński Memorial, Szczecin",POL,15 JUN 2013,15 JUN 2013,2465,31,80868,31,83333,https://worldathletics.org/records/competition-performance-rankings/ranking/551510
+33,552230,"Linz Gugl Games, Linz",AUT,26 AUG 2013,26 AUG 2013,2830,27,80466,35,83296,https://worldathletics.org/records/competition-performance-rankings/ranking/552230
+34,552274,"Valence DécaNation, Valence",FRA,31 AUG 2013,31 AUG 2013,2875,26,79860,45,82735,https://worldathletics.org/records/competition-performance-rankings/ranking/552274
+35,550658,"Tokyo Seiko Golden Grand Prix, Tokyo",JPN,05 MAY 2013,05 MAY 2013,2440,32,80247,38,82687,https://worldathletics.org/records/competition-performance-rankings/ranking/550658
+36,551022,"Ponce Grand Prix, Ponce",PUR,18 MAY 2013,18 MAY 2013,1740,40,80730,33,82470,https://worldathletics.org/records/competition-performance-rankings/ranking/551022
+37,552198,"Dubnica nad Váhom The Athletic Bridge 2013, Dubnica nad Váhom",SVK,21 AUG 2013,21 AUG 2013,2615,29,79559,53,82174,https://worldathletics.org/records/competition-performance-rankings/ranking/552198
+38,552285,"Padova Meeting Citta Di Padova, Padova",ITA,01 SEP 2013,01 SEP 2013,2225,35,79889,44,82114,https://worldathletics.org/records/competition-performance-rankings/ranking/552285
+39,551409,"Memoriál Josefa Odložila, Stadion Juliska, Praha",CZE,10 JUN 2013,10 JUN 2013,1890,39,80143,39,82033,https://worldathletics.org/records/competition-performance-rankings/ranking/551409
+40,551462,"Moskva Moscow Challenge, Luzhniki Stadion, Moskva",RUS,10 JUN 2013,11 JUN 2013,2060,36,79903,43,81963,https://worldathletics.org/records/competition-performance-rankings/ranking/551462
+41,551804,"Meeting Stanislas Nancy, Stade Raymond Petit, Tomblaine",FRA,02 JUL 2013,02 JUL 2013,1445,46,80461,36,81906,https://worldathletics.org/records/competition-performance-rankings/ranking/551804
+42,552027,"Ninove Memorial Geert Rasschaert, Ninove",BEL,27 JUL 2013,27 JUL 2013,1095,58,80744,32,81839,https://worldathletics.org/records/competition-performance-rankings/ranking/552027
+43,551332,"Montreuil-sous-Bois Meeting International, Montreuil-sous-Bois",FRA,03 JUN 2013,03 JUN 2013,2000,37,79790,48,81790,https://worldathletics.org/records/competition-performance-rankings/ranking/551332
+44,551805,"Burnaby Harry Jerome International Track Classic, Burnaby",CAN,01 JUL 2013,01 JUL 2013,1140,53,80410,37,81550,https://worldathletics.org/records/competition-performance-rankings/ranking/551805
+45,550797,"Georgetown Cayman Invitational, George Town",CAY,08 MAY 2013,08 MAY 2013,1510,44,79717,49,81227,https://worldathletics.org/records/competition-performance-rankings/ranking/550797
+46,551757,"Sollentuna Folksam GP, Sollentuna",SWE,27 JUN 2013,27 JUN 2013,1080,59,80051,41,81131,https://worldathletics.org/records/competition-performance-rankings/ranking/551757
+47,551486,"Dakar IAAF World Challenge, Dakar",SEN,12 JUN 2013,12 JUN 2013,1260,49,79854,46,81114,https://worldathletics.org/records/competition-performance-rankings/ranking/551486
+48,550798,"Baie Mahault Meeting International Guadeloupe, Baie Mahault",FRA,08 MAY 2013,08 MAY 2013,1485,45,79491,55,80976,https://worldathletics.org/records/competition-performance-rankings/ranking/550798
+49,551277,"Dessau Anhalt 2013, Dessau",GER,31 MAY 2013,31 MAY 2013,1385,47,79554,54,80939,https://worldathletics.org/records/competition-performance-rankings/ranking/551277
+50,550480,"Palo Alto Payton Jordan Cardinal Invitational, Palo Alto, CA",USA,28 APR 2013,28 APR 2013,770,73,80059,40,80829,https://worldathletics.org/records/competition-performance-rankings/ranking/550480
+51,551734,"Reims Meeting de la Ville de Reims, Reims",FRA,28 JUN 2013,28 JUN 2013,1295,48,79387,59,80682,https://worldathletics.org/records/competition-performance-rankings/ranking/551734
+52,551289,"Yerino Yuliya Pechonkina Prizes, Yerino",RUS,02 JUN 2013,02 JUN 2013,985,62,79656,51,80641,https://worldathletics.org/records/competition-performance-rankings/ranking/551289
+53,551377,"Torino Memorial Primo Nebiolo, Torino",ITA,08 JUN 2013,08 JUN 2013,1065,60,79473,57,80538,https://worldathletics.org/records/competition-performance-rankings/ranking/551377
+54,550271,"Gainesville Tom Jones Memorial, Gainesville, FL",USA,20 APR 2013,20 APR 2013,1125,54,79396,58,80521,https://worldathletics.org/records/competition-performance-rankings/ranking/550271
+55,550848,"Belém Grande Premio Brasil Caixa de Atletismo, Mangueirão, Belém",BRA,12 MAY 2013,12 MAY 2013,1225,52,79271,60,80496,https://worldathletics.org/records/competition-performance-rankings/ranking/550848
+56,551382,"Regensburg Sparkassen Gala, Regensburg",GER,08 JUN 2013,08 JUN 2013,530,94,79921,42,80451,https://worldathletics.org/records/competition-performance-rankings/ranking/551382
+57,551285,"Genève AtletiCAGenève, Genève",SUI,01 JUN 2013,01 JUN 2013,620,86,79810,47,80430,https://worldathletics.org/records/competition-performance-rankings/ranking/551285
+58,551488,"Huelva Meeting Iberoamericano de Atletismo, Huelva",ESP,12 JUN 2013,12 JUN 2013,830,68,79577,52,80407,https://worldathletics.org/records/competition-performance-rankings/ranking/551488
+59,550263,"Baton Rouge LSU Alumni Gold, Baton Rouge, LA",USA,20 APR 2013,20 APR 2013,625,85,79707,50,80332,https://worldathletics.org/records/competition-performance-rankings/ranking/550263
+60,551751,"Zhukovskiy Znamenskiy Memorial, Zhukovskiy",RUS,30 JUN 2013,30 JUN 2013,1100,57,79195,61,80295,https://worldathletics.org/records/competition-performance-rankings/ranking/551751
+61,551968,"Bottrop BottropGala, Bottrop",GER,19 JUL 2013,19 JUL 2013,525,95,79489,56,80014,https://worldathletics.org/records/competition-performance-rankings/ranking/551968
+62,551338,"Velenje European Athletics Classic 2013, Velenje",SLO,04 JUN 2013,04 JUN 2013,1585,42,78360,67,79945,https://worldathletics.org/records/competition-performance-rankings/ranking/551338
+63,551060,"Sao Paulo GP Internacional CAIXA, São Paulo",BRA,19 MAY 2013,19 MAY 2013,1115,56,78504,65,79619,https://worldathletics.org/records/competition-performance-rankings/ranking/551060
+64,551834,"Oordegem Memorial Léon Buyle, Oordegem",BEL,06 JUL 2013,06 JUL 2013,430,101,79028,62,79458,https://worldathletics.org/records/competition-performance-rankings/ranking/551834
+65,549472,"Sydney Track Classic, Sydney",AUS,09 MAR 2013,09 MAR 2013,715,77,78484,66,79199,https://worldathletics.org/records/competition-performance-rankings/ranking/549472
+66,551108,"Uberlandia GP Caixa/Sesi de Atletismo, Uberlandia",BRA,16 MAY 2013,16 MAY 2013,955,63,78193,70,79148,https://worldathletics.org/records/competition-performance-rankings/ranking/551108
+67,551059,"Loughborough International, Loughborough",GBR,19 MAY 2013,19 MAY 2013,480,96,78523,64,79003,https://worldathletics.org/records/competition-performance-rankings/ranking/551059
+68,551937,"Moskva Kuts Memorial, Moskva",RUS,15 JUL 2013,15 JUL 2013,720,76,78270,68,78990,https://worldathletics.org/records/competition-performance-rankings/ranking/551937
+69,551856,"La Chaux-de-Fonds Resisprint International, La Chaux-de-Fonds",SUI,07 JUL 2013,07 JUL 2013,365,116,78543,63,78908,https://worldathletics.org/records/competition-performance-rankings/ranking/551856
+70,551483,"Toronto International Track & Field Games, Toronto",CAN,11 JUN 2013,11 JUN 2013,825,69,78078,72,78903,https://worldathletics.org/records/competition-performance-rankings/ranking/551483
+71,551500,"Bellinzona Galà dei Castelli, Bellinzona",SUI,11 JUN 2013,11 JUN 2013,790,71,78109,71,78899,https://worldathletics.org/records/competition-performance-rankings/ranking/551500
+72,549927,"Melbourne IAAF World Challenge, Albert Park, Melbourne",AUS,06 APR 2013,06 APR 2013,805,70,77951,73,78756,https://worldathletics.org/records/competition-performance-rankings/ranking/549927
+72,552374,"Turku Paavo Nurmi Games, Turku",FIN,16 JUN 2013,16 JUN 2013,1550,43,77206,82,78756,https://worldathletics.org/records/competition-performance-rankings/ranking/552374
+74,551986,"Lapinlahti Savo Games, Lapinlahti",FIN,21 JUL 2013,21 JUL 2013,840,67,77717,74,78557,https://worldathletics.org/records/competition-performance-rankings/ranking/551986
+75,551282,"Oordegem IFAM Meeting, Oordegem",BEL,01 JUN 2013,01 JUN 2013,305,130,78238,69,78543,https://worldathletics.org/records/competition-performance-rankings/ranking/551282
+76,552078,"Kuortane Games, Kuortane",FIN,03 AUG 2013,03 AUG 2013,1260,49,77140,85,78400,https://worldathletics.org/records/competition-performance-rankings/ranking/552078
+77,551881,"Liège Meeting international de la province de Liége, Liège",BEL,10 JUL 2013,10 JUL 2013,1000,61,77267,80,78267,https://worldathletics.org/records/competition-performance-rankings/ranking/551881
+78,551685,"Algiers Meeting International d'Athlétisme, Algiers",ALG,18 JUN 2013,18 JUN 2013,695,80,77545,75,78240,https://worldathletics.org/records/competition-performance-rankings/ranking/551685
+79,552009,"Karlstad Folksam GP, Karlstad",SWE,23 JUL 2013,23 JUL 2013,1125,54,76974,87,78099,https://worldathletics.org/records/competition-performance-rankings/ranking/552009
+80,551054,"Rehlingen Pfingstsportfest, Rehlingen",GER,20 MAY 2013,20 MAY 2013,1240,51,76811,91,78051,https://worldathletics.org/records/competition-performance-rankings/ranking/551054
+81,550651,"Los Angeles Oxy Invitational, Los Angeles, CA",USA,04 MAY 2013,04 MAY 2013,390,108,77513,76,77903,https://worldathletics.org/records/competition-performance-rankings/ranking/550651
+82,551802,"Cork City Sports, Cork",IRL,02 JUL 2013,02 JUL 2013,420,104,77355,78,77775,https://worldathletics.org/records/competition-performance-rankings/ranking/551802
+83,551511,"Göteborg Folksam GP, Göteborg",SWE,15 JUN 2013,15 JUN 2013,900,64,76847,89,77747,https://worldathletics.org/records/competition-performance-rankings/ranking/551511
+84,549959,"Los Angeles Rafer Johnson/Jackie Joyner-Kersee Invitational, Los Angeles, CA",USA,06 APR 2013,06 APR 2013,440,100,77271,79,77711,https://worldathletics.org/records/competition-performance-rankings/ranking/549959
+85,551909,"Kortrijk Guldensporenmeeting, Kortrijk",BEL,14 JUL 2013,14 JUL 2013,415,105,77216,81,77631,https://worldathletics.org/records/competition-performance-rankings/ranking/551909
+86,550146,"Kingston UTech Classic, Kingston",JAM,13 APR 2013,13 APR 2013,475,97,77151,84,77626,https://worldathletics.org/records/competition-performance-rankings/ranking/550146
+87,551150,"Weinheim Kurpfalz Gala, Weinheim",GER,25 MAY 2013,25 MAY 2013,230,154,77390,77,77620,https://worldathletics.org/records/competition-performance-rankings/ranking/551150
+88,551514,"Besancon Meeting Elite, Besancon",FRA,15 JUN 2013,15 JUN 2013,475,97,77100,86,77575,https://worldathletics.org/records/competition-performance-rankings/ranking/551514
+89,552012,"Loughborough EAP Meeting, Loughborough",GBR,23 JUL 2013,23 JUL 2013,330,125,77197,83,77527,https://worldathletics.org/records/competition-performance-rankings/ranking/552012
+90,552073,"Copenhagen Athletics Games, København",DEN,01 AUG 2013,01 AUG 2013,620,86,76814,90,77434,https://worldathletics.org/records/competition-performance-rankings/ranking/552073
+91,552082,"Gent Flanders Cup, Gent",BEL,03 AUG 2013,03 AUG 2013,225,157,76918,88,77143,https://worldathletics.org/records/competition-performance-rankings/ranking/552082
+92,551948,"Lahti Games, Lahti",FIN,17 JUL 2013,17 JUL 2013,705,79,76369,95,77074,https://worldathletics.org/records/competition-performance-rankings/ranking/551948
+93,552215,"Tampere Games, Tampere",FIN,25 AUG 2013,25 AUG 2013,880,65,76128,102,77008,https://worldathletics.org/records/competition-performance-rankings/ranking/552215
+94,551268,"Riga Cup, Riga",LAT,30 MAY 2013,30 MAY 2013,635,84,76312,97,76947,https://worldathletics.org/records/competition-performance-rankings/ranking/551268
+95,549939,"Tucson Jim Click Shootout, Tucson, AZ",USA,06 APR 2013,06 APR 2013,135,195,76804,92,76939,https://worldathletics.org/records/competition-performance-rankings/ranking/549939
+96,551536,"Warri CAA Super Grand Prix, Warri",NGR,14 JUN 2013,14 JUN 2013,265,144,76637,93,76902,https://worldathletics.org/records/competition-performance-rankings/ranking/551536
+97,551777,"Reunión Internacional de Atletismo Villa De Bilbao, Bilbao",ESP,21 JUN 2013,21 JUN 2013,715,77,76017,106,76732,https://worldathletics.org/records/competition-performance-rankings/ranking/551777
+98,551184,"Medellín Grand Prix Ximena Restrepo, Medellín",COL,25 MAY 2013,25 MAY 2013,290,134,76413,94,76703,https://worldathletics.org/records/competition-performance-rankings/ranking/551184
+99,551351,"La Habana Barrientos Memorial, La Habana",CUB,04 JUN 2013,04 JUN 2013,750,74,75834,110,76584,https://worldathletics.org/records/competition-performance-rankings/ranking/551351
+100,551953,"Dublin Morton Games, Dublin",IRL,17 JUL 2013,17 JUL 2013,325,127,76255,99,76580,https://worldathletics.org/records/competition-performance-rankings/ranking/551953
+101,550786,"Chon Buri Asian Grand Prix, Chon Buri",THA,08 MAY 2013,08 MAY 2013,280,138,76282,98,76562,https://worldathletics.org/records/competition-performance-rankings/ranking/550786
+102,550985,"Campinas Torneio FPA, Campinas",BRA,04 MAY 2013,04 MAY 2013,195,167,76341,96,76536,https://worldathletics.org/records/competition-performance-rankings/ranking/550985
+103,551894,"Ljubljana Memorial Matica Šušteršiča in Patrika Cvetana, Ljubljana",SLO,13 JUL 2013,13 JUL 2013,370,115,76152,101,76522,https://worldathletics.org/records/competition-performance-rankings/ranking/551894
+104,550114,"Fayetteville John McDonnell Invitational, Fayetteville, AR",USA,13 APR 2013,13 APR 2013,365,116,76025,105,76390,https://worldathletics.org/records/competition-performance-rankings/ranking/550114
+105,550129,"Baton Rouge Battle on the Bayou, Baton Rouge, LA",USA,13 APR 2013,13 APR 2013,175,175,76168,100,76343,https://worldathletics.org/records/competition-performance-rankings/ranking/550129
+106,550116,"El Paso UTEP Invitational, El Paso, TX",USA,13 APR 2013,13 APR 2013,155,182,76091,103,76246,https://worldathletics.org/records/competition-performance-rankings/ranking/550116
+107,551281,"Cagliari Terra Sarda Meeting, Cagliari",ITA,01 JUN 2013,01 JUN 2013,545,92,75688,112,76233,https://worldathletics.org/records/competition-performance-rankings/ranking/551281
+108,551381,"Bydgoszcz European Athletics Festival, Bydgoszcz",POL,08 JUN 2013,08 JUN 2013,230,154,75958,107,76188,https://worldathletics.org/records/competition-performance-rankings/ranking/551381
+109,549960,"Lubbock Texas Tech Open, Lubbock, TX",USA,05 APR 2013,06 APR 2013,90,234,76091,103,76181,https://worldathletics.org/records/competition-performance-rankings/ranking/549960
+110,549953,"Eugene Pepsi Team Invitational, Eugene, OR",USA,06 APR 2013,06 APR 2013,185,168,75908,108,76093,https://worldathletics.org/records/competition-performance-rankings/ranking/549953
+111,551041,"Villeneuve d'Ascq French Club Championships, Villeneuve d'Ascq",FRA,19 MAY 2013,19 MAY 2013,395,107,75650,113,76045,https://worldathletics.org/records/competition-performance-rankings/ranking/551041
+112,550262,"Waco Michael Johnson/Dr. Pepper Classic, Waco, TX",USA,20 APR 2013,20 APR 2013,135,195,75875,109,76010,https://worldathletics.org/records/competition-performance-rankings/ranking/550262
+113,551747,"Nivelles Meeting International EAP, Nivelles",BEL,29 JUN 2013,29 JUN 2013,180,171,75828,111,76008,https://worldathletics.org/records/competition-performance-rankings/ranking/551747
+114,550858,"Montgeron Meeting Elite, Montgeron",FRA,12 MAY 2013,12 MAY 2013,425,102,75531,115,75956,https://worldathletics.org/records/competition-performance-rankings/ranking/550858
+115,551363,"Bucuresti, Bucureşti",ROU,07 JUN 2013,07 JUN 2013,360,118,75593,114,75953,https://worldathletics.org/records/competition-performance-rankings/ranking/551363
+116,551157,"Forbach Meeting National, Forbach",FRA,26 MAY 2013,26 MAY 2013,605,89,75343,116,75948,https://worldathletics.org/records/competition-performance-rankings/ranking/551157
+117,551516,"Avilés Campeonato de España de Federaciones Autonómicas, Avilés",ESP,15 JUN 2013,15 JUN 2013,355,121,75284,119,75639,https://worldathletics.org/records/competition-performance-rankings/ranking/551516
+118,549534,"Perth Track Classic, Perth",AUS,16 MAR 2013,16 MAR 2013,780,72,74754,127,75534,https://worldathletics.org/records/competition-performance-rankings/ranking/549534
+119,551360,"Bonneuil-sur-Marne Meeting National, Bonneuil-sur-Marne",FRA,07 JUN 2013,07 JUN 2013,180,171,75313,118,75493,https://worldathletics.org/records/competition-performance-rankings/ranking/551360
+120,550638,"Bangkok Asian Grand Prix, Bangkok",THA,04 MAY 2013,04 MAY 2013,280,138,75206,121,75486,https://worldathletics.org/records/competition-performance-rankings/ranking/550638
+121,551831,"Victoria International Track Classic, Victoria",CAN,05 JUL 2013,05 JUL 2013,615,88,74849,126,75464,https://worldathletics.org/records/competition-performance-rankings/ranking/551831
+122,550133,"Coral Gables UM Alumni Invite, Coral Gables, FL",USA,13 APR 2013,13 APR 2013,110,209,75343,116,75453,https://worldathletics.org/records/competition-performance-rankings/ranking/550133
+123,552113,"Weinheim WM-Verabschiedung, Weinheim",GER,02 AUG 2013,02 AUG 2013,290,134,75042,123,75332,https://worldathletics.org/records/competition-performance-rankings/ranking/552113
+124,550438,"Lubbock Texas Tech Red Raider Open, Lubbock, TX",USA,25 APR 2013,25 APR 2013,115,206,75213,120,75328,https://worldathletics.org/records/competition-performance-rankings/ranking/550438
+125,551472,"Colts Neck New Jersey Int'l Invitational, Colts Neck, NJ",USA,08 JUN 2013,08 JUN 2013,100,219,75075,122,75175,https://worldathletics.org/records/competition-performance-rankings/ranking/551472
+126,551019,"Kladno Czech Club Championships, Kladno",CZE,18 MAY 2013,18 MAY 2013,570,91,74475,130,75045,https://worldathletics.org/records/competition-performance-rankings/ranking/551019
+127,551290,"Gdańsk Józef Żylewicz Memorial, Gdansk",POL,01 JUN 2013,01 JUN 2013,100,219,74885,124,74985,https://worldathletics.org/records/competition-performance-rankings/ranking/551290
+128,552406,"Nové Mesto nad Metují Czech Club Championships, Nové Město nad Metují",CZE,08 SEP 2013,08 SEP 2013,655,83,74329,131,74984,https://worldathletics.org/records/competition-performance-rankings/ranking/552406
+129,550854,"Colombo Asian Grand Prix, Colombo",SRI,12 MAY 2013,12 MAY 2013,375,113,74593,128,74968,https://worldathletics.org/records/competition-performance-rankings/ranking/550854
+130,551397,"Albuquerque Great Southwest Classic, Albuquerque, NM",USA,07 JUN 2013,08 JUN 2013,5,460,74851,125,74856,https://worldathletics.org/records/competition-performance-rankings/ranking/551397
+131,549968,"Tuscaloosa Crimson Tide Invitational, Tuscaloosa, AL",USA,06 APR 2013,06 APR 2013,65,265,74553,129,74618,https://worldathletics.org/records/competition-performance-rankings/ranking/549968
+132,552016,"Tábor Czech Club Championships, Tábor",CZE,24 JUL 2013,24 JUL 2013,335,124,74097,135,74432,https://worldathletics.org/records/competition-performance-rankings/ranking/552016
+133,551453,"Halifax Aileen Meagher Track Classic, Halifax",CAN,09 JUN 2013,09 JUN 2013,380,112,74039,139,74419,https://worldathletics.org/records/competition-performance-rankings/ranking/551453
+134,552277,"Biała Podlaska Polish Club Championships, Biala Podlaska",POL,31 AUG 2013,31 AUG 2013,685,82,73730,146,74415,https://worldathletics.org/records/competition-performance-rankings/ranking/552277
+135,550845,"Azusa Pacific Last Chance Qualifier, Azusa, CA",USA,10 MAY 2013,11 MAY 2013,390,108,73999,141,74389,https://worldathletics.org/records/competition-performance-rankings/ranking/550845
+136,551278,"Marseille Meeting Elite, Marseille",FRA,31 MAY 2013,31 MAY 2013,210,160,74156,132,74366,https://worldathletics.org/records/competition-performance-rankings/ranking/551278
+137,551388,"Alphen aan den Rijn Gouden Spike, Alphen aan den Rijn",NED,09 JUN 2013,09 JUN 2013,265,144,74053,138,74318,https://worldathletics.org/records/competition-performance-rankings/ranking/551388
+138,549760,"Sao Paulo, São Paulo",BRA,27 MAR 2013,27 MAR 2013,215,159,74081,137,74296,https://worldathletics.org/records/competition-performance-rankings/ranking/549760
+139,550265,"Austin Longhorn Invitational, Austin, TX",USA,20 APR 2013,20 APR 2013,165,180,74087,136,74252,https://worldathletics.org/records/competition-performance-rankings/ranking/550265
+140,550164,"Claremont Pomona-Pitzer Invitational, Claremont, CA",USA,13 APR 2013,13 APR 2013,115,206,74123,133,74238,https://worldathletics.org/records/competition-performance-rankings/ranking/550164
+141,550253,"Azusa Bryan Clay Invitational, Azusa, CA",USA,18 APR 2013,19 APR 2013,80,246,74102,134,74182,https://worldathletics.org/records/competition-performance-rankings/ranking/550253
+142,550455,"Tempe Double Dual, Tempe, AZ",USA,27 APR 2013,27 APR 2013,300,131,73877,143,74177,https://worldathletics.org/records/competition-performance-rankings/ranking/550455
+143,549784,"Fayetteville Arkansas Spring Invitational, Fayetteville, AR",USA,29 MAR 2013,30 MAR 2013,35,333,74037,140,74072,https://worldathletics.org/records/competition-performance-rankings/ranking/549784
+144,551402,"Kingston JAAA All-Comers Meet, Kingston",JAM,08 JUN 2013,08 JUN 2013,405,106,73660,147,74065,https://worldathletics.org/records/competition-performance-rankings/ranking/551402
+145,551333,"Katowice Mityng LA AWF, Katowice",POL,29 MAY 2013,29 MAY 2013,40,318,73993,142,74033,https://worldathletics.org/records/competition-performance-rankings/ranking/551333
+146,551393,"Joensuu Games, Joensuu",FIN,09 JUN 2013,09 JUN 2013,385,111,73579,149,73964,https://worldathletics.org/records/competition-performance-rankings/ranking/551393
+147,551938,"Lignano Sabbiadoro Meeting Int. Sport Solidarieta, Lignano Sabbiadoro",ITA,16 JUL 2013,16 JUL 2013,880,65,73062,160,73942,https://worldathletics.org/records/competition-performance-rankings/ranking/551938
+148,552065,"La Roche-sur-Yon Meeting National, La Roche-sur-Yon",FRA,24 JUL 2013,24 JUL 2013,375,113,73561,150,73936,https://worldathletics.org/records/competition-performance-rankings/ranking/552065
+149,549668,"Tempe ASU Invitational, Tempe, AZ",USA,22 MAR 2013,23 MAR 2013,245,150,73640,148,73885,https://worldathletics.org/records/competition-performance-rankings/ranking/549668
+150,550988,"Fes Meeting Federal, Fes",MAR,11 MAY 2013,11 MAY 2013,95,227,73746,145,73841,https://worldathletics.org/records/competition-performance-rankings/ranking/550988
+151,550875,"Greensboro Aggie Last Chance, Greensboro, NC",USA,12 MAY 2013,12 MAY 2013,60,277,73775,144,73835,https://worldathletics.org/records/competition-performance-rankings/ranking/550875
+152,551816,"Nembro Meeting Citta di Nembro, Nembro",ITA,03 JUL 2013,03 JUL 2013,65,265,73534,151,73599,https://worldathletics.org/records/competition-performance-rankings/ranking/551816
+153,551403,"Spanish Club Championships, Zaragoza",ESP,08 JUN 2013,08 JUN 2013,170,177,73416,153,73586,https://worldathletics.org/records/competition-performance-rankings/ranking/551403
+154,550628,"Eugene Oregon Twilight, Eugene, OR",USA,03 MAY 2013,03 MAY 2013,205,163,73343,155,73548,https://worldathletics.org/records/competition-performance-rankings/ranking/550628
+155,551850,"Bruxelles Grand Prix Meet, Bruxelles",BEL,06 JUL 2013,06 JUL 2013,120,204,73419,152,73539,https://worldathletics.org/records/competition-performance-rankings/ranking/551850
+156,552214,"Merksem Antwerp Athletics Gala, Merksem",BEL,24 AUG 2013,24 AUG 2013,110,209,73416,153,73526,https://worldathletics.org/records/competition-performance-rankings/ranking/552214
+157,551181,"Turnov Ludvík Daňek Memorial, Turnov",CZE,28 MAY 2013,28 MAY 2013,690,81,72806,166,73496,https://worldathletics.org/records/competition-performance-rankings/ranking/551181
+158,550132,"Louisville Border Battle ""Kentuckiana"", Louisville, KY",USA,13 APR 2013,13 APR 2013,30,345,73341,156,73371,https://worldathletics.org/records/competition-performance-rankings/ranking/550132
+159,551162,"Rhede Leichtathletikmeeting, Rhede",GER,26 MAY 2013,26 MAY 2013,155,182,73127,158,73282,https://worldathletics.org/records/competition-performance-rankings/ranking/551162
+160,550624,"Bloomington Billy Hayes Invitational, Bloomington, IN",USA,03 MAY 2013,03 MAY 2013,65,265,73216,157,73281,https://worldathletics.org/records/competition-performance-rankings/ranking/550624
+161,552098,"Cardiff Welsh Athletics International, Cardiff",GBR,31 JUL 2013,31 JUL 2013,170,177,73029,161,73199,https://worldathletics.org/records/competition-performance-rankings/ranking/552098
+162,551378,"Kessel-Lo Meeting voor Mon, Kessel-Lo",BEL,08 JUN 2013,08 JUN 2013,120,204,73069,159,73189,https://worldathletics.org/records/competition-performance-rankings/ranking/551378
+163,551520,"Uppsala Folksam Challenge, Uppsala",SWE,16 JUN 2013,16 JUN 2013,210,160,72866,164,73076,https://worldathletics.org/records/competition-performance-rankings/ranking/551520
+164,550941,"Moskva Open Season Competition, Moskva",RUS,11 MAY 2013,12 MAY 2013,285,137,72771,168,73056,https://worldathletics.org/records/competition-performance-rankings/ranking/550941
+165,549678,"Kingston UWI Invitational, Kingston",JAM,23 MAR 2013,23 MAR 2013,585,90,72460,176,73045,https://worldathletics.org/records/competition-performance-rankings/ranking/549678
+166,549666,"El Paso UTEP Springtime, El Paso, TX",USA,23 MAR 2013,23 MAR 2013,55,282,72970,162,73025,https://worldathletics.org/records/competition-performance-rankings/ranking/549666
+167,551581,"Salamanca Gran Premio Caja Duero, Salamanca",ESP,12 JUN 2013,12 JUN 2013,70,254,72929,163,72999,https://worldathletics.org/records/competition-performance-rankings/ranking/551581
+168,551763,"Castres Meeting National, Castres",FRA,30 JUN 2013,30 JUN 2013,310,129,72674,169,72984,https://worldathletics.org/records/competition-performance-rankings/ranking/551763
+169,549790,"Jacksonville UNF North Florida Invitational, Jacksonville, FL",USA,30 MAR 2013,30 MAR 2013,55,282,72790,167,72845,https://worldathletics.org/records/competition-performance-rankings/ranking/549790
+170,551137,"Orlando Golden South Classic, Orlando, FL",USA,18 MAY 2013,18 MAY 2013,0,,72832,165,72832,https://worldathletics.org/records/competition-performance-rankings/ranking/551137
+171,551174,"Windsor Open, Windsor",CAN,25 MAY 2013,25 MAY 2013,85,240,72633,170,72718,https://worldathletics.org/records/competition-performance-rankings/ranking/551174
+172,550926,"Los Angeles Oxy-Lu Last Chance Qualifier, Los Angeles, CA",USA,12 MAY 2013,12 MAY 2013,135,195,72582,172,72717,https://worldathletics.org/records/competition-performance-rankings/ranking/550926
+173,550686,"Durham Duke Twilight, Durham, NC",USA,05 MAY 2013,05 MAY 2013,70,254,72610,171,72680,https://worldathletics.org/records/competition-performance-rankings/ranking/550686
+174,551293,"Kalamata Papaflessia, Kalamata",GRE,01 JUN 2013,01 JUN 2013,345,123,72329,182,72674,https://worldathletics.org/records/competition-performance-rankings/ranking/551293
+175,550610,"Campinas Torneio FPA, Campinas",BRA,27 APR 2013,27 APR 2013,200,165,72468,175,72668,https://worldathletics.org/records/competition-performance-rankings/ranking/550610
+176,550826,"Louisville Cardinal Twilight, Louisville, KY",USA,10 MAY 2013,10 MAY 2013,70,254,72576,173,72646,https://worldathletics.org/records/competition-performance-rankings/ranking/550826
+177,551404,"Spanish Club Championships, Zaragoza",ESP,08 JUN 2013,08 JUN 2013,240,151,72321,185,72561,https://worldathletics.org/records/competition-performance-rankings/ranking/551404
+178,550160,"Lake Charles Spring Time Classic, Lake Charles, LA",USA,13 APR 2013,13 APR 2013,95,227,72447,177,72542,https://worldathletics.org/records/competition-performance-rankings/ranking/550160
+179,549038,"Adelaide Track Classic, Adelaide",AUS,16 FEB 2013,16 FEB 2013,95,227,72446,178,72541,https://worldathletics.org/records/competition-performance-rankings/ranking/549038
+180,550831,"Raleigh Wolfpack Last Chance, Raleigh, NC",USA,10 MAY 2013,10 MAY 2013,5,460,72492,174,72497,https://worldathletics.org/records/competition-performance-rankings/ranking/550831
+181,552112,"Schifflange Meeting International, Schifflange",LUX,04 AUG 2013,04 AUG 2013,275,141,72199,189,72474,https://worldathletics.org/records/competition-performance-rankings/ranking/552112
+182,549958,"Emporia State Relays, Emporia, KS",USA,06 APR 2013,06 APR 2013,0,,72443,179,72443,https://worldathletics.org/records/competition-performance-rankings/ranking/549958
+183,551339,"Praha Academica 2013, Praha",CZE,04 JUN 2013,04 JUN 2013,300,131,72122,192,72422,https://worldathletics.org/records/competition-performance-rankings/ranking/551339
+184,552097,"Bromley UK Women's League, Bromley",GBR,03 AUG 2013,03 AUG 2013,95,227,72325,184,72420,https://worldathletics.org/records/competition-performance-rankings/ranking/552097
+185,553468,"Humble Region 5A, Humble, TX",USA,29 APR 2013,29 APR 2013,0,,72381,180,72381,https://worldathletics.org/records/competition-performance-rankings/ranking/553468
+186,552071,"Nove Mesto nad Metuji, Nové Město nad Metují",CZE,27 JUL 2013,27 JUL 2013,390,108,71972,195,72362,https://worldathletics.org/records/competition-performance-rankings/ranking/552071
+187,552093,"Hendon British Athletics League, Hendon",GBR,03 AUG 2013,03 AUG 2013,240,151,72115,193,72355,https://worldathletics.org/records/competition-performance-rankings/ranking/552093
+188,550291,"Palo Alto The Big Meet, Palo Alto, CA",USA,20 APR 2013,20 APR 2013,35,333,72307,186,72342,https://worldathletics.org/records/competition-performance-rankings/ranking/550291
+189,549955,"Berkeley California-Michigan-Virginia Tech Tri Meet, Berkeley, CA",USA,06 APR 2013,06 APR 2013,0,,72333,181,72333,https://worldathletics.org/records/competition-performance-rankings/ranking/549955
+190,553551,"Lubbock Region 1-5A, Lubbock, TX",USA,27 APR 2013,27 APR 2013,0,,72326,183,72326,https://worldathletics.org/records/competition-performance-rankings/ranking/553551
+191,550488,"Fort Collins Jack Christiansen Invitational, Fort Collins, CO",USA,26 APR 2013,27 APR 2013,85,240,72203,188,72288,https://worldathletics.org/records/competition-performance-rankings/ranking/550488
+192,551025,"Hoorn Flynth Recordwedstrijden, Hoorn",NED,18 MAY 2013,18 MAY 2013,45,306,72242,187,72287,https://worldathletics.org/records/competition-performance-rankings/ranking/551025
+193,550279,"Oxford Mississippi Open, Oxford, MS",USA,20 APR 2013,20 APR 2013,70,254,72190,190,72260,https://worldathletics.org/records/competition-performance-rankings/ranking/550279
+194,549969,"Nacogdoches SFA Alumni Invitational, Nacogdoches, TX",USA,06 APR 2013,06 APR 2013,55,282,72177,191,72232,https://worldathletics.org/records/competition-performance-rankings/ranking/549969
+195,551490,"Rabat Meeting Elite, Rabat",MAR,01 JUN 2013,01 JUN 2013,45,306,72041,194,72086,https://worldathletics.org/records/competition-performance-rankings/ranking/551490
+196,550847,"Lisse Ter Specke Bokaal, Lisse",NED,11 MAY 2013,11 MAY 2013,150,185,71915,196,72065,https://worldathletics.org/records/competition-performance-rankings/ranking/550847
+197,552083,"Mölndal Folksam Challenge, Mölndal",SWE,03 AUG 2013,03 AUG 2013,270,143,71750,205,72020,https://worldathletics.org/records/competition-performance-rankings/ranking/552083
+198,548697,"Glendale Hunter Track Classic, Glendale",AUS,02 FEB 2013,02 FEB 2013,170,177,71840,198,72010,https://worldathletics.org/records/competition-performance-rankings/ranking/548697
+199,551533,"Osterode Volksbankmeeting, Osterode",GER,12 JUN 2013,12 JUN 2013,155,182,71823,200,71978,https://worldathletics.org/records/competition-performance-rankings/ranking/551533
+200,550782,"Buenos Aires Torneo Hugo Mario La Nasa, Buenos Aires",ARG,25 APR 2013,25 APR 2013,260,147,71712,206,71972,https://worldathletics.org/records/competition-performance-rankings/ranking/550782
+201,549661,"Waco Baylor Quad Invitational, Waco, TX",USA,22 MAR 2013,22 MAR 2013,55,282,71898,197,71953,https://worldathletics.org/records/competition-performance-rankings/ranking/549661
+202,551858,"Donnas Meeting Via col... Vento, Donnas",ITA,07 JUL 2013,07 JUL 2013,145,187,71800,201,71945,https://worldathletics.org/records/competition-performance-rankings/ranking/551858
+203,551384,"Edinburgh UK Women's League, Edinburgh",GBR,08 JUN 2013,08 JUN 2013,45,306,71838,199,71883,https://worldathletics.org/records/competition-performance-rankings/ranking/551384
+204,551287,"Orvieto Memorial Luca Coscioni, Orvieto",ITA,02 JUN 2013,02 JUN 2013,80,246,71780,204,71860,https://worldathletics.org/records/competition-performance-rankings/ranking/551287
+205,549513,Pretoria,RSA,09 MAR 2013,09 MAR 2013,35,333,71786,202,71821,https://worldathletics.org/records/competition-performance-rankings/ranking/549513
+206,550622,"Toledo Annual Toledo Invitational, Toledo, OH",USA,02 MAY 2013,02 MAY 2013,25,366,71786,202,71811,https://worldathletics.org/records/competition-performance-rankings/ranking/550622
+207,551857,"Hilversum Arena Games, Hilversum",NED,07 JUL 2013,07 JUL 2013,220,158,71514,208,71734,https://worldathletics.org/records/competition-performance-rankings/ranking/551857
+208,553477,"Jacksonville FHSAA 2A State Finals, Jacksonville, FL",USA,27 APR 2013,27 APR 2013,0,,71609,207,71609,https://worldathletics.org/records/competition-performance-rankings/ranking/553477
+209,549573,"Sacramento Hornet Invitational, Sacramento, CA",USA,16 MAR 2013,16 MAR 2013,100,219,71494,209,71594,https://worldathletics.org/records/competition-performance-rankings/ranking/549573
+210,551401,"Manchester British Athletics League, Manchester",GBR,08 JUN 2013,08 JUN 2013,110,209,71423,212,71533,https://worldathletics.org/records/competition-performance-rankings/ranking/551401
+211,550541,"Miramar South Florida Multi-Cultural Games, Miramar, FL",USA,29 APR 2013,29 APR 2013,65,265,71433,211,71498,https://worldathletics.org/records/competition-performance-rankings/ranking/550541
+212,549924,"Tampa USF Collegiate Invitational, Tampa, FL",USA,05 APR 2013,05 APR 2013,0,,71467,210,71467,https://worldathletics.org/records/competition-performance-rankings/ranking/549924
+213,549798,"Charlottesville Virginia Invitational, Charlottesville, VA",USA,30 MAR 2013,30 MAR 2013,5,460,71405,213,71410,https://worldathletics.org/records/competition-performance-rankings/ranking/549798
+214,551833,"Sheffield British Athletics League, Sheffield",GBR,06 JUL 2013,06 JUL 2013,50,295,71352,214,71402,https://worldathletics.org/records/competition-performance-rankings/ranking/551833
+215,549930,"Mesa Classic, Mesa, AZ",USA,05 APR 2013,05 APR 2013,100,219,71237,216,71337,https://worldathletics.org/records/competition-performance-rankings/ranking/549930
+216,550439,St-Denis-Réunion,FRA,20 APR 2013,20 APR 2013,295,133,71027,222,71322,https://worldathletics.org/records/competition-performance-rankings/ranking/550439
+217,550402,Marrakech,MAR,20 APR 2013,20 APR 2013,20,388,71269,215,71289,https://worldathletics.org/records/competition-performance-rankings/ranking/550402
+218,550877,"Pliezhausen Läufermeeting, Pliezhausen",GER,12 MAY 2013,12 MAY 2013,20,388,71229,217,71249,https://worldathletics.org/records/competition-performance-rankings/ranking/550877
+219,551494,"Middletown New York State Meet, Middletown, NY",USA,08 JUN 2013,08 JUN 2013,0,,71217,218,71217,https://worldathletics.org/records/competition-performance-rankings/ranking/551494
+220,551161,"Dubnica nad Váhom ECCC Group B, Dubnica nad Váhom",SVK,25 MAY 2013,25 MAY 2013,425,102,70774,233,71199,https://worldathletics.org/records/competition-performance-rankings/ranking/551161
+221,551552,"Salzburg Leichtathletik Gala, Salzburg",AUT,15 JUN 2013,15 JUN 2013,125,199,71069,219,71194,https://worldathletics.org/records/competition-performance-rankings/ranking/551552
+222,550292,"Mar del Plata GPS Justo Román, Mar del Plata",ARG,20 APR 2013,20 APR 2013,275,141,70830,231,71105,https://worldathletics.org/records/competition-performance-rankings/ranking/550292
+223,550543,"Lynchburg Liberty Twilight Qualifier, Lynchburg, VA",USA,01 MAY 2013,01 MAY 2013,45,306,71040,220,71085,https://worldathletics.org/records/competition-performance-rankings/ranking/550543
+224,550870,"San Antonio UIW Last Chance, San Antonio, TX",USA,12 MAY 2013,12 MAY 2013,45,306,71030,221,71075,https://worldathletics.org/records/competition-performance-rankings/ranking/550870
+225,551460,"Berkeley Golden West Invitational, Berkeley, CA",USA,09 JUN 2013,09 JUN 2013,85,240,70960,224,71045,https://worldathletics.org/records/competition-performance-rankings/ranking/551460
+226,550625,"Tallahassee Seminole Twilight, Tallahassee, FL",USA,03 MAY 2013,03 MAY 2013,70,254,70960,224,71030,https://worldathletics.org/records/competition-performance-rankings/ranking/550625
+227,550111,"Lincoln Nebraska Quadrangular, Lincoln, NE",USA,13 APR 2013,13 APR 2013,10,440,70963,223,70973,https://worldathletics.org/records/competition-performance-rankings/ranking/550111
+228,549540,"Eugene Oregon Preview, Eugene, OR",USA,16 MAR 2013,16 MAR 2013,65,265,70894,227,70959,https://worldathletics.org/records/competition-performance-rankings/ranking/549540
+229,550501,"Ithaca Big Red Outdoor Invitational, Ithaca, NY",USA,28 APR 2013,28 APR 2013,15,413,70925,226,70940,https://worldathletics.org/records/competition-performance-rankings/ranking/550501
+230,551485,"Allendale GVSU 2nd to Last Chance Meet, Allendale, MI",USA,10 MAY 2013,10 MAY 2013,360,118,70569,240,70929,https://worldathletics.org/records/competition-performance-rankings/ranking/551485
+231,550324,Potchefstroom,RSA,20 APR 2013,20 APR 2013,200,165,70700,237,70900,https://worldathletics.org/records/competition-performance-rankings/ranking/550324
+232,551004,"La Crosse NCAA Qualifier, La Crosse, WI",USA,17 MAY 2013,17 MAY 2013,0,,70889,228,70889,https://worldathletics.org/records/competition-performance-rankings/ranking/551004
+233,553378,"Greensbor 4A State Ch, Greensboro, NC",USA,18 MAY 2013,18 MAY 2013,0,,70874,229,70874,https://worldathletics.org/records/competition-performance-rankings/ranking/553378
+234,551625,"Schweinfurt Jugend-Gala, Schweinfurt",GER,22 JUN 2013,22 JUN 2013,0,,70832,230,70832,https://worldathletics.org/records/competition-performance-rankings/ranking/551625
+235,553560,"Waco UIL Region 2 5A, Waco, TX",USA,27 APR 2013,27 APR 2013,0,,70818,232,70818,https://worldathletics.org/records/competition-performance-rankings/ranking/553560
+236,551746,"Oyonnax Meeting National, Oyonnax",FRA,28 JUN 2013,28 JUN 2013,15,413,70769,234,70784,https://worldathletics.org/records/competition-performance-rankings/ranking/551746
+237,551303,"Kingston JAAA All-Comers Meet, Kingston",JAM,01 JUN 2013,01 JUN 2013,45,306,70716,236,70761,https://worldathletics.org/records/competition-performance-rankings/ranking/551303
+238,550581,"Seattle Dual Meet, Seattle, WA",USA,27 APR 2013,27 APR 2013,5,460,70755,235,70760,https://worldathletics.org/records/competition-performance-rankings/ranking/550581
+239,551809,"Viljandi Valter Kalami Memorial, Viljandi",EST,02 JUL 2013,02 JUL 2013,360,118,70379,247,70739,https://worldathletics.org/records/competition-performance-rankings/ranking/551809
+240,551272,"St. Pölten Liese Prokop Memorial, St. Pölten",AUT,30 MAY 2013,30 MAY 2013,280,138,70424,244,70704,https://worldathletics.org/records/competition-performance-rankings/ranking/551272
+241,549461,"Pretoria AGN League, Pretoria",RSA,02 MAR 2013,02 MAR 2013,30,345,70609,238,70639,https://worldathletics.org/records/competition-performance-rankings/ranking/549461
+242,553564,"Huntsville Region 3-4A, Huntsville, AL",USA,27 APR 2013,27 APR 2013,0,,70595,239,70595,https://worldathletics.org/records/competition-performance-rankings/ranking/553564
+243,550322,"Bloomington Polytan Invitational, Bloomington, IN",USA,20 APR 2013,20 APR 2013,105,216,70488,241,70593,https://worldathletics.org/records/competition-performance-rankings/ranking/550322
+244,550784,"St-Etienne French Club Championships, St-Etienne",FRA,05 MAY 2013,05 MAY 2013,350,122,70241,256,70591,https://worldathletics.org/records/competition-performance-rankings/ranking/550784
+245,552984,Stellenbosch,RSA,15 APR 2013,15 APR 2013,65,265,70466,242,70531,https://worldathletics.org/records/competition-performance-rankings/ranking/552984
+246,551122,"Brandbu Hyundai Grand Prix, Brandbu",NOR,22 MAY 2013,22 MAY 2013,125,199,70403,246,70528,https://worldathletics.org/records/competition-performance-rankings/ranking/551122
+246,552276,"Amsterdam Open, Amsterdam",NED,31 AUG 2013,31 AUG 2013,150,185,70378,248,70528,https://worldathletics.org/records/competition-performance-rankings/ranking/552276
+248,549908,"Santiago de Chile Grand Prix Sudamericano, Santiago de Chile",CHI,03 APR 2013,03 APR 2013,145,187,70374,249,70519,https://worldathletics.org/records/competition-performance-rankings/ranking/549908
+249,551120,"Basel Susanne Meier Memorial, Basel",SUI,20 MAY 2013,20 MAY 2013,70,254,70424,244,70494,https://worldathletics.org/records/competition-performance-rankings/ranking/551120
+250,549488,"Fullerton Ben Brown Invitational, Fullerton, CA",USA,09 MAR 2013,09 MAR 2013,5,460,70466,242,70471,https://worldathletics.org/records/competition-performance-rankings/ranking/549488
+251,550961,"Lee Valley British Athletics League, Lee Valley",GBR,11 MAY 2013,11 MAY 2013,125,199,70307,252,70432,https://worldathletics.org/records/competition-performance-rankings/ranking/550961
+252,549194,"Hobart Briggs Athletics Classic, Hobart",AUS,23 FEB 2013,23 FEB 2013,85,240,70326,251,70411,https://worldathletics.org/records/competition-performance-rankings/ranking/549194
+253,551978,"Birmingham Games, Birmingham",GBR,20 JUL 2013,20 JUL 2013,65,265,70339,250,70404,https://worldathletics.org/records/competition-performance-rankings/ranking/551978
+254,552254,"Kiev, Kyiv",UKR,27 JUN 2013,27 JUN 2013,145,187,70222,257,70367,https://worldathletics.org/records/competition-performance-rankings/ranking/552254
+255,549965,"Santiago de Chile Grand Prix Sudamericano, Santiago de Chile",CHI,06 APR 2013,06 APR 2013,100,219,70257,254,70357,https://worldathletics.org/records/competition-performance-rankings/ranking/549965
+256,551812,"Praha CZE-CRO-SLO-HUN Junior Match, Praha",CZE,03 JUL 2013,03 JUL 2013,5,460,70273,253,70278,https://worldathletics.org/records/competition-performance-rankings/ranking/551812
+257,549791,"San Antonio Trinity Tiger Relays, San Antonio, TX",USA,29 MAR 2013,29 MAR 2013,20,388,70251,255,70271,https://worldathletics.org/records/competition-performance-rankings/ranking/549791
+258,551859,"Halmstad Swedish Club Championships, Halmstad",SWE,06 JUL 2013,06 JUL 2013,210,160,70057,261,70267,https://worldathletics.org/records/competition-performance-rankings/ranking/551859
+259,553157,"Den Haag Dutch Club Championships, Den Haag",NED,02 JUN 2013,02 JUN 2013,140,192,70111,260,70251,https://worldathletics.org/records/competition-performance-rankings/ranking/553157
+260,551728,Vénissieux,FRA,23 JUN 2013,23 JUN 2013,25,366,70211,258,70236,https://worldathletics.org/records/competition-performance-rankings/ranking/551728
+261,549607,"Jacksonville Bob Hayes Invitational HS, Jacksonville, FL",USA,16 MAR 2013,16 MAR 2013,0,,70121,259,70121,https://worldathletics.org/records/competition-performance-rankings/ranking/549607
+262,552013,Minsk,BLR,18 JUL 2013,18 JUL 2013,95,227,69933,264,70028,https://worldathletics.org/records/competition-performance-rankings/ranking/552013
+263,550323,"Iowa City Musco Invitational, Iowa City, IA",USA,20 APR 2013,20 APR 2013,35,333,69951,262,69986,https://worldathletics.org/records/competition-performance-rankings/ranking/550323
+264,550785,"Levelland South Plains College Open, Levelland, TX",USA,04 MAY 2013,04 MAY 2013,25,366,69942,263,69967,https://worldathletics.org/records/competition-performance-rankings/ranking/550785
+265,553680,"Melbourne Zatopek:10, Melbourne",AUS,12 DEC 2013,12 DEC 2013,65,265,69864,266,69929,https://worldathletics.org/records/competition-performance-rankings/ranking/553680
+266,550838,"Emporia Sam Williams Twilight Qualifier, Emporia, KS",USA,11 MAY 2013,11 MAY 2013,0,,69913,265,69913,https://worldathletics.org/records/competition-performance-rankings/ranking/550838
+267,552267,"Espoo Challenge, Espoo",FIN,02 JUN 2013,02 JUN 2013,80,246,69795,269,69875,https://worldathletics.org/records/competition-performance-rankings/ranking/552267
+268,553667,"Winston Salem JDL College Kick-off, Winston Salem, NC",USA,07 DEC 2013,07 DEC 2013,25,366,69830,267,69855,https://worldathletics.org/records/competition-performance-rankings/ranking/553667
+269,550933,"Basel Hürden- und Sprint-Meeting, Basel",SUI,11 MAY 2013,11 MAY 2013,15,413,69810,268,69825,https://worldathletics.org/records/competition-performance-rankings/ranking/550933
+270,549671,"Coral Gables Miami Invitational, Coral Gables, FL",USA,23 MAR 2013,23 MAR 2013,50,295,69758,270,69808,https://worldathletics.org/records/competition-performance-rankings/ranking/549671
+271,551048,"St-Etienne French Club Championships, St-Etienne",FRA,19 MAY 2013,19 MAY 2013,65,265,69702,271,69767,https://worldathletics.org/records/competition-performance-rankings/ranking/551048
+272,550401,"Mar del Plata Grand Prix Sudamericano, Mar del Plata",ARG,22 APR 2013,22 APR 2013,290,134,69448,279,69738,https://worldathletics.org/records/competition-performance-rankings/ranking/550401
+273,549998,"Louisville Bellarmine Invitational, Louisville, KY",USA,06 APR 2013,06 APR 2013,5,460,69698,272,69703,https://worldathletics.org/records/competition-performance-rankings/ranking/549998
+274,551771,"Lier Memorial Jos Verstockt, Lier",BEL,30 JUN 2013,30 JUN 2013,185,168,69482,275,69667,https://worldathletics.org/records/competition-performance-rankings/ranking/551771
+275,552148,"Huizingen Allonsius Sport Meeting, Huizingen",BEL,10 AUG 2013,10 AUG 2013,45,306,69616,273,69661,https://worldathletics.org/records/competition-performance-rankings/ranking/552148
+276,548911,"Kingston Camperdown Classic, Kingston",JAM,09 FEB 2013,09 FEB 2013,330,125,69320,284,69650,https://worldathletics.org/records/competition-performance-rankings/ranking/548911
+277,550499,"Troy Coach ""O"" Invitational, Troy, AL",USA,26 APR 2013,27 APR 2013,5,460,69493,274,69498,https://worldathletics.org/records/competition-performance-rankings/ranking/550499
+278,550106,"Salt Lake City Utah Spring Classic, Salt Lake City, UT",USA,12 APR 2013,12 APR 2013,15,413,69482,275,69497,https://worldathletics.org/records/competition-performance-rankings/ranking/550106
+279,550300,"Lexington Heart of the Bluegrass Classic, Lexington, KY",USA,20 APR 2013,20 APR 2013,15,413,69478,277,69493,https://worldathletics.org/records/competition-performance-rankings/ranking/550300
+280,549732,"San Francisco Johnny Mathis Invitational, San Francisco, CA",USA,22 MAR 2013,23 MAR 2013,0,,69458,278,69458,https://worldathletics.org/records/competition-performance-rankings/ranking/549732
+281,550829,"Langenthal Auffahrts-Meeting, Langenthal",SUI,09 MAY 2013,09 MAY 2013,30,345,69417,281,69447,https://worldathletics.org/records/competition-performance-rankings/ranking/550829
+282,549806,"Pittsburgh Wendy's Open, Pittsburgh, PA",USA,30 MAR 2013,30 MAR 2013,0,,69430,280,69430,https://worldathletics.org/records/competition-performance-rankings/ranking/549806
+283,548863,"Hamilton Porritt Classic, Hamilton",NZL,09 FEB 2013,09 FEB 2013,65,265,69320,284,69385,https://worldathletics.org/records/competition-performance-rankings/ranking/548863
+284,550199,"Norfolk State Relays, Norfolk, VA",USA,13 APR 2013,13 APR 2013,0,,69369,282,69369,https://worldathletics.org/records/competition-performance-rankings/ranking/550199
+285,549925,"Clinton Twilight Meet, Clinton, MS",USA,05 APR 2013,05 APR 2013,0,,69338,283,69338,https://worldathletics.org/records/competition-performance-rankings/ranking/549925
+286,549256,"Sao Paulo Torneio FPA, São Paulo",BRA,23 FEB 2013,23 FEB 2013,90,234,69243,290,69333,https://worldathletics.org/records/competition-performance-rankings/ranking/549256
+287,550645,"Madison Wisconsin Open, Madison, WI",USA,04 MAY 2013,04 MAY 2013,35,333,69268,286,69303,https://worldathletics.org/records/competition-performance-rankings/ranking/550645
+287,552072,Thiva,GRE,24 JUL 2013,24 JUL 2013,40,318,69263,287,69303,https://worldathletics.org/records/competition-performance-rankings/ranking/552072
+289,550656,"Sacramento State Open, Sacramento, CA",USA,04 MAY 2013,04 MAY 2013,40,318,69249,288,69289,https://worldathletics.org/records/competition-performance-rankings/ranking/550656
+290,550648,"Seattle Ken Shannon Invitational, Seattle, WA",USA,04 MAY 2013,04 MAY 2013,30,345,69244,289,69274,https://worldathletics.org/records/competition-performance-rankings/ranking/550648
+291,551702,Bottrop,GER,22 JUN 2013,22 JUN 2013,30,345,69223,292,69253,https://worldathletics.org/records/competition-performance-rankings/ranking/551702
+292,548903,"Montego Bay Milo Western Relays, Montego Bay",JAM,09 FEB 2013,09 FEB 2013,0,,69243,290,69243,https://worldathletics.org/records/competition-performance-rankings/ranking/548903
+293,550802,"Abilene ACU Oliver Jackson Twilight, Abilene, TX",USA,08 MAY 2013,08 MAY 2013,25,366,69217,293,69242,https://worldathletics.org/records/competition-performance-rankings/ranking/550802
+294,551818,Minsk,BLR,28 JUN 2013,28 JUN 2013,160,181,69078,298,69238,https://worldathletics.org/records/competition-performance-rankings/ranking/551818
+295,550105,"Irvine Big West Challenge, Irvine, CA",USA,12 APR 2013,12 APR 2013,0,,69217,293,69217,https://worldathletics.org/records/competition-performance-rankings/ranking/550105
+296,553413,"Jacksonville FHSAA 4A State Finals, Jacksonville, FL",USA,04 MAY 2013,04 MAY 2013,0,,69193,295,69193,https://worldathletics.org/records/competition-performance-rankings/ranking/553413
+297,550801,Olomouc,CZE,08 MAY 2013,08 MAY 2013,95,227,69080,297,69175,https://worldathletics.org/records/competition-performance-rankings/ranking/550801
+298,549775,"Orem Utah Valley Collegiate, Orem, UT",USA,29 MAR 2013,29 MAR 2013,0,,69170,296,69170,https://worldathletics.org/records/competition-performance-rankings/ranking/549775
+299,549539,"Sao Paulo, São Paulo",BRA,16 MAR 2013,17 MAR 2013,90,234,69072,299,69162,https://worldathletics.org/records/competition-performance-rankings/ranking/549539
+300,551687,Plasencia,ESP,19 JUN 2013,19 JUN 2013,55,282,69058,300,69113,https://worldathletics.org/records/competition-performance-rankings/ranking/551687
+301,552581,Caprino Veronese,ITA,08 JUN 2013,08 JUN 2013,20,388,69047,301,69067,https://worldathletics.org/records/competition-performance-rankings/ranking/552581
+302,551295,"Hulst Pinkster Atletiekgala, Hulst",NED,20 MAY 2013,20 MAY 2013,75,251,68976,303,69051,https://worldathletics.org/records/competition-performance-rankings/ranking/551295
+303,553384,"Richmond, VA",USA,10 MAY 2013,10 MAY 2013,0,,69027,302,69027,https://worldathletics.org/records/competition-performance-rankings/ranking/553384
+304,549795,"Fort Collins Fum McGraw Quadrangular, Fort Collins, CO",USA,30 MAR 2013,30 MAR 2013,20,388,68964,304,68984,https://worldathletics.org/records/competition-performance-rankings/ranking/549795
+304,551709,"Belfast Mary Peters Track Int. Opening Event, Belfast",GBR,25 JUN 2013,25 JUN 2013,50,295,68934,306,68984,https://worldathletics.org/records/competition-performance-rankings/ranking/551709
+306,551376,"Florø Hyundai Grand Prix, Florø",NOR,08 JUN 2013,08 JUN 2013,475,97,68493,318,68968,https://worldathletics.org/records/competition-performance-rankings/ranking/551376
+307,550444,"Davis Causeway Classic Dual Meet, Davis, CA",USA,26 APR 2013,26 APR 2013,0,,68949,305,68949,https://worldathletics.org/records/competition-performance-rankings/ranking/550444
+308,552252,"Tartu Gustav Sule Memorial, Tartu",EST,28 MAY 2013,28 MAY 2013,250,148,68677,313,68927,https://worldathletics.org/records/competition-performance-rankings/ranking/552252
+309,550808,"Saint-Niklaas Int. Peugeotmeeting, Sint-Niklaas",BEL,09 MAY 2013,09 MAY 2013,40,318,68840,307,68880,https://worldathletics.org/records/competition-performance-rankings/ranking/550808
+310,550259,"Hammond Southeastern Lion Invitational, Hammond, LA",USA,19 APR 2013,19 APR 2013,50,295,68829,308,68879,https://worldathletics.org/records/competition-performance-rankings/ranking/550259
+311,551972,Orvieto,ITA,19 JUL 2013,19 JUL 2013,65,265,68779,310,68844,https://worldathletics.org/records/competition-performance-rankings/ranking/551972
+312,553557,"Arlington Region 2-4A, Arlington, TX",USA,27 APR 2013,27 APR 2013,0,,68790,309,68790,https://worldathletics.org/records/competition-performance-rankings/ranking/553557
+313,553612,"Boca Raton 4A Region 3, Boca Raton, FL",USA,25 APR 2013,25 APR 2013,0,,68745,311,68745,https://worldathletics.org/records/competition-performance-rankings/ranking/553612
+314,550685,"Lincoln Nebraska Invitational, Lincoln, NE",USA,05 MAY 2013,05 MAY 2013,10,440,68710,312,68720,https://worldathletics.org/records/competition-performance-rankings/ranking/550685
+315,551044,"Montbéliard French Club Championships, Montbéliard",FRA,19 MAY 2013,19 MAY 2013,25,366,68613,314,68638,https://worldathletics.org/records/competition-performance-rankings/ranking/551044
+316,551760,"Praha Czech Club Championships, Praha",CZE,30 JUN 2013,30 JUN 2013,40,318,68568,315,68608,https://worldathletics.org/records/competition-performance-rankings/ranking/551760
+317,551595,"Ingolstadt MTV Meet-IN, Ingolstadt",GER,21 JUN 2013,21 JUN 2013,180,171,68424,320,68604,https://worldathletics.org/records/competition-performance-rankings/ranking/551595
+318,551826,"Budapest Honvéd Kupa, Budapest",HUN,05 JUL 2013,05 JUL 2013,15,413,68549,316,68564,https://worldathletics.org/records/competition-performance-rankings/ranking/551826
+319,552471,"Kentwood MI D1 State Meet, Grand Rapids, MI",USA,01 JUN 2013,01 JUN 2013,0,,68497,317,68497,https://worldathletics.org/records/competition-performance-rankings/ranking/552471
+320,553394,"Clovis Buchanan HS, Clovis, CA",USA,21 MAY 2013,21 MAY 2013,0,,68479,319,68479,https://worldathletics.org/records/competition-performance-rankings/ranking/553394
+321,552586,"Basel Swiss Club Championships, Basel",SUI,21 SEP 2013,21 SEP 2013,50,295,68410,322,68460,https://worldathletics.org/records/competition-performance-rankings/ranking/552586
+322,552270,"Winter Park USATF Region 4 Junior Olympics, Winter Park, FL",USA,07 JUL 2013,07 JUL 2013,0,,68414,321,68414,https://worldathletics.org/records/competition-performance-rankings/ranking/552270
+323,551525,Sosnowiec,POL,15 JUN 2013,15 JUN 2013,30,345,68337,323,68367,https://worldathletics.org/records/competition-performance-rankings/ranking/551525
+324,553813,Sydney,AUS,21 DEC 2013,21 DEC 2013,40,318,68280,324,68320,https://worldathletics.org/records/competition-performance-rankings/ranking/553813
+325,553408,"Provo BYU HS Invitational, Provo, UT",USA,01 MAY 2013,04 MAY 2013,0,,68262,325,68262,https://worldathletics.org/records/competition-performance-rankings/ranking/553408
+326,550278,"Lewisburg Bucknell Team Challenge, Lewisburg, PA",USA,20 APR 2013,20 APR 2013,0,,68218,326,68218,https://worldathletics.org/records/competition-performance-rankings/ranking/550278
+326,551598,Nogent-sur-Marne,FRA,16 JUN 2013,16 JUN 2013,10,440,68208,327,68218,https://worldathletics.org/records/competition-performance-rankings/ranking/551598
+328,550301,"Normal Redbird Invitational, Normal, IL",USA,20 APR 2013,20 APR 2013,40,318,68138,328,68178,https://worldathletics.org/records/competition-performance-rankings/ranking/550301
+329,551466,Lisboa,POR,02 JUN 2013,02 JUN 2013,30,345,68038,329,68068,https://worldathletics.org/records/competition-performance-rankings/ranking/551466
+330,553400,"Gladbeck BORSIG-Meeting, Gladbeck",GER,18 MAY 2013,18 MAY 2013,15,413,68028,330,68043,https://worldathletics.org/records/competition-performance-rankings/ranking/553400
+331,551414,"Lausanne Swiss Club Championships, Lausanne",SUI,08 JUN 2013,08 JUN 2013,60,277,67977,335,68037,https://worldathletics.org/records/competition-performance-rankings/ranking/551414
+332,550175,"Walnut Mt. SAC Relays CC, Walnut, CA",USA,13 APR 2013,13 APR 2013,0,,68019,331,68019,https://worldathletics.org/records/competition-performance-rankings/ranking/550175
+333,550939,"Swarthmore Swarthmore Final Qualifier, Swarthmore, PA",USA,13 MAY 2013,13 MAY 2013,0,,68009,332,68009,https://worldathletics.org/records/competition-performance-rankings/ranking/550939
+334,549794,"Boone Dual Meet, Boone, NC",USA,30 MAR 2013,30 MAR 2013,0,,68008,333,68008,https://worldathletics.org/records/competition-performance-rankings/ranking/549794
+335,550451,Modena,ITA,25 APR 2013,25 APR 2013,5,460,67986,334,67991,https://worldathletics.org/records/competition-performance-rankings/ranking/550451
+336,549928,Khouribga,MAR,30 MAR 2013,30 MAR 2013,70,254,67903,338,67973,https://worldathletics.org/records/competition-performance-rankings/ranking/549928
+337,549556,"Lake Charles Cowboy Invitational, Lake Charles, LA",USA,09 MAR 2013,09 MAR 2013,5,460,67933,336,67938,https://worldathletics.org/records/competition-performance-rankings/ranking/549556
+338,549952,"San Marcos Mangrum Invitational, San Marcos, TX",USA,06 APR 2013,06 APR 2013,10,440,67914,337,67924,https://worldathletics.org/records/competition-performance-rankings/ranking/549952
+339,549973,"Salem Willamette Invitational, Salem, OR",USA,06 APR 2013,06 APR 2013,0,,67885,339,67885,https://worldathletics.org/records/competition-performance-rankings/ranking/549973
+340,549294,"Kingston Gibson Relays, Kingston",JAM,23 FEB 2013,23 FEB 2013,0,,67873,340,67873,https://worldathletics.org/records/competition-performance-rankings/ranking/549294
+341,550789,"Aix-en-Provence French Club Championships, Aix-en-Provence",FRA,05 MAY 2013,05 MAY 2013,90,234,67733,342,67823,https://worldathletics.org/records/competition-performance-rankings/ranking/550789
+342,551952,"Shippensburg Paul Kaiser Classic, Shippensburg, PA",USA,27 APR 2013,27 APR 2013,0,,67809,341,67809,https://worldathletics.org/records/competition-performance-rankings/ranking/551952
+343,550698,"Bruxelles Grand Prix Fernand Mingels, Bruxelles",BEL,05 MAY 2013,05 MAY 2013,145,187,67663,348,67808,https://worldathletics.org/records/competition-performance-rankings/ranking/550698
+344,552092,"Fribourg Swiss Meeting, Fribourg",SUI,03 AUG 2013,03 AUG 2013,140,192,67610,353,67750,https://worldathletics.org/records/competition-performance-rankings/ranking/552092
+345,549981,"Sacramento American River Invitational, Sacramento, CA",USA,06 APR 2013,06 APR 2013,0,,67731,343,67731,https://worldathletics.org/records/competition-performance-rankings/ranking/549981
+346,550144,"Providence Brown Invitational, Providence, RI",USA,13 APR 2013,13 APR 2013,0,,67722,344,67722,https://worldathletics.org/records/competition-performance-rankings/ranking/550144
+347,553478,"Roswell 6A Sectional A, Roswell, GA",USA,27 APR 2013,27 APR 2013,0,,67690,345,67690,https://worldathletics.org/records/competition-performance-rankings/ranking/553478
+348,549023,Pretoria,RSA,09 FEB 2013,09 FEB 2013,10,440,67665,347,67675,https://worldathletics.org/records/competition-performance-rankings/ranking/549023
+348,553723,"Roxbury Jay Carisella Invitational, Roxbury, MA",USA,14 DEC 2013,14 DEC 2013,20,388,67655,349,67675,https://worldathletics.org/records/competition-performance-rankings/ranking/553723
+350,550832,"La Crosse Eagle Open, La Crosse, WI",USA,10 MAY 2013,10 MAY 2013,0,,67671,346,67671,https://worldathletics.org/records/competition-performance-rankings/ranking/550832
+351,551861,"Wigan UK Women's League, Wigan",GBR,06 JUL 2013,06 JUL 2013,25,366,67637,350,67662,https://worldathletics.org/records/competition-performance-rankings/ranking/551861
+352,550150,"Pittsburg Gorilla Classic, Pittsburgh, PA",USA,13 APR 2013,13 APR 2013,0,,67631,351,67631,https://worldathletics.org/records/competition-performance-rankings/ranking/550150
+353,553425,"Baton Rouge LAHSAA 5A State Meet, Baton Rouge, LA",USA,04 MAY 2013,04 MAY 2013,0,,67630,352,67630,https://worldathletics.org/records/competition-performance-rankings/ranking/553425
+354,553703,Singapore,SGP,23 JUN 2013,23 JUN 2013,15,413,67605,355,67620,https://worldathletics.org/records/competition-performance-rankings/ranking/553703
+355,549611,"Tampa Steinbrenner Invitational, Tampa, FL",USA,16 MAR 2013,16 MAR 2013,0,,67608,354,67608,https://worldathletics.org/records/competition-performance-rankings/ranking/549611
+356,551847,"Vitoria Gran Premio Diputacion, Vitoria",ESP,06 JUL 2013,06 JUL 2013,25,366,67519,356,67544,https://worldathletics.org/records/competition-performance-rankings/ranking/551847
+357,549544,"Ruston Jim Mize Invitational, Ruston, LA",USA,16 MAR 2013,16 MAR 2013,20,388,67477,358,67497,https://worldathletics.org/records/competition-performance-rankings/ranking/549544
+358,549748,"San Diego Mt. Carmel Invitational, San Diego, CA",USA,23 MAR 2013,23 MAR 2013,0,,67492,357,67492,https://worldathletics.org/records/competition-performance-rankings/ranking/549748
+359,551678,Keuruu,FIN,21 JUN 2013,21 JUN 2013,20,388,67451,359,67471,https://worldathletics.org/records/competition-performance-rankings/ranking/551678
+360,548503,"Wellington Capital Classic, Wellington",NZL,25 JAN 2013,25 JAN 2013,20,388,67395,360,67415,https://worldathletics.org/records/competition-performance-rankings/ranking/548503
+361,553396,"Kaiserslautern Pokal der Freundschaft, Kaiserslautern",GER,09 MAY 2013,09 MAY 2013,15,413,67371,361,67386,https://worldathletics.org/records/competition-performance-rankings/ranking/553396
+362,550799,"Namur Athletissima, Namur",BEL,08 MAY 2013,08 MAY 2013,110,209,67255,363,67365,https://worldathletics.org/records/competition-performance-rankings/ranking/550799
+363,551058,"Lokeren Grote Prijs, Lokeren",BEL,19 MAY 2013,19 MAY 2013,25,366,67324,362,67349,https://worldathletics.org/records/competition-performance-rankings/ranking/551058
+364,553814,"Columbia Taco Bell Classic, Columbia, SC",USA,13 APR 2013,13 APR 2013,0,,67239,364,67239,https://worldathletics.org/records/competition-performance-rankings/ranking/553814
+365,551974,"Köngen Abendsportfest, Köngen",GER,17 JUL 2013,17 JUL 2013,20,388,67218,365,67238,https://worldathletics.org/records/competition-performance-rankings/ranking/551974
+366,551573,"Rakvere Estonian Cup, Rakvere",EST,16 JUN 2013,16 JUN 2013,40,318,67116,367,67156,https://worldathletics.org/records/competition-performance-rankings/ranking/551573
+367,551027,"Spanish Club Championships, Sabadell",ESP,18 MAY 2013,18 MAY 2013,70,254,67085,369,67155,https://worldathletics.org/records/competition-performance-rankings/ranking/551027
+368,553511,"Abilene Texas Region 1-4A, Abilene, TX",USA,27 APR 2013,27 APR 2013,0,,67153,366,67153,https://worldathletics.org/records/competition-performance-rankings/ranking/553511
+369,549021,"Brisbane Glynis Nunn Shield, Brisbane",AUS,09 FEB 2013,09 FEB 2013,0,,67096,368,67096,https://worldathletics.org/records/competition-performance-rankings/ranking/549021
+370,550621,"Huntsville SHSU Twilight, Huntsville, TX",USA,02 MAY 2013,02 MAY 2013,15,413,67078,370,67093,https://worldathletics.org/records/competition-performance-rankings/ranking/550621
+371,549660,"San Luis Obispo Cal Poly Invitational, San Luis Obispo, CA",USA,16 MAR 2013,16 MAR 2013,180,171,66877,379,67057,https://worldathletics.org/records/competition-performance-rankings/ranking/549660
+372,549807,"College Park Maryland Invitational, College Park, MD",USA,30 MAR 2013,30 MAR 2013,0,,67041,371,67041,https://worldathletics.org/records/competition-performance-rankings/ranking/549807
+373,550122,"Amherst Minuteman Invitational, Amherst, MA",USA,13 APR 2013,13 APR 2013,0,,67037,372,67037,https://worldathletics.org/records/competition-performance-rankings/ranking/550122
+374,551507,"Ried Leichathletiknacht, Ried im Innkreis",AUT,14 JUN 2013,14 JUN 2013,100,219,66927,376,67027,https://worldathletics.org/records/competition-performance-rankings/ranking/551507
+375,550886,"Bönnigheim Sportfest, Bönnigheim",GER,09 MAY 2013,09 MAY 2013,65,265,66959,374,67024,https://worldathletics.org/records/competition-performance-rankings/ranking/550886
+376,551600,"Amherst D1 Region 2, Amherst, OH",USA,31 MAY 2013,31 MAY 2013,0,,66996,373,66996,https://worldathletics.org/records/competition-performance-rankings/ranking/551600
+377,551682,"Modena Memorial Mario Ansaloni, Modena",ITA,22 JUN 2013,22 JUN 2013,10,440,66942,375,66952,https://worldathletics.org/records/competition-performance-rankings/ranking/551682
+378,550834,"Meadville Gator Invitational, Meadville, PA",USA,10 MAY 2013,10 MAY 2013,25,366,66912,377,66937,https://worldathletics.org/records/competition-performance-rankings/ranking/550834
+379,553579,"San Antonio Region 4-5A, San Antonio, TX",USA,27 APR 2013,27 APR 2013,0,,66884,378,66884,https://worldathletics.org/records/competition-performance-rankings/ranking/553579
+380,551933,"Mount Pleasant CMU Lyle Bennett Open, Mount Pleasant, MI",USA,27 APR 2013,27 APR 2013,15,413,66867,380,66882,https://worldathletics.org/records/competition-performance-rankings/ranking/551933
+381,551934,Avila,ESP,14 JUL 2013,14 JUL 2013,25,366,66848,382,66873,https://worldathletics.org/records/competition-performance-rankings/ranking/551934
+382,552257,"Pardubice Czech Club Championships, Pardubice",CZE,25 AUG 2013,25 AUG 2013,105,216,66760,388,66865,https://worldathletics.org/records/competition-performance-rankings/ranking/552257
+383,553872,"Trabuco Hills Invitational and Distance Carnival, Trabuco Hills",USA,30 MAR 2013,30 MAR 2013,0,,66863,381,66863,https://worldathletics.org/records/competition-performance-rankings/ranking/553872
+384,551385,"Burgos Spanish Club Championships, Burgos",ESP,08 JUN 2013,08 JUN 2013,0,,66847,383,66847,https://worldathletics.org/records/competition-performance-rankings/ranking/551385
+385,549372,"Palo Alto Stanford Opener, Palo Alto, CA",USA,02 MAR 2013,02 MAR 2013,0,,66835,384,66835,https://worldathletics.org/records/competition-performance-rankings/ranking/549372
+386,550134,"New Haven Harvard vs. Yale, New Haven, CT",USA,13 APR 2013,13 APR 2013,0,,66828,385,66828,https://worldathletics.org/records/competition-performance-rankings/ranking/550134
+387,550143,"Air Force Academy Triangular, Air Force Academy",USA,12 APR 2013,12 APR 2013,0,,66790,386,66790,https://worldathletics.org/records/competition-performance-rankings/ranking/550143
+388,549510,"Birmingham Southern Invitational, Birmingham, AL",USA,08 MAR 2013,09 MAR 2013,10,440,66778,387,66788,https://worldathletics.org/records/competition-performance-rankings/ranking/549510
+389,550824,"Seward Concordia Twilight, Seward, NE",USA,10 MAY 2013,10 MAY 2013,0,,66760,388,66760,https://worldathletics.org/records/competition-performance-rankings/ranking/550824
+390,553670,"Mission Viejo HS, Mission Viejo, CA",USA,20 APR 2013,20 APR 2013,0,,66738,390,66738,https://worldathletics.org/records/competition-performance-rankings/ranking/553670
+391,550162,"Chapel Hill Joe Hilton Invitational, Chapel Hill, NC",USA,13 APR 2013,13 APR 2013,5,460,66729,391,66734,https://worldathletics.org/records/competition-performance-rankings/ranking/550162
+392,551301,"Modena Memorial Roberto Goldoni - Franco Benetti, Modena",ITA,01 JUN 2013,01 JUN 2013,50,295,66670,394,66720,https://worldathletics.org/records/competition-performance-rankings/ranking/551301
+393,551016,"Hodonín Czech Club Championships, Hodonín",CZE,18 MAY 2013,18 MAY 2013,0,,66718,392,66718,https://worldathletics.org/records/competition-performance-rankings/ranking/551016
+394,552255,"Kiev, Kyiv",UKR,14 JUN 2013,14 JUN 2013,100,219,66602,399,66702,https://worldathletics.org/records/competition-performance-rankings/ranking/552255
+395,551836,"Eton British Athletics League, Eton",GBR,06 JUL 2013,06 JUL 2013,15,413,66682,393,66697,https://worldathletics.org/records/competition-performance-rankings/ranking/551836
+396,549169,Sydney,AUS,16 FEB 2013,16 FEB 2013,0,,66658,395,66658,https://worldathletics.org/records/competition-performance-rankings/ranking/549169
+397,550940,"Manhattan Ward Haylett Inv, Manhattan, KS",USA,11 MAY 2013,11 MAY 2013,115,206,66536,404,66651,https://worldathletics.org/records/competition-performance-rankings/ranking/550940
+398,550544,"Bar International Meeting, Bar",MNE,01 MAY 2013,01 MAY 2013,80,246,66562,402,66642,https://worldathletics.org/records/competition-performance-rankings/ranking/550544
+399,553648,"Southwest Ranches FHSAA Class 3A, Southwest Ranches, FL",USA,24 APR 2013,24 APR 2013,0,,66640,396,66640,https://worldathletics.org/records/competition-performance-rankings/ranking/553648
+400,552269,"Nové Zámky Slovakian Club Championships, Nové Zámky",SVK,29 AUG 2013,29 AUG 2013,175,175,66464,407,66639,https://worldathletics.org/records/competition-performance-rankings/ranking/552269
+401,551610,"Pickerington D1 Region 3, Pickerington, OH",USA,31 MAY 2013,31 MAY 2013,0,,66629,397,66629,https://worldathletics.org/records/competition-performance-rankings/ranking/551610
+402,551121,"Zofingen Pfingstmeeting, Zofingen",SUI,18 MAY 2013,18 MAY 2013,10,440,66606,398,66616,https://worldathletics.org/records/competition-performance-rankings/ranking/551121
+403,553820,"Buchanan West Coast Relays, Clovis, CA",USA,13 APR 2013,13 APR 2013,0,,66592,400,66592,https://worldathletics.org/records/competition-performance-rankings/ranking/553820
+404,551031,"Valladolid Spanish Club Championships, Valladolid",ESP,18 MAY 2013,18 MAY 2013,230,154,66359,412,66589,https://worldathletics.org/records/competition-performance-rankings/ranking/551031
+405,553699,"Waco Midway HS, Waco, TX",USA,19 APR 2013,19 APR 2013,0,,66569,401,66569,https://worldathletics.org/records/competition-performance-rankings/ranking/553699
+406,552587,"Brno European Junior Club Championships, Brno",CZE,21 SEP 2013,21 SEP 2013,15,413,66545,403,66560,https://worldathletics.org/records/competition-performance-rankings/ranking/552587
+407,551030,"Spanish Club Championships, Zaragoza",ESP,18 MAY 2013,18 MAY 2013,15,413,66499,405,66514,https://worldathletics.org/records/competition-performance-rankings/ranking/551030
+408,550290,"Bambous Mauritius International Meet, Bambous",MRI,18 APR 2013,19 APR 2013,130,198,66360,411,66490,https://worldathletics.org/records/competition-performance-rankings/ranking/550290
+409,553369,"Boise Idaho 5A State Ch, Boise, ID",USA,18 MAY 2013,18 MAY 2013,0,,66480,406,66480,https://worldathletics.org/records/competition-performance-rankings/ranking/553369
+410,550494,"New Haven Yale Springtime Invitational, New Haven, CT",USA,28 APR 2013,28 APR 2013,10,440,66436,408,66446,https://worldathletics.org/records/competition-performance-rankings/ranking/550494
+411,550692,"Rovereto Quercia d'Oro, Rovereto",ITA,05 MAY 2013,05 MAY 2013,5,460,66400,410,66405,https://worldathletics.org/records/competition-performance-rankings/ranking/550692
+412,549356,"Irvine All-Cal Challenge Cup, Irvine, CA",USA,02 MAR 2013,02 MAR 2013,0,,66402,409,66402,https://worldathletics.org/records/competition-performance-rankings/ranking/549356
+413,550836,"Split International Meeting, Split",CRO,11 MAY 2013,11 MAY 2013,140,192,66248,416,66388,https://worldathletics.org/records/competition-performance-rankings/ranking/550836
+414,551352,Tilburg,NED,20 MAY 2013,20 MAY 2013,5,460,66338,413,66343,https://worldathletics.org/records/competition-performance-rankings/ranking/551352
+415,550180,"Platteville UWP Invitational, Platteville, WI",USA,13 APR 2013,13 APR 2013,0,,66337,414,66337,https://worldathletics.org/records/competition-performance-rankings/ranking/550180
+416,551412,"Lausanne Swiss Club Championships, Lausanne",SUI,08 JUN 2013,08 JUN 2013,50,295,66230,417,66280,https://worldathletics.org/records/competition-performance-rankings/ranking/551412
+417,548796,"Kingston Youngster Goldsmith, Kingston",JAM,02 FEB 2013,02 FEB 2013,0,,66256,415,66256,https://worldathletics.org/records/competition-performance-rankings/ranking/548796
+418,553674,"San José HS, San José",USA,19 APR 2013,19 APR 2013,0,,66228,418,66228,https://worldathletics.org/records/competition-performance-rankings/ranking/553674
+419,551599,"Austintown D1 Region 1, Austintown, OH",USA,31 MAY 2013,31 MAY 2013,0,,66222,419,66222,https://worldathletics.org/records/competition-performance-rankings/ranking/551599
+420,551280,"Zagreb Int. Meeting, Zagreb",CRO,01 JUN 2013,01 JUN 2013,50,295,66166,422,66216,https://worldathletics.org/records/competition-performance-rankings/ranking/551280
+421,549787,"Missoula Al Manuel Invitational, Missoula, MT",USA,30 MAR 2013,30 MAR 2013,0,,66212,420,66212,https://worldathletics.org/records/competition-performance-rankings/ranking/549787
+422,550548,"Ogden Weber State Twilight Open, Ogden, UT",USA,01 MAY 2013,01 MAY 2013,20,388,66184,421,66204,https://worldathletics.org/records/competition-performance-rankings/ranking/550548
+423,549895,"Spanish Town G.C. Foster Classic, Spanish Town",JAM,09 MAR 2013,09 MAR 2013,50,295,66003,423,66053,https://worldathletics.org/records/competition-performance-rankings/ranking/549895
+424,567236,Kessel-Lo,BEL,11 MAY 2013,11 MAY 2013,55,282,65922,426,65977,https://worldathletics.org/records/competition-performance-rankings/ranking/567236
+425,550634,"Laramie Cowpoke Open, Laramie, WY",USA,03 MAY 2013,03 MAY 2013,30,345,65927,425,65957,https://worldathletics.org/records/competition-performance-rankings/ranking/550634
+426,553599,"Reedley Invitaional, Reedley, CA",USA,26 APR 2013,26 APR 2013,0,,65950,424,65950,https://worldathletics.org/records/competition-performance-rankings/ranking/553599
+427,550796,"Moscow Idaho Vandal Jamboree, Moscow, ID",USA,03 MAY 2013,04 MAY 2013,20,388,65903,428,65923,https://worldathletics.org/records/competition-performance-rankings/ranking/550796
+428,550445,"Lisle Twilight Invite Benedictine University, Lisle, IL",USA,26 APR 2013,26 APR 2013,0,,65912,427,65912,https://worldathletics.org/records/competition-performance-rankings/ranking/550445
+429,549971,"Ithaca Dual Meet, Ithaca, NY",USA,06 APR 2013,06 APR 2013,10,440,65885,429,65895,https://worldathletics.org/records/competition-performance-rankings/ranking/549971
+430,552199,"Langenthal Abendmeeting, Langenthal",SUI,21 AUG 2013,21 AUG 2013,35,333,65819,430,65854,https://worldathletics.org/records/competition-performance-rankings/ranking/552199
+431,549530,"Winfield Southwestern Invitational, Winfield, KS",USA,14 MAR 2013,14 MAR 2013,15,413,65811,431,65826,https://worldathletics.org/records/competition-performance-rankings/ranking/549530
+432,550261,"Binghamton-Buffalo-Cornell, Binghamton, NY",USA,19 APR 2013,19 APR 2013,10,440,65768,432,65778,https://worldathletics.org/records/competition-performance-rankings/ranking/550261
+433,552732,"Hvidovre Danish Club Championships, Hvidovre",DEN,11 MAY 2013,11 MAY 2013,70,254,65691,437,65761,https://worldathletics.org/records/competition-performance-rankings/ranking/552732
+434,553738,"Jacksonville 2A Region 1, Jacksonville, FL",USA,18 APR 2013,18 APR 2013,0,,65758,433,65758,https://worldathletics.org/records/competition-performance-rankings/ranking/553738
+435,550883,"Regensburg Rolf Watter Sportfest, Regensburg",GER,11 MAY 2013,11 MAY 2013,0,,65733,434,65733,https://worldathletics.org/records/competition-performance-rankings/ranking/550883
+436,551042,"Dijon French Club Championships, Dijon",FRA,19 MAY 2013,19 MAY 2013,45,306,65667,439,65712,https://worldathletics.org/records/competition-performance-rankings/ranking/551042
+437,549918,Oujda,MAR,23 MAR 2013,23 MAR 2013,25,366,65675,438,65700,https://worldathletics.org/records/competition-performance-rankings/ranking/549918
+438,549799,"Shawnee OBU Bison Invitational, Shawnee, OK",USA,30 MAR 2013,30 MAR 2013,0,,65699,435,65699,https://worldathletics.org/records/competition-performance-rankings/ranking/549799
+439,550627,"Bozeman Tom Gage Classic, Bozeman, MT",USA,03 MAY 2013,03 MAY 2013,0,,65696,436,65696,https://worldathletics.org/records/competition-performance-rankings/ranking/550627
+440,550257,"Louisville Lenny Lyles/Clark Wood Invitational, Louisville, KY",USA,19 APR 2013,19 APR 2013,15,413,65656,440,65671,https://worldathletics.org/records/competition-performance-rankings/ranking/550257
+441,551020,"Tábor Czech Club Championships, Tábor",CZE,18 MAY 2013,18 MAY 2013,10,440,65655,441,65665,https://worldathletics.org/records/competition-performance-rankings/ranking/551020
+442,552670,"Regensdorf Abendmeeting, Regensdorf",SUI,13 AUG 2013,13 AUG 2013,0,,65646,442,65646,https://worldathletics.org/records/competition-performance-rankings/ranking/552670
+443,551297,"Bloomington IHSAA Girls State Meet, Bloomington, IN",USA,01 JUN 2013,01 JUN 2013,0,,65637,443,65637,https://worldathletics.org/records/competition-performance-rankings/ranking/551297
+444,553807,"Pasco Invitational, Pasco, WA",USA,13 APR 2013,13 APR 2013,0,,65634,444,65634,https://worldathletics.org/records/competition-performance-rankings/ranking/553807
+445,551032,"Barcelona Spanish Club Championships, Barcelona",ESP,18 MAY 2013,18 MAY 2013,40,318,65574,447,65614,https://worldathletics.org/records/competition-performance-rankings/ranking/551032
+446,550507,"Amherst UMass Pre-Conference Meet, Amherst, MA",USA,27 APR 2013,27 APR 2013,0,,65583,445,65583,https://worldathletics.org/records/competition-performance-rankings/ranking/550507
+447,550469,"Joplin Bill Williams/Bob Laptad, Joplin, MO",USA,27 APR 2013,27 APR 2013,0,,65579,446,65579,https://worldathletics.org/records/competition-performance-rankings/ranking/550469
+448,550463,"Spanish Club Championships, Valencia",ESP,27 APR 2013,27 APR 2013,80,246,65492,449,65572,https://worldathletics.org/records/competition-performance-rankings/ranking/550463
+449,552407,"Birmingham UK Youth Development League, Birmingham",GBR,08 SEP 2013,08 SEP 2013,10,440,65537,448,65547,https://worldathletics.org/records/competition-performance-rankings/ranking/552407
+450,552392,"København Danish Club Championships, København",DEN,07 SEP 2013,07 SEP 2013,55,282,65491,450,65546,https://worldathletics.org/records/competition-performance-rankings/ranking/552392
+451,550837,"Clermont NTC Classic, Clermont, FL",USA,11 MAY 2013,11 MAY 2013,315,128,65226,459,65541,https://worldathletics.org/records/competition-performance-rankings/ranking/550837
+452,548639,"Kingston Queens Grace Jackson Invitational, Kingston",JAM,26 JAN 2013,26 JAN 2013,240,151,65214,461,65454,https://worldathletics.org/records/competition-performance-rankings/ranking/548639
+453,549542,"Cincinnati Early Bird Relays, Cincinnati, OH",USA,16 MAR 2013,16 MAR 2013,20,388,65427,451,65447,https://worldathletics.org/records/competition-performance-rankings/ranking/549542
+454,553485,"Littleton Liberty Bell Invitational, Littleton, CO",USA,27 APR 2013,27 APR 2013,0,,65414,452,65414,https://worldathletics.org/records/competition-performance-rankings/ranking/553485
+455,550631,"University Park Jim Thorpe Open, University Park, PA",USA,03 MAY 2013,03 MAY 2013,15,413,65348,453,65363,https://worldathletics.org/records/competition-performance-rankings/ranking/550631
+456,553242,Sydney,AUS,09 NOV 2013,09 NOV 2013,40,318,65318,455,65358,https://worldathletics.org/records/competition-performance-rankings/ranking/553242
+457,550165,"Ogden Wildcat Invitational, Ogden, UT",USA,13 APR 2013,13 APR 2013,0,,65329,454,65329,https://worldathletics.org/records/competition-performance-rankings/ranking/550165
+458,551177,"Caorle Memorial Lucio Todini, Caorle",ITA,26 MAY 2013,26 MAY 2013,0,,65270,456,65270,https://worldathletics.org/records/competition-performance-rankings/ranking/551177
+459,550414,"Worcester Holy Cross Invitational, Worcester, MA",USA,20 APR 2013,20 APR 2013,0,,65264,457,65264,https://worldathletics.org/records/competition-performance-rankings/ranking/550414
+460,550113,"West Point Army 5 Team Meet, West Point, NY",USA,13 APR 2013,13 APR 2013,0,,65258,458,65258,https://worldathletics.org/records/competition-performance-rankings/ranking/550113
+461,550459,"Aranjuez Spanish Club Championships, Aranjuez",ESP,27 APR 2013,27 APR 2013,15,413,65219,460,65234,https://worldathletics.org/records/competition-performance-rankings/ranking/550459
+462,549466,"Stephenville Tarleton State Invitational, Stephenville, TX",USA,07 MAR 2013,07 MAR 2013,0,,65211,462,65211,https://worldathletics.org/records/competition-performance-rankings/ranking/549466
+463,552216,"Chiasso Gran Premio Mendisiotto, Chiasso",SUI,19 AUG 2013,19 AUG 2013,145,187,65044,468,65189,https://worldathletics.org/records/competition-performance-rankings/ranking/552216
+464,550629,"Fargo NDSU Tune Up, Fargo, ND",USA,03 MAY 2013,03 MAY 2013,5,460,65142,464,65147,https://worldathletics.org/records/competition-performance-rankings/ranking/550629
+465,553842,"Duncanville District 7-5A, Duncanville, TX",USA,11 APR 2013,11 APR 2013,0,,65145,463,65145,https://worldathletics.org/records/competition-performance-rankings/ranking/553842
+466,550496,"Providence Brown Springtime Open, Providence, RI",USA,28 APR 2013,28 APR 2013,5,460,65135,465,65140,https://worldathletics.org/records/competition-performance-rankings/ranking/550496
+467,550166,"Ewing TCNJ Invitational, Trenton, NJ",USA,13 APR 2013,13 APR 2013,0,,65123,466,65123,https://worldathletics.org/records/competition-performance-rankings/ranking/550166
+468,551741,"Stará Boleslav Czech Club Championships, Stará Boleslav",CZE,29 JUN 2013,29 JUN 2013,15,413,65100,467,65115,https://worldathletics.org/records/competition-performance-rankings/ranking/551741
+469,551506,"Carquefou Meeting National, Carquefou",FRA,14 JUN 2013,14 JUN 2013,15,413,65038,469,65053,https://worldathletics.org/records/competition-performance-rankings/ranking/551506
+470,550312,"Warrensburg Mule Relays, Warrensburg, MO",USA,21 APR 2013,21 APR 2013,0,,65028,470,65028,https://worldathletics.org/records/competition-performance-rankings/ranking/550312
+471,549515,Auckland,NZL,09 MAR 2013,09 MAR 2013,0,,65016,471,65016,https://worldathletics.org/records/competition-performance-rankings/ranking/549515
+472,548174,"Sydney NSW Club Championships, Sydney",AUS,12 JAN 2013,12 JAN 2013,0,,65013,472,65013,https://worldathletics.org/records/competition-performance-rankings/ranking/548174
+473,549355,"Las Vegas UNLV Track Classic, Las Vegas, NV",USA,02 MAR 2013,02 MAR 2013,20,388,64987,473,65007,https://worldathletics.org/records/competition-performance-rankings/ranking/549355
+474,550454,"Pamplona Spanish Club Championships, Pamplona",ESP,27 APR 2013,27 APR 2013,90,234,64909,475,64999,https://worldathletics.org/records/competition-performance-rankings/ranking/550454
+475,553471,"Birmingham LA City Section Finals, Birmingham, AL",USA,22 MAY 2013,22 MAY 2013,0,,64964,474,64964,https://worldathletics.org/records/competition-performance-rankings/ranking/553471
+476,553475,"Kaysville Davis Invitational, Kaysville, UT",USA,27 APR 2013,27 APR 2013,0,,64903,476,64903,https://worldathletics.org/records/competition-performance-rankings/ranking/553475
+477,550249,"Mobile South Alabama Invitational, Mobile, AL",USA,12 APR 2013,13 APR 2013,0,,64897,477,64897,https://worldathletics.org/records/competition-performance-rankings/ranking/550249
+478,551954,"Spokane Duane Hartman Invitational, Spokane, WA",USA,27 APR 2013,27 APR 2013,0,,64877,478,64877,https://worldathletics.org/records/competition-performance-rankings/ranking/551954
+479,552306,Jyväskylä,FIN,08 JUN 2013,08 JUN 2013,0,,64863,479,64863,https://worldathletics.org/records/competition-performance-rankings/ranking/552306
+480,552349,"Turku Tilastopajacup, Turku",FIN,18 AUG 2013,18 AUG 2013,30,345,64828,482,64858,https://worldathletics.org/records/competition-performance-rankings/ranking/552349
+481,549867,"Easton Lafayette 7 Way Invitational, Easton, PA",USA,30 MAR 2013,30 MAR 2013,0,,64839,480,64839,https://worldathletics.org/records/competition-performance-rankings/ranking/549867
+482,553646,"Tampa FHSAA Class 3A, Tampa, FL",USA,24 APR 2013,24 APR 2013,0,,64837,481,64837,https://worldathletics.org/records/competition-performance-rankings/ranking/553646
+483,550415,Casablanca,MAR,04 APR 2013,04 APR 2013,35,333,64796,483,64831,https://worldathletics.org/records/competition-performance-rankings/ranking/550415
+484,551590,"Jyväskylä Games, Jyväskylä",FIN,19 JUN 2013,19 JUN 2013,30,345,64776,486,64806,https://worldathletics.org/records/competition-performance-rankings/ranking/551590
+485,553782,"Beaumont 5A, Beaumont, TX",USA,18 APR 2013,18 APR 2013,0,,64794,484,64794,https://worldathletics.org/records/competition-performance-rankings/ranking/553782
+486,551947,"Oxford Redhawk Invitational, Oxford, OH",USA,27 APR 2013,27 APR 2013,5,460,64783,485,64788,https://worldathletics.org/records/competition-performance-rankings/ranking/551947
+487,552283,Kraków,POL,31 AUG 2013,31 AUG 2013,15,413,64756,487,64771,https://worldathletics.org/records/competition-performance-rankings/ranking/552283
+488,552262,Hämeenlinna,FIN,14 AUG 2013,14 AUG 2013,55,282,64685,491,64740,https://worldathletics.org/records/competition-performance-rankings/ranking/552262
+489,551383,"Bratislava Tomas Babiak Memorial, Bratislava",SVK,08 JUN 2013,08 JUN 2013,40,318,64697,490,64737,https://worldathletics.org/records/competition-performance-rankings/ranking/551383
+490,553383,"Las Vegas Southern D1 Regional, Las Vegas, NV",USA,10 MAY 2013,10 MAY 2013,0,,64728,488,64728,https://worldathletics.org/records/competition-performance-rankings/ranking/553383
+491,550885,"Mörfelden Stadionfest, Mörfelden",GER,09 MAY 2013,09 MAY 2013,0,,64725,489,64725,https://worldathletics.org/records/competition-performance-rankings/ranking/550885
+492,550148,"Conway Chanticleer Classic, Conway, SC",USA,13 APR 2013,13 APR 2013,25,366,64605,493,64630,https://worldathletics.org/records/competition-performance-rankings/ranking/550148
+493,550987,Brno,CZE,14 MAY 2013,14 MAY 2013,45,306,64577,495,64622,https://worldathletics.org/records/competition-performance-rankings/ranking/550987
+494,549875,"Baltimore UMBC Big Dawg Invitational, Baltimore, MD",USA,30 MAR 2013,30 MAR 2013,0,,64610,492,64610,https://worldathletics.org/records/competition-performance-rankings/ranking/549875
+495,549571,"Kingsville Cactus Cup, Kingsville, TX",USA,16 MAR 2013,16 MAR 2013,0,,64592,494,64592,https://worldathletics.org/records/competition-performance-rankings/ranking/549571
+496,551498,"Southampton UK Women's League, Southampton",GBR,09 JUN 2013,09 JUN 2013,20,388,64534,496,64554,https://worldathletics.org/records/competition-performance-rankings/ranking/551498
+497,550288,"Washington Cougar Invitational, Pullman, WA",USA,20 APR 2013,20 APR 2013,0,,64509,497,64509,https://worldathletics.org/records/competition-performance-rankings/ranking/550288
+498,549916,"Chico Wildcat Invitational, Chico, CA",USA,23 MAR 2013,23 MAR 2013,0,,64386,498,64386,https://worldathletics.org/records/competition-performance-rankings/ranking/549916
+499,553257,"Ellwangen Sparkassen-Meeting, Ellwangen",GER,18 MAY 2013,18 MAY 2013,30,345,64244,501,64274,https://worldathletics.org/records/competition-performance-rankings/ranking/553257
+500,550318,"Edwardsville Gateway Invite, Edwardsville, IL",USA,20 APR 2013,20 APR 2013,0,,64272,499,64272,https://worldathletics.org/records/competition-performance-rankings/ranking/550318
+501,553860,"Tempe Sun Angel HS Classic, Tempe, AZ",USA,04 APR 2013,04 APR 2013,0,,64257,500,64257,https://worldathletics.org/records/competition-performance-rankings/ranking/553860
+502,550457,"Spanish Club Championships, Sabadell",ESP,27 APR 2013,27 APR 2013,15,413,64184,502,64199,https://worldathletics.org/records/competition-performance-rankings/ranking/550457
+503,552397,Brugnera,ITA,07 SEP 2013,07 SEP 2013,40,318,64142,504,64182,https://worldathletics.org/records/competition-performance-rankings/ranking/552397
+504,550167,"Kingsville Javelina Twilight Invitational, Kingsville, TX",USA,13 APR 2013,13 APR 2013,5,460,64166,503,64171,https://worldathletics.org/records/competition-performance-rankings/ranking/550167
+505,550595,Palmanova,ITA,01 MAY 2013,01 MAY 2013,30,345,64140,505,64170,https://worldathletics.org/records/competition-performance-rankings/ranking/550595
+506,551133,"Sofia New Stars International Meeting, Sofia",BUL,23 MAY 2013,23 MAY 2013,90,234,64031,508,64121,https://worldathletics.org/records/competition-performance-rankings/ranking/551133
+507,551014,"Rock Island Augustana Twilight Meet, Rock Island, IL",USA,17 MAY 2013,17 MAY 2013,0,,64107,506,64107,https://worldathletics.org/records/competition-performance-rankings/ranking/551014
+508,553222,Savona,ITA,20 JUN 2013,20 JUN 2013,10,440,64059,507,64069,https://worldathletics.org/records/competition-performance-rankings/ranking/553222
+509,551144,"Slovenska Bistrica Int. Meeting, Slovenska Bistrica",SLO,25 MAY 2013,25 MAY 2013,185,168,63864,516,64049,https://worldathletics.org/records/competition-performance-rankings/ranking/551144
+510,552361,"Riihimäki Häme Games, Riihimäki",FIN,13 JUL 2013,13 JUL 2013,20,388,64021,509,64041,https://worldathletics.org/records/competition-performance-rankings/ranking/552361
+511,550823,"Turlock CSUS Twilight, Turlock, CA",USA,10 MAY 2013,10 MAY 2013,35,333,63983,512,64018,https://worldathletics.org/records/competition-performance-rankings/ranking/550823
+512,549174,Roodepoort,RSA,09 FEB 2013,09 FEB 2013,10,440,63996,510,64006,https://worldathletics.org/records/competition-performance-rankings/ranking/549174
+513,549983,"Yankton Dakota Duals, Yankton, SD",USA,06 APR 2013,06 APR 2013,5,460,63991,511,63996,https://worldathletics.org/records/competition-performance-rankings/ranking/549983
+514,551936,"St. Peter Drake Alternative, St. Peter",USA,27 APR 2013,27 APR 2013,0,,63938,513,63938,https://worldathletics.org/records/competition-performance-rankings/ranking/551936
+515,551049,"Vénissieux French Club Championships, Vénissieux",FRA,19 MAY 2013,19 MAY 2013,85,240,63849,518,63934,https://worldathletics.org/records/competition-performance-rankings/ranking/551049
+516,550846,"Banská Bystrica GPS, Banská Bystrica",SVK,11 MAY 2013,11 MAY 2013,55,282,63857,517,63912,https://worldathletics.org/records/competition-performance-rankings/ranking/550846
+517,553381,"20. midsommar - Charlottenburger-Mittsommernacht, Berlin",GER,21 JUN 2013,21 JUN 2013,0,,63901,514,63901,https://worldathletics.org/records/competition-performance-rankings/ranking/553381
+518,553152,Sydney,AUS,02 NOV 2013,02 NOV 2013,0,,63876,515,63876,https://worldathletics.org/records/competition-performance-rankings/ranking/553152
+519,550833,"Shawnee OBU Last Chance, Shawnee, OK",USA,10 MAY 2013,10 MAY 2013,5,460,63847,519,63852,https://worldathletics.org/records/competition-performance-rankings/ranking/550833
+520,553429,"Pittsburgh Baldwin Invitational, Pittsburgh, PA",USA,03 MAY 2013,03 MAY 2013,0,,63829,520,63829,https://worldathletics.org/records/competition-performance-rankings/ranking/553429
+521,550514,"Loughborough Students AC Open Meeting, Loughborough",GBR,27 APR 2013,27 APR 2013,5,460,63812,521,63817,https://worldathletics.org/records/competition-performance-rankings/ranking/550514
+522,551185,"Barquisimeto Memorial Maximo Viloria, Barquisimeto",VEN,16 MAY 2013,16 MAY 2013,60,277,63741,526,63801,https://worldathletics.org/records/competition-performance-rankings/ranking/551185
+523,552677,"Budapest CRO-CZE-SLO-SVK-HUN U16 Match, Budapest",HUN,28 SEP 2013,28 SEP 2013,0,,63768,522,63768,https://worldathletics.org/records/competition-performance-rankings/ranking/552677
+524,550308,"Storrs UCONN Men's Classic Invitational, Storrs, CT",USA,20 APR 2013,20 APR 2013,0,,63762,523,63762,https://worldathletics.org/records/competition-performance-rankings/ranking/550308
+525,552574,Milano,ITA,17 SEP 2013,17 SEP 2013,0,,63756,524,63756,https://worldathletics.org/records/competition-performance-rankings/ranking/552574
+526,549292,"Claremont Rossi Relays, Claremont, CA",USA,23 FEB 2013,23 FEB 2013,0,,63747,525,63747,https://worldathletics.org/records/competition-performance-rankings/ranking/549292
+527,552004,Gorizia,ITA,20 JUL 2013,20 JUL 2013,75,251,63622,529,63697,https://worldathletics.org/records/competition-performance-rankings/ranking/552004
+528,550084,"Delaware Marv Frye Invitational, Delaware, OH",USA,06 APR 2013,06 APR 2013,0,,63684,527,63684,https://worldathletics.org/records/competition-performance-rankings/ranking/550084
+529,551557,"Basseterre OECS Invitational, Basseterre",SKN,09 JUN 2013,09 JUN 2013,40,318,63626,528,63666,https://worldathletics.org/records/competition-performance-rankings/ranking/551557
+530,552320,"Durham USATF N Carolina Junior Olympics, Durham, NC",USA,23 JUN 2013,23 JUN 2013,0,,63616,530,63616,https://worldathletics.org/records/competition-performance-rankings/ranking/552320
+531,551357,"Nitra GPS, Nitra",SVK,02 JUN 2013,02 JUN 2013,85,240,63530,533,63615,https://worldathletics.org/records/competition-performance-rankings/ranking/551357
+532,553161,Langenthal,SUI,09 JUN 2013,09 JUN 2013,25,366,63588,532,63613,https://worldathletics.org/records/competition-performance-rankings/ranking/553161
+533,549966,"Sydney NSW Allcomers, Sydney",AUS,06 APR 2013,06 APR 2013,5,460,63605,531,63610,https://worldathletics.org/records/competition-performance-rankings/ranking/549966
+534,551692,Barcelona,ESP,19 JUN 2013,19 JUN 2013,5,460,63500,534,63505,https://worldathletics.org/records/competition-performance-rankings/ranking/551692
+535,552540,"Vught Dutch Club Championships, Vught",NED,15 SEP 2013,15 SEP 2013,105,216,63381,538,63486,https://worldathletics.org/records/competition-performance-rankings/ranking/552540
+536,550521,Nieuwegein,NED,21 APR 2013,21 APR 2013,25,366,63428,536,63453,https://worldathletics.org/records/competition-performance-rankings/ranking/550521
+537,553804,"Denver Mullen Runners Roost, Denver, CO",USA,13 APR 2013,13 APR 2013,0,,63439,535,63439,https://worldathletics.org/records/competition-performance-rankings/ranking/553804
+538,550316,"Stony Brook Wolfie Invitational, Stony Brook, NY",USA,20 APR 2013,20 APR 2013,0,,63394,537,63394,https://worldathletics.org/records/competition-performance-rankings/ranking/550316
+539,551172,"Kingston JAAA Development Meet, Kingston",JAM,18 MAY 2013,18 MAY 2013,125,199,63246,542,63371,https://worldathletics.org/records/competition-performance-rankings/ranking/551172
+540,553498,"Richmond Elite Track Classic, Richmond, VA",USA,27 APR 2013,27 APR 2013,0,,63364,539,63364,https://worldathletics.org/records/competition-performance-rankings/ranking/553498
+541,553594,"St. Paul Hamline Elite Meet, St. Paul",USA,26 APR 2013,26 APR 2013,0,,63306,540,63306,https://worldathletics.org/records/competition-performance-rankings/ranking/553594
+542,552014,"Lisboa FPA Observation, Lisboa",POR,17 JUL 2013,17 JUL 2013,0,,63273,541,63273,https://worldathletics.org/records/competition-performance-rankings/ranking/552014
+543,551018,"Tucson Elite Classic, Tucson, AZ",USA,18 MAY 2013,18 MAY 2013,540,93,62697,560,63237,https://worldathletics.org/records/competition-performance-rankings/ranking/551018
+544,550072,"Annapolis NAVY vs. ARMY Men's Meet, Annapolis, MD",USA,06 APR 2013,06 APR 2013,0,,63223,543,63223,https://worldathletics.org/records/competition-performance-rankings/ranking/550072
+545,550462,"San Luis Obispo Dual Meet, San Luis Obispo, CA",USA,27 APR 2013,27 APR 2013,0,,63152,544,63152,https://worldathletics.org/records/competition-performance-rankings/ranking/550462
+546,550149,"Seward Concordia Invitational, Seward, NE",USA,13 APR 2013,13 APR 2013,0,,63146,545,63146,https://worldathletics.org/records/competition-performance-rankings/ranking/550149
+547,553404,Konstanz,GER,13 JUL 2013,13 JUL 2013,0,,63144,546,63144,https://worldathletics.org/records/competition-performance-rankings/ranking/553404
+548,553602,Sydney,AUS,07 DEC 2013,07 DEC 2013,0,,63141,547,63141,https://worldathletics.org/records/competition-performance-rankings/ranking/553602
+549,591595,"Mt. Carmel/ASICS Track Invite, San Diego, CA",USA,23 MAR 2013,23 MAR 2013,0,,63106,548,63106,https://worldathletics.org/records/competition-performance-rankings/ranking/591595
+550,549546,"Memphis Rhodes Open, Memphis, TN",USA,16 MAR 2013,16 MAR 2013,5,460,63098,549,63103,https://worldathletics.org/records/competition-performance-rankings/ranking/549546
+551,550442,"Eugene Lane CC Titan Twilight, Eugene, OR",USA,25 APR 2013,25 APR 2013,0,,62940,550,62940,https://worldathletics.org/records/competition-performance-rankings/ranking/550442
+552,548699,"Brisbane Garry Brown Shield, Brisbane",AUS,02 FEB 2013,02 FEB 2013,25,366,62893,551,62918,https://worldathletics.org/records/competition-performance-rankings/ranking/548699
+553,551034,"Tres Cantos Spanish Club Championships, Tres Cantos",ESP,18 MAY 2013,18 MAY 2013,5,460,62884,552,62889,https://worldathletics.org/records/competition-performance-rankings/ranking/551034
+554,549569,"Brisbane QA All Comers Meet, Brisbane",AUS,15 MAR 2013,15 MAR 2013,5,460,62804,553,62809,https://worldathletics.org/records/competition-performance-rankings/ranking/549569
+555,550470,"Missoula Cat-Griz Dual, Missoula, MT",USA,25 APR 2013,27 APR 2013,0,,62804,553,62804,https://worldathletics.org/records/competition-performance-rankings/ranking/550470
+556,551136,"Ljubljana Slovenian Junior Club Championships, Ljubljana",SLO,12 MAY 2013,12 MAY 2013,0,,62794,555,62794,https://worldathletics.org/records/competition-performance-rankings/ranking/551136
+557,549988,"Lowell George Davis Invitational, Lowell, MA",USA,06 APR 2013,06 APR 2013,0,,62783,556,62783,https://worldathletics.org/records/competition-performance-rankings/ranking/549988
+558,550468,"Aranjuez Spanish Club Championships, Aranjuez",ESP,27 APR 2013,27 APR 2013,20,388,62737,557,62757,https://worldathletics.org/records/competition-performance-rankings/ranking/550468
+559,551534,"Zenica Int. Meeting, Zenica",BIH,12 JUN 2013,12 JUN 2013,110,209,62606,563,62716,https://worldathletics.org/records/competition-performance-rankings/ranking/551534
+560,552353,Janakkala,FIN,12 JUN 2013,12 JUN 2013,0,,62712,558,62712,https://worldathletics.org/records/competition-performance-rankings/ranking/552353
+561,551021,"Jablonec nad Nisou Czech Club Championships, Jablonec nad Nisou",CZE,18 MAY 2013,18 MAY 2013,0,,62705,559,62705,https://worldathletics.org/records/competition-performance-rankings/ranking/551021
+562,550446,"Easton Skyhawk Invitational, Easton, MA",USA,26 APR 2013,26 APR 2013,0,,62624,561,62624,https://worldathletics.org/records/competition-performance-rankings/ranking/550446
+563,549680,"Edwardsville Cougar Classic, Edwardsville, IL",USA,23 MAR 2013,23 MAR 2013,0,,62617,562,62617,https://worldathletics.org/records/competition-performance-rankings/ranking/549680
+564,551389,"Wormwood Scrubs British Athletics League, Wormwood Scrubs",GBR,08 JUN 2013,08 JUN 2013,25,366,62571,564,62596,https://worldathletics.org/records/competition-performance-rankings/ranking/551389
+565,551029,"Tres Cantos Spanish Club Championships, Tres Cantos",ESP,18 MAY 2013,18 MAY 2013,40,318,62550,565,62590,https://worldathletics.org/records/competition-performance-rankings/ranking/551029
+566,550637,"Port-of-Spain TNT Elite Twighlight Meet, Port-of-Spain",TTO,03 MAY 2013,03 MAY 2013,250,148,62309,576,62559,https://worldathletics.org/records/competition-performance-rankings/ranking/550637
+567,551171,"Kingston JAAA All-Comers Meet, Kingston",JAM,25 MAY 2013,25 MAY 2013,110,209,62420,570,62530,https://worldathletics.org/records/competition-performance-rankings/ranking/551171
+568,552253,"Kiev, Kyiv",UKR,16 JUL 2013,16 JUL 2013,55,282,62473,566,62528,https://worldathletics.org/records/competition-performance-rankings/ranking/552253
+569,550999,"Longmont St. Vrain Invitational, Longmont, CO",USA,03 MAY 2013,03 MAY 2013,55,282,62440,568,62495,https://worldathletics.org/records/competition-performance-rankings/ranking/550999
+570,550657,"Carbondale Saluki Open, Carbondale, IL",USA,04 MAY 2013,04 MAY 2013,25,366,62436,569,62461,https://worldathletics.org/records/competition-performance-rankings/ranking/550657
+571,551473,Conegliano,ITA,07 JUN 2013,07 JUN 2013,45,306,62410,571,62455,https://worldathletics.org/records/competition-performance-rankings/ranking/551473
+572,553617,"Miami 4A Region 4, Miami, FL",USA,25 APR 2013,25 APR 2013,0,,62441,567,62441,https://worldathletics.org/records/competition-performance-rankings/ranking/553617
+573,548101,"Timaru Lovelock Classic, Timaru",NZL,05 JAN 2013,05 JAN 2013,30,345,62388,573,62418,https://worldathletics.org/records/competition-performance-rankings/ranking/548101
+574,550107,"Monmouth John Knight Twilight, Monmouth, OR",USA,12 APR 2013,12 APR 2013,0,,62400,572,62400,https://worldathletics.org/records/competition-performance-rankings/ranking/550107
+575,550971,"Delaware OWU Ron Althoff Final Qualifier, Delaware, OH",USA,13 MAY 2013,14 MAY 2013,5,460,62351,574,62356,https://worldathletics.org/records/competition-performance-rankings/ranking/550971
+576,551291,"New York Twilight Meet, New York, NY",USA,30 MAY 2013,30 MAY 2013,35,333,62305,577,62340,https://worldathletics.org/records/competition-performance-rankings/ranking/551291
+577,551033,"Pamplona Spanish Club Championships, Pamplona",ESP,18 MAY 2013,18 MAY 2013,5,460,62328,575,62333,https://worldathletics.org/records/competition-performance-rankings/ranking/551033
+578,550542,"Bethlehem Lehigh Games, Bethlehem, PA",USA,27 APR 2013,27 APR 2013,0,,62297,578,62297,https://worldathletics.org/records/competition-performance-rankings/ranking/550542
+579,552064,Argos Orestiko,GRE,03 JUL 2013,03 JUL 2013,20,388,62271,579,62291,https://worldathletics.org/records/competition-performance-rankings/ranking/552064
+580,549786,"Medford Snowflake Classic, Medford, MA",USA,30 MAR 2013,30 MAR 2013,5,460,62270,581,62275,https://worldathletics.org/records/competition-performance-rankings/ranking/549786
+581,550010,"Clinton Ashford Spring Classic, Clinton, IA",USA,06 APR 2013,06 APR 2013,20,388,62254,582,62274,https://worldathletics.org/records/competition-performance-rankings/ranking/550010
+582,551955,"Whitewater UW-Whitewater Drake Alternative, Whitewater, WI",USA,27 APR 2013,27 APR 2013,0,,62271,579,62271,https://worldathletics.org/records/competition-performance-rankings/ranking/551955
+583,550441,"Lincoln NWU Spring Open, Lincoln, NE",USA,25 APR 2013,25 APR 2013,0,,62087,583,62087,https://worldathletics.org/records/competition-performance-rankings/ranking/550441
+584,550586,"Garbsen Bahneröffnung, Garbsen",GER,01 MAY 2013,01 MAY 2013,15,413,61996,585,62011,https://worldathletics.org/records/competition-performance-rankings/ranking/550586
+585,550453,"Bellingham WU Twilight Meet, Bellingham, WA",USA,26 APR 2013,26 APR 2013,30,345,61976,587,62006,https://worldathletics.org/records/competition-performance-rankings/ranking/550453
+586,548851,"Perth Strive Interclub, Perth",AUS,08 FEB 2013,08 FEB 2013,0,,62002,584,62002,https://worldathletics.org/records/competition-performance-rankings/ranking/548851
+587,550596,Trento,ITA,01 MAY 2013,01 MAY 2013,15,413,61982,586,61997,https://worldathletics.org/records/competition-performance-rankings/ranking/550596
+588,549822,"San Diego Point Loma Collegiate Scoring, San Diego, CA",USA,30 MAR 2013,30 MAR 2013,0,,61955,588,61955,https://worldathletics.org/records/competition-performance-rankings/ranking/549822
+589,550154,"Greenville Furman Invitational, Greenville, SC",USA,13 APR 2013,13 APR 2013,30,345,61918,590,61948,https://worldathletics.org/records/competition-performance-rankings/ranking/550154
+590,550155,"Baltimore Don Webster Invitational, Baltimore, MD",USA,13 APR 2013,13 APR 2013,5,460,61938,589,61943,https://worldathletics.org/records/competition-performance-rankings/ranking/550155
+591,551505,"Roadtown, Road Town",IVB,01 JUN 2013,01 JUN 2013,265,144,61669,598,61934,https://worldathletics.org/records/competition-performance-rankings/ranking/551505
+592,550098,"Kearney Loper Invitational, Kearney, NE",USA,06 APR 2013,06 APR 2013,10,440,61861,591,61871,https://worldathletics.org/records/competition-performance-rankings/ranking/550098
+593,553481,"Statesboro 4A Sectional A, Statesboro, GA",USA,27 APR 2013,27 APR 2013,0,,61855,592,61855,https://worldathletics.org/records/competition-performance-rankings/ranking/553481
+594,553809,"Parow Tygerberg NLC Summer Series, Parow, Cape Town",RSA,14 DEC 2013,14 DEC 2013,10,440,61760,593,61770,https://worldathletics.org/records/competition-performance-rankings/ranking/553809
+595,550518,"Indianapolis Stan Lyons Invite, Indianapolis, IN",USA,27 APR 2013,27 APR 2013,0,,61755,594,61755,https://worldathletics.org/records/competition-performance-rankings/ranking/550518
+596,550922,"Tiszaújváros World Athletics Day, Tiszaújváros",HUN,12 MAY 2013,12 MAY 2013,0,,61735,595,61735,https://worldathletics.org/records/competition-performance-rankings/ranking/550922
+597,550466,"Spanish Club Championships, San Sebastián",ESP,27 APR 2013,27 APR 2013,5,460,61717,596,61722,https://worldathletics.org/records/competition-performance-rankings/ranking/550466
+598,552604,Südstadt,AUT,11 MAY 2013,11 MAY 2013,20,388,61701,597,61721,https://worldathletics.org/records/competition-performance-rankings/ranking/552604
+599,550413,"Glendale, AZ",USA,20 APR 2013,20 APR 2013,0,,61576,599,61576,https://worldathletics.org/records/competition-performance-rankings/ranking/550413
+600,549900,"Columbia USC Open, Columbia, SC",USA,03 APR 2013,03 APR 2013,0,,61493,600,61493,https://worldathletics.org/records/competition-performance-rankings/ranking/549900
+601,550152,"Hillsdale Invitational, Hillsdale, MI",USA,13 APR 2013,13 APR 2013,0,,61482,601,61482,https://worldathletics.org/records/competition-performance-rankings/ranking/550152
+602,553225,Lausanne,SUI,31 AUG 2013,31 AUG 2013,0,,61433,602,61433,https://worldathletics.org/records/competition-performance-rankings/ranking/553225
+603,552256,"Kolín International Visegrad Match, Kolin",CZE,28 AUG 2013,28 AUG 2013,0,,61386,603,61386,https://worldathletics.org/records/competition-performance-rankings/ranking/552256
+604,550963,"Cardiff British Athletics League, Cardiff",GBR,11 MAY 2013,11 MAY 2013,30,345,61310,606,61340,https://worldathletics.org/records/competition-performance-rankings/ranking/550963
+605,550078,"Spartanburg Terrier Relays, Spartanburg, SC",USA,06 APR 2013,06 APR 2013,0,,61329,604,61329,https://worldathletics.org/records/competition-performance-rankings/ranking/550078
+606,550427,"Lincoln Nebraska Pre-Drake, Lincoln, NE",USA,24 APR 2013,24 APR 2013,0,,61315,605,61315,https://worldathletics.org/records/competition-performance-rankings/ranking/550427
+607,550086,"Millersville Metrics, Millersville, PA",USA,06 APR 2013,06 APR 2013,0,,61294,607,61294,https://worldathletics.org/records/competition-performance-rankings/ranking/550086
+608,551469,"Winterthur Swiss Club Championships, Winterthur",SUI,08 JUN 2013,08 JUN 2013,0,,61282,608,61282,https://worldathletics.org/records/competition-performance-rankings/ranking/551469
+609,553491,Sydney,AUS,30 NOV 2013,30 NOV 2013,0,,61262,609,61262,https://worldathletics.org/records/competition-performance-rankings/ranking/553491
+610,549992,"Port-of-Spain President’s Classic, Port-of-Spain",TTO,06 APR 2013,06 APR 2013,20,388,61229,610,61249,https://worldathletics.org/records/competition-performance-rankings/ranking/549992
+611,551680,Nurmijärvi,FIN,18 JUN 2013,18 JUN 2013,0,,61229,610,61229,https://worldathletics.org/records/competition-performance-rankings/ranking/551680
+612,553798,"Perth Strive Interclub, Perth",AUS,19 DEC 2013,19 DEC 2013,5,460,61167,612,61172,https://worldathletics.org/records/competition-performance-rankings/ranking/553798
+613,550523,Beverwijk,NED,21 APR 2013,21 APR 2013,20,388,61021,613,61041,https://worldathletics.org/records/competition-performance-rankings/ranking/550523
+614,553252,Germering,GER,05 MAY 2013,05 MAY 2013,10,440,60949,614,60959,https://worldathletics.org/records/competition-performance-rankings/ranking/553252
+615,553461,"Murrieta HS, Murrieta, CA",USA,02 MAY 2013,02 MAY 2013,0,,60935,615,60935,https://worldathletics.org/records/competition-performance-rankings/ranking/553461
+616,549490,"Riverside Santa Barbara Dual Meet, Riverside, CA",USA,09 MAR 2013,09 MAR 2013,0,,60918,616,60918,https://worldathletics.org/records/competition-performance-rankings/ranking/549490
+617,551927,"Turku Tilastopajacup, Turku",FIN,15 JUL 2013,15 JUL 2013,45,306,60847,618,60892,https://worldathletics.org/records/competition-performance-rankings/ranking/551927
+618,552286,"Sarnen Sommermeeting, Sarnen",SUI,31 AUG 2013,31 AUG 2013,5,460,60865,617,60870,https://worldathletics.org/records/competition-performance-rankings/ranking/552286
+619,551708,"Romans Meeting National, Romans",FRA,25 JUN 2013,25 JUN 2013,5,460,60827,619,60832,https://worldathletics.org/records/competition-performance-rankings/ranking/551708
+620,552261,Kotka,FIN,29 AUG 2013,29 AUG 2013,50,295,60762,621,60812,https://worldathletics.org/records/competition-performance-rankings/ranking/552261
+621,598374,"Plovdiv Memorial Vulpev-Bakchevanov, Plovdiv",BUL,20 JUL 2013,20 JUL 2013,75,251,60732,623,60807,https://worldathletics.org/records/competition-performance-rankings/ranking/598374
+622,549878,"Marietta OAC East Split, Marietta, OH",USA,30 MAR 2013,30 MAR 2013,0,,60797,620,60797,https://worldathletics.org/records/competition-performance-rankings/ranking/549878
+623,552024,"Durham Russell E. Blunt East Coast Invitational, Durham, NC",USA,21 JUL 2013,21 JUL 2013,0,,60745,622,60745,https://worldathletics.org/records/competition-performance-rankings/ranking/552024
+624,552138,"Kauhajoki Suupohja Games, Kauhajoki",FIN,07 AUG 2013,07 AUG 2013,95,227,60609,626,60704,https://worldathletics.org/records/competition-performance-rankings/ranking/552138
+625,549371,"Turlock Kim Duyst Invitational, Turlock, CA",USA,02 MAR 2013,02 MAR 2013,0,,60668,624,60668,https://worldathletics.org/records/competition-performance-rankings/ranking/549371
+626,551572,"Lexington OH D2 Region 6, Lexington, KY",USA,01 JUN 2013,01 JUN 2013,0,,60651,625,60651,https://worldathletics.org/records/competition-performance-rankings/ranking/551572
+627,553554,"Commerce Region 2-3A, Commerce, TX",USA,27 APR 2013,27 APR 2013,0,,60604,627,60604,https://worldathletics.org/records/competition-performance-rankings/ranking/553554
+628,551742,"Olomouc Czech Club Championships, Olomouc",CZE,29 JUN 2013,29 JUN 2013,5,460,60580,628,60585,https://worldathletics.org/records/competition-performance-rankings/ranking/551742
+629,551028,"Burgos Spanish Club Championships, Burgos",ESP,18 MAY 2013,18 MAY 2013,70,254,60503,632,60573,https://worldathletics.org/records/competition-performance-rankings/ranking/551028
+630,548330,Brisbane,AUS,19 JAN 2013,19 JAN 2013,0,,60568,629,60568,https://worldathletics.org/records/competition-performance-rankings/ranking/548330
+631,549815,"Clarksville APSU Invitational, Clarksville, TN",USA,30 MAR 2013,30 MAR 2013,0,,60542,630,60542,https://worldathletics.org/records/competition-performance-rankings/ranking/549815
+632,553490,"Brisbane QA All Comers Meet, Brisbane",AUS,30 NOV 2013,30 NOV 2013,5,460,60506,631,60511,https://worldathletics.org/records/competition-performance-rankings/ranking/553490
+633,550130,"Lawrenceville Rider Invitational, Lawrence Township, NJ",USA,13 APR 2013,13 APR 2013,20,388,60455,634,60475,https://worldathletics.org/records/competition-performance-rankings/ranking/550130
+634,550100,"Rock Hill Carolina's Cup, Rock Hill, SC",USA,12 APR 2013,12 APR 2013,0,,60464,633,60464,https://worldathletics.org/records/competition-performance-rankings/ranking/550100
+635,553386,"Richmond AAA Central Region Ch, Richmond, VA",USA,25 MAY 2013,25 MAY 2013,0,,60455,634,60455,https://worldathletics.org/records/competition-performance-rankings/ranking/553386
+636,553479,"Hoschton 6A Sectional B, Hoschton, GA",USA,27 APR 2013,27 APR 2013,0,,60435,636,60435,https://worldathletics.org/records/competition-performance-rankings/ranking/553479
+637,549561,"Fort Worth TCU Invitational, Fort Worth, TX",USA,16 MAR 2013,16 MAR 2013,30,345,60389,638,60419,https://worldathletics.org/records/competition-performance-rankings/ranking/549561
+638,553871,"Plymouth Pennsylvania Classic, Plymouth, PA",USA,30 MAR 2013,30 MAR 2013,0,,60395,637,60395,https://worldathletics.org/records/competition-performance-rankings/ranking/553871
+639,548151,"Perth Strive Interclub, Perth",AUS,11 JAN 2013,11 JAN 2013,20,388,60370,640,60390,https://worldathletics.org/records/competition-performance-rankings/ranking/548151
+640,551183,"Cochabamba Torneo Julia Iriarte, Cochabamba",BOL,19 MAY 2013,19 MAY 2013,5,460,60384,639,60389,https://worldathletics.org/records/competition-performance-rankings/ranking/551183
+641,551711,"Halluin Meeting National, Halluin",FRA,26 JUN 2013,26 JUN 2013,55,282,60322,643,60377,https://worldathletics.org/records/competition-performance-rankings/ranking/551711
+642,552309,Valkeakoski,FIN,30 MAY 2013,30 MAY 2013,0,,60356,641,60356,https://worldathletics.org/records/competition-performance-rankings/ranking/552309
+643,549175,Pretoria,RSA,19 FEB 2013,19 FEB 2013,30,345,60324,642,60354,https://worldathletics.org/records/competition-performance-rankings/ranking/549175
+644,551386,"Brisbane QA Winter Track and Field Series, Brisbane",AUS,09 JUN 2013,09 JUN 2013,100,219,60236,646,60336,https://worldathletics.org/records/competition-performance-rankings/ranking/551386
+645,552443,"Modena Memorial Crotti, Modena",ITA,07 SEP 2013,07 SEP 2013,0,,60304,644,60304,https://worldathletics.org/records/competition-performance-rankings/ranking/552443
+646,551944,"Rochester Cardinal Classic, Rochester, NY",USA,27 APR 2013,27 APR 2013,0,,60295,645,60295,https://worldathletics.org/records/competition-performance-rankings/ranking/551944
+647,550153,"Newark Delaware Invitational, Newark, DE",USA,13 APR 2013,13 APR 2013,0,,60205,647,60205,https://worldathletics.org/records/competition-performance-rankings/ranking/550153
+648,551387,"Chania Venizelia, Chania",GRE,08 JUN 2013,08 JUN 2013,45,306,60112,649,60157,https://worldathletics.org/records/competition-performance-rankings/ranking/551387
+649,553483,"Grovetown 5A Sectional B, Grovetown, GA",USA,27 APR 2013,27 APR 2013,0,,60138,648,60138,https://worldathletics.org/records/competition-performance-rankings/ranking/553483
+650,549474,"Perth Strive Interclub, Perth",AUS,08 MAR 2013,08 MAR 2013,10,440,60081,650,60091,https://worldathletics.org/records/competition-performance-rankings/ranking/549474
+651,550283,"East Stroudsburg ESU All American Meet, East Stroudsburg, PA",USA,20 APR 2013,20 APR 2013,0,,60066,651,60066,https://worldathletics.org/records/competition-performance-rankings/ranking/550283
+652,549575,"Orlando UCF Black & Gold, Orlando, FL",USA,16 MAR 2013,16 MAR 2013,0,,60032,652,60032,https://worldathletics.org/records/competition-performance-rankings/ranking/549575
+653,550397,"Wheaton Don Church Twilight, Wheaton, IL",USA,20 APR 2013,20 APR 2013,0,,59967,653,59967,https://worldathletics.org/records/competition-performance-rankings/ranking/550397
+654,551988,"Dillingen Sportfest, Dillingen",GER,21 JUL 2013,21 JUL 2013,205,163,59743,659,59948,https://worldathletics.org/records/competition-performance-rankings/ranking/551988
+655,552359,Helsinki,FIN,25 MAY 2013,25 MAY 2013,20,388,59927,654,59947,https://worldathletics.org/records/competition-performance-rankings/ranking/552359
+656,550611,Campinas,BRA,28 APR 2013,28 APR 2013,0,,59897,655,59897,https://worldathletics.org/records/competition-performance-rankings/ranking/550611
+657,552221,"Mouscron Grand prix de la ville de Mouscron, Mouscron",BEL,23 AUG 2013,23 AUG 2013,25,366,59781,656,59806,https://worldathletics.org/records/competition-performance-rankings/ranking/552221
+658,552351,Forssa,FIN,18 JUL 2013,19 JUL 2013,15,413,59769,658,59784,https://worldathletics.org/records/competition-performance-rankings/ranking/552351
+659,549500,"Wilmington UNCW Seahawk Invitational, Wilmington, NC",USA,08 MAR 2013,09 MAR 2013,0,,59777,657,59777,https://worldathletics.org/records/competition-performance-rankings/ranking/549500
+660,549475,"Brisbane QA Power & Speed & Flight Meet, Brisbane",AUS,09 MAR 2013,09 MAR 2013,30,345,59735,661,59765,https://worldathletics.org/records/competition-performance-rankings/ranking/549475
+661,551043,"Saran French Club Championships, Saran",FRA,19 MAY 2013,19 MAY 2013,15,413,59740,660,59755,https://worldathletics.org/records/competition-performance-rankings/ranking/551043
+662,552263,Sastamala,FIN,05 AUG 2013,05 AUG 2013,10,440,59720,662,59730,https://worldathletics.org/records/competition-performance-rankings/ranking/552263
+663,551509,"Göteborg Kvilles Vårtävling, Göteborg",SWE,14 JUN 2013,14 JUN 2013,35,333,59650,664,59685,https://worldathletics.org/records/competition-performance-rankings/ranking/551509
+664,550317,"DeKalb Huskie Blue Demon Classic, Dekalb, IL",USA,20 APR 2013,20 APR 2013,0,,59651,663,59651,https://worldathletics.org/records/competition-performance-rankings/ranking/550317
+665,550993,"Waltham New Balance Boston Twilight Meet, Waltham, MA",USA,11 MAY 2013,11 MAY 2013,25,366,59608,666,59633,https://worldathletics.org/records/competition-performance-rankings/ranking/550993
+666,553503,"Lubbock Region 1-3A, Lubbock, TX",USA,27 APR 2013,27 APR 2013,0,,59628,665,59628,https://worldathletics.org/records/competition-performance-rankings/ranking/553503
+667,553682,"Belle Glade 2A Region 4, Belle Glade, FL",USA,19 APR 2013,19 APR 2013,0,,59549,667,59549,https://worldathletics.org/records/competition-performance-rankings/ranking/553682
+668,549877,"Mahwah Ramapo Northeast Challenge, Mahwah, NJ",USA,30 MAR 2013,30 MAR 2013,0,,59506,668,59506,https://worldathletics.org/records/competition-performance-rankings/ranking/549877
+669,551800,"Sofia Pavel Pavlov International Meeting, Sofia",BUL,29 JUN 2013,29 JUN 2013,110,209,59384,674,59494,https://worldathletics.org/records/competition-performance-rankings/ranking/551800
+670,552170,"Trnava GPS, Trnava",SVK,17 AUG 2013,17 AUG 2013,55,282,59416,671,59471,https://worldathletics.org/records/competition-performance-rankings/ranking/552170
+671,553141,Sollentuna,SWE,18 MAY 2013,18 MAY 2013,0,,59466,669,59466,https://worldathletics.org/records/competition-performance-rankings/ranking/553141
+672,553476,"Louisville Eastern Relays, Louisville, KY",USA,27 APR 2013,27 APR 2013,0,,59447,670,59447,https://worldathletics.org/records/competition-performance-rankings/ranking/553476
+673,550461,"Elche Spanish Club Championships, Elche",ESP,27 APR 2013,27 APR 2013,0,,59414,672,59414,https://worldathletics.org/records/competition-performance-rankings/ranking/550461
+674,553463,"Corona Big VIII League Prelims/Finals, Corona, CA",USA,02 MAY 2013,02 MAY 2013,0,,59396,673,59396,https://worldathletics.org/records/competition-performance-rankings/ranking/553463
+675,551045,"Antony French Club Championships, Antony",FRA,19 MAY 2013,19 MAY 2013,125,199,59171,679,59296,https://worldathletics.org/records/competition-performance-rankings/ranking/551045
+676,549808,"Patiala Indian Grand Prix, Patiala",IND,31 MAR 2013,31 MAR 2013,35,333,59232,676,59267,https://worldathletics.org/records/competition-performance-rankings/ranking/549808
+677,551468,"Winterthur Swiss Club Championships, Winterthur",SUI,08 JUN 2013,08 JUN 2013,0,,59234,675,59234,https://worldathletics.org/records/competition-performance-rankings/ranking/551468
+678,550246,"Marion Indiana Little State Meet, Marion, IN",USA,12 APR 2013,13 APR 2013,0,,59185,677,59185,https://worldathletics.org/records/competition-performance-rankings/ranking/550246
+679,550140,"Troy April Invitational, Troy, AL",USA,13 APR 2013,13 APR 2013,0,,59175,678,59175,https://worldathletics.org/records/competition-performance-rankings/ranking/550140
+680,553232,Willisau,SUI,04 MAY 2013,04 MAY 2013,0,,59161,680,59161,https://worldathletics.org/records/competition-performance-rankings/ranking/553232
+681,551478,Cremona,ITA,09 JUN 2013,09 JUN 2013,0,,59138,681,59138,https://worldathletics.org/records/competition-performance-rankings/ranking/551478
+682,550623,"Air Force Academy Twilight Open, Air Force Academy",USA,03 MAY 2013,03 MAY 2013,35,333,59011,683,59046,https://worldathletics.org/records/competition-performance-rankings/ranking/550623
+683,549989,"Oshkosh UW Oshkosh Open, Oshkosh, WI",USA,06 APR 2013,06 APR 2013,0,,59024,682,59024,https://worldathletics.org/records/competition-performance-rankings/ranking/549989
+684,554029,"Westlake Village Maurice Greene Invitational, Westlake Village, CA",USA,17 MAR 2013,17 MAR 2013,0,,58911,684,58911,https://worldathletics.org/records/competition-performance-rankings/ranking/554029
+685,550835,"Joplin MSSU Last Chance, Joplin, MO",USA,10 MAY 2013,10 MAY 2013,0,,58886,685,58886,https://worldathletics.org/records/competition-performance-rankings/ranking/550835
+686,550609,"Moorhead Cobber Twilight, Moorhead, MN",USA,29 APR 2013,29 APR 2013,0,,58848,686,58848,https://worldathletics.org/records/competition-performance-rankings/ranking/550609
+687,549758,"Baltimore Coppin State Eagle Twilight, Baltimore, MD",USA,27 MAR 2013,27 MAR 2013,0,,58826,687,58826,https://worldathletics.org/records/competition-performance-rankings/ranking/549758
+688,550662,"Monmouth Fighting Scot Invitational, Monmouth, IL",USA,04 MAY 2013,04 MAY 2013,0,,58807,688,58807,https://worldathletics.org/records/competition-performance-rankings/ranking/550662
+689,552115,"Göteborg Night of Athletics, Göteborg",SWE,30 JUL 2013,30 JUL 2013,25,366,58757,689,58782,https://worldathletics.org/records/competition-performance-rankings/ranking/552115
+690,553297,"Brisbane QA All Comers Meet, Brisbane",AUS,17 NOV 2013,17 NOV 2013,0,,58733,690,58733,https://worldathletics.org/records/competition-performance-rankings/ranking/553297
+691,551361,"Colmar Meeting National, Colmar",FRA,07 JUN 2013,07 JUN 2013,40,318,58662,691,58702,https://worldathletics.org/records/competition-performance-rankings/ranking/551361
+692,548439,"Cooks Classic, Whanganui",NZL,22 JAN 2013,22 JAN 2013,60,277,58536,693,58596,https://worldathletics.org/records/competition-performance-rankings/ranking/548439
+693,552475,"Beveren Nacht van Volharding, Beveren",BEL,07 SEP 2013,07 SEP 2013,70,254,58511,695,58581,https://worldathletics.org/records/competition-performance-rankings/ranking/552475
+694,551696,Pordenone,ITA,19 JUN 2013,19 JUN 2013,30,345,58538,692,58568,https://worldathletics.org/records/competition-performance-rankings/ranking/551696
+695,550880,"Berlin Läufermeeting, Berlin",GER,12 MAY 2013,12 MAY 2013,50,295,58515,694,58565,https://worldathletics.org/records/competition-performance-rankings/ranking/550880
+696,550620,"Spanish Club Championships, Zaragoza",ESP,27 APR 2013,27 APR 2013,5,460,58506,697,58511,https://worldathletics.org/records/competition-performance-rankings/ranking/550620
+697,553411,"Dayton D1 Region 4, Dayton, OH",USA,31 MAY 2013,31 MAY 2013,0,,58507,696,58507,https://worldathletics.org/records/competition-performance-rankings/ranking/553411
+698,549865,"Arkansas City Cowley Tiger Invitational, Arkansas City, KS",USA,30 MAR 2013,30 MAR 2013,0,,58454,698,58454,https://worldathletics.org/records/competition-performance-rankings/ranking/549865
+699,550614,"Fresno Bulldog Open, Fresno, CA",USA,27 APR 2013,27 APR 2013,0,,58394,699,58394,https://worldathletics.org/records/competition-performance-rankings/ranking/550614
+700,550002,"Storrs UCONN Women's Meet, Storrs, CT",USA,06 APR 2013,06 APR 2013,0,,58376,700,58376,https://worldathletics.org/records/competition-performance-rankings/ranking/550002
+700,552294,Kohila,EST,31 AUG 2013,31 AUG 2013,735,75,57641,722,58376,https://worldathletics.org/records/competition-performance-rankings/ranking/552294
+702,552363,Tuusula,FIN,03 AUG 2013,04 AUG 2013,0,,58302,701,58302,https://worldathletics.org/records/competition-performance-rankings/ranking/552363
+703,552116,Stockholm,SWE,30 JUL 2013,30 JUL 2013,0,,58239,702,58239,https://worldathletics.org/records/competition-performance-rankings/ranking/552116
+704,549090,"Brisbane Joanna Stone Shield, Brisbane",AUS,16 FEB 2013,16 FEB 2013,60,277,58175,703,58235,https://worldathletics.org/records/competition-performance-rankings/ranking/549090
+705,553148,"Huddinge Viking Line-spelen, Huddinge",SWE,21 AUG 2013,21 AUG 2013,0,,58146,704,58146,https://worldathletics.org/records/competition-performance-rankings/ranking/553148
+706,551612,"Amiens Meeting National, Amiens",FRA,22 JUN 2013,22 JUN 2013,25,366,58117,706,58142,https://worldathletics.org/records/competition-performance-rankings/ranking/551612
+707,549994,"Burnaby Achilles Cup, Burnaby",CAN,07 APR 2013,07 APR 2013,0,,58133,705,58133,https://worldathletics.org/records/competition-performance-rankings/ranking/549994
+708,551148,"Pézenas Meeting National, Pezenas",FRA,25 MAY 2013,25 MAY 2013,30,345,58094,708,58124,https://worldathletics.org/records/competition-performance-rankings/ranking/551148
+709,549471,"Mt. Pleasant Palmetto Classic, Mt. Pleasant",USA,08 MAR 2013,08 MAR 2013,0,,58100,707,58100,https://worldathletics.org/records/competition-performance-rankings/ranking/549471
+710,553460,"San Clemente HS, San Clemente, CA",USA,03 MAY 2013,03 MAY 2013,0,,58087,709,58087,https://worldathletics.org/records/competition-performance-rankings/ranking/553460
+711,553492,"Perth Strive Interclub, Perth",AUS,29 NOV 2013,29 NOV 2013,15,413,58033,711,58048,https://worldathletics.org/records/competition-performance-rankings/ranking/553492
+712,550642,"Dubuque Loras Open, Dubuque, IA",USA,27 APR 2013,27 APR 2013,0,,58039,710,58039,https://worldathletics.org/records/competition-performance-rankings/ranking/550642
+713,550429,"Worcester Holy Cross Men's Meet, Worcester, MA",USA,24 APR 2013,24 APR 2013,0,,57995,712,57995,https://worldathletics.org/records/competition-performance-rankings/ranking/550429
+714,553747,"Powder Springs Region 4-AAAAAA, Powder Springs, GA",USA,18 APR 2013,18 APR 2013,0,,57946,713,57946,https://worldathletics.org/records/competition-performance-rankings/ranking/553747
+715,549874,"Towson University Invitational, Towson, MD",USA,30 MAR 2013,30 MAR 2013,0,,57944,714,57944,https://worldathletics.org/records/competition-performance-rankings/ranking/549874
+716,551349,Bulle,SUI,25 MAY 2013,25 MAY 2013,0,,57920,715,57920,https://worldathletics.org/records/competition-performance-rankings/ranking/551349
+717,551675,Lerum,SWE,19 JUN 2013,19 JUN 2013,5,460,57902,716,57907,https://worldathletics.org/records/competition-performance-rankings/ranking/551675
+718,553656,"Tampa 4A Region 2, Tampa, FL",USA,24 APR 2013,24 APR 2013,0,,57886,717,57886,https://worldathletics.org/records/competition-performance-rankings/ranking/553656
+719,551932,Bovolone,ITA,12 JUL 2013,12 JUL 2013,0,,57833,718,57833,https://worldathletics.org/records/competition-performance-rankings/ranking/551932
+720,549487,"San Diego Collegiate Challenge, San Diego, CA",USA,09 MAR 2013,09 MAR 2013,0,,57791,719,57791,https://worldathletics.org/records/competition-performance-rankings/ranking/549487
+721,553693,"Coppell HS, Coppell, TX",USA,19 APR 2013,19 APR 2013,0,,57772,720,57772,https://worldathletics.org/records/competition-performance-rankings/ranking/553693
+722,553790,"Winter Park Brian Jaeger Elite Classic, Winter Park, FL",USA,13 APR 2013,13 APR 2013,0,,57674,721,57674,https://worldathletics.org/records/competition-performance-rankings/ranking/553790
