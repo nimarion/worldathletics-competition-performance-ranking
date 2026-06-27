@@ -123,3 +123,40 @@ The repository includes a GitHub Actions workflow in `.github/workflows/scrape.y
 1. **Run Daily:** Executes automatically once a day at `00:00 UTC` using GitHub cron.
 2. **On-Demand Dispatch:** Can be manually triggered at any time from the **Actions** tab on GitHub.
 3. **Automated Data Sync:** Runs the scraper, automatically checks for diffs, and commits/pushes updated CSV rankings directly back to the `main` branch (using `github-actions[bot]`).
+
+---
+
+## Filtering & Combining Datasets
+
+A generic utility script `combine.py` is included in the project root to help you filter and consolidate records from all yearly files into a single, unified CSV or JSON file based on a specific location or competition name query.
+
+### Usage
+```bash
+python combine.py <search_term> [output_file] [options]
+```
+
+### Options
+* `-j`, `--json`   Force the output format to JSON.
+
+### Examples
+* **Combine all Rehlingen competitions (defaults to CSV):**
+  ```bash
+  python combine.py Rehlingen
+  ```
+  *(This will scan all files inside `data/` and automatically compile matching records into `rehlingen.csv`)*
+
+* **Combine all Rehlingen competitions in JSON format (using the `-j` flag):**
+  ```bash
+  python combine.py Rehlingen -j
+  ```
+  *(This will automatically compile matching records into `rehlingen.json`)*
+
+* **Combine all Rehlingen competitions into a custom JSON file (autodetected by extension):**
+  ```bash
+  python combine.py Rehlingen rehlingen_custom.json
+  ```
+
+* **Combine all Diamond League competitions into a custom file name:**
+  ```bash
+  python combine.py "Diamond League" diamond_league.csv
+  ```
